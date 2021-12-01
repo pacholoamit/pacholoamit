@@ -120,7 +120,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 
 <!-- BLOG-POST-LIST:START -->
 - [3 Essential tips for front-end developers to get started on the back-end](https://dev.to/pacholoamit/3-essential-tips-for-front-end-developers-to-get-started-on-the-back-end-4nj4)
-- [A short love story: ReactJS & Vue, forbidden romance (Chapter 1)](https://dev.to/pacholoamit/a-short-love-story-reactjs-vue-forbidden-romance-chapter-1-6m0)
+- [A short love story: ReactJS &amp; Vue, forbidden romance &lpar;Chapter 1&rpar;](https://dev.to/pacholoamit/a-short-love-story-reactjs-vue-forbidden-romance-chapter-1-6m0)
 - [3 essential management tips from a senior software developer](https://dev.to/pacholoamit/3-essential-management-tips-from-a-senior-software-developer-54de)
 <!-- BLOG-POST-LIST:END -->
 
