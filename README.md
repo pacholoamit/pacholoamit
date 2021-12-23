@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-761%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -60,19 +60,16 @@ Sunday       69 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               10 mins             ████████████████████░░░░░   82.41% 
-TypeScript               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.59%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mediajel-dashboard       10 mins             ████████████████████░░░░░   82.41% 
-sessions-nextjs          2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
-mediajel-tracker         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -93,7 +90,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pacholoamit/pacholoamit/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 23/12/2021
 <!--END_SECTION:waka-->
 
 
