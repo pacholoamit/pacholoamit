@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-844%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -96,7 +96,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pacholoamit/pacholoamit/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2022 23:19:56 UTC
+ Last Updated on 04/02/2022 23:20:26 UTC
 <!--END_SECTION:waka-->
 
 
