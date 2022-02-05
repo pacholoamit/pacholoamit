@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-844%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -60,22 +60,16 @@ Sunday       61 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               25 mins             █████████████████████░░░░   85.32% 
-TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          26 mins             █████████████████████░░░░   87.31% 
-mediajel-gql-service     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
-mediajel-tracker         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
-mediajel-dashboard       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    29 mins             █████████████████████████   99.66% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+No Activity Tracked This Week
 
 ```
 
@@ -96,7 +90,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pacholoamit/pacholoamit/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2022 23:20:26 UTC
+ Last Updated on 05/02/2022 23:31:42 UTC
 <!--END_SECTION:waka-->
 
 
