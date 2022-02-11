@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-839%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -60,16 +60,19 @@ Sunday       55 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.0%
+JSON                     2 mins              ██████████████████████░░░   90.62% 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.24% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.0%
+Unknown Project          3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+Linux                    3 mins              ████████████████████████░   99.29% 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 ```
 
@@ -90,7 +93,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pacholoamit/pacholoamit/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/02/2022 23:23:36 UTC
+ Last Updated on 11/02/2022 23:22:18 UTC
 <!--END_SECTION:waka-->
 
 
