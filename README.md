@@ -26,6 +26,24 @@
 <!--   <img align="center" src="https://github-stats-vercel-hvrdzgk4d-pacholoamit.vercel.app/api/top-langs/?username=pacholoamit&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="pacholoamit" width='410' /> -->
 <!--  Top Languages END  -->
 
+### Projects
+
+- **Stocks and crypto**
+
+Features:
+- Stocks & crypto recommendations
+- Company overview data (Historical charts & related news)
+- Stock market simulator & Asset management dashboard
+
+![image](https://user-images.githubusercontent.com/69985528/162464627-5a4917bb-f017-4c38-8e08-745c8459c85f.png)
+
+![image](https://user-images.githubusercontent.com/69985528/162466246-415b36fd-9ea6-45d6-ba7b-41a02b4a2c2b.png)
+
+![image](https://user-images.githubusercontent.com/69985528/162467633-ee947218-cc3e-48e4-b8f1-7ef46438b318.png)
+
+![image](https://user-images.githubusercontent.com/69985528/162469104-d6644bf0-0e0a-4bd5-8a5b-2a7ca152909b.png)
+
+
 ### What I am working on 🤔
 
 <!--START_SECTION:waka-->
