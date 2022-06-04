@@ -111,7 +111,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 - 📝 I regularly write articles on [https://dev.to/pacholoamit](https://dev.to/pacholoamit)
 
-- 💬 Ask me about **Typescript, React, Dart, Flutter, NodeJS, Express, GraphQL, Python, Scikit-learn**
+- 💬 Ask me about **Typescript, React, NodeJS, Snowflake, Kubernetes, Docker**
 
 - 📫 How to reach me **pacholoamit.tech@gmail.com**
 
