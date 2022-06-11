@@ -44,8 +44,13 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request, issue
           plugin_notable_repositories: yes
-         # Discussions plugin
-          plugin_discussions: yes
+         # Lines plugin
+          plugin_lines: yes
+         # Stackoverflow plugin
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 14199991
+          plugin_stackoverflow_sections: answers-top, answers-recent
+          
           
           
           
