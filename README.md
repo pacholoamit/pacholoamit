@@ -10,7 +10,9 @@
 
 
 ### Statistics 📈
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+<!-- STACK OVERFLOW BADGE -->
+[![Pacholo Amit StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14199991)](https://stackoverflow.com/users/14199991/pacholoamit)
 <!-- TROPHIES -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pacholoamit&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-frame=true" alt="pacholoamit" /></a> </p>
 <!-- TROPHIES END -->
@@ -33,9 +35,6 @@
 ### What I am working on 🤔
 
 <!--START_SECTION:waka-->
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
-
 
 **I'm a Night 🦉** 
 
