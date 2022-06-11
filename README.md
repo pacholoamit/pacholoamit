@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,aws,gcp,apollo,prisma,graphql,bash,dart,react,redis,py,docker,kubernetes,express,nestjs,firebase,flutter,go,git,github,grafana,linux,materialui,mongodb,mysql,postgres,supabase,heroku,netlify,js,html,css,bootstrap)](https://skillicons.dev)
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/github-metrics.svg" alt="Metrics" width="100%" height="100%">
 
 ### Statistics 📈
 
