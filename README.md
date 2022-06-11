@@ -34,6 +34,10 @@
 
 ### What I am working on 🤔
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--START_SECTION:waka-->
 
 **I'm a Night 🦉** 
