@@ -27,7 +27,7 @@
   <!-- GITHUB STATS END -->
 </p>
 <!-- Top Languages -->
-<!--   <img align="center" src="https://github-stats-vercel-hvrdzgk4d-pacholoamit.vercel.app/api/top-langs/?username=pacholoamit&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="pacholoamit" width='410' /> -->
+  <img align="center" src="https://github-stats-vercel-hvrdzgk4d-pacholoamit.vercel.app/api/top-langs/?username=pacholoamit&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="pacholoamit" width='410' />
 <!--  Top Languages END  -->
 
 
