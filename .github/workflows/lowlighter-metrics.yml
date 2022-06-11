@@ -13,10 +13,20 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           config_timezone: Asia/Manila
-#         Language plugin
+         # Language plugin
           plugin_languages: yes
           plugin_languages_indepth: yes
           commits_authoring: firstname lastname, username, username@users.noreply.github.com
-#         IsoCalendar plugin
+         # IsoCalendar plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+         # Stars plugin
+          plugin_stars: yes
+         # habits plugin
+          plugin_habits: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: chartist
+          plugin_habits_trim: yes
