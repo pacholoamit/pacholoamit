@@ -38,4 +38,4 @@
 - [3 essential management tips from a senior software developer](https://dev.to/pacholoamit/3-essential-management-tips-from-a-senior-software-developer-54de)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%" height="100%">
+<img src="/github-metrics.svg" alt="Metrics" width="80%" height="100%">
