@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Server-side technology, Devops, and Data engineering**
 
-- 📝 I regularly write articles on [https://dev.to/pacholoamit](https://dev.to/pacholoamit)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/pacholoamit)
 
 - 💬 Ask me about **Typescript, React, NodeJS, Snowflake, Kubernetes, Docker**
 
