@@ -24,16 +24,16 @@
 
 <h3 align="left">Platforms 💻</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pacholoamit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/pacholoamit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://pacholoamit.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14199991/pacholoamit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](pacholoamit.dev@gmail.com)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pacholoamit) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/pacholoamit) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://pacholoamit.hashnode.dev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14199991/pacholoamit) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](pacholoamit.dev@gmail.com)
 
 ### Blogs posts 📚
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Typescript &amp; Terraform for beginners - Infrastructure as code &lpar;IaC&rpar;](https://dev.to/pacholoamit/typescript-terraform-for-beginners-infrastructure-as-code-iac-101h)
 - [RedwoodJS - Create a full stack application in minutes](https://dev.to/pacholoamit/redwoodjs-create-a-full-stack-application-in-minutes-2hff)
 - [3 Essential tips for front-end developers to get started on the back-end](https://dev.to/pacholoamit/3-essential-tips-for-front-end-developers-to-get-started-on-the-back-end-4nj4)
 - [3 essential management tips from a senior software developer](https://dev.to/pacholoamit/3-essential-management-tips-from-a-senior-software-developer-54de)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="/github-metrics.svg" alt="Metrics" width="80%" height="100%">
+<img src="/assets/github-metrics.svg" alt="Metrics" width="80%" height="100%">
