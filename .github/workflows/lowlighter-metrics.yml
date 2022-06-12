@@ -93,18 +93,18 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
           plugin_wakatime_limit: 0
 
-      - name: Wakatime Plugin
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/wakatime.svg
-          config_timezone: Asia/Manila
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 30
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
-          plugin_wakatime_limit: 0
+      # - name: Wakatime Plugin
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: assets/wakatime.svg
+      #     config_timezone: Asia/Manila
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: ""
+      #     plugin_wakatime: yes
+      #     plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+      #     plugin_wakatime_days: 30
+      #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
+      #     plugin_wakatime_limit: 0
 
       - name: Posts plugin
         uses: lowlighter/metrics@latest
