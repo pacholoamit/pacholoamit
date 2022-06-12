@@ -7,18 +7,15 @@
 
 ### About Me 🤗
 
-- 🔭 I'm currently working on **Big data & analytics**
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="390" align="right" />
+<p>🔭 I'm currently working on <b>Big data and Data engineering </b></p>
+<p>🌱 I’m currently learning <b>DevOps/CI/CD and Server-side development </b> </p>
+<p>📝 I regularly write articles on <b><a href="https://dev.to/pacholoamit">Dev.to</a> and <a href="https://pacholoamit.hashnode.dev/">Hasnode</a> </b></p>
+<p>💬 Ask me about <b>Typescript, React, NodeJS, Servers ,Kubernetes and Docker </b></p>
+<p> 📫 Reach me at <b>pacholoamit.tech@gmail.com</b> or <b>pacholoamit.dev@gmail.com</b></p>
+<p>⚡ I make kewl software engineering tutorials on <a href="https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw">Youtube</a></p>
 
-- 🌱 I’m currently learning **Server-side technology, Devops, and Data engineering**
-
-- 📝 I regularly write articles on [Dev.to](https://dev.to/pacholoamit) and [Hashnode](https://pacholoamit.hashnode.dev/)
-
-- 💬 Ask me about **Typescript, React, NodeJS, Snowflake, Kubernetes, Docker**
-
-- 📫 How to reach me **pacholoamit.tech@gmail.com** or **pacholoamit.dev@gmail.com**
-
-- ⚡ Fun fact **I make software engineering tutorials on [Youtube](https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw)**
-
+  
 ### Find me here 💻</h3>
 
 [<img src='https://ico.now.sh/github/fff' alt='github' height='40'>](https://github.com/https://github.com/pacholoamit) [<img src='https://ico.now.sh/devdotto/fff' alt='dev' height='40'>](https://dev.to/https://dev.to/pacholoamit) [<img src='https://ico.now.sh/hashnode/fff' alt='dev' height='40'>](https://pacholoamit.hashnode.dev/) [<img src='https://ico.now.sh/stackoverflow/fff' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14199991/pacholoamit) [<img src='https://ico.now.sh/youtube/fff' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw) [<img src='https://ico.now.sh/gmail/fff' alt='gmail' height='40'>](pacholoamit.dev@gmail.com)
