@@ -19,13 +19,14 @@
 
 - ⚡ Fun fact **I make software engineering tutorials on [Youtube](https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw)**
 
-# Platforms 💻</h3>
+### Find me here 💻</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pacholoamit) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/pacholoamit) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://pacholoamit.hashnode.dev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14199991/pacholoamit) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](pacholoamit.dev@gmail.com)
 
 ### Yes, I do make blogs 📚
 
 **[✒️ Recent posts from dev.to](https://dev.to/pacholoamit)**
+
 <table>
   <tr>
     <td rowspan="2" width="280">
@@ -95,21 +96,20 @@
   </tr>
 </table>
 
-
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `snake-svg`
-  * [#3811fc1](https://github.com/pacholoamit/pacholoamit/commit/3811fc1) Deploy to GitHub pages
-* ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `main`
-  * [#0e7057d](https://github.com/pacholoamit/pacholoamit/commit/0e7057d) deploy markdown to Readme
-* ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `snake-svg`
-  * [#4a44c59](https://github.com/pacholoamit/pacholoamit/commit/4a44c59) Deploy to GitHub pages
-* ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `main`
-  * [#ba76287](https://github.com/pacholoamit/pacholoamit/commit/ba76287) create new readme in template
-* ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `snake-svg`
-  * [#b5ad498](https://github.com/pacholoamit/pacholoamit/commit/b5ad498) Deploy to GitHub pages
 
+- ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `snake-svg`
+  - [#3811fc1](https://github.com/pacholoamit/pacholoamit/commit/3811fc1) Deploy to GitHub pages
+- ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `main`
+  - [#0e7057d](https://github.com/pacholoamit/pacholoamit/commit/0e7057d) deploy markdown to Readme
+- ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `snake-svg`
+  - [#4a44c59](https://github.com/pacholoamit/pacholoamit/commit/4a44c59) Deploy to GitHub pages
+- ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `main`
+  - [#ba76287](https://github.com/pacholoamit/pacholoamit/commit/ba76287) create new readme in template
+- ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `snake-svg`
+  - [#b5ad498](https://github.com/pacholoamit/pacholoamit/commit/b5ad498) Deploy to GitHub pages
 
 ### Stalk me here ❤️
 
