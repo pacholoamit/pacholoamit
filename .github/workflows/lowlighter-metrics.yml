@@ -94,11 +94,28 @@ jobs:
       #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
       #     plugin_wakatime_limit: 0
 
-      - name: Render JSON
+      - name: Render Markdown
         uses: lowlighter/metrics@latest
         with:
-          config_output: json
-          filename: assets/posts.*
+          config_output: markdown
+          template: markdown
+          filename: assets/posts.md
+          config_timezone: Asia/Manila
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+          plugin_posts_limit: 4
+          plugin_posts_user: pacholoamit
+
+      - name: Render Markdown PDF
+        uses: lowlighter/metrics@latest
+        with:
+          config_output: markdown
+          template: markdown
+          filename: assets/posts.markdown.pdf
           config_timezone: Asia/Manila
           token: ${{ secrets.GH_TOKEN }}
           base: ""

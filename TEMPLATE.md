@@ -1,4 +1,4 @@
 # Markdown example
 
 Blog posts:
-<%- await include(`assets/posts.ejs`) %>
+<%- await include(`partials/posts.ejs`) %>
