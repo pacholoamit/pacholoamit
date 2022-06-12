@@ -102,7 +102,8 @@ jobs:
           plugin_activity: yes
           plugin_activity_load: 1000
           plugin_activity_days: 300
-          plugin_activity_skipped: pacholoamit/pacholoamit
+          plugin_activity_skipped: pacholoamit/pacholoamit, pacholoamit
+          repositories_skipped: pacholoamit/pacholoamit, pacholoamit
 
       # - name: Render Insights
       #   uses: lowlighter/metrics@latest
