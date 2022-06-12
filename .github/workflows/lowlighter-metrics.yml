@@ -116,9 +116,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           filename: assets/metrics-2.*
           config_timezone: Asia/Manila
-          config_output: markdown
           base: ""
-          output_condition: data-changed
           clean_workflows: all
           # Posts plugin
           plugin_posts: yes
