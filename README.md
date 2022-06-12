@@ -29,6 +29,7 @@
 ### Blogs posts 📚
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Typescript &amp; Terraform for beginners - Infrastructure as code &lpar;IaC&rpar;](https://dev.to/pacholoamit/typescript-terraform-for-beginners-infrastructure-as-code-iac-101h)
 - [RedwoodJS - Create a full stack application in minutes](https://dev.to/pacholoamit/redwoodjs-create-a-full-stack-application-in-minutes-2hff)
 - [3 Essential tips for front-end developers to get started on the back-end](https://dev.to/pacholoamit/3-essential-tips-for-front-end-developers-to-get-started-on-the-back-end-4nj4)
@@ -36,5 +37,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-<img src="/assets/metrics.svg" alt="Metrics" height="100%" sizes="(max-width: 500px) 100vw, (max-width: 900px) 75vw, 600px">
+<img src="/assets/metrics-1.svg" alt="Metrics-1" height="100%" width="(max-width: 500px) 100vw, (max-width: 900px) 50vw, 300px">
+<img src="/assets/metrics-2.svg" alt="Metrics-2" height="100%" width="(max-width: 500px) 100vw, (max-width: 900px) 50vw, 300px">
 </p>
