@@ -73,7 +73,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          filename: assets/metrics-1.svg
+          filename: assets/metrics-1.*
+          output_condition: data-changed
+          clean_workflows: all
           config_timezone: Asia/Manila
           base: header, activity, community, repositories, metadata
           base_indepth: yes,
@@ -108,15 +110,7 @@ jobs:
           # Followup plugin
           plugin_followup: yes
           plugin_followup_indepth: yes
-
-      - name: Metrics 2 markdown
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: assets/metrics-2.md
-          config_timezone: Asia/Manila
-          config_output: markdown
-          base: ""
+          ### SECTION 2 ###
           # Posts plugin
           plugin_posts: yes
           plugin_posts_source: dev.to
@@ -136,6 +130,36 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 14199991
           plugin_stackoverflow_sections: answers-top, answers-recent
+
+      # - name: Metrics 2 markdown
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     filename: assets/metrics-2.*
+      #     config_timezone: Asia/Manila
+      #     config_output: markdown
+      #     base: ""
+      #     output_condition: data-changed
+      #     clean_workflows: all
+      #     # Posts plugin
+      #     plugin_posts: yes
+      #     plugin_posts_source: dev.to
+      #     plugin_posts_descriptions: yes
+      #     plugin_posts_covers: yes
+      #     plugin_posts_limit: 30
+      #     plugin_posts_user: pacholoamit
+      #     # Achievements plugin
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: compact
+      #     # Notable contributions plugin
+      #     plugin_notable: yes
+      #     plugin_notable_indepth: yes
+      #     plugin_notable_types: commit, pull_request, issue
+      #     plugin_notable_repositories: yes
+      #     # Stackoverflow plugin
+      #     plugin_stackoverflow: yes
+      #     plugin_stackoverflow_user: 14199991
+      #     plugin_stackoverflow_sections: answers-top, answers-recent
 
       # - name: Wakatime Plugin
       #   uses: lowlighter/metrics@latest

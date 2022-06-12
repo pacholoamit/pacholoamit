@@ -37,6 +37,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-<img src="/assets/metrics-1.svg" alt="Metrics-1" height="100%" width="(max-width: 500px) 100vw, (max-width: 900px) 50vw, 300px">
+<img src="/assets/metrics-1.svg" height="100%" width="100%" alt="Metrics-1" >
 <!-- <img src="/assets/metrics-2.svg" alt="Metrics-2" height="100%" width="(max-width: 500px) 100vw, (max-width: 900px) 50vw, 300px"> -->
 </p>
