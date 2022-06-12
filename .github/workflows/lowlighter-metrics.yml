@@ -9,7 +9,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: General
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
           config_timezone: Asia/Manila
@@ -58,6 +59,17 @@ jobs:
           plugin_posts_limit: 30
           plugin_posts_user: pacholoamit
          # wakatime plugin
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 30
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
+          plugin_wakatime_limit: 0
+          
+      - name: Wakatime Plugin
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/wakatime.svg
+          token: ${{ secrets.GH_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 30
