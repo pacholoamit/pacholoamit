@@ -36,5 +36,5 @@
 - [3 essential management tips from a senior software developer](https://dev.to/pacholoamit/3-essential-management-tips-from-a-senior-software-developer-54de)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="/assets/metrics-1.svg" height="100%" width="(max-width: 500px) 100vw, (max-width: 900px) 40vw, 300px" alt="Metrics-1" >
-<img src="/assets/metrics-2.svg" height="100%" width="(max-width: 500px) 100vw, (max-width: 900px) 40vw, 300px" alt="Metrics-2">
+<img src="/assets/metrics-1.svg" height="100%" width="(max-width: 900px) 100vw, 50vw" alt="Metrics-1" >
+<img src="/assets/metrics-2.svg" height="100%" width="(max-width: 900px) 100vw, 50vw" alt="Metrics-2">
