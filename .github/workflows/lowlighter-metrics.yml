@@ -154,19 +154,21 @@ jobs:
       #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
       #     plugin_wakatime_limit: 0
 
-      # - name: Posts plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/posts.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_posts: yes
-      #     plugin_posts_source: dev.to
-      #     plugin_posts_descriptions: yes
-      #     plugin_posts_covers: yes
-      #     plugin_posts_limit: 30
-      #     plugin_posts_user: pacholoamit
+      - name: Render Markdown
+        uses: lowlighter/metrics@latest
+        with:
+          template: markdown
+          config_output: markdown
+          filename: assets/MARKDOWN.*
+          config_timezone: Asia/Manila
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+          plugin_posts_limit: 4
+          plugin_posts_user: pacholoamit
 
       # - name: Stackoverflow plugin
       #   uses: lowlighter/metrics@latest
