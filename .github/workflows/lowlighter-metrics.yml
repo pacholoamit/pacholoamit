@@ -70,6 +70,7 @@ jobs:
         with:
           filename: assets/wakatime.svg
           token: ${{ secrets.GH_TOKEN }}
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 30
