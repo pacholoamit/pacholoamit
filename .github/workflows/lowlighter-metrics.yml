@@ -9,25 +9,22 @@ jobs:
     permissions:
       contents: write
     steps:
-      # - name: General
+      # - name: Metrics 1
       #   uses: lowlighter/metrics@latest
       #   with:
       #     token: ${{ secrets.GH_TOKEN }}
-      #     filename: assets/metrics.svg
+      #     filename: assets/metrics-1.*
+      #     output_condition: data-changed
+      #     clean_workflows: all
       #     config_timezone: Asia/Manila
-      #     base: header, activity, community, repositories, metadata
+      #     config_order: base.header, base.activity+community, base.repositories, languages, followup, habits, stars, isocalendar, people
+      #     base: header, activity, community, repositories
       #     base_indepth: yes,
       #     repositories_affiliations: owner, collaborator, organization_member
       #     # Language plugin
       #     plugin_languages: yes
       #     plugin_languages_indepth: yes
-      #     commits_authoring: firstname lastname, username, username@users.noreply.github.com
-      #     # IsoCalendar plugin
-      #     plugin_isocalendar: yes
-      #     plugin_isocalendar_duration: full-year
-      #     # Stars plugin
-      #     plugin_stars: yes
-      #     # habits plugin
+      #     # Habits plugin
       #     plugin_habits: yes
       #     plugin_habits_from: 1000
       #     plugin_habits_days: 30
@@ -35,111 +32,54 @@ jobs:
       #     plugin_habits_charts: yes
       #     plugin_habits_charts_type: chartist
       #     plugin_habits_trim: yes
-      #     # followup plugin
-      #     plugin_followup: yes
-      #     plugin_followup_indepth: yes
-      #     # people plugin
-      #     plugin_people: yes
-      #     # activity plugin
-      #     plugin_activity: yes
-      #     # achievements plugin
-      #     plugin_achievements: yes
-      #     # notable contributions plugin
-      #     plugin_notable: yes
-      #     plugin_notable_indepth: yes
-      #     plugin_notable_types: commit, pull_request, issue
-      #     plugin_notable_repositories: yes
+      #     # Stars plugin
+      #     plugin_stars: yes
+      #     # IsoCalendar plugin
+      #     plugin_isocalendar: yes
+      #     plugin_isocalendar_duration: full-year
       #     # Lines plugin
       #     plugin_lines: yes
-      #     # Stackoverflow plugin
-      #     plugin_stackoverflow: yes
-      #     plugin_stackoverflow_user: 14199991
-      #     plugin_stackoverflow_sections: answers-top, answers-recent
-      #     # posts plugin
+      #     # People plugin
+      #     plugin_people: yes
+      #     # Followup plugin
+      #     plugin_followup: yes
+      #     plugin_followup_indepth: yes
+
+      # - name: Metrics 2
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     filename: assets/metrics-2.*
+      #     config_timezone: Asia/Manila
+      #     output_condition: data-changed
+      #     base: ""
+      #     config_order: achievements, posts, wakatime, stackoverflow, notable
+      #     clean_workflows: all
+      #     # Posts plugin
       #     plugin_posts: yes
       #     plugin_posts_source: dev.to
       #     plugin_posts_descriptions: yes
       #     plugin_posts_covers: yes
       #     plugin_posts_limit: 30
       #     plugin_posts_user: pacholoamit
-      #     # wakatime plugin
+      #     # Achievements plugin
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: compact
+      #     # Notable contributions plugin
+      #     plugin_notable: yes
+      #     plugin_notable_indepth: yes
+      #     plugin_notable_types: commit, pull_request, issue
+      #     plugin_notable_repositories: yes
+      #     # Stackoverflow plugin
+      #     plugin_stackoverflow: yes
+      #     plugin_stackoverflow_user: 14199991
+      #     plugin_stackoverflow_sections: answers-top, answers-recent
+      #     # Wakatime plugin
       #     plugin_wakatime: yes
       #     plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
       #     plugin_wakatime_days: 30
       #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
       #     plugin_wakatime_limit: 0
-
-      - name: Metrics 1
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: assets/metrics-1.*
-          output_condition: data-changed
-          clean_workflows: all
-          config_timezone: Asia/Manila
-          config_order: base.header, base.activity+community, base.repositories, languages, followup, habits, stars, isocalendar, people
-          base: header, activity, community, repositories
-          base_indepth: yes,
-          repositories_affiliations: owner, collaborator, organization_member
-          # Language plugin - ORDERED
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          # Habits plugin - ORDERED
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
-          plugin_habits_trim: yes
-          # Stars plugin - ORDERED
-          plugin_stars: yes
-          # IsoCalendar plugin - ORDERED
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          # Lines plugin - ORDERED
-          plugin_lines: yes
-          # People plugin - ORDERED
-          plugin_people: yes
-          # Followup plugin - ORDERED
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-
-      - name: Metrics 2
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: assets/metrics-2.*
-          config_timezone: Asia/Manila
-          output_condition: data-changed
-          base: ""
-          config_order: achievements, posts, wakatime, stackoverflow, notable
-          clean_workflows: all
-          # Posts plugin - ORDERED
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes
-          plugin_posts_limit: 30
-          plugin_posts_user: pacholoamit
-          # Achievements plugin - ORDERED
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          # Notable contributions plugin
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_types: commit, pull_request, issue
-          plugin_notable_repositories: yes
-          # Stackoverflow plugin - ORDERED
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 14199991
-          plugin_stackoverflow_sections: answers-top, answers-recent
-          # Wakatime plugin - ORDERED
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 30
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
-          plugin_wakatime_limit: 0
 
       # - name: Wakatime Plugin
       #   uses: lowlighter/metrics@latest
@@ -154,12 +94,11 @@ jobs:
       #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
       #     plugin_wakatime_limit: 0
 
-      - name: Render Markdown
+      - name: Render JSON
         uses: lowlighter/metrics@latest
         with:
-          template: markdown
-          config_output: markdown
-          filename: assets/MARKDOWN.*
+          config_output: json
+          filename: assets/posts.*
           config_timezone: Asia/Manila
           token: ${{ secrets.GH_TOKEN }}
           base: ""
