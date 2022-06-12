@@ -99,32 +99,29 @@ jobs:
         with:
           config_output: markdown
           template: markdown
-          filename: assets/posts.md
+          filename: assets/pilot.md
           config_timezone: Asia/Manila
           token: ${{ secrets.GH_TOKEN }}
           base: ""
+          # Posts plugin
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
           plugin_posts_limit: 4
           plugin_posts_user: pacholoamit
+          # Activity plugin
+          plugin_activity: yes
+          plugin_activity_load: 1000
+          plugin_activity_days: 300
+          plugin_activity_timestamps: yes
 
-      - name: Render Markdown PDF
+      - name: Render Insights
         uses: lowlighter/metrics@latest
         with:
-          config_output: markdown
-          template: markdown
-          filename: assets/posts.markdown.pdf
+          filename: assets/insights.*
           config_timezone: Asia/Manila
           token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes
-          plugin_posts_limit: 4
-          plugin_posts_user: pacholoamit
 
       # - name: Stackoverflow plugin
       #   uses: lowlighter/metrics@latest
