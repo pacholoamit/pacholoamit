@@ -77,19 +77,14 @@ jobs:
           output_condition: data-changed
           clean_workflows: all
           config_timezone: Asia/Manila
-          base: header, activity, community, repositories, metadata
+          config_order: base.header, base.activity+community, base.repositories, languages, followup, habits, stars, isocalendar, people
+          base: header, activity, community, repositories
           base_indepth: yes,
           repositories_affiliations: owner, collaborator, organization_member
-          # Language plugin
+          # Language plugin - ORDERED
           plugin_languages: yes
           plugin_languages_indepth: yes
-          # Wakatime plugin
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 30
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
-          plugin_wakatime_limit: 0
-          # Habits plugin
+          # Habits plugin - ORDERED
           plugin_habits: yes
           plugin_habits_from: 1000
           plugin_habits_days: 30
@@ -97,16 +92,16 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: chartist
           plugin_habits_trim: yes
-          # Stars plugin
+          # Stars plugin - ORDERED
           plugin_stars: yes
-          # IsoCalendar plugin
+          # IsoCalendar plugin - ORDERED
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          # Lines plugin
+          # Lines plugin - ORDERED
           plugin_lines: yes
-          # People plugin
+          # People plugin - ORDERED
           plugin_people: yes
-          # Followup plugin
+          # Followup plugin - ORDERED
           plugin_followup: yes
           plugin_followup_indepth: yes
 
@@ -116,16 +111,18 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           filename: assets/metrics-2.*
           config_timezone: Asia/Manila
+          output_condition: data-changed
           base: ""
+          config_order: achievements, posts, wakatime, stackoverflow, notable
           clean_workflows: all
-          # Posts plugin
+          # Posts plugin - ORDERED
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
           plugin_posts_limit: 30
           plugin_posts_user: pacholoamit
-          # Achievements plugin
+          # Achievements plugin - ORDERED
           plugin_achievements: yes
           plugin_achievements_display: compact
           # Notable contributions plugin
@@ -133,10 +130,16 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request, issue
           plugin_notable_repositories: yes
-          # Stackoverflow plugin
+          # Stackoverflow plugin - ORDERED
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 14199991
           plugin_stackoverflow_sections: answers-top, answers-recent
+          # Wakatime plugin - ORDERED
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 30
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
+          plugin_wakatime_limit: 0
 
       # - name: Wakatime Plugin
       #   uses: lowlighter/metrics@latest
