@@ -34,6 +34,6 @@
 - [3 Essential tips for front-end developers to get started on the back-end](https://dev.to/pacholoamit/3-essential-tips-for-front-end-developers-to-get-started-on-the-back-end-4nj4)
 - [3 essential management tips from a senior software developer](https://dev.to/pacholoamit/3-essential-management-tips-from-a-senior-software-developer-54de)
 
-  <p style="text-align:center">
+  <p align="center">
   <img src="./assets/metrics.svg" alt="Metrics" height="100%" sizes="(max-width: 500px) 100vw, (max-width: 900px) 75vw, 600px">
   </p>
