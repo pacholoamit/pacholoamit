@@ -23,11 +23,9 @@
 - ⚡ Fun fact **I make software engineering tutorials on [Youtube](https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw)**
 
 <h3 align="left">Platforms 💻</h3>
-<p align="left">
-<a href="https://dev.to/pacholoamit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pacholoamit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14199991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14199991" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pacholoamit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pacholoamit" height="30" width="40" /></a>
-</p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pacholoamit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/pacholoamit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://pacholoamit.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14199991/pacholoamit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](pacholoamit.dev@gmail.com)  
+
 
 ### Blogs posts 📚
 
