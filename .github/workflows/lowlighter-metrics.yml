@@ -86,7 +86,6 @@ jobs:
         with:
           config_output: markdown
           template: markdown
-          markdown: README.md
           filename: README.md
           config_timezone: Asia/Manila
           token: ${{ secrets.GH_TOKEN }}
