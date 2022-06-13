@@ -10,7 +10,7 @@
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b>Big data and Data engineering </b></p>
 <p>🌱 I’m currently learning <b>DevOps and Server-side development </b> </p>
-<p>📝 I regularly write articles on <b><a href="https://dev.to/pacholoamit">Dev.to</a> and <a href="https://pacholoamit.hashnode.dev/">Hashnode</a> </b></p>
+<p>📝 I regularly write articles on <b><a href="https://dev.to/pacholoamit">Dev.to</a> and <a href="https://pacholoamit.hashnode.dev/">Hasnode</a> </b></p>
 <p>💬 Ask me about <b>Typescript, React, NodeJS, Kubernetes and Docker </b></p>
 <p> 📫 Reach me at <b>pacholoamit.tech@gmail.com</b></p>
 <p>⚡ I make software engineering tutorials on <b><a href="https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw">Youtube</a></b></p>
@@ -22,7 +22,6 @@
 ### My blog articles 📚
 
 **[✒️ Recent posts from dev.to](https://dev.to/pacholoamit)**
-
 <table>
   <tr>
     <td rowspan="2" width="280">
@@ -92,20 +91,23 @@
   </tr>
 </table>
 
+
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 
-- ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `snake-svg`
-  - [#3811fc1](https://github.com/pacholoamit/pacholoamit/commit/3811fc1) Deploy to GitHub pages
-- ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `main`
-  - [#0e7057d](https://github.com/pacholoamit/pacholoamit/commit/0e7057d) deploy markdown to Readme
-- ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `snake-svg`
-  - [#4a44c59](https://github.com/pacholoamit/pacholoamit/commit/4a44c59) Deploy to GitHub pages
-- ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `main`
-  - [#ba76287](https://github.com/pacholoamit/pacholoamit/commit/ba76287) create new readme in template
-- ➡️ Pushed 1 commit in [pacholoamit/pacholoamit](https://github.com/pacholoamit/pacholoamit) on branch `snake-svg`
-  - [#b5ad498](https://github.com/pacholoamit/pacholoamit/commit/b5ad498) Deploy to GitHub pages
+**[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
+  * [#deebc23](https://github.com/pacholoamit/Hashnode-Blogs/commit/deebc23) update post: RedwoodJS - Create a full stack application in minutes
+* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
+  * [#ac93a87](https://github.com/pacholoamit/Hashnode-Blogs/commit/ac93a87) create post: RedwoodJS - Create a full stack application in minutes
+* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
+  * [#5f204db](https://github.com/pacholoamit/Hashnode-Blogs/commit/5f204db) Synced existing file post: 3 essential management tips from a senior software developer
+* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
+  * [#fac0bbd](https://github.com/pacholoamit/Hashnode-Blogs/commit/fac0bbd) Synced existing file post: 3 Essential tips for front-end developers to get started on the back-end
+* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
+  * [#ca5119a](https://github.com/pacholoamit/Hashnode-Blogs/commit/ca5119a) Synced existing file post: Typescript &amp; Terraform for beginners - Infrastructure as code (IaC)
+
 
 ### Stalk me here ❤️
 
