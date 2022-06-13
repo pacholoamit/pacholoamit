@@ -95,8 +95,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-
-**[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
+  * [#5c0d5b0](https://github.com/pacholoamit/Hashnode-Blogs/commit/5c0d5b0) update post: RedwoodJS - Create a full stack application in minutes
 * ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
   * [#deebc23](https://github.com/pacholoamit/Hashnode-Blogs/commit/deebc23) update post: RedwoodJS - Create a full stack application in minutes
 * ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
@@ -105,8 +105,6 @@
   * [#5f204db](https://github.com/pacholoamit/Hashnode-Blogs/commit/5f204db) Synced existing file post: 3 essential management tips from a senior software developer
 * ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
   * [#fac0bbd](https://github.com/pacholoamit/Hashnode-Blogs/commit/fac0bbd) Synced existing file post: 3 Essential tips for front-end developers to get started on the back-end
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#ca5119a](https://github.com/pacholoamit/Hashnode-Blogs/commit/ca5119a) Synced existing file post: Typescript &amp; Terraform for beginners - Infrastructure as code (IaC)
 
 
 ### Stalk me here ❤️
