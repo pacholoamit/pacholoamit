@@ -17,7 +17,7 @@
 
 ### Find me here 💻</h3>
 
-[<img src='https://ico.now.sh/github/fff' alt='github' height='40'>](https://github.com/pacholoamit) [<img src='https://ico.now.sh/devdotto/fff' alt='dev' height='40'>](/https://dev.to/pacholoamit) [<img src='https://ico.now.sh/hashnode/fff' alt='dev' height='40'>](https://pacholoamit.hashnode.dev/) [<img src='https://ico.now.sh/stackoverflow/fff' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14199991/pacholoamit) [<img src='https://ico.now.sh/youtube/fff' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw) [<img src='https://ico.now.sh/gmail/fff' alt='gmail' height='40'>](pacholoamit.dev@gmail.com)
+[<img src='https://ico.now.sh/github/fff' alt='github' height='40'>](https://github.com/https://github.com/pacholoamit) [<img src='https://ico.now.sh/devdotto/fff' alt='dev' height='40'>](https://dev.to/https://dev.to/pacholoamit) [<img src='https://ico.now.sh/hashnode/fff' alt='dev' height='40'>](https://pacholoamit.hashnode.dev/) [<img src='https://ico.now.sh/stackoverflow/fff' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14199991/pacholoamit) [<img src='https://ico.now.sh/youtube/fff' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw) [<img src='https://ico.now.sh/gmail/fff' alt='gmail' height='40'>](pacholoamit.dev@gmail.com)
 
 ### My blog articles 📚
 
@@ -96,6 +96,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
+  * [#720d8d0](https://github.com/pacholoamit/Hashnode-Blogs/commit/720d8d0) update post: 3 essential management tips from a senior software developer
+* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
   * [#5c0d5b0](https://github.com/pacholoamit/Hashnode-Blogs/commit/5c0d5b0) update post: RedwoodJS - Create a full stack application in minutes
 * ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
   * [#deebc23](https://github.com/pacholoamit/Hashnode-Blogs/commit/deebc23) update post: RedwoodJS - Create a full stack application in minutes
@@ -103,8 +105,6 @@
   * [#ac93a87](https://github.com/pacholoamit/Hashnode-Blogs/commit/ac93a87) create post: RedwoodJS - Create a full stack application in minutes
 * ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
   * [#5f204db](https://github.com/pacholoamit/Hashnode-Blogs/commit/5f204db) Synced existing file post: 3 essential management tips from a senior software developer
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#fac0bbd](https://github.com/pacholoamit/Hashnode-Blogs/commit/fac0bbd) Synced existing file post: 3 Essential tips for front-end developers to get started on the back-end
 
 
 ### Stalk me here ❤️
