@@ -25,8 +25,6 @@
 
 ### What I've been up to 🤔
 
-**[📰 Recent activity](https://github.com/pacholoamit)**
-
 <%- await include(`partials/activity.ejs`) %>
 
 ### Stalk me here ❤️
