@@ -95,16 +95,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
+* 🌟 Starred [ossu/computer-science](https://github.com/ossu/computer-science)
 * ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
   * [#720d8d0](https://github.com/pacholoamit/Hashnode-Blogs/commit/720d8d0) update post: 3 essential management tips from a senior software developer
 * ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
   * [#5c0d5b0](https://github.com/pacholoamit/Hashnode-Blogs/commit/5c0d5b0) update post: RedwoodJS - Create a full stack application in minutes
 * ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
   * [#deebc23](https://github.com/pacholoamit/Hashnode-Blogs/commit/deebc23) update post: RedwoodJS - Create a full stack application in minutes
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#ac93a87](https://github.com/pacholoamit/Hashnode-Blogs/commit/ac93a87) create post: RedwoodJS - Create a full stack application in minutes
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#5f204db](https://github.com/pacholoamit/Hashnode-Blogs/commit/5f204db) Synced existing file post: 3 essential management tips from a senior software developer
 
 
 ### Stalk me here ❤️
