@@ -95,14 +95,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [kubernetes/kops](https://github.com/kubernetes/kops)
+* 🌟 Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 * 🔃 Opened [#126 [FOR REVIEW] Cleanup of unrequired `liquidmParams` variable](https://github.com/MediaJel/mediajel-tracker/pull/126) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 2 files changed `++38 --40`
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
   * [#fe41e24](https://github.com/MediaJel/mediajel-tracker/commit/fe41e24) Cleanup of unrequired liquidmParams variable
 * 🌟 Starred [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
-* 🌟 Starred [ossu/computer-science](https://github.com/ossu/computer-science)
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#720d8d0](https://github.com/pacholoamit/Hashnode-Blogs/commit/720d8d0) update post: 3 essential management tips from a senior software developer
 
 
 ### Stalk me here ❤️
