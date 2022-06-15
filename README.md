@@ -95,13 +95,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [kubernetes/kops](https://github.com/kubernetes/kops)
-* 🌟 Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-* 🔃 Opened [#126 [FOR REVIEW] Cleanup of unrequired `liquidmParams` variable](https://github.com/MediaJel/mediajel-tracker/pull/126) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++38 --40`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#fe41e24](https://github.com/MediaJel/mediajel-tracker/commit/fe41e24) Cleanup of unrequired liquidmParams variable
-* 🌟 Starred [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
+* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
+  * [#5ecb57c](https://github.com/pacholoamit/VRNBLTY/commit/5ecb57c) created Breach component and minor refactor of Popup component
+* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
+  * [#526cc75](https://github.com/pacholoamit/VRNBLTY/commit/526cc75) domain detection implemented correctly, extension now renders description
+* 🔍 Reviewed [#2284 [FEATURE] Automate Jobqueue of clearing keys](https://github.com/MediaJel/mediajel-gql-service/pull/2284) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#2284 [FEATURE] Automate Jobqueue of clearing keys](https://github.com/MediaJel/mediajel-gql-service/pull/2284) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#2284 [FEATURE] Automate Jobqueue of clearing keys](https://github.com/MediaJel/mediajel-gql-service/pull/2284) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
