@@ -95,6 +95,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#2315 [New Integration]: Supabase integration  :+1: ](https://github.com/mindsdb/mindsdb/issues/2315) from [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
+  * [#8b7919a](https://github.com/pacholoamit/VRNBLTY/commit/8b7919a) Added Modal component to Status
+* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
+  * [#d35c169](https://github.com/pacholoamit/VRNBLTY/commit/d35c169) added secure &amp; vulnerable pngs to assets
 * 🔃 Merged [#129 Update Master from Staging](https://github.com/MediaJel/mediajel-tracker/pull/129) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 4 files changed `++71 --68`
 * ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
@@ -109,9 +114,6 @@ Update staging from Develop
 added email tracker for woocommerce and shopify
   * [#cc93ee4](https://github.com/MediaJel/mediajel-tracker/commit/cc93ee4) remove else
   * [#17d55e3](https://github.com/MediaJel/mediajel-tracker/commit/17d55e3) added email tracker for woocommerce and shopify
-* 🔍 Reviewed [#127 added email tracker for woocommerce and shopify](https://github.com/MediaJel/mediajel-tracker/pull/127) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#127 added email tracker for woocommerce and shopify](https://github.com/MediaJel/mediajel-tracker/pull/127) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#127 added email tracker for woocommerce and shopify](https://github.com/MediaJel/mediajel-tracker/pull/127) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
