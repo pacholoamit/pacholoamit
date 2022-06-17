@@ -95,18 +95,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-email-in-transactions-observer`
-  * [#b53d575](https://github.com/MediaJel/mediajel-gql-service/commit/b53d575) implemented Destination interface
-* ⏺️ Created new branch pa-implement-email-in-transactions-observer in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#a76dd94](https://github.com/MediaJel/mediajel-tracker/commit/a76dd94) Merge pull request #126 from MediaJel/develop
+* 🔃 Merged [#129 Update Master from Staging](https://github.com/MediaJel/mediajel-tracker/pull/129) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++71 --68`
+* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#4d78ea6](https://github.com/MediaJel/mediajel-tracker/commit/4d78ea6) Merge pull request #129 from MediaJel/staging
 
-[FOR REVIEW] Cleanup of unrequired `liquidmParams` variable
-  * [#fe41e24](https://github.com/MediaJel/mediajel-tracker/commit/fe41e24) Cleanup of unrequired liquidmParams variable
-* 🔃 Merged [#126 [FOR REVIEW] Cleanup of unrequired `liquidmParams` variable](https://github.com/MediaJel/mediajel-tracker/pull/126) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++38 --40`
-* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#5ecb57c](https://github.com/pacholoamit/VRNBLTY/commit/5ecb57c) created Breach component and minor refactor of Popup component
+Update Master from Staging
+  * [#69adc50](https://github.com/MediaJel/mediajel-tracker/commit/69adc50) Merge pull request #128 from MediaJel/develop
+
+Update staging from Develop
+  * [#3114382](https://github.com/MediaJel/mediajel-tracker/commit/3114382) Merge pull request #127 from MediaJel/jjl-woocommerce-shopify-track-email
+
+added email tracker for woocommerce and shopify
+  * [#cc93ee4](https://github.com/MediaJel/mediajel-tracker/commit/cc93ee4) remove else
+  * [#17d55e3](https://github.com/MediaJel/mediajel-tracker/commit/17d55e3) added email tracker for woocommerce and shopify
+* 🔍 Reviewed [#127 added email tracker for woocommerce and shopify](https://github.com/MediaJel/mediajel-tracker/pull/127) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#127 added email tracker for woocommerce and shopify](https://github.com/MediaJel/mediajel-tracker/pull/127) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#127 added email tracker for woocommerce and shopify](https://github.com/MediaJel/mediajel-tracker/pull/127) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
