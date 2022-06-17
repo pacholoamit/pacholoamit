@@ -95,6 +95,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-email-in-transactions-observer`
+  * [#b53d575](https://github.com/MediaJel/mediajel-gql-service/commit/b53d575) implemented Destination interface
+* ⏺️ Created new branch pa-implement-email-in-transactions-observer in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#a76dd94](https://github.com/MediaJel/mediajel-tracker/commit/a76dd94) Merge pull request #126 from MediaJel/develop
 
@@ -104,9 +107,6 @@
   * 2 files changed `++38 --40`
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
   * [#5ecb57c](https://github.com/pacholoamit/VRNBLTY/commit/5ecb57c) created Breach component and minor refactor of Popup component
-* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#526cc75](https://github.com/pacholoamit/VRNBLTY/commit/526cc75) domain detection implemented correctly, extension now renders description
-* 🔍 Reviewed [#2284 [FEATURE] Automate Jobqueue of clearing keys](https://github.com/MediaJel/mediajel-gql-service/pull/2284) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
