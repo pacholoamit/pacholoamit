@@ -96,14 +96,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#349a61e](https://github.com/pacholoamit/VRNBLTY/commit/349a61e) modify imports
+  * [#df1cd0e](https://github.com/pacholoamit/VRNBLTY/commit/df1cd0e) removed unrequired permissions
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#122d623](https://github.com/pacholoamit/VRNBLTY/commit/122d623) add custom icon
-* 💬 Commented on [#2315 [New Integration]: Supabase integration  :+1: ](https://github.com/mindsdb/mindsdb/issues/2315) from [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+  * [#c01a2b9](https://github.com/pacholoamit/VRNBLTY/commit/c01a2b9) applied changes to not open the modal if there are no data breaches for the domain
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#8b7919a](https://github.com/pacholoamit/VRNBLTY/commit/8b7919a) Added Modal component to Status
+  * [#c08ea4b](https://github.com/pacholoamit/VRNBLTY/commit/c08ea4b) change badge text
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#d35c169](https://github.com/pacholoamit/VRNBLTY/commit/d35c169) added secure &amp; vulnerable pngs to assets
+  * [#3efa2f2](https://github.com/pacholoamit/VRNBLTY/commit/3efa2f2) formatted number in BreachDetails and added additional information in modal
+* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
+  * [#01672ce](https://github.com/pacholoamit/VRNBLTY/commit/01672ce) Modified Collapse component to show more relevant data
 
 
 ### Stalk me here ❤️
