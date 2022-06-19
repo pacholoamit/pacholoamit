@@ -95,16 +95,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
+  * [#449599e](https://github.com/pacholoamit/Hashnode-Blogs/commit/449599e) create post: Create a Google Chrome extension with ReactJS
+* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
+  * [#aa67b8c](https://github.com/pacholoamit/VRNBLTY/commit/aa67b8c) remove unrequired imports
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
   * [#df1cd0e](https://github.com/pacholoamit/VRNBLTY/commit/df1cd0e) removed unrequired permissions
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
   * [#c01a2b9](https://github.com/pacholoamit/VRNBLTY/commit/c01a2b9) applied changes to not open the modal if there are no data breaches for the domain
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
   * [#c08ea4b](https://github.com/pacholoamit/VRNBLTY/commit/c08ea4b) change badge text
-* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#3efa2f2](https://github.com/pacholoamit/VRNBLTY/commit/3efa2f2) formatted number in BreachDetails and added additional information in modal
-* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#01672ce](https://github.com/pacholoamit/VRNBLTY/commit/01672ce) Modified Collapse component to show more relevant data
 
 
 ### Stalk me here ❤️
