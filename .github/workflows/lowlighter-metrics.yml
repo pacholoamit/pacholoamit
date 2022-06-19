@@ -92,10 +92,10 @@ jobs:
           base: ""
           # Posts plugin
           plugin_posts: yes
-          plugin_posts_source: dev.to
+          plugin_posts_source: hashnode
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
-          plugin_posts_limit: 4
+          plugin_posts_limit: 10
           plugin_posts_user: pacholoamit
           # Activity plugin
           plugin_activity: yes
