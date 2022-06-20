@@ -21,19 +21,19 @@
 
 ### My blog articles 📚
 
-**[✒️ Recent posts from hashnode](https://hashnode.com/@pacholoamit)**
+**[✒️ Recent posts from dev.to](https://dev.to/pacholoamit)**
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655662519983/DSNxWaX0l.png" alt="" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IPquXxS0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ely97w0jjqa3ko4j4ll0.png" alt="" width="280">
     </td>
     <th>
-      <a href="https://hashnode.com/post/create-a-google-chrome-extension-with-reactjs">Create a Google Chrome extension with ReactJS</a>
+      <a href="https://dev.to/pacholoamit/create-a-google-chrome-extension-with-reactjs-3one">Create a Google Chrome extension with ReactJS</a>
     </th>
   </tr>
   <tr>
     <td>
-      Lets Create a Google chrome extension with ReactJS by using the Plasmo framework. The Plasmo framework allows us to build multi-browser compatible extensions with ReactJS. They have various quickstarts for other tools you may have already used such a...
+      Lets Create a Google chrome extension with ReactJS by using the Plasmo framework. The Plasmo...
       <br>
       <i>Published on 20 Jun 2022</i>
     </td>
@@ -42,34 +42,32 @@
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655018133282/GeiNVRFbG.png" alt="" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0oX0Vl2T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4o36lbm8syfiuij7cd8l.png" alt="" width="280">
     </td>
     <th>
-      <a href="https://hashnode.com/post/typescript-and-terraform-for-beginners-infrastructure-as-code-iac">Typescript &amp; Terraform for beginners - Infrastructure as code (IaC)</a>
+      <a href="https://dev.to/pacholoamit/typescript-terraform-for-beginners-infrastructure-as-code-iac-101h">Typescript &amp; Terraform for beginners - Infrastructure as code (IaC)</a>
     </th>
   </tr>
   <tr>
     <td>
-      Today I&#39;m going to demonstrate how to spin up AWS Infrastructure using Typescript and Terraform. To spin up infrastructure using Terraform, usually we&#39;ll have to write HCL (Hashicorp Configuration Language) manifests but with Terraform CDK we can spi...
+      Today I&#39;m going to demonstrate how to spin up AWS Infrastructure using Typescript and Terraform. To...
       <br>
-      <i>Published on 12 Jun 2022</i>
+      <i>Published on 6 Jun 2022</i>
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655128063177/S_Q4QKzUr.png" alt="" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uY7TeJS6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fyztto41h1i0g8pz9iod.png" alt="" width="280">
     </td>
     <th>
-      <a href="https://hashnode.com/post/redwoodjs-create-a-full-stack-application-in-minutes">RedwoodJS - Create a full stack application in minutes</a>
+      <a href="https://dev.to/pacholoamit/redwoodjs-create-a-full-stack-application-in-minutes-2hff">RedwoodJS - Create a full stack application in minutes</a>
     </th>
   </tr>
   <tr>
     <td>
-      Isn&#39;t it annoying re-inventing the wheel? Imagine this, you get a new idea for a startup or even just a basic project you&#39;d like to do for yourself because you can. Here&#39;s what you&#39;re gonna start thinking about...
-
-I&#39;ve gotta write some boring boiler...
+      Isn&#39;t it annoying re-inventing the wheel? Imagine this, you get a new idea for a startup or even just...
       <br>
       <i>Published on 11 Apr 2022</i>
     </td>
@@ -78,15 +76,15 @@ I&#39;ve gotta write some boring boiler...
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605721650694/nZLqPcuYv.jpeg" alt="" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--aWzc0gZ4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/7dyzql56rje6hguci8qt.jpg" alt="" width="280">
     </td>
     <th>
-      <a href="https://hashnode.com/post/3-essential-tips-for-front-end-developers-to-get-started-on-the-back-end">3 Essential tips for front-end developers to get started on the back-end</a>
+      <a href="https://dev.to/pacholoamit/3-essential-tips-for-front-end-developers-to-get-started-on-the-back-end-4nj4">3 Essential tips for front-end developers to get started on the back-end</a>
     </th>
   </tr>
   <tr>
     <td>
-      Most developers usually start on the front-end which is understandable, considering that front-end development is more visual. It&#39;s easier to understand front-end code from a beginner&#39;s perspective than back-end code but it gets to a point where most...
+      Most developers usually start on the front-end which is understandable, considering that front-end de...
       <br>
       <i>Published on 19 Nov 2020</i>
     </td>
@@ -95,17 +93,17 @@ I&#39;ve gotta write some boring boiler...
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605697616118/JgoJj9_TH.jpeg" alt="" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--N-OGD1f1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/u7nxb6esprhk2zvzd14n.jpg" alt="" width="280">
     </td>
     <th>
-      <a href="https://hashnode.com/post/3-essential-management-tips-from-a-senior-software-developer">3 essential management tips from a senior software developer</a>
+      <a href="https://dev.to/pacholoamit/3-essential-management-tips-from-a-senior-software-developer-54de">3 essential management tips from a senior software developer</a>
     </th>
   </tr>
   <tr>
     <td>
-      I was a senior software developer of a start-up in the finance sector. I was able to handle and manage several big projects and I thought I would share to my experiences, tips, and most importantly my mistakes so YOU, yes YOU, wouldn&#39;t have to go thr...
+      I was a senior software developer of a start-up in the finance sector. I was able to handle and manag...
       <br>
-      <i>Published on 18 Nov 2020</i>
+      <i>Published on 19 Nov 2020</i>
     </td>
   </tr>
 </table>
@@ -114,6 +112,8 @@ I&#39;ve gotta write some boring boiler...
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 17 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-email-in-transactions-observer`
+  * [#d362eaf](https://github.com/MediaJel/mediajel-gql-service/commit/d362eaf) Merge branch &#39;develop&#39; of github.com:MediaJel/mediajel-gql-service into develop
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
   * [#32f641e](https://github.com/pacholoamit/VRNBLTY/commit/32f641e) Update readme.md
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
@@ -121,7 +121,6 @@ I&#39;ve gotta write some boring boiler...
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
   * [#04f7c78](https://github.com/pacholoamit/VRNBLTY/commit/04f7c78) Update readme.md
 * 🍽️ Forked [Frezyx/bottom_bar_with_sheet](https://github.com/Frezyx/bottom_bar_with_sheet) to [pacholoamit/bottom_bar_with_sheet](https://github.com/pacholoamit/bottom_bar_with_sheet)
-* ⏺️ Created new tag 1.0.0 in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY)
 
 
 ### Stalk me here ❤️
