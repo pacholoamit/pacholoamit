@@ -114,16 +114,14 @@ I&#39;ve gotta write some boring boiler...
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#449599e](https://github.com/pacholoamit/Hashnode-Blogs/commit/449599e) create post: Create a Google Chrome extension with ReactJS
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#aa67b8c](https://github.com/pacholoamit/VRNBLTY/commit/aa67b8c) remove unrequired imports
+  * [#32f641e](https://github.com/pacholoamit/VRNBLTY/commit/32f641e) Update readme.md
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#df1cd0e](https://github.com/pacholoamit/VRNBLTY/commit/df1cd0e) removed unrequired permissions
+  * [#e030570](https://github.com/pacholoamit/VRNBLTY/commit/e030570) Update readme.md
 * ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#c01a2b9](https://github.com/pacholoamit/VRNBLTY/commit/c01a2b9) applied changes to not open the modal if there are no data breaches for the domain
-* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#c08ea4b](https://github.com/pacholoamit/VRNBLTY/commit/c08ea4b) change badge text
+  * [#04f7c78](https://github.com/pacholoamit/VRNBLTY/commit/04f7c78) Update readme.md
+* 🍽️ Forked [Frezyx/bottom_bar_with_sheet](https://github.com/Frezyx/bottom_bar_with_sheet) to [pacholoamit/bottom_bar_with_sheet](https://github.com/pacholoamit/bottom_bar_with_sheet)
+* ⏺️ Created new tag 1.0.0 in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY)
 
 
 ### Stalk me here ❤️
