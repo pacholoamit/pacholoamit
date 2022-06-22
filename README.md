@@ -112,15 +112,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 17 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-email-in-transactions-observer`
-  * [#d362eaf](https://github.com/MediaJel/mediajel-gql-service/commit/d362eaf) Merge branch &#39;develop&#39; of github.com:MediaJel/mediajel-gql-service into develop
-* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#32f641e](https://github.com/pacholoamit/VRNBLTY/commit/32f641e) Update readme.md
-* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#e030570](https://github.com/pacholoamit/VRNBLTY/commit/e030570) Update readme.md
-* ➡️ Pushed 1 commit in [pacholoamit/VRNBLTY](https://github.com/pacholoamit/VRNBLTY) on branch `master`
-  * [#04f7c78](https://github.com/pacholoamit/VRNBLTY/commit/04f7c78) Update readme.md
-* 🍽️ Forked [Frezyx/bottom_bar_with_sheet](https://github.com/Frezyx/bottom_bar_with_sheet) to [pacholoamit/bottom_bar_with_sheet](https://github.com/pacholoamit/bottom_bar_with_sheet)
+* ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
+  * [#42c5838](https://github.com/pacholoamit/kubenetes-flux/commit/42c5838) added traefik helm chart
+* ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
+  * [#28906c6](https://github.com/pacholoamit/kubenetes-flux/commit/28906c6) modified replicas to 1
+* ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
+  * [#cbd229f](https://github.com/pacholoamit/kubenetes-flux/commit/cbd229f) added namespace to loadbalancer
+* ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
+  * [#0125d46](https://github.com/pacholoamit/kubenetes-flux/commit/0125d46) rename of service and deployment
+* ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
+  * [#cc242a1](https://github.com/pacholoamit/kubenetes-flux/commit/cc242a1) change metadata name of nginx deployment
 
 
 ### Stalk me here ❤️
