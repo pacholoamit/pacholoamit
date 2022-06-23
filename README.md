@@ -112,16 +112,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch master in [pacholoamit/kubernetes-flux](https://github.com/pacholoamit/kubernetes-flux)
+* ➡️ Pushed 1 commit in [pacholoamit/kubernetes-flux](https://github.com/pacholoamit/kubernetes-flux) on branch `main`
+  * [#f3cdacc](https://github.com/pacholoamit/kubernetes-flux/commit/f3cdacc) Add Flux sync manifests
+* ⏺️ Created new branch main in [pacholoamit/kubernetes-flux](https://github.com/pacholoamit/kubernetes-flux)
+* ⏺️ Created new repository  [pacholoamit/kubernetes-flux](https://github.com/pacholoamit/kubernetes-flux)
 * ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
-  * [#42c5838](https://github.com/pacholoamit/kubenetes-flux/commit/42c5838) added traefik helm chart
-* ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
-  * [#28906c6](https://github.com/pacholoamit/kubenetes-flux/commit/28906c6) modified replicas to 1
-* ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
-  * [#cbd229f](https://github.com/pacholoamit/kubenetes-flux/commit/cbd229f) added namespace to loadbalancer
-* ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
-  * [#0125d46](https://github.com/pacholoamit/kubenetes-flux/commit/0125d46) rename of service and deployment
-* ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
-  * [#cc242a1](https://github.com/pacholoamit/kubenetes-flux/commit/cc242a1) change metadata name of nginx deployment
+  * [#1b0add3](https://github.com/pacholoamit/kubenetes-flux/commit/1b0add3) remove nginx
 
 
 ### Stalk me here ❤️
