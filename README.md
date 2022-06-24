@@ -112,12 +112,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [create-go-app/cli](https://github.com/create-go-app/cli)
-* ⏺️ Created new branch master in [pacholoamit/golang-gin-server](https://github.com/pacholoamit/golang-gin-server)
-* ⏺️ Created new repository  [pacholoamit/golang-gin-server](https://github.com/pacholoamit/golang-gin-server)
-* ➡️ Pushed 1 commit in [pacholoamit/golang-api-server](https://github.com/pacholoamit/golang-api-server) on branch `master`
-  * [#c805db8](https://github.com/pacholoamit/golang-api-server/commit/c805db8) boostrap beego
-* ⏺️ Created new branch master in [pacholoamit/golang-api-server](https://github.com/pacholoamit/golang-api-server)
+* ➡️ Pushed 2 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#3052808](https://github.com/pacholoamit/GO-TASK-MGR/commit/3052808) Applied gofmt
+  * [#9bb21d6](https://github.com/pacholoamit/GO-TASK-MGR/commit/9bb21d6) Implemented delete method
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#36580f9](https://github.com/pacholoamit/GO-TASK-MGR/commit/36580f9) implemented GO FMT
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#541a0f6](https://github.com/pacholoamit/GO-TASK-MGR/commit/541a0f6) fix create task json body not implemented correctly
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#7779578](https://github.com/pacholoamit/GO-TASK-MGR/commit/7779578) successfully implemented task creation &amp; task querying
+* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#faa69a6](https://github.com/pacholoamit/GO-TASK-MGR/commit/faa69a6) fully tested controller &amp; route for GetAllTask route
+  * [#0020dd5](https://github.com/pacholoamit/GO-TASK-MGR/commit/0020dd5) create database config
+  * [#0ddea41](https://github.com/pacholoamit/GO-TASK-MGR/commit/0ddea41) install gorm pkg
+  * [#351a1c0](https://github.com/pacholoamit/GO-TASK-MGR/commit/351a1c0) create Task routes w/o controllers
 
 
 ### Stalk me here ❤️
