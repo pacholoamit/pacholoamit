@@ -112,12 +112,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [create-go-app/cli](https://github.com/create-go-app/cli)
 * ⏺️ Created new branch master in [pacholoamit/golang-gin-server](https://github.com/pacholoamit/golang-gin-server)
 * ⏺️ Created new repository  [pacholoamit/golang-gin-server](https://github.com/pacholoamit/golang-gin-server)
 * ➡️ Pushed 1 commit in [pacholoamit/golang-api-server](https://github.com/pacholoamit/golang-api-server) on branch `master`
   * [#c805db8](https://github.com/pacholoamit/golang-api-server/commit/c805db8) boostrap beego
 * ⏺️ Created new branch master in [pacholoamit/golang-api-server](https://github.com/pacholoamit/golang-api-server)
-* ⏺️ Created new repository  [pacholoamit/golang-api-server](https://github.com/pacholoamit/golang-api-server)
 
 
 ### Stalk me here ❤️
