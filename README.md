@@ -112,13 +112,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch master in [pacholoamit/kubernetes-flux](https://github.com/pacholoamit/kubernetes-flux)
-* ➡️ Pushed 1 commit in [pacholoamit/kubernetes-flux](https://github.com/pacholoamit/kubernetes-flux) on branch `main`
-  * [#f3cdacc](https://github.com/pacholoamit/kubernetes-flux/commit/f3cdacc) Add Flux sync manifests
-* ⏺️ Created new branch main in [pacholoamit/kubernetes-flux](https://github.com/pacholoamit/kubernetes-flux)
-* ⏺️ Created new repository  [pacholoamit/kubernetes-flux](https://github.com/pacholoamit/kubernetes-flux)
-* ➡️ Pushed 1 commit in [pacholoamit/kubenetes-flux](https://github.com/pacholoamit/kubenetes-flux) on branch `main`
-  * [#1b0add3](https://github.com/pacholoamit/kubenetes-flux/commit/1b0add3) remove nginx
+* ⏺️ Created new branch master in [pacholoamit/golang-gin-server](https://github.com/pacholoamit/golang-gin-server)
+* ⏺️ Created new repository  [pacholoamit/golang-gin-server](https://github.com/pacholoamit/golang-gin-server)
+* ➡️ Pushed 1 commit in [pacholoamit/golang-api-server](https://github.com/pacholoamit/golang-api-server) on branch `master`
+  * [#c805db8](https://github.com/pacholoamit/golang-api-server/commit/c805db8) boostrap beego
+* ⏺️ Created new branch master in [pacholoamit/golang-api-server](https://github.com/pacholoamit/golang-api-server)
+* ⏺️ Created new repository  [pacholoamit/golang-api-server](https://github.com/pacholoamit/golang-api-server)
 
 
 ### Stalk me here ❤️
