@@ -112,6 +112,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles)
 * ➡️ Pushed 2 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
   * [#3052808](https://github.com/pacholoamit/GO-TASK-MGR/commit/3052808) Applied gofmt
   * [#9bb21d6](https://github.com/pacholoamit/GO-TASK-MGR/commit/9bb21d6) Implemented delete method
@@ -121,11 +122,6 @@
   * [#541a0f6](https://github.com/pacholoamit/GO-TASK-MGR/commit/541a0f6) fix create task json body not implemented correctly
 * ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
   * [#7779578](https://github.com/pacholoamit/GO-TASK-MGR/commit/7779578) successfully implemented task creation &amp; task querying
-* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#faa69a6](https://github.com/pacholoamit/GO-TASK-MGR/commit/faa69a6) fully tested controller &amp; route for GetAllTask route
-  * [#0020dd5](https://github.com/pacholoamit/GO-TASK-MGR/commit/0020dd5) create database config
-  * [#0ddea41](https://github.com/pacholoamit/GO-TASK-MGR/commit/0ddea41) install gorm pkg
-  * [#351a1c0](https://github.com/pacholoamit/GO-TASK-MGR/commit/351a1c0) create Task routes w/o controllers
 
 
 ### Stalk me here ❤️
