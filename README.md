@@ -112,16 +112,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles)
 * ➡️ Pushed 2 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#3052808](https://github.com/pacholoamit/GO-TASK-MGR/commit/3052808) Applied gofmt
-  * [#9bb21d6](https://github.com/pacholoamit/GO-TASK-MGR/commit/9bb21d6) Implemented delete method
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#36580f9](https://github.com/pacholoamit/GO-TASK-MGR/commit/36580f9) implemented GO FMT
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#541a0f6](https://github.com/pacholoamit/GO-TASK-MGR/commit/541a0f6) fix create task json body not implemented correctly
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#7779578](https://github.com/pacholoamit/GO-TASK-MGR/commit/7779578) successfully implemented task creation &amp; task querying
+  * [#9211b2f](https://github.com/pacholoamit/GO-TASK-MGR/commit/9211b2f) Namespaceall task models
+  * [#e2f31d3](https://github.com/pacholoamit/GO-TASK-MGR/commit/e2f31d3) Namespaced models
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#9211b2f](https://github.com/pacholoamit/GO-TASK-MGR/commit/9211b2f) Namespaceall task models
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#e2f31d3](https://github.com/pacholoamit/GO-TASK-MGR/commit/e2f31d3) Namespaced models
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#e776d39](https://github.com/pacholoamit/GO-TASK-MGR/commit/e776d39) remove logger
+  * [#d086dd1](https://github.com/pacholoamit/GO-TASK-MGR/commit/d086dd1) enable better error handling
+  * [#8e3cc25](https://github.com/pacholoamit/GO-TASK-MGR/commit/8e3cc25) migrate business logic to services
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#e776d39](https://github.com/pacholoamit/GO-TASK-MGR/commit/e776d39) remove logger
 
 
 ### Stalk me here ❤️
