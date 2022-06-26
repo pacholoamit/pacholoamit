@@ -113,18 +113,28 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#4ac3688](https://github.com/pacholoamit/GO-TASK-MGR/commit/4ac3688) Repository namespacing
-* ➡️ Pushed 2 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#9211b2f](https://github.com/pacholoamit/GO-TASK-MGR/commit/9211b2f) Namespaceall task models
-  * [#e2f31d3](https://github.com/pacholoamit/GO-TASK-MGR/commit/e2f31d3) Namespaced models
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#9211b2f](https://github.com/pacholoamit/GO-TASK-MGR/commit/9211b2f) Namespaceall task models
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#e2f31d3](https://github.com/pacholoamit/GO-TASK-MGR/commit/e2f31d3) Namespaced models
-* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#e776d39](https://github.com/pacholoamit/GO-TASK-MGR/commit/e776d39) remove logger
-  * [#d086dd1](https://github.com/pacholoamit/GO-TASK-MGR/commit/d086dd1) enable better error handling
-  * [#8e3cc25](https://github.com/pacholoamit/GO-TASK-MGR/commit/8e3cc25) migrate business logic to services
+  * [#ae62abb](https://github.com/pacholoamit/GO-TASK-MGR/commit/ae62abb) Ran gofmt
+* ➡️ Pushed 11 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#92205eb](https://github.com/pacholoamit/GO-TASK-MGR/commit/92205eb) Remove singleton var for repositories &amp; re-enable SkipDefaultTransaction for gorm
+  * [#2c9c3f1](https://github.com/pacholoamit/GO-TASK-MGR/commit/2c9c3f1) Added Project repoisotires &amp; models
+  * [#cab1548](https://github.com/pacholoamit/GO-TASK-MGR/commit/cab1548) Added Project services
+  * [#02480ca](https://github.com/pacholoamit/GO-TASK-MGR/commit/02480ca) Added Project controllers
+  * [#cf049ed](https://github.com/pacholoamit/GO-TASK-MGR/commit/cf049ed) Add project routes &amp; controllers
+  * [#a64cbce](https://github.com/pacholoamit/GO-TASK-MGR/commit/a64cbce) Added Project model &amp; set gorm transaction to false
+  * [#bab2238](https://github.com/pacholoamit/GO-TASK-MGR/commit/bab2238) Add gzip middleware
+  * [#87335e8](https://github.com/pacholoamit/GO-TASK-MGR/commit/87335e8) renamed config to lib
+  * [#73e7b7a](https://github.com/pacholoamit/GO-TASK-MGR/commit/73e7b7a) Remove query for Title &amp; Description
+  * [#fcc72e4](https://github.com/pacholoamit/GO-TASK-MGR/commit/fcc72e4) enabled logger
+  * [#d43c088](https://github.com/pacholoamit/GO-TASK-MGR/commit/d43c088) declared vars for models
+* ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#92205eb](https://github.com/pacholoamit/GO-TASK-MGR/commit/92205eb) Remove singleton var for repositories &amp; re-enable SkipDefaultTransaction for gorm
+  * [#2c9c3f1](https://github.com/pacholoamit/GO-TASK-MGR/commit/2c9c3f1) Added Project repoisotires &amp; models
+  * [#cab1548](https://github.com/pacholoamit/GO-TASK-MGR/commit/cab1548) Added Project services
+  * [#02480ca](https://github.com/pacholoamit/GO-TASK-MGR/commit/02480ca) Added Project controllers
+  * [#cf049ed](https://github.com/pacholoamit/GO-TASK-MGR/commit/cf049ed) Add project routes &amp; controllers
+  * [#a64cbce](https://github.com/pacholoamit/GO-TASK-MGR/commit/a64cbce) Added Project model &amp; set gorm transaction to false
+* #️⃣ Closed [#129 No `Frontend` folder gets created when `react-ts` is selected as frontend framework/library](https://github.com/create-go-app/cli/issues/129) in [create-go-app/cli](https://github.com/create-go-app/cli)
+* 💬 Commented on [#129 No `Frontend` folder gets created when `react-ts` is selected as frontend framework/library](https://github.com/create-go-app/cli/issues/129) from [create-go-app/cli](https://github.com/create-go-app/cli)
 
 
 ### Stalk me here ❤️
