@@ -112,6 +112,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#130 [FOR REVIEW] Add UTM persist add-on query param](https://github.com/MediaJel/mediajel-tracker/pull/130) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++55 --1`
+* ⏺️ Created new branch pa-implement-utm-persist-add-on in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#69adc50](https://github.com/MediaJel/mediajel-tracker/commit/69adc50) Merge pull request #128 from MediaJel/develop
+
+Update staging from Develop
+  * [#a76dd94](https://github.com/MediaJel/mediajel-tracker/commit/a76dd94) Merge pull request #126 from MediaJel/develop
+
+[FOR REVIEW] Cleanup of unrequired `liquidmParams` variable
 * ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
   * [#1940fd0](https://github.com/pacholoamit/GO-TASK-MGR/commit/1940fd0) Add comment for follow up work on passing ID as params
   * [#259954d](https://github.com/pacholoamit/GO-TASK-MGR/commit/259954d) Enabled assigning of Project ID for updating of Task
@@ -119,27 +129,6 @@
   * [#2f2f9d5](https://github.com/pacholoamit/GO-TASK-MGR/commit/2f2f9d5) Updating of Project ID is now functional
 * ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
   * [#748dc41](https://github.com/pacholoamit/GO-TASK-MGR/commit/748dc41) Refactor database connection
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#ae62abb](https://github.com/pacholoamit/GO-TASK-MGR/commit/ae62abb) Ran gofmt
-* ➡️ Pushed 11 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#92205eb](https://github.com/pacholoamit/GO-TASK-MGR/commit/92205eb) Remove singleton var for repositories &amp; re-enable SkipDefaultTransaction for gorm
-  * [#2c9c3f1](https://github.com/pacholoamit/GO-TASK-MGR/commit/2c9c3f1) Added Project repoisotires &amp; models
-  * [#cab1548](https://github.com/pacholoamit/GO-TASK-MGR/commit/cab1548) Added Project services
-  * [#02480ca](https://github.com/pacholoamit/GO-TASK-MGR/commit/02480ca) Added Project controllers
-  * [#cf049ed](https://github.com/pacholoamit/GO-TASK-MGR/commit/cf049ed) Add project routes &amp; controllers
-  * [#a64cbce](https://github.com/pacholoamit/GO-TASK-MGR/commit/a64cbce) Added Project model &amp; set gorm transaction to false
-  * [#bab2238](https://github.com/pacholoamit/GO-TASK-MGR/commit/bab2238) Add gzip middleware
-  * [#87335e8](https://github.com/pacholoamit/GO-TASK-MGR/commit/87335e8) renamed config to lib
-  * [#73e7b7a](https://github.com/pacholoamit/GO-TASK-MGR/commit/73e7b7a) Remove query for Title &amp; Description
-  * [#fcc72e4](https://github.com/pacholoamit/GO-TASK-MGR/commit/fcc72e4) enabled logger
-  * [#d43c088](https://github.com/pacholoamit/GO-TASK-MGR/commit/d43c088) declared vars for models
-* ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#92205eb](https://github.com/pacholoamit/GO-TASK-MGR/commit/92205eb) Remove singleton var for repositories &amp; re-enable SkipDefaultTransaction for gorm
-  * [#2c9c3f1](https://github.com/pacholoamit/GO-TASK-MGR/commit/2c9c3f1) Added Project repoisotires &amp; models
-  * [#cab1548](https://github.com/pacholoamit/GO-TASK-MGR/commit/cab1548) Added Project services
-  * [#02480ca](https://github.com/pacholoamit/GO-TASK-MGR/commit/02480ca) Added Project controllers
-  * [#cf049ed](https://github.com/pacholoamit/GO-TASK-MGR/commit/cf049ed) Add project routes &amp; controllers
-  * [#a64cbce](https://github.com/pacholoamit/GO-TASK-MGR/commit/a64cbce) Added Project model &amp; set gorm transaction to false
 
 
 ### Stalk me here ❤️
