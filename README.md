@@ -113,6 +113,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#748dc41](https://github.com/pacholoamit/GO-TASK-MGR/commit/748dc41) Refactor database connection
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
   * [#ae62abb](https://github.com/pacholoamit/GO-TASK-MGR/commit/ae62abb) Ran gofmt
 * ➡️ Pushed 11 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
   * [#92205eb](https://github.com/pacholoamit/GO-TASK-MGR/commit/92205eb) Remove singleton var for repositories &amp; re-enable SkipDefaultTransaction for gorm
@@ -134,7 +136,6 @@
   * [#cf049ed](https://github.com/pacholoamit/GO-TASK-MGR/commit/cf049ed) Add project routes &amp; controllers
   * [#a64cbce](https://github.com/pacholoamit/GO-TASK-MGR/commit/a64cbce) Added Project model &amp; set gorm transaction to false
 * #️⃣ Closed [#129 No `Frontend` folder gets created when `react-ts` is selected as frontend framework/library](https://github.com/create-go-app/cli/issues/129) in [create-go-app/cli](https://github.com/create-go-app/cli)
-* 💬 Commented on [#129 No `Frontend` folder gets created when `react-ts` is selected as frontend framework/library](https://github.com/create-go-app/cli/issues/129) from [create-go-app/cli](https://github.com/create-go-app/cli)
 
 
 ### Stalk me here ❤️
