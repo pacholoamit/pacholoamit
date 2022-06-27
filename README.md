@@ -112,6 +112,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#1940fd0](https://github.com/pacholoamit/GO-TASK-MGR/commit/1940fd0) Add comment for follow up work on passing ID as params
+  * [#259954d](https://github.com/pacholoamit/GO-TASK-MGR/commit/259954d) Enabled assigning of Project ID for updating of Task
+  * [#915ec02](https://github.com/pacholoamit/GO-TASK-MGR/commit/915ec02) Refactor of handling Task updates with Project association
+  * [#2f2f9d5](https://github.com/pacholoamit/GO-TASK-MGR/commit/2f2f9d5) Updating of Project ID is now functional
 * ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
   * [#748dc41](https://github.com/pacholoamit/GO-TASK-MGR/commit/748dc41) Refactor database connection
 * ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
@@ -135,7 +140,6 @@
   * [#02480ca](https://github.com/pacholoamit/GO-TASK-MGR/commit/02480ca) Added Project controllers
   * [#cf049ed](https://github.com/pacholoamit/GO-TASK-MGR/commit/cf049ed) Add project routes &amp; controllers
   * [#a64cbce](https://github.com/pacholoamit/GO-TASK-MGR/commit/a64cbce) Added Project model &amp; set gorm transaction to false
-* #️⃣ Closed [#129 No `Frontend` folder gets created when `react-ts` is selected as frontend framework/library](https://github.com/create-go-app/cli/issues/129) in [create-go-app/cli](https://github.com/create-go-app/cli)
 
 
 ### Stalk me here ❤️
