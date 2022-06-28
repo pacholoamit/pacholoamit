@@ -112,23 +112,42 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#130 [FOR REVIEW] Add UTM persist add-on query param](https://github.com/MediaJel/mediajel-tracker/pull/130) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 4 files changed `++55 --1`
-* ⏺️ Created new branch pa-implement-utm-persist-add-on in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#69adc50](https://github.com/MediaJel/mediajel-tracker/commit/69adc50) Merge pull request #128 from MediaJel/develop
-
-Update staging from Develop
-  * [#a76dd94](https://github.com/MediaJel/mediajel-tracker/commit/a76dd94) Merge pull request #126 from MediaJel/develop
-
-[FOR REVIEW] Cleanup of unrequired `liquidmParams` variable
-* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+* ➡️ Pushed 18 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#d43d35d](https://github.com/pacholoamit/GO-TASK-MGR/commit/d43d35d) Implemented validation on Projects
+  * [#949416e](https://github.com/pacholoamit/GO-TASK-MGR/commit/949416e) add remaining Error()
+  * [#46b21e1](https://github.com/pacholoamit/GO-TASK-MGR/commit/46b21e1) added Error() to return string of err interface
+  * [#28259ce](https://github.com/pacholoamit/GO-TASK-MGR/commit/28259ce) Created validator util
+  * [#6bf714c](https://github.com/pacholoamit/GO-TASK-MGR/commit/6bf714c) Add go validator package
+  * [#6202876](https://github.com/pacholoamit/GO-TASK-MGR/commit/6202876) Added logging for Task services
+  * [#4b7c4e2](https://github.com/pacholoamit/GO-TASK-MGR/commit/4b7c4e2) Added Error logging for Project routes
+  * [#05e87b0](https://github.com/pacholoamit/GO-TASK-MGR/commit/05e87b0) restructure handling of routes
+  * [#c4de18b](https://github.com/pacholoamit/GO-TASK-MGR/commit/c4de18b) remove update task by project
+  * [#987d70e](https://github.com/pacholoamit/GO-TASK-MGR/commit/987d70e) Updating of Task Project via UpdateTaskProject service &amp; repository now working
+  * [#908868d](https://github.com/pacholoamit/GO-TASK-MGR/commit/908868d) Created Update Task Project Repository &amp; service
+  * [#4d6af41](https://github.com/pacholoamit/GO-TASK-MGR/commit/4d6af41) Added Update Task handler for UpdateTask controller
   * [#1940fd0](https://github.com/pacholoamit/GO-TASK-MGR/commit/1940fd0) Add comment for follow up work on passing ID as params
   * [#259954d](https://github.com/pacholoamit/GO-TASK-MGR/commit/259954d) Enabled assigning of Project ID for updating of Task
   * [#915ec02](https://github.com/pacholoamit/GO-TASK-MGR/commit/915ec02) Refactor of handling Task updates with Project association
   * [#2f2f9d5](https://github.com/pacholoamit/GO-TASK-MGR/commit/2f2f9d5) Updating of Project ID is now functional
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
   * [#748dc41](https://github.com/pacholoamit/GO-TASK-MGR/commit/748dc41) Refactor database connection
+  * [#ae62abb](https://github.com/pacholoamit/GO-TASK-MGR/commit/ae62abb) Ran gofmt
+* ➡️ Pushed 7 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#d43d35d](https://github.com/pacholoamit/GO-TASK-MGR/commit/d43d35d) Implemented validation on Projects
+  * [#949416e](https://github.com/pacholoamit/GO-TASK-MGR/commit/949416e) add remaining Error()
+  * [#46b21e1](https://github.com/pacholoamit/GO-TASK-MGR/commit/46b21e1) added Error() to return string of err interface
+  * [#28259ce](https://github.com/pacholoamit/GO-TASK-MGR/commit/28259ce) Created validator util
+  * [#6bf714c](https://github.com/pacholoamit/GO-TASK-MGR/commit/6bf714c) Add go validator package
+  * [#6202876](https://github.com/pacholoamit/GO-TASK-MGR/commit/6202876) Added logging for Task services
+  * [#4b7c4e2](https://github.com/pacholoamit/GO-TASK-MGR/commit/4b7c4e2) Added Error logging for Project routes
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#05e87b0](https://github.com/pacholoamit/GO-TASK-MGR/commit/05e87b0) restructure handling of routes
+* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#c4de18b](https://github.com/pacholoamit/GO-TASK-MGR/commit/c4de18b) remove update task by project
+  * [#987d70e](https://github.com/pacholoamit/GO-TASK-MGR/commit/987d70e) Updating of Task Project via UpdateTaskProject service &amp; repository now working
+  * [#908868d](https://github.com/pacholoamit/GO-TASK-MGR/commit/908868d) Created Update Task Project Repository &amp; service
+  * [#4d6af41](https://github.com/pacholoamit/GO-TASK-MGR/commit/4d6af41) Added Update Task handler for UpdateTask controller
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-email-in-transactions-observer`
+  * [#14a0eaa](https://github.com/MediaJel/mediajel-gql-service/commit/14a0eaa) switch slack channel to production
 
 
 ### Stalk me here ❤️
