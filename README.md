@@ -112,42 +112,35 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 18 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#d43d35d](https://github.com/pacholoamit/GO-TASK-MGR/commit/d43d35d) Implemented validation on Projects
-  * [#949416e](https://github.com/pacholoamit/GO-TASK-MGR/commit/949416e) add remaining Error()
-  * [#46b21e1](https://github.com/pacholoamit/GO-TASK-MGR/commit/46b21e1) added Error() to return string of err interface
-  * [#28259ce](https://github.com/pacholoamit/GO-TASK-MGR/commit/28259ce) Created validator util
-  * [#6bf714c](https://github.com/pacholoamit/GO-TASK-MGR/commit/6bf714c) Add go validator package
-  * [#6202876](https://github.com/pacholoamit/GO-TASK-MGR/commit/6202876) Added logging for Task services
-  * [#4b7c4e2](https://github.com/pacholoamit/GO-TASK-MGR/commit/4b7c4e2) Added Error logging for Project routes
-  * [#05e87b0](https://github.com/pacholoamit/GO-TASK-MGR/commit/05e87b0) restructure handling of routes
-  * [#c4de18b](https://github.com/pacholoamit/GO-TASK-MGR/commit/c4de18b) remove update task by project
-  * [#987d70e](https://github.com/pacholoamit/GO-TASK-MGR/commit/987d70e) Updating of Task Project via UpdateTaskProject service &amp; repository now working
-  * [#908868d](https://github.com/pacholoamit/GO-TASK-MGR/commit/908868d) Created Update Task Project Repository &amp; service
-  * [#4d6af41](https://github.com/pacholoamit/GO-TASK-MGR/commit/4d6af41) Added Update Task handler for UpdateTask controller
-  * [#1940fd0](https://github.com/pacholoamit/GO-TASK-MGR/commit/1940fd0) Add comment for follow up work on passing ID as params
-  * [#259954d](https://github.com/pacholoamit/GO-TASK-MGR/commit/259954d) Enabled assigning of Project ID for updating of Task
-  * [#915ec02](https://github.com/pacholoamit/GO-TASK-MGR/commit/915ec02) Refactor of handling Task updates with Project association
-  * [#2f2f9d5](https://github.com/pacholoamit/GO-TASK-MGR/commit/2f2f9d5) Updating of Project ID is now functional
-  * [#748dc41](https://github.com/pacholoamit/GO-TASK-MGR/commit/748dc41) Refactor database connection
-  * [#ae62abb](https://github.com/pacholoamit/GO-TASK-MGR/commit/ae62abb) Ran gofmt
-* ➡️ Pushed 7 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#d43d35d](https://github.com/pacholoamit/GO-TASK-MGR/commit/d43d35d) Implemented validation on Projects
-  * [#949416e](https://github.com/pacholoamit/GO-TASK-MGR/commit/949416e) add remaining Error()
-  * [#46b21e1](https://github.com/pacholoamit/GO-TASK-MGR/commit/46b21e1) added Error() to return string of err interface
-  * [#28259ce](https://github.com/pacholoamit/GO-TASK-MGR/commit/28259ce) Created validator util
-  * [#6bf714c](https://github.com/pacholoamit/GO-TASK-MGR/commit/6bf714c) Add go validator package
-  * [#6202876](https://github.com/pacholoamit/GO-TASK-MGR/commit/6202876) Added logging for Task services
-  * [#4b7c4e2](https://github.com/pacholoamit/GO-TASK-MGR/commit/4b7c4e2) Added Error logging for Project routes
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#6f44840](https://github.com/pacholoamit/GO-TASK-MGR/commit/6f44840) remove artifact
+  * [#db9aed8](https://github.com/pacholoamit/GO-TASK-MGR/commit/db9aed8) split error handling for project services
+  * [#4d5fafd](https://github.com/pacholoamit/GO-TASK-MGR/commit/4d5fafd) Split error handling on task service
 * ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#05e87b0](https://github.com/pacholoamit/GO-TASK-MGR/commit/05e87b0) restructure handling of routes
+  * [#59bb883](https://github.com/pacholoamit/GO-TASK-MGR/commit/59bb883) remove unrequired artifacts
+* ➡️ Pushed 10 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#63380d2](https://github.com/pacholoamit/GO-TASK-MGR/commit/63380d2) Refactor on project repositories
+  * [#84bd846](https://github.com/pacholoamit/GO-TASK-MGR/commit/84bd846) Refactor on remaining task repository
+  * [#3d01221](https://github.com/pacholoamit/GO-TASK-MGR/commit/3d01221) Refactor on task repository
+  * [#75afc80](https://github.com/pacholoamit/GO-TASK-MGR/commit/75afc80) minor refactor on project &amp; task services
+  * [#772eb46](https://github.com/pacholoamit/GO-TASK-MGR/commit/772eb46) minor refactor on project controllers
+  * [#195ae1b](https://github.com/pacholoamit/GO-TASK-MGR/commit/195ae1b) Better variables for task controller
+  * [#b9aeecc](https://github.com/pacholoamit/GO-TASK-MGR/commit/b9aeecc) Fixed error handling for projects controllers
+  * [#930d7d5](https://github.com/pacholoamit/GO-TASK-MGR/commit/930d7d5) Fixed error handling for task controllers
+  * [#bc3209f](https://github.com/pacholoamit/GO-TASK-MGR/commit/bc3209f) Removed all err.Error()
+  * [#dd59cc6](https://github.com/pacholoamit/GO-TASK-MGR/commit/dd59cc6) Error handling implemented correctly for Get project
+* ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#63380d2](https://github.com/pacholoamit/GO-TASK-MGR/commit/63380d2) Refactor on project repositories
+  * [#84bd846](https://github.com/pacholoamit/GO-TASK-MGR/commit/84bd846) Refactor on remaining task repository
+  * [#3d01221](https://github.com/pacholoamit/GO-TASK-MGR/commit/3d01221) Refactor on task repository
+  * [#75afc80](https://github.com/pacholoamit/GO-TASK-MGR/commit/75afc80) minor refactor on project &amp; task services
+  * [#772eb46](https://github.com/pacholoamit/GO-TASK-MGR/commit/772eb46) minor refactor on project controllers
+  * [#195ae1b](https://github.com/pacholoamit/GO-TASK-MGR/commit/195ae1b) Better variables for task controller
 * ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#c4de18b](https://github.com/pacholoamit/GO-TASK-MGR/commit/c4de18b) remove update task by project
-  * [#987d70e](https://github.com/pacholoamit/GO-TASK-MGR/commit/987d70e) Updating of Task Project via UpdateTaskProject service &amp; repository now working
-  * [#908868d](https://github.com/pacholoamit/GO-TASK-MGR/commit/908868d) Created Update Task Project Repository &amp; service
-  * [#4d6af41](https://github.com/pacholoamit/GO-TASK-MGR/commit/4d6af41) Added Update Task handler for UpdateTask controller
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-email-in-transactions-observer`
-  * [#14a0eaa](https://github.com/MediaJel/mediajel-gql-service/commit/14a0eaa) switch slack channel to production
+  * [#b9aeecc](https://github.com/pacholoamit/GO-TASK-MGR/commit/b9aeecc) Fixed error handling for projects controllers
+  * [#930d7d5](https://github.com/pacholoamit/GO-TASK-MGR/commit/930d7d5) Fixed error handling for task controllers
+  * [#bc3209f](https://github.com/pacholoamit/GO-TASK-MGR/commit/bc3209f) Removed all err.Error()
+  * [#dd59cc6](https://github.com/pacholoamit/GO-TASK-MGR/commit/dd59cc6) Error handling implemented correctly for Get project
 
 
 ### Stalk me here ❤️
