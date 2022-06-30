@@ -112,6 +112,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [gocopper/copper](https://github.com/gocopper/copper)
+* 🌟 Starred [karanpratapsingh/go-course](https://github.com/karanpratapsingh/go-course)
 * ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
   * [#a141853](https://github.com/pacholoamit/GO-TASK-MGR/commit/a141853) Created Project page for Client
 * ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
@@ -125,11 +127,6 @@
   * [#424eb41](https://github.com/pacholoamit/GO-TASK-MGR/commit/424eb41) Use dto for tasks
   * [#ce8ccd3](https://github.com/pacholoamit/GO-TASK-MGR/commit/ce8ccd3) Use dto for projects
   * [#8882113](https://github.com/pacholoamit/GO-TASK-MGR/commit/8882113) Add project dto
-* ➡️ Pushed 2 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#2f196cb](https://github.com/pacholoamit/GO-TASK-MGR/commit/2f196cb) Get all tasks in project &amp; assign task in project fixed
-  * [#7c4f185](https://github.com/pacholoamit/GO-TASK-MGR/commit/7c4f185) Add DTO &amp; add GetAllTasksInProject route
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#c105dca](https://github.com/pacholoamit/GO-TASK-MGR/commit/c105dca) Add dto
 
 
 ### Stalk me here ❤️
