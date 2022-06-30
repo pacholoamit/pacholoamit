@@ -113,31 +113,23 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#aca4edb](https://github.com/pacholoamit/GO-TASK-MGR/commit/aca4edb) successfully created assign task route
+  * [#a141853](https://github.com/pacholoamit/GO-TASK-MGR/commit/a141853) Created Project page for Client
+* ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#424eb41](https://github.com/pacholoamit/GO-TASK-MGR/commit/424eb41) Use dto for tasks
+  * [#ce8ccd3](https://github.com/pacholoamit/GO-TASK-MGR/commit/ce8ccd3) Use dto for projects
+  * [#8882113](https://github.com/pacholoamit/GO-TASK-MGR/commit/8882113) Add project dto
+  * [#2f196cb](https://github.com/pacholoamit/GO-TASK-MGR/commit/2f196cb) Get all tasks in project &amp; assign task in project fixed
+  * [#7c4f185](https://github.com/pacholoamit/GO-TASK-MGR/commit/7c4f185) Add DTO &amp; add GetAllTasksInProject route
+  * [#c105dca](https://github.com/pacholoamit/GO-TASK-MGR/commit/c105dca) Add dto
 * ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#6f44840](https://github.com/pacholoamit/GO-TASK-MGR/commit/6f44840) remove artifact
-  * [#db9aed8](https://github.com/pacholoamit/GO-TASK-MGR/commit/db9aed8) split error handling for project services
-  * [#4d5fafd](https://github.com/pacholoamit/GO-TASK-MGR/commit/4d5fafd) Split error handling on task service
+  * [#424eb41](https://github.com/pacholoamit/GO-TASK-MGR/commit/424eb41) Use dto for tasks
+  * [#ce8ccd3](https://github.com/pacholoamit/GO-TASK-MGR/commit/ce8ccd3) Use dto for projects
+  * [#8882113](https://github.com/pacholoamit/GO-TASK-MGR/commit/8882113) Add project dto
+* ➡️ Pushed 2 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#2f196cb](https://github.com/pacholoamit/GO-TASK-MGR/commit/2f196cb) Get all tasks in project &amp; assign task in project fixed
+  * [#7c4f185](https://github.com/pacholoamit/GO-TASK-MGR/commit/7c4f185) Add DTO &amp; add GetAllTasksInProject route
 * ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#59bb883](https://github.com/pacholoamit/GO-TASK-MGR/commit/59bb883) remove unrequired artifacts
-* ➡️ Pushed 10 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#63380d2](https://github.com/pacholoamit/GO-TASK-MGR/commit/63380d2) Refactor on project repositories
-  * [#84bd846](https://github.com/pacholoamit/GO-TASK-MGR/commit/84bd846) Refactor on remaining task repository
-  * [#3d01221](https://github.com/pacholoamit/GO-TASK-MGR/commit/3d01221) Refactor on task repository
-  * [#75afc80](https://github.com/pacholoamit/GO-TASK-MGR/commit/75afc80) minor refactor on project &amp; task services
-  * [#772eb46](https://github.com/pacholoamit/GO-TASK-MGR/commit/772eb46) minor refactor on project controllers
-  * [#195ae1b](https://github.com/pacholoamit/GO-TASK-MGR/commit/195ae1b) Better variables for task controller
-  * [#b9aeecc](https://github.com/pacholoamit/GO-TASK-MGR/commit/b9aeecc) Fixed error handling for projects controllers
-  * [#930d7d5](https://github.com/pacholoamit/GO-TASK-MGR/commit/930d7d5) Fixed error handling for task controllers
-  * [#bc3209f](https://github.com/pacholoamit/GO-TASK-MGR/commit/bc3209f) Removed all err.Error()
-  * [#dd59cc6](https://github.com/pacholoamit/GO-TASK-MGR/commit/dd59cc6) Error handling implemented correctly for Get project
-* ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#63380d2](https://github.com/pacholoamit/GO-TASK-MGR/commit/63380d2) Refactor on project repositories
-  * [#84bd846](https://github.com/pacholoamit/GO-TASK-MGR/commit/84bd846) Refactor on remaining task repository
-  * [#3d01221](https://github.com/pacholoamit/GO-TASK-MGR/commit/3d01221) Refactor on task repository
-  * [#75afc80](https://github.com/pacholoamit/GO-TASK-MGR/commit/75afc80) minor refactor on project &amp; task services
-  * [#772eb46](https://github.com/pacholoamit/GO-TASK-MGR/commit/772eb46) minor refactor on project controllers
-  * [#195ae1b](https://github.com/pacholoamit/GO-TASK-MGR/commit/195ae1b) Better variables for task controller
+  * [#c105dca](https://github.com/pacholoamit/GO-TASK-MGR/commit/c105dca) Add dto
 
 
 ### Stalk me here ❤️
