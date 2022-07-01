@@ -112,21 +112,32 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [gocopper/copper](https://github.com/gocopper/copper)
-* 🌟 Starred [karanpratapsingh/go-course](https://github.com/karanpratapsingh/go-course)
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+* 🌟 Starred [prompt-cash/ccxt-go](https://github.com/prompt-cash/ccxt-go)
+* ➡️ Pushed 11 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#5cfbb5a](https://github.com/pacholoamit/GO-TASK-MGR/commit/5cfbb5a) Added Cors Policy for Go API &amp; Rendered projects list on GO TASK MGR
+  * [#a1a15db](https://github.com/pacholoamit/GO-TASK-MGR/commit/a1a15db) Colorscheme toggle now working
+  * [#036f314](https://github.com/pacholoamit/GO-TASK-MGR/commit/036f314) Added title
+  * [#dc31dfb](https://github.com/pacholoamit/GO-TASK-MGR/commit/dc31dfb) Added Go logo
+  * [#f902375](https://github.com/pacholoamit/GO-TASK-MGR/commit/f902375) Add tabler-icons-react
+  * [#84f2687](https://github.com/pacholoamit/GO-TASK-MGR/commit/84f2687) structure layout components
+  * [#d0fd93f](https://github.com/pacholoamit/GO-TASK-MGR/commit/d0fd93f) Fix NextJS not rendering 100% vh
+  * [#2ad9751](https://github.com/pacholoamit/GO-TASK-MGR/commit/2ad9751) Create basic Layout component
+  * [#6aac271](https://github.com/pacholoamit/GO-TASK-MGR/commit/6aac271) Add Theme provider
+  * [#11d1827](https://github.com/pacholoamit/GO-TASK-MGR/commit/11d1827) Added Providers
   * [#a141853](https://github.com/pacholoamit/GO-TASK-MGR/commit/a141853) Created Project page for Client
-* ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#424eb41](https://github.com/pacholoamit/GO-TASK-MGR/commit/424eb41) Use dto for tasks
-  * [#ce8ccd3](https://github.com/pacholoamit/GO-TASK-MGR/commit/ce8ccd3) Use dto for projects
-  * [#8882113](https://github.com/pacholoamit/GO-TASK-MGR/commit/8882113) Add project dto
-  * [#2f196cb](https://github.com/pacholoamit/GO-TASK-MGR/commit/2f196cb) Get all tasks in project &amp; assign task in project fixed
-  * [#7c4f185](https://github.com/pacholoamit/GO-TASK-MGR/commit/7c4f185) Add DTO &amp; add GetAllTasksInProject route
-  * [#c105dca](https://github.com/pacholoamit/GO-TASK-MGR/commit/c105dca) Add dto
 * ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#424eb41](https://github.com/pacholoamit/GO-TASK-MGR/commit/424eb41) Use dto for tasks
-  * [#ce8ccd3](https://github.com/pacholoamit/GO-TASK-MGR/commit/ce8ccd3) Use dto for projects
-  * [#8882113](https://github.com/pacholoamit/GO-TASK-MGR/commit/8882113) Add project dto
+  * [#5cfbb5a](https://github.com/pacholoamit/GO-TASK-MGR/commit/5cfbb5a) Added Cors Policy for Go API &amp; Rendered projects list on GO TASK MGR
+  * [#a1a15db](https://github.com/pacholoamit/GO-TASK-MGR/commit/a1a15db) Colorscheme toggle now working
+  * [#036f314](https://github.com/pacholoamit/GO-TASK-MGR/commit/036f314) Added title
+* ➡️ Pushed 7 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#dc31dfb](https://github.com/pacholoamit/GO-TASK-MGR/commit/dc31dfb) Added Go logo
+  * [#f902375](https://github.com/pacholoamit/GO-TASK-MGR/commit/f902375) Add tabler-icons-react
+  * [#84f2687](https://github.com/pacholoamit/GO-TASK-MGR/commit/84f2687) structure layout components
+  * [#d0fd93f](https://github.com/pacholoamit/GO-TASK-MGR/commit/d0fd93f) Fix NextJS not rendering 100% vh
+  * [#2ad9751](https://github.com/pacholoamit/GO-TASK-MGR/commit/2ad9751) Create basic Layout component
+  * [#6aac271](https://github.com/pacholoamit/GO-TASK-MGR/commit/6aac271) Add Theme provider
+  * [#11d1827](https://github.com/pacholoamit/GO-TASK-MGR/commit/11d1827) Added Providers
+* 🌟 Starred [gocopper/copper](https://github.com/gocopper/copper)
 
 
 ### Stalk me here ❤️
