@@ -112,32 +112,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [prompt-cash/ccxt-go](https://github.com/prompt-cash/ccxt-go)
-* ➡️ Pushed 11 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#5cfbb5a](https://github.com/pacholoamit/GO-TASK-MGR/commit/5cfbb5a) Added Cors Policy for Go API &amp; Rendered projects list on GO TASK MGR
-  * [#a1a15db](https://github.com/pacholoamit/GO-TASK-MGR/commit/a1a15db) Colorscheme toggle now working
-  * [#036f314](https://github.com/pacholoamit/GO-TASK-MGR/commit/036f314) Added title
-  * [#dc31dfb](https://github.com/pacholoamit/GO-TASK-MGR/commit/dc31dfb) Added Go logo
-  * [#f902375](https://github.com/pacholoamit/GO-TASK-MGR/commit/f902375) Add tabler-icons-react
-  * [#84f2687](https://github.com/pacholoamit/GO-TASK-MGR/commit/84f2687) structure layout components
-  * [#d0fd93f](https://github.com/pacholoamit/GO-TASK-MGR/commit/d0fd93f) Fix NextJS not rendering 100% vh
-  * [#2ad9751](https://github.com/pacholoamit/GO-TASK-MGR/commit/2ad9751) Create basic Layout component
-  * [#6aac271](https://github.com/pacholoamit/GO-TASK-MGR/commit/6aac271) Add Theme provider
-  * [#11d1827](https://github.com/pacholoamit/GO-TASK-MGR/commit/11d1827) Added Providers
-  * [#a141853](https://github.com/pacholoamit/GO-TASK-MGR/commit/a141853) Created Project page for Client
-* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#5cfbb5a](https://github.com/pacholoamit/GO-TASK-MGR/commit/5cfbb5a) Added Cors Policy for Go API &amp; Rendered projects list on GO TASK MGR
-  * [#a1a15db](https://github.com/pacholoamit/GO-TASK-MGR/commit/a1a15db) Colorscheme toggle now working
-  * [#036f314](https://github.com/pacholoamit/GO-TASK-MGR/commit/036f314) Added title
-* ➡️ Pushed 7 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#dc31dfb](https://github.com/pacholoamit/GO-TASK-MGR/commit/dc31dfb) Added Go logo
-  * [#f902375](https://github.com/pacholoamit/GO-TASK-MGR/commit/f902375) Add tabler-icons-react
-  * [#84f2687](https://github.com/pacholoamit/GO-TASK-MGR/commit/84f2687) structure layout components
-  * [#d0fd93f](https://github.com/pacholoamit/GO-TASK-MGR/commit/d0fd93f) Fix NextJS not rendering 100% vh
-  * [#2ad9751](https://github.com/pacholoamit/GO-TASK-MGR/commit/2ad9751) Create basic Layout component
-  * [#6aac271](https://github.com/pacholoamit/GO-TASK-MGR/commit/6aac271) Add Theme provider
-  * [#11d1827](https://github.com/pacholoamit/GO-TASK-MGR/commit/11d1827) Added Providers
-* 🌟 Starred [gocopper/copper](https://github.com/gocopper/copper)
+* 🌟 Starred [localstack/localstack](https://github.com/localstack/localstack)
+* 🌟 Starred [fyne-io/fyne](https://github.com/fyne-io/fyne)
+* 🌟 Starred [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)
+* 🌟 Starred [grafana/k6](https://github.com/grafana/k6)
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#95568b9](https://github.com/pacholoamit/GO-TASK-MGR/commit/95568b9) Clicking Projects no redirects
+  * [#79c32c8](https://github.com/pacholoamit/GO-TASK-MGR/commit/79c32c8) Remove unncessary code
+  * [#dda14b6](https://github.com/pacholoamit/GO-TASK-MGR/commit/dda14b6) Render Projects in navbar
 
 
 ### Stalk me here ❤️
