@@ -112,6 +112,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#adc512a](https://github.com/pacholoamit/GO-TASK-MGR/commit/adc512a) minor fixes
+  * [#5789a60](https://github.com/pacholoamit/GO-TASK-MGR/commit/5789a60) Fix page not rendering correctly based on project id
+  * [#4677a63](https://github.com/pacholoamit/GO-TASK-MGR/commit/4677a63) Reconfigure to use useSWR instead of React query
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#adc512a](https://github.com/pacholoamit/GO-TASK-MGR/commit/adc512a) minor fixes
+  * [#5789a60](https://github.com/pacholoamit/GO-TASK-MGR/commit/5789a60) Fix page not rendering correctly based on project id
+  * [#4677a63](https://github.com/pacholoamit/GO-TASK-MGR/commit/4677a63) Reconfigure to use useSWR instead of React query
 * ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
   * [#c5687a2](https://github.com/pacholoamit/GO-TASK-MGR/commit/c5687a2) Able to now create projects
   * [#5d0e0d2](https://github.com/pacholoamit/GO-TASK-MGR/commit/5d0e0d2) Created Create Project Modal component
@@ -129,14 +137,6 @@
   * [#39cb3e2](https://github.com/pacholoamit/GO-TASK-MGR/commit/39cb3e2) Segregation of components
   * [#122b65a](https://github.com/pacholoamit/GO-TASK-MGR/commit/122b65a) Add editable project &amp; Add a description
   * [#bb42a33](https://github.com/pacholoamit/GO-TASK-MGR/commit/bb42a33) Added Navbar Actions &amp; Create basic projects page
-* ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#c58f9c3](https://github.com/pacholoamit/GO-TASK-MGR/commit/c58f9c3) render multiple tasks in web app&#39;
-  * [#33b5924](https://github.com/pacholoamit/GO-TASK-MGR/commit/33b5924) Create basic component for tasks &amp; fix on project.repositories api endpoint
-  * [#141e894](https://github.com/pacholoamit/GO-TASK-MGR/commit/141e894) Restructure api calls to hooks
-  * [#39cb3e2](https://github.com/pacholoamit/GO-TASK-MGR/commit/39cb3e2) Segregation of components
-  * [#122b65a](https://github.com/pacholoamit/GO-TASK-MGR/commit/122b65a) Add editable project &amp; Add a description
-  * [#bb42a33](https://github.com/pacholoamit/GO-TASK-MGR/commit/bb42a33) Added Navbar Actions &amp; Create basic projects page
-* 🌟 Starred [wailsapp/wails](https://github.com/wailsapp/wails)
 
 
 ### Stalk me here ❤️
