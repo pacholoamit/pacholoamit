@@ -112,14 +112,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#c58f9c3](https://github.com/pacholoamit/GO-TASK-MGR/commit/c58f9c3) render multiple tasks in web app&#39;
+  * [#33b5924](https://github.com/pacholoamit/GO-TASK-MGR/commit/33b5924) Create basic component for tasks &amp; fix on project.repositories api endpoint
+  * [#141e894](https://github.com/pacholoamit/GO-TASK-MGR/commit/141e894) Restructure api calls to hooks
+  * [#39cb3e2](https://github.com/pacholoamit/GO-TASK-MGR/commit/39cb3e2) Segregation of components
+  * [#122b65a](https://github.com/pacholoamit/GO-TASK-MGR/commit/122b65a) Add editable project &amp; Add a description
+  * [#bb42a33](https://github.com/pacholoamit/GO-TASK-MGR/commit/bb42a33) Added Navbar Actions &amp; Create basic projects page
+* ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#c58f9c3](https://github.com/pacholoamit/GO-TASK-MGR/commit/c58f9c3) render multiple tasks in web app&#39;
+  * [#33b5924](https://github.com/pacholoamit/GO-TASK-MGR/commit/33b5924) Create basic component for tasks &amp; fix on project.repositories api endpoint
+  * [#141e894](https://github.com/pacholoamit/GO-TASK-MGR/commit/141e894) Restructure api calls to hooks
+  * [#39cb3e2](https://github.com/pacholoamit/GO-TASK-MGR/commit/39cb3e2) Segregation of components
+  * [#122b65a](https://github.com/pacholoamit/GO-TASK-MGR/commit/122b65a) Add editable project &amp; Add a description
+  * [#bb42a33](https://github.com/pacholoamit/GO-TASK-MGR/commit/bb42a33) Added Navbar Actions &amp; Create basic projects page
+* 🌟 Starred [wailsapp/wails](https://github.com/wailsapp/wails)
 * 🌟 Starred [localstack/localstack](https://github.com/localstack/localstack)
 * 🌟 Starred [fyne-io/fyne](https://github.com/fyne-io/fyne)
-* 🌟 Starred [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)
-* 🌟 Starred [grafana/k6](https://github.com/grafana/k6)
-* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#95568b9](https://github.com/pacholoamit/GO-TASK-MGR/commit/95568b9) Clicking Projects no redirects
-  * [#79c32c8](https://github.com/pacholoamit/GO-TASK-MGR/commit/79c32c8) Remove unncessary code
-  * [#dda14b6](https://github.com/pacholoamit/GO-TASK-MGR/commit/dda14b6) Render Projects in navbar
 
 
 ### Stalk me here ❤️
