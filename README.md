@@ -112,6 +112,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#c5687a2](https://github.com/pacholoamit/GO-TASK-MGR/commit/c5687a2) Able to now create projects
+  * [#5d0e0d2](https://github.com/pacholoamit/GO-TASK-MGR/commit/5d0e0d2) Created Create Project Modal component
+  * [#b185666](https://github.com/pacholoamit/GO-TASK-MGR/commit/b185666) Fixed issue where non existant tasks can get assigned to projects
+  * [#5efeb67](https://github.com/pacholoamit/GO-TASK-MGR/commit/5efeb67) Minor changes
+* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#c5687a2](https://github.com/pacholoamit/GO-TASK-MGR/commit/c5687a2) Able to now create projects
+  * [#5d0e0d2](https://github.com/pacholoamit/GO-TASK-MGR/commit/5d0e0d2) Created Create Project Modal component
+  * [#b185666](https://github.com/pacholoamit/GO-TASK-MGR/commit/b185666) Fixed issue where non existant tasks can get assigned to projects
+  * [#5efeb67](https://github.com/pacholoamit/GO-TASK-MGR/commit/5efeb67) Minor changes
 * ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
   * [#c58f9c3](https://github.com/pacholoamit/GO-TASK-MGR/commit/c58f9c3) render multiple tasks in web app&#39;
   * [#33b5924](https://github.com/pacholoamit/GO-TASK-MGR/commit/33b5924) Create basic component for tasks &amp; fix on project.repositories api endpoint
@@ -127,8 +137,6 @@
   * [#122b65a](https://github.com/pacholoamit/GO-TASK-MGR/commit/122b65a) Add editable project &amp; Add a description
   * [#bb42a33](https://github.com/pacholoamit/GO-TASK-MGR/commit/bb42a33) Added Navbar Actions &amp; Create basic projects page
 * 🌟 Starred [wailsapp/wails](https://github.com/wailsapp/wails)
-* 🌟 Starred [localstack/localstack](https://github.com/localstack/localstack)
-* 🌟 Starred [fyne-io/fyne](https://github.com/fyne-io/fyne)
 
 
 ### Stalk me here ❤️
