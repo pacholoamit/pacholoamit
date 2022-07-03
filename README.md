@@ -112,6 +112,26 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 5 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#ecedca5](https://github.com/pacholoamit/GO-TASK-MGR/commit/ecedca5) Implement revalidation on all forms of mutation
+  * [#94700ad](https://github.com/pacholoamit/GO-TASK-MGR/commit/94700ad) fix fetcher error handling for useSWR
+  * [#5cb00c3](https://github.com/pacholoamit/GO-TASK-MGR/commit/5cb00c3) Refactor validation to happen on hooks
+  * [#a59e041](https://github.com/pacholoamit/GO-TASK-MGR/commit/a59e041) Implement revalidation on new Projects
+  * [#b898ed4](https://github.com/pacholoamit/GO-TASK-MGR/commit/b898ed4) Implement default fetcher for useSWR
+* ➡️ Pushed 5 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#ecedca5](https://github.com/pacholoamit/GO-TASK-MGR/commit/ecedca5) Implement revalidation on all forms of mutation
+  * [#94700ad](https://github.com/pacholoamit/GO-TASK-MGR/commit/94700ad) fix fetcher error handling for useSWR
+  * [#5cb00c3](https://github.com/pacholoamit/GO-TASK-MGR/commit/5cb00c3) Refactor validation to happen on hooks
+  * [#a59e041](https://github.com/pacholoamit/GO-TASK-MGR/commit/a59e041) Implement revalidation on new Projects
+  * [#b898ed4](https://github.com/pacholoamit/GO-TASK-MGR/commit/b898ed4) Implement default fetcher for useSWR
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#ee01304](https://github.com/pacholoamit/GO-TASK-MGR/commit/ee01304) Add ability to delete project
+  * [#005d929](https://github.com/pacholoamit/GO-TASK-MGR/commit/005d929) Added menu on projects button
+  * [#ae54ce1](https://github.com/pacholoamit/GO-TASK-MGR/commit/ae54ce1) Added functionality to reset Task drawer if New Task is selected as an action&#39;
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#ee01304](https://github.com/pacholoamit/GO-TASK-MGR/commit/ee01304) Add ability to delete project
+  * [#005d929](https://github.com/pacholoamit/GO-TASK-MGR/commit/005d929) Added menu on projects button
+  * [#ae54ce1](https://github.com/pacholoamit/GO-TASK-MGR/commit/ae54ce1) Added functionality to reset Task drawer if New Task is selected as an action&#39;
 * ➡️ Pushed 8 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
   * [#98376f1](https://github.com/pacholoamit/GO-TASK-MGR/commit/98376f1) Task Dialog context successfully implemented
   * [#83de90b](https://github.com/pacholoamit/GO-TASK-MGR/commit/83de90b) Create context for task drawer
@@ -121,32 +141,6 @@
   * [#2046d33](https://github.com/pacholoamit/GO-TASK-MGR/commit/2046d33) Make cards semi-responsive
   * [#d80a4ef](https://github.com/pacholoamit/GO-TASK-MGR/commit/d80a4ef) Modify home page to show Recently created tasks
   * [#c169d1b](https://github.com/pacholoamit/GO-TASK-MGR/commit/c169d1b) Add Home button on header
-* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#98376f1](https://github.com/pacholoamit/GO-TASK-MGR/commit/98376f1) Task Dialog context successfully implemented
-  * [#83de90b](https://github.com/pacholoamit/GO-TASK-MGR/commit/83de90b) Create context for task drawer
-  * [#affa7db](https://github.com/pacholoamit/GO-TASK-MGR/commit/affa7db) Persist colorscheme
-  * [#f5db1c9](https://github.com/pacholoamit/GO-TASK-MGR/commit/f5db1c9) App responsive
-* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#486a35e](https://github.com/pacholoamit/GO-TASK-MGR/commit/486a35e) Made app responsive
-  * [#2046d33](https://github.com/pacholoamit/GO-TASK-MGR/commit/2046d33) Make cards semi-responsive
-  * [#d80a4ef](https://github.com/pacholoamit/GO-TASK-MGR/commit/d80a4ef) Modify home page to show Recently created tasks
-  * [#c169d1b](https://github.com/pacholoamit/GO-TASK-MGR/commit/c169d1b) Add Home button on header
-* ➡️ Pushed 7 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#226dd41](https://github.com/pacholoamit/GO-TASK-MGR/commit/226dd41) Transition task creation to use Drawer instead of Modal
-  * [#89b97e0](https://github.com/pacholoamit/GO-TASK-MGR/commit/89b97e0) segregated Modals to custom hooks
-  * [#488f8c8](https://github.com/pacholoamit/GO-TASK-MGR/commit/488f8c8) Migrate to zod for form validation
-  * [#e9fb005](https://github.com/pacholoamit/GO-TASK-MGR/commit/e9fb005) API modifications&#39;
-  * [#b56ab87](https://github.com/pacholoamit/GO-TASK-MGR/commit/b56ab87) Minor refactor on loads
-  * [#5c964b6](https://github.com/pacholoamit/GO-TASK-MGR/commit/5c964b6) Fixe hydration issue
-  * [#94110e6](https://github.com/pacholoamit/GO-TASK-MGR/commit/94110e6) Moved TaskCards to own component
-* ➡️ Pushed 7 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#226dd41](https://github.com/pacholoamit/GO-TASK-MGR/commit/226dd41) Transition task creation to use Drawer instead of Modal
-  * [#89b97e0](https://github.com/pacholoamit/GO-TASK-MGR/commit/89b97e0) segregated Modals to custom hooks
-  * [#488f8c8](https://github.com/pacholoamit/GO-TASK-MGR/commit/488f8c8) Migrate to zod for form validation
-  * [#e9fb005](https://github.com/pacholoamit/GO-TASK-MGR/commit/e9fb005) API modifications&#39;
-  * [#b56ab87](https://github.com/pacholoamit/GO-TASK-MGR/commit/b56ab87) Minor refactor on loads
-  * [#5c964b6](https://github.com/pacholoamit/GO-TASK-MGR/commit/5c964b6) Fixe hydration issue
-  * [#94110e6](https://github.com/pacholoamit/GO-TASK-MGR/commit/94110e6) Moved TaskCards to own component
 
 
 ### Stalk me here ❤️
