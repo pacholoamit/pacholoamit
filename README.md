@@ -112,6 +112,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 7 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#226dd41](https://github.com/pacholoamit/GO-TASK-MGR/commit/226dd41) Transition task creation to use Drawer instead of Modal
+  * [#89b97e0](https://github.com/pacholoamit/GO-TASK-MGR/commit/89b97e0) segregated Modals to custom hooks
+  * [#488f8c8](https://github.com/pacholoamit/GO-TASK-MGR/commit/488f8c8) Migrate to zod for form validation
+  * [#e9fb005](https://github.com/pacholoamit/GO-TASK-MGR/commit/e9fb005) API modifications&#39;
+  * [#b56ab87](https://github.com/pacholoamit/GO-TASK-MGR/commit/b56ab87) Minor refactor on loads
+  * [#5c964b6](https://github.com/pacholoamit/GO-TASK-MGR/commit/5c964b6) Fixe hydration issue
+  * [#94110e6](https://github.com/pacholoamit/GO-TASK-MGR/commit/94110e6) Moved TaskCards to own component
+* ➡️ Pushed 7 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#226dd41](https://github.com/pacholoamit/GO-TASK-MGR/commit/226dd41) Transition task creation to use Drawer instead of Modal
+  * [#89b97e0](https://github.com/pacholoamit/GO-TASK-MGR/commit/89b97e0) segregated Modals to custom hooks
+  * [#488f8c8](https://github.com/pacholoamit/GO-TASK-MGR/commit/488f8c8) Migrate to zod for form validation
+  * [#e9fb005](https://github.com/pacholoamit/GO-TASK-MGR/commit/e9fb005) API modifications&#39;
+  * [#b56ab87](https://github.com/pacholoamit/GO-TASK-MGR/commit/b56ab87) Minor refactor on loads
+  * [#5c964b6](https://github.com/pacholoamit/GO-TASK-MGR/commit/5c964b6) Fixe hydration issue
+  * [#94110e6](https://github.com/pacholoamit/GO-TASK-MGR/commit/94110e6) Moved TaskCards to own component
 * ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
   * [#adc512a](https://github.com/pacholoamit/GO-TASK-MGR/commit/adc512a) minor fixes
   * [#5789a60](https://github.com/pacholoamit/GO-TASK-MGR/commit/5789a60) Fix page not rendering correctly based on project id
@@ -125,18 +141,6 @@
   * [#5d0e0d2](https://github.com/pacholoamit/GO-TASK-MGR/commit/5d0e0d2) Created Create Project Modal component
   * [#b185666](https://github.com/pacholoamit/GO-TASK-MGR/commit/b185666) Fixed issue where non existant tasks can get assigned to projects
   * [#5efeb67](https://github.com/pacholoamit/GO-TASK-MGR/commit/5efeb67) Minor changes
-* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#c5687a2](https://github.com/pacholoamit/GO-TASK-MGR/commit/c5687a2) Able to now create projects
-  * [#5d0e0d2](https://github.com/pacholoamit/GO-TASK-MGR/commit/5d0e0d2) Created Create Project Modal component
-  * [#b185666](https://github.com/pacholoamit/GO-TASK-MGR/commit/b185666) Fixed issue where non existant tasks can get assigned to projects
-  * [#5efeb67](https://github.com/pacholoamit/GO-TASK-MGR/commit/5efeb67) Minor changes
-* ➡️ Pushed 6 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#c58f9c3](https://github.com/pacholoamit/GO-TASK-MGR/commit/c58f9c3) render multiple tasks in web app&#39;
-  * [#33b5924](https://github.com/pacholoamit/GO-TASK-MGR/commit/33b5924) Create basic component for tasks &amp; fix on project.repositories api endpoint
-  * [#141e894](https://github.com/pacholoamit/GO-TASK-MGR/commit/141e894) Restructure api calls to hooks
-  * [#39cb3e2](https://github.com/pacholoamit/GO-TASK-MGR/commit/39cb3e2) Segregation of components
-  * [#122b65a](https://github.com/pacholoamit/GO-TASK-MGR/commit/122b65a) Add editable project &amp; Add a description
-  * [#bb42a33](https://github.com/pacholoamit/GO-TASK-MGR/commit/bb42a33) Added Navbar Actions &amp; Create basic projects page
 
 
 ### Stalk me here ❤️
