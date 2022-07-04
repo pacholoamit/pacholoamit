@@ -112,6 +112,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#9e663ed](https://github.com/pacholoamit/GO-TASK-MGR/commit/9e663ed) Implement useCreateOrUpdateTask
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#6423a06](https://github.com/pacholoamit/GO-TASK-MGR/commit/6423a06) Implement labels&#39;
 * ➡️ Pushed 5 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
   * [#ecedca5](https://github.com/pacholoamit/GO-TASK-MGR/commit/ecedca5) Implement revalidation on all forms of mutation
   * [#94700ad](https://github.com/pacholoamit/GO-TASK-MGR/commit/94700ad) fix fetcher error handling for useSWR
@@ -128,19 +132,6 @@
   * [#ee01304](https://github.com/pacholoamit/GO-TASK-MGR/commit/ee01304) Add ability to delete project
   * [#005d929](https://github.com/pacholoamit/GO-TASK-MGR/commit/005d929) Added menu on projects button
   * [#ae54ce1](https://github.com/pacholoamit/GO-TASK-MGR/commit/ae54ce1) Added functionality to reset Task drawer if New Task is selected as an action&#39;
-* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#ee01304](https://github.com/pacholoamit/GO-TASK-MGR/commit/ee01304) Add ability to delete project
-  * [#005d929](https://github.com/pacholoamit/GO-TASK-MGR/commit/005d929) Added menu on projects button
-  * [#ae54ce1](https://github.com/pacholoamit/GO-TASK-MGR/commit/ae54ce1) Added functionality to reset Task drawer if New Task is selected as an action&#39;
-* ➡️ Pushed 8 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#98376f1](https://github.com/pacholoamit/GO-TASK-MGR/commit/98376f1) Task Dialog context successfully implemented
-  * [#83de90b](https://github.com/pacholoamit/GO-TASK-MGR/commit/83de90b) Create context for task drawer
-  * [#affa7db](https://github.com/pacholoamit/GO-TASK-MGR/commit/affa7db) Persist colorscheme
-  * [#f5db1c9](https://github.com/pacholoamit/GO-TASK-MGR/commit/f5db1c9) App responsive
-  * [#486a35e](https://github.com/pacholoamit/GO-TASK-MGR/commit/486a35e) Made app responsive
-  * [#2046d33](https://github.com/pacholoamit/GO-TASK-MGR/commit/2046d33) Make cards semi-responsive
-  * [#d80a4ef](https://github.com/pacholoamit/GO-TASK-MGR/commit/d80a4ef) Modify home page to show Recently created tasks
-  * [#c169d1b](https://github.com/pacholoamit/GO-TASK-MGR/commit/c169d1b) Add Home button on header
 
 
 ### Stalk me here ❤️
