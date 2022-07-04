@@ -112,26 +112,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#9e663ed](https://github.com/pacholoamit/GO-TASK-MGR/commit/9e663ed) Implement useCreateOrUpdateTask
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#6423a06](https://github.com/pacholoamit/GO-TASK-MGR/commit/6423a06) Implement labels&#39;
-* ➡️ Pushed 5 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#ecedca5](https://github.com/pacholoamit/GO-TASK-MGR/commit/ecedca5) Implement revalidation on all forms of mutation
-  * [#94700ad](https://github.com/pacholoamit/GO-TASK-MGR/commit/94700ad) fix fetcher error handling for useSWR
-  * [#5cb00c3](https://github.com/pacholoamit/GO-TASK-MGR/commit/5cb00c3) Refactor validation to happen on hooks
-  * [#a59e041](https://github.com/pacholoamit/GO-TASK-MGR/commit/a59e041) Implement revalidation on new Projects
-  * [#b898ed4](https://github.com/pacholoamit/GO-TASK-MGR/commit/b898ed4) Implement default fetcher for useSWR
-* ➡️ Pushed 5 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#ecedca5](https://github.com/pacholoamit/GO-TASK-MGR/commit/ecedca5) Implement revalidation on all forms of mutation
-  * [#94700ad](https://github.com/pacholoamit/GO-TASK-MGR/commit/94700ad) fix fetcher error handling for useSWR
-  * [#5cb00c3](https://github.com/pacholoamit/GO-TASK-MGR/commit/5cb00c3) Refactor validation to happen on hooks
-  * [#a59e041](https://github.com/pacholoamit/GO-TASK-MGR/commit/a59e041) Implement revalidation on new Projects
-  * [#b898ed4](https://github.com/pacholoamit/GO-TASK-MGR/commit/b898ed4) Implement default fetcher for useSWR
+* 🌟 Starred [golang/go](https://github.com/golang/go)
+* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#8c1cfa8](https://github.com/pacholoamit/GO-TASK-MGR/commit/8c1cfa8) Added revalidation for deleting tasks
+  * [#ab1ba3d](https://github.com/pacholoamit/GO-TASK-MGR/commit/ab1ba3d) Added feature to assign task to existing project if existing
+  * [#a526611](https://github.com/pacholoamit/GO-TASK-MGR/commit/a526611) add ProjectID in Create Task repository
+  * [#dab6e35](https://github.com/pacholoamit/GO-TASK-MGR/commit/dab6e35) hotfix for label not submitting if empty
+* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#8c1cfa8](https://github.com/pacholoamit/GO-TASK-MGR/commit/8c1cfa8) Added revalidation for deleting tasks
+  * [#ab1ba3d](https://github.com/pacholoamit/GO-TASK-MGR/commit/ab1ba3d) Added feature to assign task to existing project if existing
+  * [#a526611](https://github.com/pacholoamit/GO-TASK-MGR/commit/a526611) add ProjectID in Create Task repository
+  * [#dab6e35](https://github.com/pacholoamit/GO-TASK-MGR/commit/dab6e35) hotfix for label not submitting if empty
 * ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#ee01304](https://github.com/pacholoamit/GO-TASK-MGR/commit/ee01304) Add ability to delete project
-  * [#005d929](https://github.com/pacholoamit/GO-TASK-MGR/commit/005d929) Added menu on projects button
-  * [#ae54ce1](https://github.com/pacholoamit/GO-TASK-MGR/commit/ae54ce1) Added functionality to reset Task drawer if New Task is selected as an action&#39;
+  * [#dc3f75e](https://github.com/pacholoamit/GO-TASK-MGR/commit/dc3f75e) Use chips for Status&#39;
+  * [#4b437d6](https://github.com/pacholoamit/GO-TASK-MGR/commit/4b437d6) Added labels
+  * [#e79fcdf](https://github.com/pacholoamit/GO-TASK-MGR/commit/e79fcdf) hotfix on label &amp; status
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#dc3f75e](https://github.com/pacholoamit/GO-TASK-MGR/commit/dc3f75e) Use chips for Status&#39;
+  * [#4b437d6](https://github.com/pacholoamit/GO-TASK-MGR/commit/4b437d6) Added labels
+  * [#e79fcdf](https://github.com/pacholoamit/GO-TASK-MGR/commit/e79fcdf) hotfix on label &amp; status
 
 
 ### Stalk me here ❤️
