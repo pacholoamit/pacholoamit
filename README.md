@@ -112,25 +112,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [golang/go](https://github.com/golang/go)
-* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#8c1cfa8](https://github.com/pacholoamit/GO-TASK-MGR/commit/8c1cfa8) Added revalidation for deleting tasks
-  * [#ab1ba3d](https://github.com/pacholoamit/GO-TASK-MGR/commit/ab1ba3d) Added feature to assign task to existing project if existing
-  * [#a526611](https://github.com/pacholoamit/GO-TASK-MGR/commit/a526611) add ProjectID in Create Task repository
-  * [#dab6e35](https://github.com/pacholoamit/GO-TASK-MGR/commit/dab6e35) hotfix for label not submitting if empty
-* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#8c1cfa8](https://github.com/pacholoamit/GO-TASK-MGR/commit/8c1cfa8) Added revalidation for deleting tasks
-  * [#ab1ba3d](https://github.com/pacholoamit/GO-TASK-MGR/commit/ab1ba3d) Added feature to assign task to existing project if existing
-  * [#a526611](https://github.com/pacholoamit/GO-TASK-MGR/commit/a526611) add ProjectID in Create Task repository
-  * [#dab6e35](https://github.com/pacholoamit/GO-TASK-MGR/commit/dab6e35) hotfix for label not submitting if empty
 * ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#dc3f75e](https://github.com/pacholoamit/GO-TASK-MGR/commit/dc3f75e) Use chips for Status&#39;
-  * [#4b437d6](https://github.com/pacholoamit/GO-TASK-MGR/commit/4b437d6) Added labels
-  * [#e79fcdf](https://github.com/pacholoamit/GO-TASK-MGR/commit/e79fcdf) hotfix on label &amp; status
+  * [#a35d8cb](https://github.com/pacholoamit/GO-TASK-MGR/commit/a35d8cb) Hotfix issue where stale project name would still get rendered&#39;
+  * [#ddfd394](https://github.com/pacholoamit/GO-TASK-MGR/commit/ddfd394) Implement updating of Project based on editing description
+  * [#67ce865](https://github.com/pacholoamit/GO-TASK-MGR/commit/67ce865) Implement updating of Project based on editing name
 * ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#dc3f75e](https://github.com/pacholoamit/GO-TASK-MGR/commit/dc3f75e) Use chips for Status&#39;
-  * [#4b437d6](https://github.com/pacholoamit/GO-TASK-MGR/commit/4b437d6) Added labels
-  * [#e79fcdf](https://github.com/pacholoamit/GO-TASK-MGR/commit/e79fcdf) hotfix on label &amp; status
+  * [#a35d8cb](https://github.com/pacholoamit/GO-TASK-MGR/commit/a35d8cb) Hotfix issue where stale project name would still get rendered&#39;
+  * [#ddfd394](https://github.com/pacholoamit/GO-TASK-MGR/commit/ddfd394) Implement updating of Project based on editing description
+  * [#67ce865](https://github.com/pacholoamit/GO-TASK-MGR/commit/67ce865) Implement updating of Project based on editing name
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#bd0eabb](https://github.com/pacholoamit/GO-TASK-MGR/commit/bd0eabb) Implemented pushing to home page after project is deleted
+  * [#6b56256](https://github.com/pacholoamit/GO-TASK-MGR/commit/6b56256) Add menu on project page &amp; Push to home page if project is deleted
+  * [#b8d0d3a](https://github.com/pacholoamit/GO-TASK-MGR/commit/b8d0d3a) Added default Project label message if none exist&#39;
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#bd0eabb](https://github.com/pacholoamit/GO-TASK-MGR/commit/bd0eabb) Implemented pushing to home page after project is deleted
+  * [#6b56256](https://github.com/pacholoamit/GO-TASK-MGR/commit/6b56256) Add menu on project page &amp; Push to home page if project is deleted
+  * [#b8d0d3a](https://github.com/pacholoamit/GO-TASK-MGR/commit/b8d0d3a) Added default Project label message if none exist&#39;
+* 🌟 Starred [golang/go](https://github.com/golang/go)
 
 
 ### Stalk me here ❤️
