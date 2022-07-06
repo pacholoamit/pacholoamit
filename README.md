@@ -112,23 +112,41 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 10 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#34cabbc](https://github.com/pacholoamit/GO-TASK-MGR/commit/34cabbc) modify logger prefix
+  * [#1a0f94b](https://github.com/pacholoamit/GO-TASK-MGR/commit/1a0f94b) Implement logging for Projects repositories
+  * [#70ae440](https://github.com/pacholoamit/GO-TASK-MGR/commit/70ae440) modify error return values to nil
+  * [#ad29aa0](https://github.com/pacholoamit/GO-TASK-MGR/commit/ad29aa0) Implement logging for Projects services
+  * [#7b0a65a](https://github.com/pacholoamit/GO-TASK-MGR/commit/7b0a65a) Implement logging for projects controller
+  * [#1fc2a6e](https://github.com/pacholoamit/GO-TASK-MGR/commit/1fc2a6e) Successfully refactored project controllers, service and repo
+  * [#390f81f](https://github.com/pacholoamit/GO-TASK-MGR/commit/390f81f) Refactor project controller &amp; svc
+  * [#ea94969](https://github.com/pacholoamit/GO-TASK-MGR/commit/ea94969) Implement custom log format for server
+  * [#1bbaf8d](https://github.com/pacholoamit/GO-TASK-MGR/commit/1bbaf8d) Implement object creation on routes &amp; controller
+  * [#9eb4cc4](https://github.com/pacholoamit/GO-TASK-MGR/commit/9eb4cc4) implemented graceful shutdown
+* ➡️ Pushed 10 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#34cabbc](https://github.com/pacholoamit/GO-TASK-MGR/commit/34cabbc) modify logger prefix
+  * [#1a0f94b](https://github.com/pacholoamit/GO-TASK-MGR/commit/1a0f94b) Implement logging for Projects repositories
+  * [#70ae440](https://github.com/pacholoamit/GO-TASK-MGR/commit/70ae440) modify error return values to nil
+  * [#ad29aa0](https://github.com/pacholoamit/GO-TASK-MGR/commit/ad29aa0) Implement logging for Projects services
+  * [#7b0a65a](https://github.com/pacholoamit/GO-TASK-MGR/commit/7b0a65a) Implement logging for projects controller
+  * [#1fc2a6e](https://github.com/pacholoamit/GO-TASK-MGR/commit/1fc2a6e) Successfully refactored project controllers, service and repo
+  * [#390f81f](https://github.com/pacholoamit/GO-TASK-MGR/commit/390f81f) Refactor project controller &amp; svc
+  * [#ea94969](https://github.com/pacholoamit/GO-TASK-MGR/commit/ea94969) Implement custom log format for server
+  * [#1bbaf8d](https://github.com/pacholoamit/GO-TASK-MGR/commit/1bbaf8d) Implement object creation on routes &amp; controller
+  * [#9eb4cc4](https://github.com/pacholoamit/GO-TASK-MGR/commit/9eb4cc4) implemented graceful shutdown
+* ➡️ Pushed 7 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `api-refactor`
+  * [#34cabbc](https://github.com/pacholoamit/GO-TASK-MGR/commit/34cabbc) modify logger prefix
+  * [#1a0f94b](https://github.com/pacholoamit/GO-TASK-MGR/commit/1a0f94b) Implement logging for Projects repositories
+  * [#70ae440](https://github.com/pacholoamit/GO-TASK-MGR/commit/70ae440) modify error return values to nil
+  * [#ad29aa0](https://github.com/pacholoamit/GO-TASK-MGR/commit/ad29aa0) Implement logging for Projects services
+  * [#7b0a65a](https://github.com/pacholoamit/GO-TASK-MGR/commit/7b0a65a) Implement logging for projects controller
+  * [#1fc2a6e](https://github.com/pacholoamit/GO-TASK-MGR/commit/1fc2a6e) Successfully refactored project controllers, service and repo
+  * [#390f81f](https://github.com/pacholoamit/GO-TASK-MGR/commit/390f81f) Refactor project controller &amp; svc
+* ⏺️ Created new branch api-refactor in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
 * ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
   * [#a35d8cb](https://github.com/pacholoamit/GO-TASK-MGR/commit/a35d8cb) Hotfix issue where stale project name would still get rendered&#39;
   * [#ddfd394](https://github.com/pacholoamit/GO-TASK-MGR/commit/ddfd394) Implement updating of Project based on editing description
   * [#67ce865](https://github.com/pacholoamit/GO-TASK-MGR/commit/67ce865) Implement updating of Project based on editing name
-* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#a35d8cb](https://github.com/pacholoamit/GO-TASK-MGR/commit/a35d8cb) Hotfix issue where stale project name would still get rendered&#39;
-  * [#ddfd394](https://github.com/pacholoamit/GO-TASK-MGR/commit/ddfd394) Implement updating of Project based on editing description
-  * [#67ce865](https://github.com/pacholoamit/GO-TASK-MGR/commit/67ce865) Implement updating of Project based on editing name
-* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#bd0eabb](https://github.com/pacholoamit/GO-TASK-MGR/commit/bd0eabb) Implemented pushing to home page after project is deleted
-  * [#6b56256](https://github.com/pacholoamit/GO-TASK-MGR/commit/6b56256) Add menu on project page &amp; Push to home page if project is deleted
-  * [#b8d0d3a](https://github.com/pacholoamit/GO-TASK-MGR/commit/b8d0d3a) Added default Project label message if none exist&#39;
-* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#bd0eabb](https://github.com/pacholoamit/GO-TASK-MGR/commit/bd0eabb) Implemented pushing to home page after project is deleted
-  * [#6b56256](https://github.com/pacholoamit/GO-TASK-MGR/commit/6b56256) Add menu on project page &amp; Push to home page if project is deleted
-  * [#b8d0d3a](https://github.com/pacholoamit/GO-TASK-MGR/commit/b8d0d3a) Added default Project label message if none exist&#39;
-* 🌟 Starred [golang/go](https://github.com/golang/go)
 
 
 ### Stalk me here ❤️
