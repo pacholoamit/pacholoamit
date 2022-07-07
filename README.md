@@ -112,6 +112,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#45f5054](https://github.com/pacholoamit/GO-TASK-MGR/commit/45f5054) added validation
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `api-refactor`
+  * [#45f5054](https://github.com/pacholoamit/GO-TASK-MGR/commit/45f5054) added validation
 * 🌟 Starred [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app)
 * 🌟 Starred [qiangxue/go-rest-api](https://github.com/qiangxue/go-rest-api)
 * ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
@@ -119,22 +123,6 @@
   * [#c84753e](https://github.com/pacholoamit/GO-TASK-MGR/commit/c84753e) Implement better middleware to handle dynamic query params
   * [#728ce96](https://github.com/pacholoamit/GO-TASK-MGR/commit/728ce96) Implement error handling on ID request params
   * [#6f25023](https://github.com/pacholoamit/GO-TASK-MGR/commit/6f25023) Add PORT environment variables
-* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `api-refactor`
-  * [#6cfa953](https://github.com/pacholoamit/GO-TASK-MGR/commit/6cfa953) implement validation middleware globally
-  * [#c84753e](https://github.com/pacholoamit/GO-TASK-MGR/commit/c84753e) Implement better middleware to handle dynamic query params
-  * [#728ce96](https://github.com/pacholoamit/GO-TASK-MGR/commit/728ce96) Implement error handling on ID request params
-  * [#6f25023](https://github.com/pacholoamit/GO-TASK-MGR/commit/6f25023) Add PORT environment variables
-* ➡️ Pushed 10 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#34cabbc](https://github.com/pacholoamit/GO-TASK-MGR/commit/34cabbc) modify logger prefix
-  * [#1a0f94b](https://github.com/pacholoamit/GO-TASK-MGR/commit/1a0f94b) Implement logging for Projects repositories
-  * [#70ae440](https://github.com/pacholoamit/GO-TASK-MGR/commit/70ae440) modify error return values to nil
-  * [#ad29aa0](https://github.com/pacholoamit/GO-TASK-MGR/commit/ad29aa0) Implement logging for Projects services
-  * [#7b0a65a](https://github.com/pacholoamit/GO-TASK-MGR/commit/7b0a65a) Implement logging for projects controller
-  * [#1fc2a6e](https://github.com/pacholoamit/GO-TASK-MGR/commit/1fc2a6e) Successfully refactored project controllers, service and repo
-  * [#390f81f](https://github.com/pacholoamit/GO-TASK-MGR/commit/390f81f) Refactor project controller &amp; svc
-  * [#ea94969](https://github.com/pacholoamit/GO-TASK-MGR/commit/ea94969) Implement custom log format for server
-  * [#1bbaf8d](https://github.com/pacholoamit/GO-TASK-MGR/commit/1bbaf8d) Implement object creation on routes &amp; controller
-  * [#9eb4cc4](https://github.com/pacholoamit/GO-TASK-MGR/commit/9eb4cc4) implemented graceful shutdown
 
 
 ### Stalk me here ❤️
