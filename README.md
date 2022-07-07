@@ -112,17 +112,28 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+* 🌟 Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)
+* ➡️ Pushed 10 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#0799fba](https://github.com/pacholoamit/GO-TASK-MGR/commit/0799fba) successfully refactored task routes
+  * [#d6a17d5](https://github.com/pacholoamit/GO-TASK-MGR/commit/d6a17d5) Fix logger issue
+  * [#32d26dd](https://github.com/pacholoamit/GO-TASK-MGR/commit/32d26dd) implement new structure on List task service
+  * [#cbdafd7](https://github.com/pacholoamit/GO-TASK-MGR/commit/cbdafd7) Create task package
+  * [#af3e17e](https://github.com/pacholoamit/GO-TASK-MGR/commit/af3e17e) Start refactor to internal directory
   * [#45f5054](https://github.com/pacholoamit/GO-TASK-MGR/commit/45f5054) added validation
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `api-refactor`
-  * [#45f5054](https://github.com/pacholoamit/GO-TASK-MGR/commit/45f5054) added validation
-* 🌟 Starred [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app)
-* 🌟 Starred [qiangxue/go-rest-api](https://github.com/qiangxue/go-rest-api)
-* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
   * [#6cfa953](https://github.com/pacholoamit/GO-TASK-MGR/commit/6cfa953) implement validation middleware globally
   * [#c84753e](https://github.com/pacholoamit/GO-TASK-MGR/commit/c84753e) Implement better middleware to handle dynamic query params
   * [#728ce96](https://github.com/pacholoamit/GO-TASK-MGR/commit/728ce96) Implement error handling on ID request params
   * [#6f25023](https://github.com/pacholoamit/GO-TASK-MGR/commit/6f25023) Add PORT environment variables
+* ➡️ Pushed 5 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#0799fba](https://github.com/pacholoamit/GO-TASK-MGR/commit/0799fba) successfully refactored task routes
+  * [#d6a17d5](https://github.com/pacholoamit/GO-TASK-MGR/commit/d6a17d5) Fix logger issue
+  * [#32d26dd](https://github.com/pacholoamit/GO-TASK-MGR/commit/32d26dd) implement new structure on List task service
+  * [#cbdafd7](https://github.com/pacholoamit/GO-TASK-MGR/commit/cbdafd7) Create task package
+  * [#af3e17e](https://github.com/pacholoamit/GO-TASK-MGR/commit/af3e17e) Start refactor to internal directory
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `api-refactor`
+  * [#0799fba](https://github.com/pacholoamit/GO-TASK-MGR/commit/0799fba) successfully refactored task routes
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `api-refactor`
+  * [#d6a17d5](https://github.com/pacholoamit/GO-TASK-MGR/commit/d6a17d5) Fix logger issue
 
 
 ### Stalk me here ❤️
