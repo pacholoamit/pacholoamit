@@ -112,29 +112,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `api-refactor`
-  * [#e730181](https://github.com/pacholoamit/GO-TASK-MGR/commit/e730181) Add serialization step on GetTasks
-  * [#cedef9b](https://github.com/pacholoamit/GO-TASK-MGR/commit/cedef9b) cleanup
-* ➡️ Pushed 5 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#aeb6c26](https://github.com/pacholoamit/GO-TASK-MGR/commit/aeb6c26) fix structure of GetTasks route for project
-  * [#fe6c90a](https://github.com/pacholoamit/GO-TASK-MGR/commit/fe6c90a) hotfix validation issues
-  * [#ef7ed89](https://github.com/pacholoamit/GO-TASK-MGR/commit/ef7ed89) Implement Tasks array in Project Task key &amp; improved error handling
-  * [#e4769db](https://github.com/pacholoamit/GO-TASK-MGR/commit/e4769db) Fix issue where any projectId can be set for tasks even if non-existant
-  * [#7721503](https://github.com/pacholoamit/GO-TASK-MGR/commit/7721503) Implement GetTask handler for Project package
-* ➡️ Pushed 5 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `api-refactor`
-  * [#aeb6c26](https://github.com/pacholoamit/GO-TASK-MGR/commit/aeb6c26) fix structure of GetTasks route for project
-  * [#fe6c90a](https://github.com/pacholoamit/GO-TASK-MGR/commit/fe6c90a) hotfix validation issues
-  * [#ef7ed89](https://github.com/pacholoamit/GO-TASK-MGR/commit/ef7ed89) Implement Tasks array in Project Task key &amp; improved error handling
-  * [#e4769db](https://github.com/pacholoamit/GO-TASK-MGR/commit/e4769db) Fix issue where any projectId can be set for tasks even if non-existant
-  * [#7721503](https://github.com/pacholoamit/GO-TASK-MGR/commit/7721503) Implement GetTask handler for Project package
-* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#9db58d8](https://github.com/pacholoamit/GO-TASK-MGR/commit/9db58d8) Hotfixes on project API routes
-  * [#98123c4](https://github.com/pacholoamit/GO-TASK-MGR/commit/98123c4) Implemented refactored Project routes on main.go
-  * [#04f490d](https://github.com/pacholoamit/GO-TASK-MGR/commit/04f490d) Create Project api, service and repository
-* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `api-refactor`
-  * [#9db58d8](https://github.com/pacholoamit/GO-TASK-MGR/commit/9db58d8) Hotfixes on project API routes
-  * [#98123c4](https://github.com/pacholoamit/GO-TASK-MGR/commit/98123c4) Implemented refactored Project routes on main.go
-  * [#04f490d](https://github.com/pacholoamit/GO-TASK-MGR/commit/04f490d) Create Project api, service and repository
+* ➡️ Pushed 2 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#434ccef](https://github.com/pacholoamit/GO-TASK-MGR/commit/434ccef) remove docker syntax comment
+  * [#961292b](https://github.com/pacholoamit/GO-TASK-MGR/commit/961292b) Fix dockerfile
+* 🌟 Starred [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#3c2b614](https://github.com/pacholoamit/GO-TASK-MGR/commit/3c2b614) Remove $ from doc
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#becb363](https://github.com/pacholoamit/GO-TASK-MGR/commit/becb363) Docfix
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
+  * [#ffa1a15](https://github.com/pacholoamit/GO-TASK-MGR/commit/ffa1a15) relocate web files, created db firectory for sqlite db
 
 
 ### Stalk me here ❤️
