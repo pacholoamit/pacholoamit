@@ -112,16 +112,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#434ccef](https://github.com/pacholoamit/GO-TASK-MGR/commit/434ccef) remove docker syntax comment
-  * [#961292b](https://github.com/pacholoamit/GO-TASK-MGR/commit/961292b) Fix dockerfile
-* 🌟 Starred [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#3c2b614](https://github.com/pacholoamit/GO-TASK-MGR/commit/3c2b614) Remove $ from doc
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#becb363](https://github.com/pacholoamit/GO-TASK-MGR/commit/becb363) Docfix
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#ffa1a15](https://github.com/pacholoamit/GO-TASK-MGR/commit/ffa1a15) relocate web files, created db firectory for sqlite db
+* 🌟 Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+* 📦 Released **v0.1.0** of [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
+* ⏺️ Created new tag v0.1.0 in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
+* ⏺️ Created new tag v0.1.0 in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
 
 
 ### Stalk me here ❤️
