@@ -112,6 +112,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch implement-cobra in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
+* ➡️ Pushed 13 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#5174bf6](https://github.com/pacholoamit/GO-TASK-MGR/commit/5174bf6) Modify github workflow, readme, and goreleaser
+  * [#b6e8b5d](https://github.com/pacholoamit/GO-TASK-MGR/commit/b6e8b5d) Modify readme for binaries quickstart
+  * [#c866571](https://github.com/pacholoamit/GO-TASK-MGR/commit/c866571) Modify docker compose file
+  * [#a2f5819](https://github.com/pacholoamit/GO-TASK-MGR/commit/a2f5819) Modify readme
+  * [#0376525](https://github.com/pacholoamit/GO-TASK-MGR/commit/0376525) Remove React router dom underlined
+  * [#2cc4dcf](https://github.com/pacholoamit/GO-TASK-MGR/commit/2cc4dcf) added dev.sh script
+  * [#2e092e3](https://github.com/pacholoamit/GO-TASK-MGR/commit/2e092e3) Added Readme and License
+  * [#b631fbd](https://github.com/pacholoamit/GO-TASK-MGR/commit/b631fbd) Remove docker from goreleaser
+  * [#f87e42d](https://github.com/pacholoamit/GO-TASK-MGR/commit/f87e42d) Add docker-ci to workflow
+  * [#3604e7d](https://github.com/pacholoamit/GO-TASK-MGR/commit/3604e7d) Re-add docker
+  * [#4a4313c](https://github.com/pacholoamit/GO-TASK-MGR/commit/4a4313c) Remove docker from goreleaser
+  * [#81043cd](https://github.com/pacholoamit/GO-TASK-MGR/commit/81043cd) Configure goreleaser
+  * [#0604d2a](https://github.com/pacholoamit/GO-TASK-MGR/commit/0604d2a) Comment out docker compose
 * 📦 Released **GO-TASK-MGR-0.1.1** of [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
 
 
