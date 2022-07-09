@@ -112,10 +112,26 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-* 📦 Released **v0.1.0** of [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
-* ⏺️ Created new tag v0.1.0 in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
-* ⏺️ Created new tag v0.1.0 in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `implement-vite`
+  * [#e814a07](https://github.com/pacholoamit/GO-TASK-MGR/commit/e814a07) include dist folder in build
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `implement-vite`
+  * [#9b915a6](https://github.com/pacholoamit/GO-TASK-MGR/commit/9b915a6) Remove NextJS from project for vite
+* ➡️ Pushed 8 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
+  * [#3cda144](https://github.com/pacholoamit/GO-TASK-MGR/commit/3cda144) successfully implemented functional web app for web-proto
+  * [#345deac](https://github.com/pacholoamit/GO-TASK-MGR/commit/345deac) Make children optional for LayoutProp
+  * [#00764a2](https://github.com/pacholoamit/GO-TASK-MGR/commit/00764a2) Implement Layout route for react router
+  * [#9d0d442](https://github.com/pacholoamit/GO-TASK-MGR/commit/9d0d442) Implemented routing
+  * [#b580e70](https://github.com/pacholoamit/GO-TASK-MGR/commit/b580e70) Migration of providers completed
+  * [#375435e](https://github.com/pacholoamit/GO-TASK-MGR/commit/375435e) migrated providers
+  * [#250dff5](https://github.com/pacholoamit/GO-TASK-MGR/commit/250dff5) Implement fonts on index.html of vite
+  * [#373851a](https://github.com/pacholoamit/GO-TASK-MGR/commit/373851a) Implement web-proto
+* ➡️ Pushed 5 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `implement-vite`
+  * [#3cda144](https://github.com/pacholoamit/GO-TASK-MGR/commit/3cda144) successfully implemented functional web app for web-proto
+  * [#345deac](https://github.com/pacholoamit/GO-TASK-MGR/commit/345deac) Make children optional for LayoutProp
+  * [#00764a2](https://github.com/pacholoamit/GO-TASK-MGR/commit/00764a2) Implement Layout route for react router
+  * [#9d0d442](https://github.com/pacholoamit/GO-TASK-MGR/commit/9d0d442) Implemented routing
+  * [#b580e70](https://github.com/pacholoamit/GO-TASK-MGR/commit/b580e70) Migration of providers completed
+* ⏺️ Created new branch implement-vite in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
 
 
 ### Stalk me here ❤️
