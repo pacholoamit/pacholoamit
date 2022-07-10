@@ -112,6 +112,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 4 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `implement-cobra`
+  * [#d3a0a92](https://github.com/pacholoamit/GO-TASK-MGR/commit/d3a0a92) Create file if config does not exist
+  * [#126ff05](https://github.com/pacholoamit/GO-TASK-MGR/commit/126ff05) Create config file if doesn&#39;t exist for viper
+  * [#b9d45b2](https://github.com/pacholoamit/GO-TASK-MGR/commit/b9d45b2) Able to print out viper args
+  * [#e9f9916](https://github.com/pacholoamit/GO-TASK-MGR/commit/e9f9916) Changed server to serve.go
 * ⏺️ Created new branch implement-cobra in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
 * ➡️ Pushed 13 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
   * [#5174bf6](https://github.com/pacholoamit/GO-TASK-MGR/commit/5174bf6) Modify github workflow, readme, and goreleaser
