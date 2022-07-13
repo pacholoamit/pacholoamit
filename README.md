@@ -112,14 +112,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
+  * Google analytics Google ads conversion tracking
+* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
+  * Google analytics Google ads conversion tracking
+* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
+  * Home
+* 💬 Commented on [#130 [FOR REVIEW] Add UTM persist add-on query param](https://github.com/MediaJel/mediajel-tracker/issues/130) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 🌟 Starred [yudai/gotty](https://github.com/yudai/gotty)
-* 🌟 Starred [rook/rook](https://github.com/rook/rook)
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#6d47eb6](https://github.com/pacholoamit/GO-TASK-MGR/commit/6d47eb6) Consolidate configuration into own config package
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `staging`
-  * [#6d47eb6](https://github.com/pacholoamit/GO-TASK-MGR/commit/6d47eb6) Consolidate configuration into own config package
-* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `master`
-  * [#7fb8204](https://github.com/pacholoamit/GO-TASK-MGR/commit/7fb8204) Implement main.go inside api folder
 
 
 ### Stalk me here ❤️
