@@ -112,14 +112,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
+  * [#9b37b11](https://github.com/MediaJel/mediajel-gql-service/commit/9b37b11) Remove @types/node-fetch from dependency
+* ⏺️ Created new branch pa-implement-ga4 in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
   * Google analytics Google ads conversion tracking
 * 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
   * Google analytics Google ads conversion tracking
 * 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
   * Home
-* 💬 Commented on [#130 [FOR REVIEW] Add UTM persist add-on query param](https://github.com/MediaJel/mediajel-tracker/issues/130) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🌟 Starred [yudai/gotty](https://github.com/yudai/gotty)
 
 
 ### Stalk me here ❤️
