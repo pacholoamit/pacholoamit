@@ -113,14 +113,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
-  * [#9b37b11](https://github.com/MediaJel/mediajel-gql-service/commit/9b37b11) Remove @types/node-fetch from dependency
-* ⏺️ Created new branch pa-implement-ga4 in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * [#a3065e0](https://github.com/MediaJel/mediajel-gql-service/commit/a3065e0) Moved commnets to the top of the page
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
+  * [#0c5e98e](https://github.com/MediaJel/mediajel-gql-service/commit/0c5e98e) minor change
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
+  * [#ee087b7](https://github.com/MediaJel/mediajel-gql-service/commit/ee087b7) Add basic metrics &amp; dimensions for GA4
 * 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
   * Google analytics Google ads conversion tracking
 * 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
   * Google analytics Google ads conversion tracking
-* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
-  * Home
 
 
 ### Stalk me here ❤️
