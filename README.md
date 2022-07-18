@@ -112,16 +112,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#a3dd26c](https://github.com/pacholoamit/Hashnode-Blogs/commit/a3dd26c) update post: One of the coolest features of Go. Embed ReactJS into a binary with Go
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#77a3413](https://github.com/pacholoamit/Hashnode-Blogs/commit/77a3413) update post: One of the coolest features of Go. Embed ReactJS into a Go binary
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#fd3bae9](https://github.com/pacholoamit/Hashnode-Blogs/commit/fd3bae9) update post: One of the coolest features of Go. Embed ReactJS into a Go binary
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#c73f93d](https://github.com/pacholoamit/Hashnode-Blogs/commit/c73f93d) create post: One of the coolest features of Go. Embed ReactJS into a Go binary
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
-  * [#a3065e0](https://github.com/MediaJel/mediajel-gql-service/commit/a3065e0) Moved commnets to the top of the page
+  * [#d2e1c8f](https://github.com/MediaJel/mediajel-gql-service/commit/d2e1c8f) remove unrequired resource
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
+  * [#e4f75c5](https://github.com/MediaJel/mediajel-gql-service/commit/e4f75c5) Remove comments
+* 🌟 Starred [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
+  * [#a61ee3f](https://github.com/MediaJel/mediajel-gql-service/commit/a61ee3f) Use Curaleaf as property ID and minor revisions on metrics
+* ➡️ Pushed 20 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
+  * [#6235545](https://github.com/MediaJel/mediajel-gql-service/commit/6235545) Merge branch &#39;develop&#39; into pa-implement-ga4
 
 
 ### Stalk me here ❤️
