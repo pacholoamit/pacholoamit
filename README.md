@@ -129,13 +129,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [schollz/croc](https://github.com/schollz/croc)
-* 🌟 Starred [go-kratos/kratos](https://github.com/go-kratos/kratos)
-* 🌟 Starred [spf13/afero](https://github.com/spf13/afero)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
-  * [#d2e1c8f](https://github.com/MediaJel/mediajel-gql-service/commit/d2e1c8f) remove unrequired resource
+  * [#de84c6c](https://github.com/MediaJel/mediajel-gql-service/commit/de84c6c) Added note for userConversionRate
+* 🔃 Opened [#2392 [FOR REVIEW] Fetch GA4 data from Google analytics data api](https://github.com/MediaJel/mediajel-gql-service/pull/2392) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 2 files changed `++84 --0`
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
-  * [#e4f75c5](https://github.com/MediaJel/mediajel-gql-service/commit/e4f75c5) Remove comments
+  * [#883faa7](https://github.com/MediaJel/mediajel-gql-service/commit/883faa7) Added note for batchRunReports endpoint
+* ➡️ Pushed 7 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
+  * [#68744ec](https://github.com/MediaJel/mediajel-gql-service/commit/68744ec) Merge branch &#39;develop&#39; into pa-implement-ga4
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
+  * [#bdc3908](https://github.com/MediaJel/mediajel-gql-service/commit/bdc3908) Created GA4 account interface
 
 
 ### Stalk me here ❤️
