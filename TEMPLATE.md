@@ -19,23 +19,15 @@
 
 [<img src='https://ico.now.sh/github/fff' alt='github' height='40'>](https://github.com/pacholoamit) [<img src='https://ico.now.sh/devdotto/fff' alt='dev' height='40'>](https://dev.to/pacholoamit) [<img src='https://ico.now.sh/hashnode/fff' alt='dev' height='40'>](https://pacholoamit.hashnode.dev/) [<img src='https://ico.now.sh/stackoverflow/fff' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14199991/pacholoamit) [<img src='https://ico.now.sh/youtube/fff' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw) [<img src='https://ico.now.sh/gmail/fff' alt='gmail' height='40'>](pacholoamit.dev@gmail.com) [<img src='https://ico.now.sh/linkedin/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/pacholo-amit/)
 
-<details> 
-  <br>
-  <summary><b>My Articles & Youtube tutorials 📚</b></summary>
-<%- await include(`partials/posts.ejs`) %>
-  <br>
-</details>
-  
-<details> 
-  <br>
-  <summary><b>What I've been up to 🤔</b></summary>
-<%- await include(`partials/activity.ejs`) %>
-  <br/>
-</details>
+### My Articles & Youtube tutorials 📚
 
-<details>
-  <br>
-  <summary><b> Stalk me here ❤️</b></summary>
+<%- await include(`partials/posts.ejs`) %>
+
+### What I've been up to 🤔
+
+<%- await include(`partials/activity.ejs`) %>
+
+### Stalk me here ❤️
 <img src="/assets/metrics-1.svg" height="100%" align="left" width="390" alt="Metrics-1" >
 <img src="/assets/metrics-2.svg" height="100%" align="right" width="390" alt="Metrics-2">
-</details>
+
