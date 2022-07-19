@@ -112,15 +112,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [schollz/croc](https://github.com/schollz/croc)
+* 🌟 Starred [go-kratos/kratos](https://github.com/go-kratos/kratos)
+* 🌟 Starred [spf13/afero](https://github.com/spf13/afero)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
   * [#d2e1c8f](https://github.com/MediaJel/mediajel-gql-service/commit/d2e1c8f) remove unrequired resource
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
   * [#e4f75c5](https://github.com/MediaJel/mediajel-gql-service/commit/e4f75c5) Remove comments
-* 🌟 Starred [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
-  * [#a61ee3f](https://github.com/MediaJel/mediajel-gql-service/commit/a61ee3f) Use Curaleaf as property ID and minor revisions on metrics
-* ➡️ Pushed 20 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
-  * [#6235545](https://github.com/MediaJel/mediajel-gql-service/commit/6235545) Merge branch &#39;develop&#39; into pa-implement-ga4
 
 
 ### Stalk me here ❤️
