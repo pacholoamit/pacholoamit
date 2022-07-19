@@ -25,6 +25,23 @@
 <table>
   <tr>
     <td rowspan="2" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qKbV3lQd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ooly5198oq7rxhce94e7.png" alt="" width="280">
+    </td>
+    <th>
+      <a href="https://dev.to/pacholoamit/one-of-the-coolest-features-of-go-embed-reactjs-into-a-go-binary-41e9">One of the coolest features of Go. Embed ReactJS into a binary with Go</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Today we&#39;re going to attempt to embed a React Application into a Go binary. Please watch the youtube...
+      <br>
+      <i>Published on 18 Jul 2022</i>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td rowspan="2" width="280">
       <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IPquXxS0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ely97w0jjqa3ko4j4ll0.png" alt="" width="280">
     </td>
     <th>
