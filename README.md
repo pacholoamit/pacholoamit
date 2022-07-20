@@ -129,16 +129,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
-  * [#de84c6c](https://github.com/MediaJel/mediajel-gql-service/commit/de84c6c) Added note for userConversionRate
-* 🔃 Opened [#2392 [FOR REVIEW] Fetch GA4 data from Google analytics data api](https://github.com/MediaJel/mediajel-gql-service/pull/2392) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 2 files changed `++84 --0`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
-  * [#883faa7](https://github.com/MediaJel/mediajel-gql-service/commit/883faa7) Added note for batchRunReports endpoint
-* ➡️ Pushed 7 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
-  * [#68744ec](https://github.com/MediaJel/mediajel-gql-service/commit/68744ec) Merge branch &#39;develop&#39; into pa-implement-ga4
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-ga4`
-  * [#bdc3908](https://github.com/MediaJel/mediajel-gql-service/commit/bdc3908) Created GA4 account interface
+* ➡️ Pushed 3 commits in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
+  * [#28d0c80](https://github.com/MediaJel/bing-ads-concept/commit/28d0c80) Final additions to the Readme
+  * [#63e1b42](https://github.com/MediaJel/bing-ads-concept/commit/63e1b42) Added environment variables and added to readme
+  * [#b429cd6](https://github.com/MediaJel/bing-ads-concept/commit/b429cd6) Create environment.yaml file for conda
+* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
+  * [#8a70823](https://github.com/MediaJel/bing-ads-concept/commit/8a70823) Segregate pythong &amp; powershell files into folders
+* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
+  * [#614ee1b](https://github.com/MediaJel/bing-ads-concept/commit/614ee1b) Remove unrequired comments
+* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
+  * [#22f6806](https://github.com/MediaJel/bing-ads-concept/commit/22f6806) Campaign service finally working
+* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
+  * [#1d3ec8c](https://github.com/MediaJel/bing-ads-concept/commit/1d3ec8c) moved get_account_response to customer_service
 
 
 ### Stalk me here ❤️
