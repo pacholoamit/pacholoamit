@@ -130,17 +130,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
+  * [#2e63653](https://github.com/MediaJel/bing-ads-concept/commit/2e63653) Added documentation
+* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
+  * [#6147c03](https://github.com/MediaJel/bing-ads-concept/commit/6147c03) Created reports directory for the csv downloads
+* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
+  * [#e47e969](https://github.com/MediaJel/bing-ads-concept/commit/e47e969) Modified reports_service to loop over all reports to return output
+* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
+  * [#852ebb9](https://github.com/MediaJel/bing-ads-concept/commit/852ebb9) Added doc &amp; added *.csv to gitignore
+* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
   * [#4be9b41](https://github.com/MediaJel/bing-ads-concept/commit/4be9b41) Query reports_service script now works
-* ➡️ Pushed 3 commits in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
-  * [#28d0c80](https://github.com/MediaJel/bing-ads-concept/commit/28d0c80) Final additions to the Readme
-  * [#63e1b42](https://github.com/MediaJel/bing-ads-concept/commit/63e1b42) Added environment variables and added to readme
-  * [#b429cd6](https://github.com/MediaJel/bing-ads-concept/commit/b429cd6) Create environment.yaml file for conda
-* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
-  * [#8a70823](https://github.com/MediaJel/bing-ads-concept/commit/8a70823) Segregate pythong &amp; powershell files into folders
-* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
-  * [#614ee1b](https://github.com/MediaJel/bing-ads-concept/commit/614ee1b) Remove unrequired comments
-* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
-  * [#22f6806](https://github.com/MediaJel/bing-ads-concept/commit/22f6806) Campaign service finally working
 
 
 ### Stalk me here ❤️
