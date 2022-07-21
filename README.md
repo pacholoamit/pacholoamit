@@ -129,6 +129,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
+  * [#4be9b41](https://github.com/MediaJel/bing-ads-concept/commit/4be9b41) Query reports_service script now works
 * ➡️ Pushed 3 commits in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
   * [#28d0c80](https://github.com/MediaJel/bing-ads-concept/commit/28d0c80) Final additions to the Readme
   * [#63e1b42](https://github.com/MediaJel/bing-ads-concept/commit/63e1b42) Added environment variables and added to readme
@@ -139,8 +141,6 @@
   * [#614ee1b](https://github.com/MediaJel/bing-ads-concept/commit/614ee1b) Remove unrequired comments
 * ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
   * [#22f6806](https://github.com/MediaJel/bing-ads-concept/commit/22f6806) Campaign service finally working
-* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
-  * [#1d3ec8c](https://github.com/MediaJel/bing-ads-concept/commit/1d3ec8c) moved get_account_response to customer_service
 
 
 ### Stalk me here ❤️
