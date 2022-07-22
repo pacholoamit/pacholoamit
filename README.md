@@ -129,16 +129,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#812a986](https://github.com/MediaJel/mediajel-gql-service/commit/812a986) Add bing-ads-example command to package.json
+* ⏺️ Created new branch pa-bing-ads-soap in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
   * [#2e63653](https://github.com/MediaJel/bing-ads-concept/commit/2e63653) Added documentation
 * ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
   * [#6147c03](https://github.com/MediaJel/bing-ads-concept/commit/6147c03) Created reports directory for the csv downloads
 * ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
   * [#e47e969](https://github.com/MediaJel/bing-ads-concept/commit/e47e969) Modified reports_service to loop over all reports to return output
-* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
-  * [#852ebb9](https://github.com/MediaJel/bing-ads-concept/commit/852ebb9) Added doc &amp; added *.csv to gitignore
-* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
-  * [#4be9b41](https://github.com/MediaJel/bing-ads-concept/commit/4be9b41) Query reports_service script now works
 
 
 ### Stalk me here ❤️
