@@ -129,15 +129,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#226 svelte.js not found (appeared after 0.2.2)](https://github.com/livebud/bud/issues/226) from [livebud/bud](https://github.com/livebud/bud)
+* 🌟 Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#812a986](https://github.com/MediaJel/mediajel-gql-service/commit/812a986) Add bing-ads-example command to package.json
-* ⏺️ Created new branch pa-bing-ads-soap in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
-  * [#2e63653](https://github.com/MediaJel/bing-ads-concept/commit/2e63653) Added documentation
-* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
-  * [#6147c03](https://github.com/MediaJel/bing-ads-concept/commit/6147c03) Created reports directory for the csv downloads
-* ➡️ Pushed 1 commit in [MediaJel/bing-ads-concept](https://github.com/MediaJel/bing-ads-concept) on branch `master`
-  * [#e47e969](https://github.com/MediaJel/bing-ads-concept/commit/e47e969) Modified reports_service to loop over all reports to return output
+  * [#5b4d911](https://github.com/MediaJel/mediajel-gql-service/commit/5b4d911) Implement serialization of formBody using ES6
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#1924278](https://github.com/MediaJel/mediajel-gql-service/commit/1924278) Removed queryParams from bing request
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#026078c](https://github.com/MediaJel/mediajel-gql-service/commit/026078c) Created basic handler to fetch Bing access_tokens from refresh tokens
 
 
 ### Stalk me here ❤️
