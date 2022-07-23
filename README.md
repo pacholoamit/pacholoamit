@@ -129,14 +129,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#226 svelte.js not found (appeared after 0.2.2)](https://github.com/livebud/bud/issues/226) from [livebud/bud](https://github.com/livebud/bud)
-* 🌟 Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#5b4d911](https://github.com/MediaJel/mediajel-gql-service/commit/5b4d911) Implement serialization of formBody using ES6
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#1924278](https://github.com/MediaJel/mediajel-gql-service/commit/1924278) Removed queryParams from bing request
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#026078c](https://github.com/MediaJel/mediajel-gql-service/commit/026078c) Created basic handler to fetch Bing access_tokens from refresh tokens
+* ➡️ Pushed 3 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#c781ccd](https://github.com/pacholoamit/lets-go-further/commit/c781ccd) Created writeJSON helper for return JSON responses
+  * [#ffda5b5](https://github.com/pacholoamit/lets-go-further/commit/ffda5b5) format healthCheckHandler to return JSON
+  * [#2aed397](https://github.com/pacholoamit/lets-go-further/commit/2aed397) Create readIDParam helper method
+* ➡️ Pushed 3 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#1885847](https://github.com/pacholoamit/lets-go-further/commit/1885847) Added createMovieHandler &amp; showMovieHandler
+  * [#dfbae0f](https://github.com/pacholoamit/lets-go-further/commit/dfbae0f) Consolidate routes in routes.go
+  * [#925aa50](https://github.com/pacholoamit/lets-go-further/commit/925aa50) Installed httprouter module
+* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#9ffbac8](https://github.com/pacholoamit/lets-go-further/commit/9ffbac8) Created healthcheck handler
+  * [#2a95083](https://github.com/pacholoamit/lets-go-further/commit/2a95083) Declare version in main.go
+* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#125ae91](https://github.com/pacholoamit/lets-go-further/commit/125ae91) Create hello world
+  * [#b939769](https://github.com/pacholoamit/lets-go-further/commit/b939769) Add skeleton directory structure
+* ⏺️ Created new branch master in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further)
 
 
 ### Stalk me here ❤️
