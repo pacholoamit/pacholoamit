@@ -129,24 +129,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#77c8520](https://github.com/pacholoamit/lets-go-further/commit/77c8520) Improve error handling for JSON requests
+  * [#77c1850](https://github.com/pacholoamit/lets-go-further/commit/77c1850) Added badrequestResponse error method
+* ➡️ Pushed 3 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#2aad62f](https://github.com/pacholoamit/lets-go-further/commit/2aad62f) modify createMovieHandler to use error helper
+  * [#cb55676](https://github.com/pacholoamit/lets-go-further/commit/cb55676) Added error handlers for readJSON helper func
+  * [#9609a07](https://github.com/pacholoamit/lets-go-further/commit/9609a07) Implement default errors on router
+* ➡️ Pushed 1 commit in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#2257fd3](https://github.com/pacholoamit/lets-go-further/commit/2257fd3) Created error handlers
 * 🌟 Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 * ➡️ Pushed 3 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
   * [#e9d4302](https://github.com/pacholoamit/lets-go-further/commit/e9d4302) Implement custom MarshalJSON method for Runtime type
   * [#7d5a041](https://github.com/pacholoamit/lets-go-further/commit/7d5a041) Implement envelop of response
   * [#3ecbd91](https://github.com/pacholoamit/lets-go-further/commit/3ecbd91) revert back to json.Marshal
-* ➡️ Pushed 4 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#7c21526](https://github.com/pacholoamit/lets-go-further/commit/7c21526) Used MarshalIdent for JSON instead of Marshal
-  * [#b2d67bf](https://github.com/pacholoamit/lets-go-further/commit/b2d67bf) modify json struct tags
-  * [#c5cb0d9](https://github.com/pacholoamit/lets-go-further/commit/c5cb0d9) implement json struct tags for Movie struct
-  * [#5967222](https://github.com/pacholoamit/lets-go-further/commit/5967222) Create movie struct
-* ➡️ Pushed 3 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#c781ccd](https://github.com/pacholoamit/lets-go-further/commit/c781ccd) Created writeJSON helper for return JSON responses
-  * [#ffda5b5](https://github.com/pacholoamit/lets-go-further/commit/ffda5b5) format healthCheckHandler to return JSON
-  * [#2aed397](https://github.com/pacholoamit/lets-go-further/commit/2aed397) Create readIDParam helper method
-* ➡️ Pushed 3 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#1885847](https://github.com/pacholoamit/lets-go-further/commit/1885847) Added createMovieHandler &amp; showMovieHandler
-  * [#dfbae0f](https://github.com/pacholoamit/lets-go-further/commit/dfbae0f) Consolidate routes in routes.go
-  * [#925aa50](https://github.com/pacholoamit/lets-go-further/commit/925aa50) Installed httprouter module
 
 
 ### Stalk me here ❤️
