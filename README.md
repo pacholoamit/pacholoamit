@@ -129,6 +129,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+* ➡️ Pushed 3 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#e9d4302](https://github.com/pacholoamit/lets-go-further/commit/e9d4302) Implement custom MarshalJSON method for Runtime type
+  * [#7d5a041](https://github.com/pacholoamit/lets-go-further/commit/7d5a041) Implement envelop of response
+  * [#3ecbd91](https://github.com/pacholoamit/lets-go-further/commit/3ecbd91) revert back to json.Marshal
+* ➡️ Pushed 4 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#7c21526](https://github.com/pacholoamit/lets-go-further/commit/7c21526) Used MarshalIdent for JSON instead of Marshal
+  * [#b2d67bf](https://github.com/pacholoamit/lets-go-further/commit/b2d67bf) modify json struct tags
+  * [#c5cb0d9](https://github.com/pacholoamit/lets-go-further/commit/c5cb0d9) implement json struct tags for Movie struct
+  * [#5967222](https://github.com/pacholoamit/lets-go-further/commit/5967222) Create movie struct
 * ➡️ Pushed 3 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
   * [#c781ccd](https://github.com/pacholoamit/lets-go-further/commit/c781ccd) Created writeJSON helper for return JSON responses
   * [#ffda5b5](https://github.com/pacholoamit/lets-go-further/commit/ffda5b5) format healthCheckHandler to return JSON
@@ -137,13 +147,6 @@
   * [#1885847](https://github.com/pacholoamit/lets-go-further/commit/1885847) Added createMovieHandler &amp; showMovieHandler
   * [#dfbae0f](https://github.com/pacholoamit/lets-go-further/commit/dfbae0f) Consolidate routes in routes.go
   * [#925aa50](https://github.com/pacholoamit/lets-go-further/commit/925aa50) Installed httprouter module
-* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#9ffbac8](https://github.com/pacholoamit/lets-go-further/commit/9ffbac8) Created healthcheck handler
-  * [#2a95083](https://github.com/pacholoamit/lets-go-further/commit/2a95083) Declare version in main.go
-* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#125ae91](https://github.com/pacholoamit/lets-go-further/commit/125ae91) Create hello world
-  * [#b939769](https://github.com/pacholoamit/lets-go-further/commit/b939769) Add skeleton directory structure
-* ⏺️ Created new branch master in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further)
 
 
 ### Stalk me here ❤️
