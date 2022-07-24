@@ -129,20 +129,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#77c8520](https://github.com/pacholoamit/lets-go-further/commit/77c8520) Improve error handling for JSON requests
-  * [#77c1850](https://github.com/pacholoamit/lets-go-further/commit/77c1850) Added badrequestResponse error method
-* ➡️ Pushed 3 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#2aad62f](https://github.com/pacholoamit/lets-go-further/commit/2aad62f) modify createMovieHandler to use error helper
-  * [#cb55676](https://github.com/pacholoamit/lets-go-further/commit/cb55676) Added error handlers for readJSON helper func
-  * [#9609a07](https://github.com/pacholoamit/lets-go-further/commit/9609a07) Implement default errors on router
 * ➡️ Pushed 1 commit in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#2257fd3](https://github.com/pacholoamit/lets-go-further/commit/2257fd3) Created error handlers
-* 🌟 Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-* ➡️ Pushed 3 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#e9d4302](https://github.com/pacholoamit/lets-go-further/commit/e9d4302) Implement custom MarshalJSON method for Runtime type
-  * [#7d5a041](https://github.com/pacholoamit/lets-go-further/commit/7d5a041) Implement envelop of response
-  * [#3ecbd91](https://github.com/pacholoamit/lets-go-further/commit/3ecbd91) revert back to json.Marshal
+  * [#31b7cc5](https://github.com/pacholoamit/lets-go-further/commit/31b7cc5) Implement Mocks
+* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#ae4ec9d](https://github.com/pacholoamit/lets-go-further/commit/ae4ec9d) Implement models on main.go
+  * [#ac35178](https://github.com/pacholoamit/lets-go-further/commit/ac35178) Scaffold MovieModel
+* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#5c24a92](https://github.com/pacholoamit/lets-go-further/commit/5c24a92) Create migration constraints
+  * [#7451808](https://github.com/pacholoamit/lets-go-further/commit/7451808) Create database migrations
+* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#d5d1575](https://github.com/pacholoamit/lets-go-further/commit/d5d1575) implemented database configs to openDB helper func
+  * [#585aafe](https://github.com/pacholoamit/lets-go-further/commit/585aafe) Add flags to define database connection limits
+* ➡️ Pushed 1 commit in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#b039869](https://github.com/pacholoamit/lets-go-further/commit/b039869) Disable ssl mode
 
 
 ### Stalk me here ❤️
