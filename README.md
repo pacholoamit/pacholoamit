@@ -129,14 +129,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#9961d1f](https://github.com/pacholoamit/lets-go-further/commit/9961d1f) Fix deleteMovie handler
-* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#e241f51](https://github.com/pacholoamit/lets-go-further/commit/e241f51) Fix bug on Movie model update
-  * [#b186e03](https://github.com/pacholoamit/lets-go-further/commit/b186e03) Add Update method to MovieModel
-* 🌟 Starred [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js)
-* 🌟 Starred [zeromicro/go-zero](https://github.com/zeromicro/go-zero)
-* 🌟 Starred [go-kit/kit](https://github.com/go-kit/kit)
+* 🌟 Starred [MediaJel/VAST-2.0-spec](https://github.com/MediaJel/VAST-2.0-spec)
+* 🌟 Starred [MediaJel/Integrations-vault](https://github.com/MediaJel/Integrations-vault)
+* 🌟 Starred [MediaJel/pach-s-glorious-cli](https://github.com/MediaJel/pach-s-glorious-cli)
+* 🌟 Starred [MediaJel/yocanna-tracking-concept](https://github.com/MediaJel/yocanna-tracking-concept)
+* 🌟 Starred [MediaJel/snowplow-react-native-app](https://github.com/MediaJel/snowplow-react-native-app)
 
 
 ### Stalk me here ❤️
