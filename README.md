@@ -129,19 +129,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [zeromicro/go-zero](https://github.com/zeromicro/go-zero)
+* 🌟 Starred [go-kit/kit](https://github.com/go-kit/kit)
+* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#c4f6134](https://github.com/pacholoamit/lets-go-further/commit/c4f6134) added movie.Title to DB queryrow
+  * [#49c414a](https://github.com/pacholoamit/lets-go-further/commit/49c414a) Implement querying of movies on showMovieHandler
+* ➡️ Pushed 1 commit in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
+  * [#b62f531](https://github.com/pacholoamit/lets-go-further/commit/b62f531) Implement Inserting of movies
 * ➡️ Pushed 1 commit in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
   * [#31b7cc5](https://github.com/pacholoamit/lets-go-further/commit/31b7cc5) Implement Mocks
-* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#ae4ec9d](https://github.com/pacholoamit/lets-go-further/commit/ae4ec9d) Implement models on main.go
-  * [#ac35178](https://github.com/pacholoamit/lets-go-further/commit/ac35178) Scaffold MovieModel
-* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#5c24a92](https://github.com/pacholoamit/lets-go-further/commit/5c24a92) Create migration constraints
-  * [#7451808](https://github.com/pacholoamit/lets-go-further/commit/7451808) Create database migrations
-* ➡️ Pushed 2 commits in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#d5d1575](https://github.com/pacholoamit/lets-go-further/commit/d5d1575) implemented database configs to openDB helper func
-  * [#585aafe](https://github.com/pacholoamit/lets-go-further/commit/585aafe) Add flags to define database connection limits
-* ➡️ Pushed 1 commit in [pacholoamit/lets-go-further](https://github.com/pacholoamit/lets-go-further) on branch `master`
-  * [#b039869](https://github.com/pacholoamit/lets-go-further/commit/b039869) Disable ssl mode
 
 
 ### Stalk me here ❤️
