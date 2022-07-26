@@ -129,11 +129,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#e613179](https://github.com/MediaJel/mediajel-gql-service/commit/e613179) renamed func to submitGenerateReports and parse out tracking Id for polling&#34;
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#6177c87](https://github.com/MediaJel/mediajel-gql-service/commit/6177c87) Successfully implement query of reports
+  * [#f83da32](https://github.com/MediaJel/mediajel-gql-service/commit/f83da32) modifications to xml
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#6d66d6a](https://github.com/MediaJel/mediajel-gql-service/commit/6d66d6a) Close out XML for report_request
+  * [#6720bdb](https://github.com/MediaJel/mediajel-gql-service/commit/6720bdb) Include XML for report_requests
+  * [#1dd3a79](https://github.com/MediaJel/mediajel-gql-service/commit/1dd3a79) destructure &amp; return access_tokens
 * 🌟 Starred [MediaJel/VAST-2.0-spec](https://github.com/MediaJel/VAST-2.0-spec)
 * 🌟 Starred [MediaJel/Integrations-vault](https://github.com/MediaJel/Integrations-vault)
-* 🌟 Starred [MediaJel/pach-s-glorious-cli](https://github.com/MediaJel/pach-s-glorious-cli)
-* 🌟 Starred [MediaJel/yocanna-tracking-concept](https://github.com/MediaJel/yocanna-tracking-concept)
-* 🌟 Starred [MediaJel/snowplow-react-native-app](https://github.com/MediaJel/snowplow-react-native-app)
 
 
 ### Stalk me here ❤️
