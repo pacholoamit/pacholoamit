@@ -129,17 +129,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#e613179](https://github.com/MediaJel/mediajel-gql-service/commit/e613179) renamed func to submitGenerateReports and parse out tracking Id for polling&#34;
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#6177c87](https://github.com/MediaJel/mediajel-gql-service/commit/6177c87) Successfully implement query of reports
-  * [#f83da32](https://github.com/MediaJel/mediajel-gql-service/commit/f83da32) modifications to xml
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#6d66d6a](https://github.com/MediaJel/mediajel-gql-service/commit/6d66d6a) Close out XML for report_request
-  * [#6720bdb](https://github.com/MediaJel/mediajel-gql-service/commit/6720bdb) Include XML for report_requests
-  * [#1dd3a79](https://github.com/MediaJel/mediajel-gql-service/commit/1dd3a79) destructure &amp; return access_tokens
-* 🌟 Starred [MediaJel/VAST-2.0-spec](https://github.com/MediaJel/VAST-2.0-spec)
-* 🌟 Starred [MediaJel/Integrations-vault](https://github.com/MediaJel/Integrations-vault)
+  * [#79291b2](https://github.com/MediaJel/mediajel-gql-service/commit/79291b2) Remove unnecessary comment
+  * [#a7f5054](https://github.com/MediaJel/mediajel-gql-service/commit/a7f5054) Implement submitGenerateReportRequest
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#713c179](https://github.com/MediaJel/mediajel-gql-service/commit/713c179) Clean campaign performance report xml
+  * [#ee8a844](https://github.com/MediaJel/mediajel-gql-service/commit/ee8a844) Added campaign performance report xml
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#61c7870](https://github.com/MediaJel/mediajel-gql-service/commit/61c7870) Remove unrequired comments
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#9eee4e0](https://github.com/MediaJel/mediajel-gql-service/commit/9eee4e0) Modify Bing authentication
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#31f23ff](https://github.com/MediaJel/mediajel-gql-service/commit/31f23ff) Implemented BingAdsCustomerManagementService
+  * [#04db7ac](https://github.com/MediaJel/mediajel-gql-service/commit/04db7ac) Create Bing Ads client
 
 
 ### Stalk me here ❤️
