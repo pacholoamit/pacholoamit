@@ -130,18 +130,18 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#79291b2](https://github.com/MediaJel/mediajel-gql-service/commit/79291b2) Remove unnecessary comment
-  * [#a7f5054](https://github.com/MediaJel/mediajel-gql-service/commit/a7f5054) Implement submitGenerateReportRequest
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#713c179](https://github.com/MediaJel/mediajel-gql-service/commit/713c179) Clean campaign performance report xml
-  * [#ee8a844](https://github.com/MediaJel/mediajel-gql-service/commit/ee8a844) Added campaign performance report xml
+  * [#ca967b3](https://github.com/MediaJel/mediajel-gql-service/commit/ca967b3) Modify log
+  * [#27cda00](https://github.com/MediaJel/mediajel-gql-service/commit/27cda00) Implement recursive function for polling of reports
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#61c7870](https://github.com/MediaJel/mediajel-gql-service/commit/61c7870) Remove unrequired comments
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#9eee4e0](https://github.com/MediaJel/mediajel-gql-service/commit/9eee4e0) Modify Bing authentication
+  * [#7117d2a](https://github.com/MediaJel/mediajel-gql-service/commit/7117d2a) Implement SOAP error handling
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#31f23ff](https://github.com/MediaJel/mediajel-gql-service/commit/31f23ff) Implemented BingAdsCustomerManagementService
-  * [#04db7ac](https://github.com/MediaJel/mediajel-gql-service/commit/04db7ac) Create Bing Ads client
+  * [#156bdf1](https://github.com/MediaJel/mediajel-gql-service/commit/156bdf1) Modify PollGenerateReport access token
+  * [#f177365](https://github.com/MediaJel/mediajel-gql-service/commit/f177365) Implement PollGenerateReports
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#5073dba](https://github.com/MediaJel/mediajel-gql-service/commit/5073dba) Refactor customer-management-service to use utils
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#b91c401](https://github.com/MediaJel/mediajel-gql-service/commit/b91c401) Create makeSoapRequest function
+  * [#9abd9c1](https://github.com/MediaJel/mediajel-gql-service/commit/9abd9c1) Create parseXML function to replace XML variables
 
 
 ### Stalk me here ❤️
