@@ -129,6 +129,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
   * [#9080e99](https://github.com/MediaJel/mediajel-gql-service/commit/9080e99) Seperate reporting templates to a different file
 * ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
@@ -139,8 +140,6 @@
   * [#fa98474](https://github.com/MediaJel/mediajel-gql-service/commit/fa98474) Merge branch &#39;develop&#39; into pa-bing-ads-soap
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
   * [#b846c46](https://github.com/MediaJel/mediajel-gql-service/commit/b846c46) comparing of Bing Ads UI vs API data
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#2440536](https://github.com/MediaJel/mediajel-gql-service/commit/2440536) renaming of vars
 
 
 ### Stalk me here ❤️
