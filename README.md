@@ -129,19 +129,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#ca967b3](https://github.com/MediaJel/mediajel-gql-service/commit/ca967b3) Modify log
-  * [#27cda00](https://github.com/MediaJel/mediajel-gql-service/commit/27cda00) Implement recursive function for polling of reports
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#7117d2a](https://github.com/MediaJel/mediajel-gql-service/commit/7117d2a) Implement SOAP error handling
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#156bdf1](https://github.com/MediaJel/mediajel-gql-service/commit/156bdf1) Modify PollGenerateReport access token
-  * [#f177365](https://github.com/MediaJel/mediajel-gql-service/commit/f177365) Implement PollGenerateReports
+  * [#9080e99](https://github.com/MediaJel/mediajel-gql-service/commit/9080e99) Seperate reporting templates to a different file
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#0e15f0d](https://github.com/MediaJel/mediajel-gql-service/commit/0e15f0d) Create usage case for Bing ads bulk service
+  * [#c6d3756](https://github.com/MediaJel/mediajel-gql-service/commit/c6d3756) Implemented getBulkDownloadStatus
+  * [#f6bcbc0](https://github.com/MediaJel/mediajel-gql-service/commit/f6bcbc0) Implement BingAdsBulkService
+* ➡️ Pushed 7 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#fa98474](https://github.com/MediaJel/mediajel-gql-service/commit/fa98474) Merge branch &#39;develop&#39; into pa-bing-ads-soap
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#5073dba](https://github.com/MediaJel/mediajel-gql-service/commit/5073dba) Refactor customer-management-service to use utils
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#b91c401](https://github.com/MediaJel/mediajel-gql-service/commit/b91c401) Create makeSoapRequest function
-  * [#9abd9c1](https://github.com/MediaJel/mediajel-gql-service/commit/9abd9c1) Create parseXML function to replace XML variables
+  * [#b846c46](https://github.com/MediaJel/mediajel-gql-service/commit/b846c46) comparing of Bing Ads UI vs API data
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#2440536](https://github.com/MediaJel/mediajel-gql-service/commit/2440536) renaming of vars
 
 
 ### Stalk me here ❤️
