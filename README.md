@@ -129,6 +129,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [k8s-at-home/flux-cluster-template](https://github.com/k8s-at-home/flux-cluster-template)
+* 🌟 Starred [ekzhang/bore](https://github.com/ekzhang/bore)
 * 🌟 Starred [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
   * [#9080e99](https://github.com/MediaJel/mediajel-gql-service/commit/9080e99) Seperate reporting templates to a different file
@@ -136,10 +138,6 @@
   * [#0e15f0d](https://github.com/MediaJel/mediajel-gql-service/commit/0e15f0d) Create usage case for Bing ads bulk service
   * [#c6d3756](https://github.com/MediaJel/mediajel-gql-service/commit/c6d3756) Implemented getBulkDownloadStatus
   * [#f6bcbc0](https://github.com/MediaJel/mediajel-gql-service/commit/f6bcbc0) Implement BingAdsBulkService
-* ➡️ Pushed 7 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#fa98474](https://github.com/MediaJel/mediajel-gql-service/commit/fa98474) Merge branch &#39;develop&#39; into pa-bing-ads-soap
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#b846c46](https://github.com/MediaJel/mediajel-gql-service/commit/b846c46) comparing of Bing Ads UI vs API data
 
 
 ### Stalk me here ❤️
