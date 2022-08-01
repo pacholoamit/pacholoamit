@@ -129,12 +129,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [Lissy93/dashy](https://github.com/Lissy93/dashy)
-* 🌟 Starred [k8s-at-home/flux-cluster-template](https://github.com/k8s-at-home/flux-cluster-template)
-* 🌟 Starred [ekzhang/bore](https://github.com/ekzhang/bore)
-* 🌟 Starred [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#9080e99](https://github.com/MediaJel/mediajel-gql-service/commit/9080e99) Seperate reporting templates to a different file
+  * [#2931d4f](https://github.com/MediaJel/mediajel-gql-service/commit/2931d4f) Modify account performance report xml to disable header &amp; footer
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#4375ce2](https://github.com/MediaJel/mediajel-gql-service/commit/4375ce2) Remove unrequired import
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#9b78c21](https://github.com/MediaJel/mediajel-gql-service/commit/9b78c21) Remove errRequireToken error in customer management service
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#666e04d](https://github.com/MediaJel/mediajel-gql-service/commit/666e04d) Remove globally declare env vars
+  * [#9548568](https://github.com/MediaJel/mediajel-gql-service/commit/9548568) Cleanup on runBingAds func
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#a4d8ae3](https://github.com/MediaJel/mediajel-gql-service/commit/a4d8ae3) Implemented JSON parsing on Bing reports
+  * [#d036b51](https://github.com/MediaJel/mediajel-gql-service/commit/d036b51) Implement csv to json util
 
 
 ### Stalk me here ❤️
