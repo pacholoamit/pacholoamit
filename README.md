@@ -129,11 +129,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#1b45834](https://github.com/MediaJel/mediajel-gql-service/commit/1b45834) Revert types
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#bcd06d7](https://github.com/MediaJel/mediajel-gql-service/commit/bcd06d7) minor changes
+* 💬 Commented on [#2433 [FOR REVIEW] Job Scaffold for Bing Ads API](https://github.com/MediaJel/mediajel-gql-service/pull/2433) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#2433 [FOR REVIEW] Job Scaffold for Bing Ads API](https://github.com/MediaJel/mediajel-gql-service/pull/2433) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🌟 Starred [emirpasic/gods](https://github.com/emirpasic/gods)
-* 🌟 Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-* ⏺️ Created new branch master in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker)
-* ⏺️ Created new repository  [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker)
-* ⏺️ Created new branch master in [MediaJel/google-analytics-activity](https://github.com/MediaJel/google-analytics-activity)
 
 
 ### Stalk me here ❤️
