@@ -129,79 +129,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#c835ced](https://github.com/MediaJel/mediajel-gql-service/commit/c835ced) Revert to campaignPerformance report
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#2281468](https://github.com/MediaJel/mediajel-gql-service/commit/2281468) Remove unrequired packages
-* 🔃 Opened [#2433 [FOR REVIEW] Job Scaffold for Bing Ads API](https://github.com/MediaJel/mediajel-gql-service/pull/2433) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 19 files changed `++974 --7`
-* ➡️ Pushed 27 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#e1c06ae](https://github.com/MediaJel/mediajel-gql-service/commit/e1c06ae) Fix merge conflict
-  * [#2ce5eb2](https://github.com/MediaJel/mediajel-gql-service/commit/2ce5eb2) Merge pull request #2425 from MediaJel/fbl3-hotfix/processWithGoogleAds-field-in-PaidSearchConfig
-
-HOTFIX: New column processWithGoogleAds in PaidSearchConfig
-  * [#0c3a0af](https://github.com/MediaJel/mediajel-gql-service/commit/0c3a0af) HOTFIX: New column processWithGoogleAds in PaidSearchConfig
-  * [#62d6082](https://github.com/MediaJel/mediajel-gql-service/commit/62d6082) prisma changes
-  * [#b0f570e](https://github.com/MediaJel/mediajel-gql-service/commit/b0f570e) Merge pull request #2421 from MediaJel/develop
-
-fix rollup display query Develop to staging
-  * [#0c39cf9](https://github.com/MediaJel/mediajel-gql-service/commit/0c39cf9) [PASS QA ENGR] fix rollup display query (#2416)
-
-* fix rollup display query
-
-* cleanup
-
-* cleanup
-  * [#640c648](https://github.com/MediaJel/mediajel-gql-service/commit/640c648) utcISODate for DisplayDateReportUnit
-  * [#4bb2dd0](https://github.com/MediaJel/mediajel-gql-service/commit/4bb2dd0) [PASS ENGR QA] Migrate logs queue to bull queue (#2404) (#2420)
-
-* Migrate logs queue to bull queue
-
-* br remove memory usage logs
-
-* br added custom script to package.json
-
-* br remove process.exit on index.ts
-
-Co-authored-by: bertwin-mediajel &lt;106617613+bertwin-mediajel@users.noreply.github.com&gt;
-  * [#dfaf9e6](https://github.com/MediaJel/mediajel-gql-service/commit/dfaf9e6) [PASS ENGR QA] Migrate logs queue to bull queue (#2404)
-
-* Migrate logs queue to bull queue
-
-* br remove memory usage logs
-
-* br added custom script to package.json
-
-* br remove process.exit on index.ts
-  * [#be09e98](https://github.com/MediaJel/mediajel-gql-service/commit/be09e98) Merge pull request #2419 from MediaJel/staging
-
-SYNC HOTFIX Staging to Develop
-  * [#c712080](https://github.com/MediaJel/mediajel-gql-service/commit/c712080) Merge pull request #2418 from MediaJel/master
-
-SYNC HOTFIX Master to Staging
-  * [#1803068](https://github.com/MediaJel/mediajel-gql-service/commit/1803068) Merge pull request #2417 from MediaJel/fbl3-hotfix/remove-array-console-logs
-
-HOTFIX: Remove console logging of array
-  * [#cd62587](https://github.com/MediaJel/mediajel-gql-service/commit/cd62587) BUG: Remove console logging of array
-  * [#b31ea3b](https://github.com/MediaJel/mediajel-gql-service/commit/b31ea3b) Merge pull request #2415 from MediaJel/staging
-
-Update Master from Staging
-  * [#f22bca3](https://github.com/MediaJel/mediajel-gql-service/commit/f22bca3) Merge pull request #2414 from MediaJel/icf-hotfix-toggle-schema
-
-[HOTFIX] [SCHEMA UPDATE] ICF toggle schema
-  * [#1db6ea0](https://github.com/MediaJel/mediajel-gql-service/commit/1db6ea0) toggle schema
-  * [#9389816](https://github.com/MediaJel/mediajel-gql-service/commit/9389816) Prisma deploy to Staging
-  * [#02dbc5c](https://github.com/MediaJel/mediajel-gql-service/commit/02dbc5c) Merge pull request #2412 from MediaJel/develop
-
-ICF toggle schema Develop to Staging
-  * [#bd270df](https://github.com/MediaJel/mediajel-gql-service/commit/bd270df) Merge pull request #2408 from MediaJel/develop
-
-[PASS ENGR QA] Fix Datetime Issues (#2405)
-  * [#47c8f54](https://github.com/MediaJel/mediajel-gql-service/commit/47c8f54) Merge pull request #2407 from MediaJel/develop
-
-Merge gql from develop to staging
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#73e3edf](https://github.com/MediaJel/mediajel-gql-service/commit/73e3edf) cleanup
+* ⏺️ Created new branch master in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker)
+* ⏺️ Created new repository  [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker)
+* ⏺️ Created new branch master in [MediaJel/google-analytics-activity](https://github.com/MediaJel/google-analytics-activity)
+* ⏺️ Created new repository  [MediaJel/google-analytics-activity](https://github.com/MediaJel/google-analytics-activity)
+* 🌟 Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 
 
 ### Stalk me here ❤️
