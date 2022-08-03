@@ -129,11 +129,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [emirpasic/gods](https://github.com/emirpasic/gods)
+* 🌟 Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 * ⏺️ Created new branch master in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker)
 * ⏺️ Created new repository  [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker)
 * ⏺️ Created new branch master in [MediaJel/google-analytics-activity](https://github.com/MediaJel/google-analytics-activity)
-* ⏺️ Created new repository  [MediaJel/google-analytics-activity](https://github.com/MediaJel/google-analytics-activity)
-* 🌟 Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 
 
 ### Stalk me here ❤️
