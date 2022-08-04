@@ -130,15 +130,12 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
-  * [#643e546](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/643e546) implement go routines for faster processing
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
-  * [#b2d2f3d](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/b2d2f3d) JSON encoding implemented correctly
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
-  * [#043b101](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/043b101) Implementation of ListAccounts operation in successHandler works
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
-  * [#9005e3a](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/9005e3a) save code in config.json
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
-  * [#c588701](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/c588701) Create GOogle Authenticate helper function
+  * [#b4b2ee1](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/b4b2ee1) Remove unrequired packages
+* 💬 Commented on [#2433 [FOR REVIEW] Job Scaffold for Bing Ads API](https://github.com/MediaJel/mediajel-gql-service/pull/2433) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#2433 [FOR REVIEW] Job Scaffold for Bing Ads API](https://github.com/MediaJel/mediajel-gql-service/pull/2433) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
+  * [#ca24801](https://github.com/MediaJel/mediajel-gql-service/commit/ca24801) Add code comment on client_secret expiry
+* 🔍 Reviewed [#2935 [FOR REVIEW] Add VAST Tag in Tag Generator](https://github.com/MediaJel/mediajel-dashboard/pull/2935) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
