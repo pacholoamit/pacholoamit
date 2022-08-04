@@ -130,15 +130,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
+  * [#643e546](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/643e546) implement go routines for faster processing
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
+  * [#b2d2f3d](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/b2d2f3d) JSON encoding implemented correctly
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
+  * [#043b101](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/043b101) Implementation of ListAccounts operation in successHandler works
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
   * [#9005e3a](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/9005e3a) save code in config.json
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
   * [#c588701](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/c588701) Create GOogle Authenticate helper function
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
-  * [#17f2cb6](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/17f2cb6) clean up main.go
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
-  * [#e405b43](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/e405b43) Separate application to its own pkg
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
-  * [#1d6c3ab](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/1d6c3ab) Separated config to its own package
 
 
 ### Stalk me here ❤️
