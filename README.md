@@ -129,13 +129,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#1b45834](https://github.com/MediaJel/mediajel-gql-service/commit/1b45834) Revert types
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#bcd06d7](https://github.com/MediaJel/mediajel-gql-service/commit/bcd06d7) minor changes
-* 💬 Commented on [#2433 [FOR REVIEW] Job Scaffold for Bing Ads API](https://github.com/MediaJel/mediajel-gql-service/pull/2433) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#2433 [FOR REVIEW] Job Scaffold for Bing Ads API](https://github.com/MediaJel/mediajel-gql-service/pull/2433) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🌟 Starred [emirpasic/gods](https://github.com/emirpasic/gods)
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
+  * [#9005e3a](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/9005e3a) save code in config.json
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
+  * [#c588701](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/c588701) Create GOogle Authenticate helper function
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
+  * [#17f2cb6](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/17f2cb6) clean up main.go
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
+  * [#e405b43](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/e405b43) Separate application to its own pkg
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
+  * [#1d6c3ab](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/1d6c3ab) Separated config to its own package
 
 
 ### Stalk me here ❤️
