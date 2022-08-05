@@ -129,13 +129,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
-  * [#b4b2ee1](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/b4b2ee1) Remove unrequired packages
-* 💬 Commented on [#2433 [FOR REVIEW] Job Scaffold for Bing Ads API](https://github.com/MediaJel/mediajel-gql-service/pull/2433) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#2433 [FOR REVIEW] Job Scaffold for Bing Ads API](https://github.com/MediaJel/mediajel-gql-service/pull/2433) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-bing-ads-soap`
-  * [#ca24801](https://github.com/MediaJel/mediajel-gql-service/commit/ca24801) Add code comment on client_secret expiry
-* 🔍 Reviewed [#2935 [FOR REVIEW] Add VAST Tag in Tag Generator](https://github.com/MediaJel/mediajel-dashboard/pull/2935) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🌟 Starred [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
+  * [#87dbe4c](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/87dbe4c) Write to CSV implemented successfully
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
+  * [#5d1c78f](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/5d1c78f) fix type name
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
+  * [#3061c06](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/3061c06) move ChangeHistoryEventRequest to top of file
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
+  * [#fd4c582](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/fd4c582) Minor changes
 
 
 ### Stalk me here ❤️
