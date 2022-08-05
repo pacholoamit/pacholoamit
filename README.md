@@ -129,15 +129,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
+  * [#933adab](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/933adab) Remove config pkg and added config to app package
+* ➡️ Pushed 7 commits in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
+  * [#87dbe4c](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/87dbe4c) Write to CSV implemented successfully
+  * [#5d1c78f](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/5d1c78f) fix type name
+  * [#3061c06](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/3061c06) move ChangeHistoryEventRequest to top of file
+  * [#fd4c582](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/fd4c582) Minor changes
+  * [#38e6583](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/38e6583) modify pageSize
+  * [#ad64e67](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/ad64e67) Minor changes
+  * [#98375dd](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/98375dd) Create struct for changeHistoryEventsRequest
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `vrb-segregate-audience-device-chart-data-jobs`
+  * [#5bea4d5](https://github.com/MediaJel/mediajel-gql-service/commit/5bea4d5) fix
 * 🌟 Starred [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
   * [#87dbe4c](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/87dbe4c) Write to CSV implemented successfully
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
-  * [#5d1c78f](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/5d1c78f) fix type name
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
-  * [#3061c06](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/3061c06) move ChangeHistoryEventRequest to top of file
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
-  * [#fd4c582](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/fd4c582) Minor changes
 
 
 ### Stalk me here ❤️
