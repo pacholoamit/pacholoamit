@@ -130,6 +130,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
+  * [#94f8793](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/94f8793) Run go mod tidy
+* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
   * [#933adab](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/933adab) Remove config pkg and added config to app package
 * ➡️ Pushed 7 commits in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
   * [#87dbe4c](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/87dbe4c) Write to CSV implemented successfully
@@ -142,8 +144,6 @@
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `vrb-segregate-audience-device-chart-data-jobs`
   * [#5bea4d5](https://github.com/MediaJel/mediajel-gql-service/commit/5bea4d5) fix
 * 🌟 Starred [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
-  * [#87dbe4c](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/87dbe4c) Write to CSV implemented successfully
 
 
 ### Stalk me here ❤️
