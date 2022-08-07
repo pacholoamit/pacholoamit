@@ -129,6 +129,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [thockin/go-build-template](https://github.com/thockin/go-build-template)
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
   * [#94f8793](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/94f8793) Run go mod tidy
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
@@ -143,7 +144,6 @@
   * [#98375dd](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/98375dd) Create struct for changeHistoryEventsRequest
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `vrb-segregate-audience-device-chart-data-jobs`
   * [#5bea4d5](https://github.com/MediaJel/mediajel-gql-service/commit/5bea4d5) fix
-* 🌟 Starred [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
 
 
 ### Stalk me here ❤️
