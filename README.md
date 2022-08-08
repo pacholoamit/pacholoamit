@@ -129,6 +129,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch pa-recheck-tracking in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🌟 Starred [livebud/bud](https://github.com/livebud/bud)
 * ➡️ Pushed 3 commits in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
   * [#52d74fe](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/52d74fe) modified models
@@ -138,8 +139,6 @@
   * [#52d74fe](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/52d74fe) modified models
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
   * [#3ad2f64](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/3ad2f64) Created writeJSON helper util
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
-  * [#c81cbc3](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/c81cbc3) Output JSON instead of csv
 
 
 ### Stalk me here ❤️
