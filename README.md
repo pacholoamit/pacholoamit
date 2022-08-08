@@ -129,15 +129,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [livebud/bud](https://github.com/livebud/bud)
+* ➡️ Pushed 3 commits in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
+  * [#52d74fe](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/52d74fe) modified models
+  * [#3ad2f64](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/3ad2f64) Created writeJSON helper util
+  * [#c81cbc3](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/c81cbc3) Output JSON instead of csv
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
-  * [#b99802e](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/b99802e) Fix getting of only 1 output from GetChangeHistory
+  * [#52d74fe](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/52d74fe) modified models
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
-  * [#24bf6de](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/24bf6de) Refactoring
-* 🌟 Starred [thockin/go-build-template](https://github.com/thockin/go-build-template)
+  * [#3ad2f64](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/3ad2f64) Created writeJSON helper util
 * ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
-  * [#94f8793](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/94f8793) Run go mod tidy
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
-  * [#933adab](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/933adab) Remove config pkg and added config to app package
+  * [#c81cbc3](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/c81cbc3) Output JSON instead of csv
 
 
 ### Stalk me here ❤️
