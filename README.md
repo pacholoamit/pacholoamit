@@ -129,15 +129,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 19 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-recheck-tracking`
-  * [#b77f90a](https://github.com/MediaJel/mediajel-dashboard/commit/b77f90a) Merge branch &#39;develop&#39; into pa-recheck-tracking
-* 🔍 Reviewed [#2459 [HOTFIX] [FOR REVIEW] ICF Ads use multiple accounts](https://github.com/MediaJel/mediajel-gql-service/pull/2459) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ⏺️ Created new branch pa-recheck-tracking in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [livebud/bud](https://github.com/livebud/bud)
-* ➡️ Pushed 3 commits in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `master`
-  * [#52d74fe](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/52d74fe) modified models
-  * [#3ad2f64](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/3ad2f64) Created writeJSON helper util
-  * [#c81cbc3](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/c81cbc3) Output JSON instead of csv
+* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
+  * Google analytics Google ads conversion tracking
+* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
+  * Google analytics Google ads conversion tracking
+* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
+  * Google analytics Google ads conversion tracking
+* 🔃 Opened [#2961 [FOR REVIEW] Embed user info into chatwoot widget](https://github.com/MediaJel/mediajel-dashboard/pull/2961) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 3 files changed `++23 --4`
+* ⏺️ Created new branch pa-recheck-chatwoot in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
