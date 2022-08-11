@@ -129,6 +129,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 19 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-recheck-tracking`
+  * [#b77f90a](https://github.com/MediaJel/mediajel-dashboard/commit/b77f90a) Merge branch &#39;develop&#39; into pa-recheck-tracking
 * 🔍 Reviewed [#2459 [HOTFIX] [FOR REVIEW] ICF Ads use multiple accounts](https://github.com/MediaJel/mediajel-gql-service/pull/2459) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ⏺️ Created new branch pa-recheck-tracking in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🌟 Starred [livebud/bud](https://github.com/livebud/bud)
@@ -136,8 +138,6 @@
   * [#52d74fe](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/52d74fe) modified models
   * [#3ad2f64](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/3ad2f64) Created writeJSON helper util
   * [#c81cbc3](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/c81cbc3) Output JSON instead of csv
-* ➡️ Pushed 1 commit in [pacholoamit/google-analytics-activity-tracker](https://github.com/pacholoamit/google-analytics-activity-tracker) on branch `staging`
-  * [#52d74fe](https://github.com/pacholoamit/google-analytics-activity-tracker/commit/52d74fe) modified models
 
 
 ### Stalk me here ❤️
