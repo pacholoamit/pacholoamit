@@ -129,14 +129,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/rust-world](https://github.com/pacholoamit/rust-world) on branch `master`
-  * [#df443a7](https://github.com/pacholoamit/rust-world/commit/df443a7) Modify gitignore
-* ⏺️ Created new branch master in [pacholoamit/rust-world](https://github.com/pacholoamit/rust-world)
-* ⏺️ Created new repository  [pacholoamit/rust-world](https://github.com/pacholoamit/rust-world)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-recheck-chatwoot`
-  * [#263952e](https://github.com/MediaJel/mediajel-dashboard/commit/263952e) Revert chatwoot bubble to standard from expanded
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-routes`
-  * [#f14e273](https://github.com/MediaJel/mediajel-dashboard/commit/f14e273) Move extractRootDomainNoExt to useEffect in PrivacyPolicyView
+* 🌟 Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+* 🌟 Starred [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+* ➡️ Pushed 1 commit in [pacholoamit/rust-guessing-game](https://github.com/pacholoamit/rust-guessing-game) on branch `master`
+  * [#43dcc09](https://github.com/pacholoamit/rust-guessing-game/commit/43dcc09) Delete println of secret num
+* ➡️ Pushed 4 commits in [pacholoamit/rust-guessing-game](https://github.com/pacholoamit/rust-guessing-game) on branch `master`
+  * [#d6fe9e8](https://github.com/pacholoamit/rust-guessing-game/commit/d6fe9e8) Implement break
+  * [#177c2f4](https://github.com/pacholoamit/rust-guessing-game/commit/177c2f4) implement loop
+  * [#a265a90](https://github.com/pacholoamit/rust-guessing-game/commit/a265a90) Parse string to u32
+  * [#54dda6d](https://github.com/pacholoamit/rust-guessing-game/commit/54dda6d) Add secret_number
+* ➡️ Pushed 1 commit in [pacholoamit/rust-guessing-game](https://github.com/pacholoamit/rust-guessing-game) on branch `master`
+  * [#5b9b4dd](https://github.com/pacholoamit/rust-guessing-game/commit/5b9b4dd) Added rand crate
 
 
 ### Stalk me here ❤️
