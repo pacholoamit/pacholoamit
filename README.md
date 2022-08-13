@@ -129,12 +129,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
+  * [#4015c0c](https://github.com/MediaJel/mediajel-gql-service/commit/4015c0c) Write logging to asana script
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
+  * [#f54493e](https://github.com/MediaJel/mediajel-gql-service/commit/f54493e) Organize and added comments
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
+  * [#81c0d87](https://github.com/MediaJel/mediajel-gql-service/commit/81c0d87) Create basic implementation
+* ⏺️ Created new branch pa-implement-algo-in-observer in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-routes`
   * [#cec95a3](https://github.com/MediaJel/mediajel-dashboard/commit/cec95a3) Remove console.log
-* 💬 Commented on [#2963 [FOR REVIEW] Modify routing as to enable authenticated users to access public routes](https://github.com/MediaJel/mediajel-dashboard/pull/2963) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#2963 [FOR REVIEW] Modify routing as to enable authenticated users to access public routes](https://github.com/MediaJel/mediajel-dashboard/pull/2963) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#2961 [PASS QA ENG] Embed user info into chatwoot widget](https://github.com/MediaJel/mediajel-dashboard/issues/2961) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
 
 
 ### Stalk me here ❤️
