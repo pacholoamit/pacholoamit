@@ -129,15 +129,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
-  * [#4015c0c](https://github.com/MediaJel/mediajel-gql-service/commit/4015c0c) Write logging to asana script
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
-  * [#f54493e](https://github.com/MediaJel/mediajel-gql-service/commit/f54493e) Organize and added comments
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
-  * [#81c0d87](https://github.com/MediaJel/mediajel-gql-service/commit/81c0d87) Create basic implementation
-* ⏺️ Created new branch pa-implement-algo-in-observer in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-routes`
-  * [#cec95a3](https://github.com/MediaJel/mediajel-dashboard/commit/cec95a3) Remove console.log
+* ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
+  * [#c67a4de](https://github.com/pacholoamit/rustlings/commit/c67a4de) finish qui1 1
+* ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
+  * [#600c2ed](https://github.com/pacholoamit/rustlings/commit/600c2ed) Finish ifs
+* ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
+  * [#3102d81](https://github.com/pacholoamit/rustlings/commit/3102d81) Finished functions section
+* ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
+  * [#87d99aa](https://github.com/pacholoamit/rustlings/commit/87d99aa) finished intro &amp; modify variables1
+* ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
+  * [#51d2bb3](https://github.com/pacholoamit/rustlings/commit/51d2bb3) Complete variables
 
 
 ### Stalk me here ❤️
