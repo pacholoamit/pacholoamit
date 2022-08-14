@@ -130,15 +130,14 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
-  * [#c67a4de](https://github.com/pacholoamit/rustlings/commit/c67a4de) finish qui1 1
+  * [#8a4dc98](https://github.com/pacholoamit/rustlings/commit/8a4dc98) Completed Rust enums
 * ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
-  * [#600c2ed](https://github.com/pacholoamit/rustlings/commit/600c2ed) Finish ifs
+  * [#77309f2](https://github.com/pacholoamit/rustlings/commit/77309f2) Finished structs
 * ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
-  * [#3102d81](https://github.com/pacholoamit/rustlings/commit/3102d81) Finished functions section
+  * [#5cb0816](https://github.com/pacholoamit/rustlings/commit/5cb0816) Complete move_semantics
 * ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
-  * [#87d99aa](https://github.com/pacholoamit/rustlings/commit/87d99aa) finished intro &amp; modify variables1
-* ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
-  * [#51d2bb3](https://github.com/pacholoamit/rustlings/commit/51d2bb3) Complete variables
+  * [#448f951](https://github.com/pacholoamit/rustlings/commit/448f951) complete vectors
+* 🌟 Starred [actions-rs/meta](https://github.com/actions-rs/meta)
 
 
 ### Stalk me here ❤️
