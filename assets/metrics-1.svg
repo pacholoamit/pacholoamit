@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.06m added, 796k removed
+                                    3.05m added, 786k removed
                                 </div>
                             </section>
                             <section>
@@ -397,14 +397,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.7111111111111111" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0.7111111111111111" y="0" width="0.8" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="1.511111111111111" y="0" width="-0.08888888888888889" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="1.4222222222222223" y="0" width="0.08888888888888889" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="1.511111111111111" y="0" width="7.940740740740741" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="9.451851851851853" y="0" width="2.340740740740741" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="11.792592592592595" y="0" width="161.86666666666665" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="173.65925925925924" y="0" width="46.340740740740735" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.6514131897711979" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0.6514131897711979" y="0" width="0.7994616419919247" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="1.4508748317631226" y="0" width="-0.08882907133243607" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="1.3620457604306866" y="0" width="0.08882907133243607" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="1.4508748317631226" y="0" width="7.9650067294751015" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="9.415881561238225" y="0" width="2.339165545087483" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="11.755047106325708" y="0" width="161.93539703903096" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="173.69044414535668" y="0" width="46.309555854643335" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -417,13 +417,13 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">51 <small>open</small></span>
+                                <span class="no-wrap">49 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">7027 <small>merged</small></span>
+                                <span class="no-wrap">7033 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -436,7 +436,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">347 <small>closed</small></span>
+                                <span class="no-wrap">348 <small>closed</small></span>
                             </div>
                         </div>
                         <div class="field blue fill-width">
@@ -585,16 +585,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,56.8C39.5,49.467,49,34.8,58.5,34.8C68,34.8,77.5,85.4,87,85.4C96.5,85.4,106,52.557,115.5,43.6C125,34.643,134.5,23.8,144,23.8C153.5,23.8,163,46.586,172.5,56.8C182,67.014,191.5,75.867,201,85.4L201,125Z" class="ct-area"/>
-                                            <path d="M30,56.8C39.5,49.467,49,34.8,58.5,34.8C68,34.8,77.5,85.4,87,85.4C96.5,85.4,106,52.557,115.5,43.6C125,34.643,134.5,23.8,144,23.8C153.5,23.8,163,46.586,172.5,56.8C182,67.014,191.5,75.867,201,85.4" class="ct-line"/>
-                                            <line x1="30" y1="56.8" x2="30.01" y2="56.8" class="ct-point" ct:value="31"/>
-                                            <line x1="58.5" y1="34.8" x2="58.51" y2="34.8" class="ct-point" ct:value="41"/>
+                                            <path d="M30,125L30,59C39.5,50.2,49,32.6,58.5,32.6C68,32.6,77.5,85.4,87,85.4C96.5,85.4,106,52.557,115.5,43.6C125,34.643,134.5,23.8,144,23.8C153.5,23.8,163,46.586,172.5,56.8C182,67.014,191.5,75.867,201,85.4L201,125Z" class="ct-area"/>
+                                            <path d="M30,59C39.5,50.2,49,32.6,58.5,32.6C68,32.6,77.5,85.4,87,85.4C96.5,85.4,106,52.557,115.5,43.6C125,34.643,134.5,23.8,144,23.8C153.5,23.8,163,46.586,172.5,56.8C182,67.014,191.5,75.867,201,85.4" class="ct-line"/>
+                                            <line x1="30" y1="59" x2="30.01" y2="59" class="ct-point" ct:value="30"/>
+                                            <line x1="58.5" y1="32.599999999999994" x2="58.51" y2="32.599999999999994" class="ct-point" ct:value="42"/>
                                             <line x1="87" y1="85.4" x2="87.01" y2="85.4" class="ct-point" ct:value="18"/>
                                             <line x1="115.5" y1="43.599999999999994" x2="115.51" y2="43.599999999999994" class="ct-point" ct:value="37"/>
                                             <line x1="144" y1="23.799999999999997" x2="144.01" y2="23.799999999999997" class="ct-point" ct:value="46"/>
                                             <line x1="172.5" y1="56.8" x2="172.51" y2="56.8" class="ct-point" ct:value="31"/>
                                             <line x1="201" y1="85.4" x2="201.01" y2="85.4" class="ct-point" ct:value="18"/>
-                                        <text x="30" y="51.8" class="ct-post">31</text><text x="58.5" y="29.799999999999997" class="ct-post">41</text><text x="87" y="80.4" class="ct-post">18</text><text x="115.5" y="38.599999999999994" class="ct-post">37</text><text x="144" y="18.799999999999997" class="ct-post">46</text><text x="172.5" y="51.8" class="ct-post">31</text><text x="201" y="80.4" class="ct-post">18</text></g>
+                                        <text x="30" y="54" class="ct-post">30</text><text x="58.5" y="27.599999999999994" class="ct-post">42</text><text x="87" y="80.4" class="ct-post">18</text><text x="115.5" y="38.599999999999994" class="ct-post">37</text><text x="144" y="18.799999999999997" class="ct-post">46</text><text x="172.5" y="51.8" class="ct-post">31</text><text x="201" y="80.4" class="ct-post">18</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -617,26 +617,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M117.165,5.562A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.018238474933553295"/>
+                                        <path d="M117.157,5.561A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.01822469491952286"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M110.856,154.946A75,75,0,0,0,116.905,5.531L108,80Z" class="ct-slice-pie" ct:value="0.4438181651544313"/>
+                                        <path d="M111.205,154.931A75,75,0,0,0,116.897,5.53L108,80Z" class="ct-slice-pie" ct:value="0.4431623051033725"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M65.411,18.265A75,75,0,0,0,111.118,154.935L108,80Z" class="ct-slice-pie" ct:value="0.3834891394006049"/>
+                                        <path d="M65.441,18.244A75,75,0,0,0,111.467,154.92L108,80Z" class="ct-slice-pie" ct:value="0.38427547679556745"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M100.257,5.401A75,75,0,0,0,65.196,18.414L108,80Z" class="ct-slice-pie" ct:value="0.07451196040692878"/>
+                                        <path d="M100.264,5.4A75,75,0,0,0,65.226,18.393L108,80Z" class="ct-slice-pie" ct:value="0.07445566316367883"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,99.997,5.428L108,80Z" class="ct-slice-pie" ct:value="0.01539730547154248"/>
+                                        <path d="M108,5A75,75,0,0,0,100.003,5.428L108,80Z" class="ct-slice-pie" ct:value="0.01538567209286352"/>
                                     </g>
                                     <g>
-                                        <text dx="110.29548863293435" dy="42.570322844885915" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="145.46660396771642" dy="81.58227277240572" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="72.41539508529658" dy="91.83156342435204" text-anchor="middle" class="ct-label">Go</text>
-                                        <text dx="95.01259052922282" dy="44.82078461309338" text-anchor="middle" class="ct-label">RenderScript</text>
-                                        <text dx="106.0617518197621" dy="42.5501242459764" text-anchor="middle" class="ct-label">Rust</text>
+                                        <text dx="110.29363703030424" dy="42.570209335701364" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="145.47026236651504" dy="81.49313033072322" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="72.4401507608572" dy="91.90576003829382" text-anchor="middle" class="ct-label">Go</text>
+                                        <text dx="95.02263916353003" dy="44.81707650407579" text-anchor="middle" class="ct-label">RenderScript</text>
+                                        <text dx="106.06331582464617" dy="42.55004333240245" text-anchor="middle" class="ct-label">Rust</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -663,7 +663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GuillaumeGomez/sysinfo</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform library to fetch system information</div>
@@ -716,7 +716,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unrelentingtech/systemstat</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust library for getting system information</div>
