@@ -130,14 +130,14 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
+  * [#c0f2060](https://github.com/pacholoamit/rustlings/commit/c0f2060) Complete module
+* ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
   * [#5d191d7](https://github.com/pacholoamit/rustlings/commit/5d191d7) Completed strings
 * ➡️ Pushed 2 commits in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
   * [#aa61205](https://github.com/pacholoamit/rustlings/commit/aa61205) Merge branch &#39;master&#39; of github.com:pacholoamit/rustlings
 * 🌟 Starred [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 * ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
   * [#8a4dc98](https://github.com/pacholoamit/rustlings/commit/8a4dc98) Completed Rust enums
-* ➡️ Pushed 1 commit in [pacholoamit/rustlings](https://github.com/pacholoamit/rustlings) on branch `master`
-  * [#77309f2](https://github.com/pacholoamit/rustlings/commit/77309f2) Finished structs
 
 
 ### Stalk me here ❤️
