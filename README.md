@@ -129,15 +129,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#178 [FOR REVIEW] Wow Metrics Endpoint](https://github.com/MediaJel/customer-api/pull/178) from [MediaJel/customer-api](https://github.com/MediaJel/customer-api)
+* 🔍 Reviewed [#178 [FOR REVIEW] Wow Metrics Endpoint](https://github.com/MediaJel/customer-api/pull/178) in [MediaJel/customer-api](https://github.com/MediaJel/customer-api)
+* 🔍 Reviewed [#178 [FOR REVIEW] Wow Metrics Endpoint](https://github.com/MediaJel/customer-api/pull/178) in [MediaJel/customer-api](https://github.com/MediaJel/customer-api)
 * 🌟 Starred [juanfont/headscale](https://github.com/juanfont/headscale)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#a65060c](https://github.com/pacholoamit/pachtop/commit/a65060c) Testing ui module
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#2391a83](https://github.com/pacholoamit/pachtop/commit/2391a83) Implement more metrics
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#281ffd9](https://github.com/pacholoamit/pachtop/commit/281ffd9) Implemented mounts &amp; networks
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#535f6ac](https://github.com/pacholoamit/pachtop/commit/535f6ac) Implement getting of memory
 
 
 ### Stalk me here ❤️
