@@ -129,13 +129,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet)
 * 🌟 Starred [fdehau/tui-rs](https://github.com/fdehau/tui-rs)
 * 🌟 Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 * 🌟 Starred [sakofchit/system.css](https://github.com/sakofchit/system.css)
 * ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
   * [#e9d5a26](https://github.com/pacholoamit/pachgrep/commit/e9d5a26) Refactoring
-* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
-  * [#16e73f7](https://github.com/pacholoamit/pachgrep/commit/16e73f7) Implement file read
 
 
 ### Stalk me here ❤️
