@@ -129,12 +129,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet)
-* 🌟 Starred [fdehau/tui-rs](https://github.com/fdehau/tui-rs)
-* 🌟 Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-* 🌟 Starred [sakofchit/system.css](https://github.com/sakofchit/system.css)
-* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
-  * [#e9d5a26](https://github.com/pacholoamit/pachgrep/commit/e9d5a26) Refactoring
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-snowplow-tracker`
+  * [#c38b6c1](https://github.com/MediaJel/mediajel-dashboard/commit/c38b6c1) Include org data in userContext
+* 🔃 Opened [#3002 [FOR REVIEW] Implement custom snowplow tracking ](https://github.com/MediaJel/mediajel-dashboard/pull/3002) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 7 files changed `++87 --32`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-snowplow-tracker`
+  * [#bbbf931](https://github.com/MediaJel/mediajel-dashboard/commit/bbbf931) Set currentUser context manually
+  * [#c2460f0](https://github.com/MediaJel/mediajel-dashboard/commit/c2460f0) Remove snowplow from routes
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-snowplow-tracker`
+  * [#43a519c](https://github.com/MediaJel/mediajel-dashboard/commit/43a519c) Implement clearGlobalContext to remove contexts after snowplow execution
+* 🌟 Starred [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook)
 
 
 ### Stalk me here ❤️
