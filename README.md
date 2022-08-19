@@ -130,14 +130,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
+  * [#0e66ad4](https://github.com/pacholoamit/pachgrep/commit/0e66ad4) implement eprintln! macro to print errors to stderr&#39;
+* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
+  * [#817a795](https://github.com/pacholoamit/pachgrep/commit/817a795) implement search case insensitive
+* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
   * [#c0802f3](https://github.com/pacholoamit/pachgrep/commit/c0802f3) modify test cases&#34;
 * ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
   * [#6cb080c](https://github.com/pacholoamit/pachgrep/commit/6cb080c) Create working test
 * ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
   * [#b1434c7](https://github.com/pacholoamit/pachgrep/commit/b1434c7) create failing test
-* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
-  * [#024af9d](https://github.com/pacholoamit/pachgrep/commit/024af9d) restructure
-* 🌟 Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
 
 
 ### Stalk me here ❤️
