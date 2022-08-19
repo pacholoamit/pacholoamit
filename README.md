@@ -129,16 +129,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-snowplow-tracker`
-  * [#c38b6c1](https://github.com/MediaJel/mediajel-dashboard/commit/c38b6c1) Include org data in userContext
-* 🔃 Opened [#3002 [FOR REVIEW] Implement custom snowplow tracking ](https://github.com/MediaJel/mediajel-dashboard/pull/3002) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 7 files changed `++87 --32`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-snowplow-tracker`
-  * [#bbbf931](https://github.com/MediaJel/mediajel-dashboard/commit/bbbf931) Set currentUser context manually
-  * [#c2460f0](https://github.com/MediaJel/mediajel-dashboard/commit/c2460f0) Remove snowplow from routes
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-snowplow-tracker`
-  * [#43a519c](https://github.com/MediaJel/mediajel-dashboard/commit/43a519c) Implement clearGlobalContext to remove contexts after snowplow execution
-* 🌟 Starred [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook)
+* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
+  * [#c0802f3](https://github.com/pacholoamit/pachgrep/commit/c0802f3) modify test cases&#34;
+* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
+  * [#6cb080c](https://github.com/pacholoamit/pachgrep/commit/6cb080c) Create working test
+* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
+  * [#b1434c7](https://github.com/pacholoamit/pachgrep/commit/b1434c7) create failing test
+* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
+  * [#024af9d](https://github.com/pacholoamit/pachgrep/commit/024af9d) restructure
+* 🌟 Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
 
 
 ### Stalk me here ❤️
