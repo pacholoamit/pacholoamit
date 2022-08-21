@@ -129,17 +129,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `master`
-  * [#512558d](https://github.com/pacholoamit/rust-sync/commit/512558d) Created InvokeTauri helper to fetch data from Rust runtime
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `master`
-  * [#3294cf1](https://github.com/pacholoamit/rust-sync/commit/3294cf1) Implement persist window state
 * ➡️ Pushed 2 commits in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `master`
-  * [#1ade7d7](https://github.com/pacholoamit/rust-sync/commit/1ade7d7) remove window_vibrancy
-  * [#e296e94](https://github.com/pacholoamit/rust-sync/commit/e296e94) Add window vibrancy
+  * [#92e2328](https://github.com/pacholoamit/rust-sync/commit/92e2328) Spawn a thread for recording metrics over time while running app
+  * [#38f9429](https://github.com/pacholoamit/rust-sync/commit/38f9429) modify timestamp to use seconds instead of milliseconds
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `staging`
+  * [#92e2328](https://github.com/pacholoamit/rust-sync/commit/92e2328) Spawn a thread for recording metrics over time while running app
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `staging`
+  * [#38f9429](https://github.com/pacholoamit/rust-sync/commit/38f9429) modify timestamp to use seconds instead of milliseconds
+* ⏺️ Created new branch staging in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync)
 * ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `master`
-  * [#a88a811](https://github.com/pacholoamit/rust-sync/commit/a88a811) improve error handling
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `master`
-  * [#0fea1cf](https://github.com/pacholoamit/rust-sync/commit/0fea1cf) Moved memory model to models.rs
+  * [#b03ca15](https://github.com/pacholoamit/rust-sync/commit/b03ca15) Implemented useGetMetrics hook to query metrics every 1 second from Rust backend
 
 
 ### Stalk me here ❤️
