@@ -129,16 +129,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch master in [pacholoamit/actix-web-task-service](https://github.com/pacholoamit/actix-web-task-service)
+* ⏺️ Created new repository  [pacholoamit/actix-web-task-service](https://github.com/pacholoamit/actix-web-task-service)
+* ⏺️ Created new branch master in [pacholoamit/rust-server](https://github.com/pacholoamit/rust-server)
+* ⏺️ Created new repository  [pacholoamit/rust-server](https://github.com/pacholoamit/rust-server)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-snowplow-tracker`
   * [#1b0f725](https://github.com/MediaJel/mediajel-dashboard/commit/1b0f725) use production collector
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-modify-snowplow-tracker`
-  * [#50b649d](https://github.com/MediaJel/mediajel-dashboard/commit/50b649d) Use snowplow hosted iglu schema
-* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
-  * [#0e66ad4](https://github.com/pacholoamit/pachgrep/commit/0e66ad4) implement eprintln! macro to print errors to stderr&#39;
-* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
-  * [#817a795](https://github.com/pacholoamit/pachgrep/commit/817a795) implement search case insensitive
-* ➡️ Pushed 1 commit in [pacholoamit/pachgrep](https://github.com/pacholoamit/pachgrep) on branch `master`
-  * [#c0802f3](https://github.com/pacholoamit/pachgrep/commit/c0802f3) modify test cases&#34;
 
 
 ### Stalk me here ❤️
