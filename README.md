@@ -129,16 +129,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `implement-tauri-state`
+  * [#135a240](https://github.com/pacholoamit/rust-sync/commit/135a240) Added some doc comments
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `implement-tauri-state`
+  * [#a74027b](https://github.com/pacholoamit/rust-sync/commit/a74027b) Implement testing on read memory
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `implement-tauri-state`
+  * [#00d31c9](https://github.com/pacholoamit/rust-sync/commit/00d31c9) implement watcher handler
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `implement-tauri-state`
+  * [#11878ae](https://github.com/pacholoamit/rust-sync/commit/11878ae) successfully implement thread spawn to capture metrics every 1 second
 * ⏺️ Created new branch implement-tauri-state in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync)
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `staging`
-  * [#ba7b200](https://github.com/pacholoamit/rust-sync/commit/ba7b200) Remove unrequired imports
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `staging`
-  * [#e1a21ca](https://github.com/pacholoamit/rust-sync/commit/e1a21ca) Temporarily remove unrequired data
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `master`
-  * [#e1a21ca](https://github.com/pacholoamit/rust-sync/commit/e1a21ca) Temporarily remove unrequired data
-* ➡️ Pushed 2 commits in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `master`
-  * [#92e2328](https://github.com/pacholoamit/rust-sync/commit/92e2328) Spawn a thread for recording metrics over time while running app
-  * [#38f9429](https://github.com/pacholoamit/rust-sync/commit/38f9429) modify timestamp to use seconds instead of milliseconds
 
 
 ### Stalk me here ❤️
