@@ -129,15 +129,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `implement-tauri-state`
-  * [#135a240](https://github.com/pacholoamit/rust-sync/commit/135a240) Added some doc comments
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `implement-tauri-state`
-  * [#a74027b](https://github.com/pacholoamit/rust-sync/commit/a74027b) Implement testing on read memory
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `implement-tauri-state`
-  * [#00d31c9](https://github.com/pacholoamit/rust-sync/commit/00d31c9) implement watcher handler
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `implement-tauri-state`
-  * [#11878ae](https://github.com/pacholoamit/rust-sync/commit/11878ae) successfully implement thread spawn to capture metrics every 1 second
-* ⏺️ Created new branch implement-tauri-state in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync)
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `beta`
+  * [#64e04df](https://github.com/pacholoamit/rust-sync/commit/64e04df) install chartjs
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `beta`
+  * [#5de6617](https://github.com/pacholoamit/rust-sync/commit/5de6617) install react-chartjs-2
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `beta`
+  * [#7e12b71](https://github.com/pacholoamit/rust-sync/commit/7e12b71) minor refactor on requestMetrics
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `beta`
+  * [#0d2934b](https://github.com/pacholoamit/rust-sync/commit/0d2934b) improve error handling
+* ⏺️ Created new branch beta in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync)
 
 
 ### Stalk me here ❤️
