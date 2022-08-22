@@ -129,16 +129,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch implement-tauri-state in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync)
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `staging`
+  * [#ba7b200](https://github.com/pacholoamit/rust-sync/commit/ba7b200) Remove unrequired imports
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `staging`
+  * [#e1a21ca](https://github.com/pacholoamit/rust-sync/commit/e1a21ca) Temporarily remove unrequired data
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `master`
+  * [#e1a21ca](https://github.com/pacholoamit/rust-sync/commit/e1a21ca) Temporarily remove unrequired data
 * ➡️ Pushed 2 commits in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `master`
   * [#92e2328](https://github.com/pacholoamit/rust-sync/commit/92e2328) Spawn a thread for recording metrics over time while running app
   * [#38f9429](https://github.com/pacholoamit/rust-sync/commit/38f9429) modify timestamp to use seconds instead of milliseconds
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `staging`
-  * [#92e2328](https://github.com/pacholoamit/rust-sync/commit/92e2328) Spawn a thread for recording metrics over time while running app
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `staging`
-  * [#38f9429](https://github.com/pacholoamit/rust-sync/commit/38f9429) modify timestamp to use seconds instead of milliseconds
-* ⏺️ Created new branch staging in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync)
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `master`
-  * [#b03ca15](https://github.com/pacholoamit/rust-sync/commit/b03ca15) Implemented useGetMetrics hook to query metrics every 1 second from Rust backend
 
 
 ### Stalk me here ❤️
