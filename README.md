@@ -129,19 +129,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `beta`
-  * [#c3fb312](https://github.com/pacholoamit/rust-sync/commit/c3fb312) Implement fixed length metric state
-* ➡️ Pushed 2 commits in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `beta`
-  * [#85ec481](https://github.com/pacholoamit/rust-sync/commit/85ec481) minor changes
-  * [#3605253](https://github.com/pacholoamit/rust-sync/commit/3605253) Implementation of Ram chart successful
-* 🔃 Merged [#135 add ecwid v1 and v2 to the cart](https://github.com/MediaJel/mediajel-tracker/pull/135) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 5 files changed `++102 --2`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#5878155](https://github.com/MediaJel/mediajel-tracker/commit/5878155) Merge pull request #135 from MediaJel/jjl-add-ecwid-to-cart
-
-add ecwid v1 and v2 to the cart
-  * [#37bec33](https://github.com/MediaJel/mediajel-tracker/commit/37bec33) add ecwid v1 and v2 to the cart
-* 🔍 Reviewed [#135 add ecwid v1 and v2 to the cart](https://github.com/MediaJel/mediajel-tracker/pull/135) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
+  * [#d62250e](https://github.com/pacholoamit/pachtop/commit/d62250e) add comments for get_adjusted_unit
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
+  * [#51de817](https://github.com/pacholoamit/pachtop/commit/51de817) added next steps in code comments
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
+  * [#3794f87](https://github.com/pacholoamit/pachtop/commit/3794f87) unimplement default trait for MetricState, utilize new constructor instead
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
+  * [#2c836e6](https://github.com/pacholoamit/pachtop/commit/2c836e6) create utility function to convert kb to different sizes
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
+  * [#4a147b5](https://github.com/pacholoamit/pachtop/commit/4a147b5) implemented ByteUnit from parsing bytes to different sizes
+  * [#4c7f34a](https://github.com/pacholoamit/pachtop/commit/4c7f34a) remove external crate systemstat
 
 
 ### Stalk me here ❤️
