@@ -129,6 +129,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `beta`
+  * [#c3fb312](https://github.com/pacholoamit/rust-sync/commit/c3fb312) Implement fixed length metric state
 * ➡️ Pushed 2 commits in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `beta`
   * [#85ec481](https://github.com/pacholoamit/rust-sync/commit/85ec481) minor changes
   * [#3605253](https://github.com/pacholoamit/rust-sync/commit/3605253) Implementation of Ram chart successful
@@ -140,8 +142,6 @@
 add ecwid v1 and v2 to the cart
   * [#37bec33](https://github.com/MediaJel/mediajel-tracker/commit/37bec33) add ecwid v1 and v2 to the cart
 * 🔍 Reviewed [#135 add ecwid v1 and v2 to the cart](https://github.com/MediaJel/mediajel-tracker/pull/135) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [pacholoamit/rust-sync](https://github.com/pacholoamit/rust-sync) on branch `beta`
-  * [#64e04df](https://github.com/pacholoamit/rust-sync/commit/64e04df) install chartjs
 
 
 ### Stalk me here ❤️
