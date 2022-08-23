@@ -129,17 +129,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
+  * [#6763908](https://github.com/MediaJel/mediajel-gql-service/commit/6763908) fix blob&#39;
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
+  * [#77acb15](https://github.com/MediaJel/mediajel-gql-service/commit/77acb15) resolve types for blob
+* 🔃 Opened [#136 [FOR REVIEW] Remove of defunct liquid m tag](https://github.com/MediaJel/mediajel-tracker/pull/136) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++0 --18`
+* ⏺️ Created new branch pa-remove-defunct-liquidm-tag in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
   * [#d62250e](https://github.com/pacholoamit/pachtop/commit/d62250e) add comments for get_adjusted_unit
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
-  * [#51de817](https://github.com/pacholoamit/pachtop/commit/51de817) added next steps in code comments
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
-  * [#3794f87](https://github.com/pacholoamit/pachtop/commit/3794f87) unimplement default trait for MetricState, utilize new constructor instead
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
-  * [#2c836e6](https://github.com/pacholoamit/pachtop/commit/2c836e6) create utility function to convert kb to different sizes
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
-  * [#4a147b5](https://github.com/pacholoamit/pachtop/commit/4a147b5) implemented ByteUnit from parsing bytes to different sizes
-  * [#4c7f34a](https://github.com/pacholoamit/pachtop/commit/4c7f34a) remove external crate systemstat
 
 
 ### Stalk me here ❤️
