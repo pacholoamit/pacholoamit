@@ -129,14 +129,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
-* 💬 Commented on [#693 Error TS2304: Cannot find name &#39;Blob&#39;](https://github.com/Stuk/jszip/issues/693) from [Stuk/jszip](https://github.com/Stuk/jszip)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
-  * [#6763908](https://github.com/MediaJel/mediajel-gql-service/commit/6763908) fix blob&#39;
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
-  * [#77acb15](https://github.com/MediaJel/mediajel-gql-service/commit/77acb15) resolve types for blob
-* 🔃 Opened [#136 [FOR REVIEW] Remove of defunct liquid m tag](https://github.com/MediaJel/mediajel-tracker/pull/136) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++0 --18`
+* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
+  * [#5cbf2fa](https://github.com/pacholoamit/google-safe-browsing-api/commit/5cbf2fa) debugging
+* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
+  * [#4c3fe2d](https://github.com/pacholoamit/google-safe-browsing-api/commit/4c3fe2d) Implement serde rename on structs
+* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
+  * [#342c6c9](https://github.com/pacholoamit/google-safe-browsing-api/commit/342c6c9) define structs for request body
+* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
+  * [#2870b22](https://github.com/pacholoamit/google-safe-browsing-api/commit/2870b22) implement tokio async runtime for main
+* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
+  * [#d53f694](https://github.com/pacholoamit/google-safe-browsing-api/commit/d53f694) Add async dependencies for rust
 
 
 ### Stalk me here ❤️
