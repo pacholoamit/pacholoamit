@@ -129,15 +129,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
+* 💬 Commented on [#693 Error TS2304: Cannot find name &#39;Blob&#39;](https://github.com/Stuk/jszip/issues/693) from [Stuk/jszip](https://github.com/Stuk/jszip)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
   * [#6763908](https://github.com/MediaJel/mediajel-gql-service/commit/6763908) fix blob&#39;
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `zip-asana`
   * [#77acb15](https://github.com/MediaJel/mediajel-gql-service/commit/77acb15) resolve types for blob
 * 🔃 Opened [#136 [FOR REVIEW] Remove of defunct liquid m tag](https://github.com/MediaJel/mediajel-tracker/pull/136) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 3 files changed `++0 --18`
-* ⏺️ Created new branch pa-remove-defunct-liquidm-tag in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
-  * [#d62250e](https://github.com/pacholoamit/pachtop/commit/d62250e) add comments for get_adjusted_unit
 
 
 ### Stalk me here ❤️
