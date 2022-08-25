@@ -130,15 +130,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
+  * [#89d0c91](https://github.com/pacholoamit/google-safe-browsing-api/commit/89d0c91) minor refactor
+* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
+  * [#13ff2df](https://github.com/pacholoamit/google-safe-browsing-api/commit/13ff2df) clean up of main file
+* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
+  * [#e0e3687](https://github.com/pacholoamit/google-safe-browsing-api/commit/e0e3687) migrate structs &amp; functions to lib.rs
+* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
   * [#5cbf2fa](https://github.com/pacholoamit/google-safe-browsing-api/commit/5cbf2fa) debugging
 * ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
   * [#4c3fe2d](https://github.com/pacholoamit/google-safe-browsing-api/commit/4c3fe2d) Implement serde rename on structs
-* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
-  * [#342c6c9](https://github.com/pacholoamit/google-safe-browsing-api/commit/342c6c9) define structs for request body
-* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
-  * [#2870b22](https://github.com/pacholoamit/google-safe-browsing-api/commit/2870b22) implement tokio async runtime for main
-* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
-  * [#d53f694](https://github.com/pacholoamit/google-safe-browsing-api/commit/d53f694) Add async dependencies for rust
 
 
 ### Stalk me here ❤️
