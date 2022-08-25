@@ -129,6 +129,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes)
 * ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
   * [#89d0c91](https://github.com/pacholoamit/google-safe-browsing-api/commit/89d0c91) minor refactor
 * ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
@@ -137,8 +138,6 @@
   * [#e0e3687](https://github.com/pacholoamit/google-safe-browsing-api/commit/e0e3687) migrate structs &amp; functions to lib.rs
 * ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
   * [#5cbf2fa](https://github.com/pacholoamit/google-safe-browsing-api/commit/5cbf2fa) debugging
-* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
-  * [#4c3fe2d](https://github.com/pacholoamit/google-safe-browsing-api/commit/4c3fe2d) Implement serde rename on structs
 
 
 ### Stalk me here ❤️
