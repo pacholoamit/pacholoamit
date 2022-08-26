@@ -130,6 +130,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
+  * [#579f30a](https://github.com/pacholoamit/google-safe-browsing-api/commit/579f30a) Add rayon for multithreading of requests
+* ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
   * [#572f7a4](https://github.com/pacholoamit/google-safe-browsing-api/commit/572f7a4) Add structs for Update API
 * ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
   * [#9751c47](https://github.com/pacholoamit/google-safe-browsing-api/commit/9751c47) migrate structs to models
@@ -137,7 +139,6 @@
   * [#6c62fa5](https://github.com/pacholoamit/google-safe-browsing-api/commit/6c62fa5) created initial concept for LookupRequest
 * ➡️ Pushed 1 commit in [pacholoamit/google-safe-browsing-api](https://github.com/pacholoamit/google-safe-browsing-api) on branch `master`
   * [#451bb4d](https://github.com/pacholoamit/google-safe-browsing-api/commit/451bb4d) rename request struct to lookuprequest
-* 🌟 Starred [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes)
 
 
 ### Stalk me here ❤️
