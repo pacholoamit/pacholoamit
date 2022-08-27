@@ -129,26 +129,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch staging in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
+  * [#5c4ff9d](https://github.com/pacholoamit/pachtop/commit/5c4ff9d) modify useGetMetrics
+  * [#7a43c96](https://github.com/pacholoamit/pachtop/commit/7a43c96) current chart
 * 🔃 Opened [#1 beta](https://github.com/pacholoamit/pachtop/pull/1) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
   * 6 files changed `++93 --123`
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
   * [#c1cdc43](https://github.com/pacholoamit/pachtop/commit/c1cdc43) modify structs to include unit
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
-  * [#8a8cfd9](https://github.com/pacholoamit/pachtop/commit/8a8cfd9) create area chart custom component
-* ➡️ Pushed 10 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#3866f05](https://github.com/pacholoamit/pachtop/commit/3866f05) Fix static metrics issue
-  * [#0ce5e1e](https://github.com/pacholoamit/pachtop/commit/0ce5e1e) remove unrequired function
-  * [#7a935d2](https://github.com/pacholoamit/pachtop/commit/7a935d2) implement byte to size
-  * [#d62250e](https://github.com/pacholoamit/pachtop/commit/d62250e) add comments for get_adjusted_unit
-  * [#51de817](https://github.com/pacholoamit/pachtop/commit/51de817) added next steps in code comments
-  * [#3794f87](https://github.com/pacholoamit/pachtop/commit/3794f87) unimplement default trait for MetricState, utilize new constructor instead
-  * [#2c836e6](https://github.com/pacholoamit/pachtop/commit/2c836e6) create utility function to convert kb to different sizes
-  * [#4a147b5](https://github.com/pacholoamit/pachtop/commit/4a147b5) implemented ByteUnit from parsing bytes to different sizes
-  * [#4c7f34a](https://github.com/pacholoamit/pachtop/commit/4c7f34a) remove external crate systemstat
-  * [#cab95c2](https://github.com/pacholoamit/pachtop/commit/cab95c2) byte-unit
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
-  * [#3866f05](https://github.com/pacholoamit/pachtop/commit/3866f05) Fix static metrics issue
-  * [#0ce5e1e](https://github.com/pacholoamit/pachtop/commit/0ce5e1e) remove unrequired function
 
 
 ### Stalk me here ❤️
