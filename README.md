@@ -129,14 +129,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `tauri-events`
+  * [#3b3645b](https://github.com/pacholoamit/pachtop/commit/3b3645b) final commit
+* ⏺️ Created new branch tauri-events in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#0a4fbef](https://github.com/pacholoamit/pachtop/commit/0a4fbef) Testing Apex charts
+  * [#21589b2](https://github.com/pacholoamit/pachtop/commit/21589b2) add apex charts
 * ⏺️ Created new branch staging in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
-  * [#5c4ff9d](https://github.com/pacholoamit/pachtop/commit/5c4ff9d) modify useGetMetrics
-  * [#7a43c96](https://github.com/pacholoamit/pachtop/commit/7a43c96) current chart
-* 🔃 Opened [#1 beta](https://github.com/pacholoamit/pachtop/pull/1) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 6 files changed `++93 --123`
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `beta`
-  * [#c1cdc43](https://github.com/pacholoamit/pachtop/commit/c1cdc43) modify structs to include unit
 
 
 ### Stalk me here ❤️
