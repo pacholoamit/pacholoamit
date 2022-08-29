@@ -129,13 +129,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `tauri-events`
-  * [#3b3645b](https://github.com/pacholoamit/pachtop/commit/3b3645b) final commit
-* ⏺️ Created new branch tauri-events in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+* ➡️ Pushed 9 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#99263db](https://github.com/pacholoamit/pachtop/commit/99263db) Create Area chart for Ram free
+  * [#8eae6f2](https://github.com/pacholoamit/pachtop/commit/8eae6f2) Adding of additional props to area chart component
+  * [#f3d6059](https://github.com/pacholoamit/pachtop/commit/f3d6059) Make points invisible unless hovered on
+  * [#a62d6ee](https://github.com/pacholoamit/pachtop/commit/a62d6ee) clean up
+  * [#a0f54cd](https://github.com/pacholoamit/pachtop/commit/a0f54cd) Create AreaChart component
+  * [#da27c71](https://github.com/pacholoamit/pachtop/commit/da27c71) Chart working via memory props
   * [#0a4fbef](https://github.com/pacholoamit/pachtop/commit/0a4fbef) Testing Apex charts
   * [#21589b2](https://github.com/pacholoamit/pachtop/commit/21589b2) add apex charts
-* ⏺️ Created new branch staging in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * [#40f1154](https://github.com/pacholoamit/pachtop/commit/40f1154) Implemented memory struct changes
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#99263db](https://github.com/pacholoamit/pachtop/commit/99263db) Create Area chart for Ram free
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#8eae6f2](https://github.com/pacholoamit/pachtop/commit/8eae6f2) Adding of additional props to area chart component
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#f3d6059](https://github.com/pacholoamit/pachtop/commit/f3d6059) Make points invisible unless hovered on
+  * [#a62d6ee](https://github.com/pacholoamit/pachtop/commit/a62d6ee) clean up
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#a0f54cd](https://github.com/pacholoamit/pachtop/commit/a0f54cd) Create AreaChart component
 
 
 ### Stalk me here ❤️
