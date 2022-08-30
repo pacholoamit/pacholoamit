@@ -129,6 +129,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#166 FEATURE: Passphrase when authenticating to snowflake](https://github.com/MediaJel/manifest-manager/pull/166) in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
 * ➡️ Pushed 9 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#99263db](https://github.com/pacholoamit/pachtop/commit/99263db) Create Area chart for Ram free
   * [#8eae6f2](https://github.com/pacholoamit/pachtop/commit/8eae6f2) Adding of additional props to area chart component
@@ -146,8 +147,6 @@
 * ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#f3d6059](https://github.com/pacholoamit/pachtop/commit/f3d6059) Make points invisible unless hovered on
   * [#a62d6ee](https://github.com/pacholoamit/pachtop/commit/a62d6ee) clean up
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#a0f54cd](https://github.com/pacholoamit/pachtop/commit/a0f54cd) Create AreaChart component
 
 
 ### Stalk me here ❤️
