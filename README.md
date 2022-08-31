@@ -129,24 +129,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#166 FEATURE: Passphrase when authenticating to snowflake](https://github.com/MediaJel/manifest-manager/pull/166) in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
-* ➡️ Pushed 9 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#99263db](https://github.com/pacholoamit/pachtop/commit/99263db) Create Area chart for Ram free
-  * [#8eae6f2](https://github.com/pacholoamit/pachtop/commit/8eae6f2) Adding of additional props to area chart component
-  * [#f3d6059](https://github.com/pacholoamit/pachtop/commit/f3d6059) Make points invisible unless hovered on
-  * [#a62d6ee](https://github.com/pacholoamit/pachtop/commit/a62d6ee) clean up
-  * [#a0f54cd](https://github.com/pacholoamit/pachtop/commit/a0f54cd) Create AreaChart component
-  * [#da27c71](https://github.com/pacholoamit/pachtop/commit/da27c71) Chart working via memory props
-  * [#0a4fbef](https://github.com/pacholoamit/pachtop/commit/0a4fbef) Testing Apex charts
-  * [#21589b2](https://github.com/pacholoamit/pachtop/commit/21589b2) add apex charts
-  * [#40f1154](https://github.com/pacholoamit/pachtop/commit/40f1154) Implemented memory struct changes
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#99263db](https://github.com/pacholoamit/pachtop/commit/99263db) Create Area chart for Ram free
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#8eae6f2](https://github.com/pacholoamit/pachtop/commit/8eae6f2) Adding of additional props to area chart component
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#f3d6059](https://github.com/pacholoamit/pachtop/commit/f3d6059) Make points invisible unless hovered on
-  * [#a62d6ee](https://github.com/pacholoamit/pachtop/commit/a62d6ee) clean up
+* 🔃 Opened [#188 add logging](https://github.com/MediaJel/manifest-manager/pull/188) in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
+  * 1 file changed `++4 --1`
+* ⏺️ Created new branch pa-impelemnt-logging in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
+* 🔃 Opened [#187 modify passphrase](https://github.com/MediaJel/manifest-manager/pull/187) in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
+  * 1 file changed `++17 --14`
+* ⏺️ Created new branch pa-modify-passphrase in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
+* 🔃 Opened [#185 add jwt](https://github.com/MediaJel/manifest-manager/pull/185) in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
+  * 1 file changed `++3 --2`
 
 
 ### Stalk me here ❤️
