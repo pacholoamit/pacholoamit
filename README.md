@@ -129,14 +129,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `implement-auth`
+  * [#fc452f8](https://github.com/pacholoamit/GO-TASK-MGR/commit/fc452f8) refactor handlers
+* ➡️ Pushed 3 commits in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `implement-auth`
+  * [#70d812f](https://github.com/pacholoamit/GO-TASK-MGR/commit/70d812f) Implement jwt
+  * [#7872680](https://github.com/pacholoamit/GO-TASK-MGR/commit/7872680) ran go mod tidy
+  * [#52e4495](https://github.com/pacholoamit/GO-TASK-MGR/commit/52e4495) added authboss and basic auth package in pkg
+* ➡️ Pushed 1 commit in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR) on branch `implement-auth`
+  * [#3703a81](https://github.com/pacholoamit/GO-TASK-MGR/commit/3703a81) create auth pages
+* ⏺️ Created new branch implement-auth in [pacholoamit/GO-TASK-MGR](https://github.com/pacholoamit/GO-TASK-MGR)
 * 🔃 Opened [#188 add logging](https://github.com/MediaJel/manifest-manager/pull/188) in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
   * 1 file changed `++4 --1`
-* ⏺️ Created new branch pa-impelemnt-logging in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
-* 🔃 Opened [#187 modify passphrase](https://github.com/MediaJel/manifest-manager/pull/187) in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
-  * 1 file changed `++17 --14`
-* ⏺️ Created new branch pa-modify-passphrase in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
-* 🔃 Opened [#185 add jwt](https://github.com/MediaJel/manifest-manager/pull/185) in [MediaJel/manifest-manager](https://github.com/MediaJel/manifest-manager)
-  * 1 file changed `++3 --2`
 
 
 ### Stalk me here ❤️
