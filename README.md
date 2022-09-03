@@ -129,15 +129,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `chatwoot-webhook`
-  * [#68d8fb9](https://github.com/MediaJel/mediajel-gql-service/commit/68d8fb9) minor change
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `chatwoot-webhook`
-  * [#b2d8035](https://github.com/MediaJel/mediajel-gql-service/commit/b2d8035) Basic implementation of decision tree
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `chatwoot-webhook`
-  * [#2a1a0ab](https://github.com/MediaJel/mediajel-gql-service/commit/2a1a0ab) Create new commands for enabling the jobqueue locally for dojo
-* ⏺️ Created new branch chatwoot-webhook in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [pacholoamit/forwarder](https://github.com/pacholoamit/forwarder) on branch `master`
-  * [#427d635](https://github.com/pacholoamit/forwarder/commit/427d635) Add some boilerplate code
+* 🌟 Starred [dapr/dapr](https://github.com/dapr/dapr)
+* 🔍 Reviewed [#332 Change prisma endpoint to dojo branch from staging](https://github.com/MediaJel/airflow-dags/pull/332) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
+* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
+  * [#46a1e7f](https://github.com/pacholoamit/vscode-server-docker/commit/46a1e7f) Add license
+* ⏺️ Created new branch master in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker)
+* ⏺️ Created new repository  [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker)
 
 
 ### Stalk me here ❤️
