@@ -25,6 +25,23 @@
 <table>
   <tr>
     <td rowspan="2" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qq8NOsC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvvesouje29b7h2gw0dm.png" alt="" width="280">
+    </td>
+    <th>
+      <a href="https://dev.to/pacholoamit/is-this-the-end-of-localhost-vs-code-server-preview-36ln">Is this the end of localhost? VS Code Server Preview</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      We&#39;re going to take a look at VS Code Server which is currently in private preview. I&#39;m going to walk...
+      <br>
+      <i>Published on 6 Sept 2022</i>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td rowspan="2" width="280">
       <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qKbV3lQd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ooly5198oq7rxhce94e7.png" alt="" width="280">
     </td>
     <th>
@@ -129,14 +146,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
+  * [#2ed89b2](https://github.com/pacholoamit/Hashnode-Blogs/commit/2ed89b2) create post: Is this the end of localhost? VS Code Server Preview
+* 🔍 Reviewed [#3082 [For Review] RM Error when using preview org](https://github.com/MediaJel/mediajel-dashboard/pull/3082) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `chatwoot-webhook`
   * [#8840567](https://github.com/MediaJel/mediajel-gql-service/commit/8840567) minot refactor
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `chatwoot-webhook`
   * [#ca9eccd](https://github.com/MediaJel/mediajel-gql-service/commit/ca9eccd) Better implement decision tree as to appear only once, after user has sent initial message
 * 🌟 Starred [dapr/dapr](https://github.com/dapr/dapr)
-* 🔍 Reviewed [#332 Change prisma endpoint to dojo branch from staging](https://github.com/MediaJel/airflow-dags/pull/332) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
-* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
-  * [#46a1e7f](https://github.com/pacholoamit/vscode-server-docker/commit/46a1e7f) Add license
 
 
 ### Stalk me here ❤️
