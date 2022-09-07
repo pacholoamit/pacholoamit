@@ -11,7 +11,7 @@
 <p>🔭 I'm currently working on <b>Big data and Data engineering </b></p>
 <p>🌱 I’m currently learning <b>DevOps and Server-side development </b> </p>
 <p>📝 I regularly write articles on <b><a href="https://dev.to/pacholoamit">Dev.to</a> and <a href="https://blogs.pacholoamit.com/">Hashnode</a> </b></p>
-<p>💬 Ask me about <b>Typescript, React, NodeJS, Kubernetes and Docker </b></p>
+<p>💬 Want to know more about me? Visit my  <b><a href="https://www.pacholoamit.com/"> Website</a></p>
 <p> 📫 Reach me at <b>pacholoamit.tech@gmail.com</b></p>
 <p>⚡ I make software engineering tutorials on <b><a href="https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw">Youtube</a></b></p>
 
