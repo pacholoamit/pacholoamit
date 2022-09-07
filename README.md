@@ -146,14 +146,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#2636 [FOR REVIEW] Enable AWS SES destination &amp; add emails](https://github.com/MediaJel/mediajel-gql-service/pull/2636) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 2 files changed `++11 --4`
+* ⏺️ Created new branch pa-implement-transaction-observer-email in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
   * [#2ed89b2](https://github.com/pacholoamit/Hashnode-Blogs/commit/2ed89b2) create post: Is this the end of localhost? VS Code Server Preview
 * 🔍 Reviewed [#3082 [For Review] RM Error when using preview org](https://github.com/MediaJel/mediajel-dashboard/pull/3082) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `chatwoot-webhook`
   * [#8840567](https://github.com/MediaJel/mediajel-gql-service/commit/8840567) minot refactor
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `chatwoot-webhook`
-  * [#ca9eccd](https://github.com/MediaJel/mediajel-gql-service/commit/ca9eccd) Better implement decision tree as to appear only once, after user has sent initial message
-* 🌟 Starred [dapr/dapr](https://github.com/dapr/dapr)
 
 
 ### Stalk me here ❤️
