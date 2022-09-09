@@ -146,6 +146,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-transaction-observer-email`
+  * [#e1d04ab](https://github.com/MediaJel/mediajel-gql-service/commit/e1d04ab) remove duplicate email
 * ➡️ Pushed 6 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-transaction-observer-email`
   * [#0f34d01](https://github.com/MediaJel/mediajel-gql-service/commit/0f34d01) Merge branch &#39;develop&#39; into pa-implement-transaction-observer-email
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-transaction-observer-email`
@@ -153,8 +155,6 @@
 * 🔃 Opened [#2636 [FOR REVIEW] Enable AWS SES destination &amp; add emails](https://github.com/MediaJel/mediajel-gql-service/pull/2636) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
   * 2 files changed `++11 --4`
 * ⏺️ Created new branch pa-implement-transaction-observer-email in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [pacholoamit/Hashnode-Blogs](https://github.com/pacholoamit/Hashnode-Blogs) on branch `main`
-  * [#2ed89b2](https://github.com/pacholoamit/Hashnode-Blogs/commit/2ed89b2) create post: Is this the end of localhost? VS Code Server Preview
 
 
 ### Stalk me here ❤️
