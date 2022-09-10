@@ -146,15 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-transaction-observer-email`
+  * [#170981a](https://github.com/MediaJel/mediajel-gql-service/commit/170981a) Merge branch &#39;pa-implement-transaction-observer-email&#39; of github.com:MediaJel/mediajel-gql-service into pa-implement-transaction-observer-email
+* 🔍 Reviewed [#345 REFACTOR: Add new env var in campaign-observer DAG](https://github.com/MediaJel/airflow-dags/pull/345) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-transaction-observer-email`
   * [#e1d04ab](https://github.com/MediaJel/mediajel-gql-service/commit/e1d04ab) remove duplicate email
 * ➡️ Pushed 6 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-transaction-observer-email`
   * [#0f34d01](https://github.com/MediaJel/mediajel-gql-service/commit/0f34d01) Merge branch &#39;develop&#39; into pa-implement-transaction-observer-email
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-transaction-observer-email`
   * [#2634fad](https://github.com/MediaJel/mediajel-gql-service/commit/2634fad) Added args to make senderEmail configurable, implemented new transactions_observer email address
-* 🔃 Opened [#2636 [FOR REVIEW] Enable AWS SES destination &amp; add emails](https://github.com/MediaJel/mediajel-gql-service/pull/2636) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 2 files changed `++11 --4`
-* ⏺️ Created new branch pa-implement-transaction-observer-email in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
