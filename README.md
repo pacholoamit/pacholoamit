@@ -147,15 +147,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
+  * [#ecce880](https://github.com/MediaJel/mediajel-gql-service/commit/ecce880) create getChatwootMetadata function to retrieve account id and conversation ids
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
+  * [#df87778](https://github.com/MediaJel/mediajel-gql-service/commit/df87778) minor refactor and update prettier to allow optional chaining
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
   * [#931c6a3](https://github.com/MediaJel/mediajel-gql-service/commit/931c6a3) Add option to allow user to resolve conversation
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
   * [#2324527](https://github.com/MediaJel/mediajel-gql-service/commit/2324527) successfully implement /actions command
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
   * [#11e2fba](https://github.com/MediaJel/mediajel-gql-service/commit/11e2fba) cleanup catch statement
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
-  * [#7fb7d8e](https://github.com/MediaJel/mediajel-gql-service/commit/7fb7d8e) remove unrequired comments
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
-  * [#d4a0439](https://github.com/MediaJel/mediajel-gql-service/commit/d4a0439) fix optional chaining
 
 
 ### Stalk me here ❤️
