@@ -146,14 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-transaction-observer-email`
-  * [#170981a](https://github.com/MediaJel/mediajel-gql-service/commit/170981a) Merge branch &#39;pa-implement-transaction-observer-email&#39; of github.com:MediaJel/mediajel-gql-service into pa-implement-transaction-observer-email
-* 🔍 Reviewed [#345 REFACTOR: Add new env var in campaign-observer DAG](https://github.com/MediaJel/airflow-dags/pull/345) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-transaction-observer-email`
-  * [#e1d04ab](https://github.com/MediaJel/mediajel-gql-service/commit/e1d04ab) remove duplicate email
-* ➡️ Pushed 6 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-implement-transaction-observer-email`
-  * [#0f34d01](https://github.com/MediaJel/mediajel-gql-service/commit/0f34d01) Merge branch &#39;develop&#39; into pa-implement-transaction-observer-email
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
+  * [#931c6a3](https://github.com/MediaJel/mediajel-gql-service/commit/931c6a3) Add option to allow user to resolve conversation
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
+  * [#2324527](https://github.com/MediaJel/mediajel-gql-service/commit/2324527) successfully implement /actions command
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
+  * [#11e2fba](https://github.com/MediaJel/mediajel-gql-service/commit/11e2fba) cleanup catch statement
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
+  * [#7fb7d8e](https://github.com/MediaJel/mediajel-gql-service/commit/7fb7d8e) remove unrequired comments
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
+  * [#d4a0439](https://github.com/MediaJel/mediajel-gql-service/commit/d4a0439) fix optional chaining
 
 
 ### Stalk me here ❤️
