@@ -147,15 +147,16 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
-  * [#ecce880](https://github.com/MediaJel/mediajel-gql-service/commit/ecce880) create getChatwootMetadata function to retrieve account id and conversation ids
+  * [#02ebbdb](https://github.com/MediaJel/mediajel-gql-service/commit/02ebbdb) use object literal to handle selected action
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
+  * [#c81ee41](https://github.com/MediaJel/mediajel-gql-service/commit/c81ee41) implement Custom Attribute enums
+  * [#3b4b9ec](https://github.com/MediaJel/mediajel-gql-service/commit/3b4b9ec) remove unrequired imports
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
-  * [#df87778](https://github.com/MediaJel/mediajel-gql-service/commit/df87778) minor refactor and update prettier to allow optional chaining
+  * [#60f8f19](https://github.com/MediaJel/mediajel-gql-service/commit/60f8f19) implement ActionOption as enum for decision tree
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
-  * [#931c6a3](https://github.com/MediaJel/mediajel-gql-service/commit/931c6a3) Add option to allow user to resolve conversation
+  * [#b2dfcf7](https://github.com/MediaJel/mediajel-gql-service/commit/b2dfcf7) Successfully implement &#39;intent&#39; custom attribute to segregate dashboard &amp; adops request from  user
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
-  * [#2324527](https://github.com/MediaJel/mediajel-gql-service/commit/2324527) successfully implement /actions command
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
-  * [#11e2fba](https://github.com/MediaJel/mediajel-gql-service/commit/11e2fba) cleanup catch statement
+  * [#02e7e58](https://github.com/MediaJel/mediajel-gql-service/commit/02e7e58) test forwarding of chatwoot messages to slack channel
 
 
 ### Stalk me here ❤️
