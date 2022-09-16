@@ -146,15 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [hashicorp/nomad](https://github.com/hashicorp/nomad)
-* 🌟 Starred [lapce/lapce](https://github.com/lapce/lapce)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
-  * [#c2433e6](https://github.com/MediaJel/mediajel-gql-service/commit/c2433e6) Successfully add user identity to chatwoot messages
-  * [#ce01709](https://github.com/MediaJel/mediajel-gql-service/commit/ce01709) Implement formatted initial slack message
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
-  * [#5804f4b](https://github.com/MediaJel/mediajel-gql-service/commit/5804f4b) changed object literal to if statements
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-impelement-chatwoot-webhook`
-  * [#02ebbdb](https://github.com/MediaJel/mediajel-gql-service/commit/02ebbdb) use object literal to handle selected action
+* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
+  * [#a0f1c82](https://github.com/pacholoamit/vscode-server-docker/commit/a0f1c82) added 0.0.0.0 host
+* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
+  * [#68e6f2e](https://github.com/pacholoamit/vscode-server-docker/commit/68e6f2e) Add gitignore
+* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
+  * [#619c719](https://github.com/pacholoamit/vscode-server-docker/commit/619c719) push for testing
+* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
+  * [#6e2a3bf](https://github.com/pacholoamit/vscode-server-docker/commit/6e2a3bf) implement locally self-hosted version
+* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
+  * [#25f32b8](https://github.com/pacholoamit/vscode-server-docker/commit/25f32b8) Add docker compose file
 
 
 ### Stalk me here ❤️
