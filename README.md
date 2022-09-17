@@ -146,16 +146,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [dhax/go-base](https://github.com/dhax/go-base)
+* 🍽️ Forked [golang-templates/seed](https://github.com/golang-templates/seed) to [pacholoamit/seed](https://github.com/pacholoamit/seed)
+* 🌟 Starred [golang-templates/seed](https://github.com/golang-templates/seed)
+* 💬 Commented on [#8438 Port ranges for entrypoints in static configuration](https://github.com/traefik/traefik/issues/8438) from [traefik/traefik](https://github.com/traefik/traefik)
 * ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
   * [#a0f1c82](https://github.com/pacholoamit/vscode-server-docker/commit/a0f1c82) added 0.0.0.0 host
-* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
-  * [#68e6f2e](https://github.com/pacholoamit/vscode-server-docker/commit/68e6f2e) Add gitignore
-* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
-  * [#619c719](https://github.com/pacholoamit/vscode-server-docker/commit/619c719) push for testing
-* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
-  * [#6e2a3bf](https://github.com/pacholoamit/vscode-server-docker/commit/6e2a3bf) implement locally self-hosted version
-* ➡️ Pushed 1 commit in [pacholoamit/vscode-server-docker](https://github.com/pacholoamit/vscode-server-docker) on branch `master`
-  * [#25f32b8](https://github.com/pacholoamit/vscode-server-docker/commit/25f32b8) Add docker compose file
 
 
 ### Stalk me here ❤️
