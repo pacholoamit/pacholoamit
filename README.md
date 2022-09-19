@@ -147,12 +147,18 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#597afcc](https://github.com/pacholoamit/pachtop/commit/597afcc) Implement Total Ram usage
+  * [#8cfbfdf](https://github.com/pacholoamit/pachtop/commit/8cfbfdf) Add Layout
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#05b2fdf](https://github.com/pacholoamit/pachtop/commit/05b2fdf) Implement stacked area charts
-* ⏺️ Created new branch modularize-stacked-charts in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* 🌟 Starred [dhax/go-base](https://github.com/dhax/go-base)
-* 🍽️ Forked [golang-templates/seed](https://github.com/golang-templates/seed) to [pacholoamit/seed](https://github.com/pacholoamit/seed)
+  * [#daf19ba](https://github.com/pacholoamit/pachtop/commit/daf19ba) minor changes
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#c834f35](https://github.com/pacholoamit/pachtop/commit/c834f35) Round decimal places for metrics to 2
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#b3b174c](https://github.com/pacholoamit/pachtop/commit/b3b174c) Upgrade tauri &amp; deps
+* ➡️ Pushed 4 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#6b05591](https://github.com/pacholoamit/pachtop/commit/6b05591) Add Swap Memory (Rust &amp; Typescript)
+  * [#5d1767a](https://github.com/pacholoamit/pachtop/commit/5d1767a) Add Swap Metric
+  * [#d001165](https://github.com/pacholoamit/pachtop/commit/d001165) Improve ticks
+  * [#5923892](https://github.com/pacholoamit/pachtop/commit/5923892) Make x-axis ticks dynamic via mediaquery
 
 
 ### Stalk me here ❤️
