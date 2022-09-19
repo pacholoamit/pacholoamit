@@ -146,17 +146,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#d8529cf](https://github.com/pacholoamit/pachtop/commit/d8529cf) Fix incorrect timestamp for charts on startup issue
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#d8529cf](https://github.com/pacholoamit/pachtop/commit/d8529cf) Fix incorrect timestamp for charts on startup issue
+* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#9a67dee](https://github.com/pacholoamit/pachtop/commit/9a67dee) Enabled span gam, modify decimation algorithm
+  * [#858ed2b](https://github.com/pacholoamit/pachtop/commit/858ed2b) minor fixes
+  * [#d275f0c](https://github.com/pacholoamit/pachtop/commit/d275f0c) Successfully fix parsing issues for ChatJS performance
+  * [#4acc156](https://github.com/pacholoamit/pachtop/commit/4acc156) checkpoint
+  * [#ddbc779](https://github.com/pacholoamit/pachtop/commit/ddbc779) Add Side panel options
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#9a67dee](https://github.com/pacholoamit/pachtop/commit/9a67dee) Enabled span gam, modify decimation algorithm
 * ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#858ed2b](https://github.com/pacholoamit/pachtop/commit/858ed2b) minor fixes
   * [#d275f0c](https://github.com/pacholoamit/pachtop/commit/d275f0c) Successfully fix parsing issues for ChatJS performance
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `improve-chart-performance`
-  * [#858ed2b](https://github.com/pacholoamit/pachtop/commit/858ed2b) minor fixes
-  * [#d275f0c](https://github.com/pacholoamit/pachtop/commit/d275f0c) Successfully fix parsing issues for ChatJS performance
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#4acc156](https://github.com/pacholoamit/pachtop/commit/4acc156) checkpoint
-* ⏺️ Created new branch improve-chart-performance in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#ddbc779](https://github.com/pacholoamit/pachtop/commit/ddbc779) Add Side panel options
 
 
 ### Stalk me here ❤️
