@@ -146,19 +146,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#858ed2b](https://github.com/pacholoamit/pachtop/commit/858ed2b) minor fixes
+  * [#d275f0c](https://github.com/pacholoamit/pachtop/commit/d275f0c) Successfully fix parsing issues for ChatJS performance
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `improve-chart-performance`
+  * [#858ed2b](https://github.com/pacholoamit/pachtop/commit/858ed2b) minor fixes
+  * [#d275f0c](https://github.com/pacholoamit/pachtop/commit/d275f0c) Successfully fix parsing issues for ChatJS performance
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#8cfbfdf](https://github.com/pacholoamit/pachtop/commit/8cfbfdf) Add Layout
+  * [#4acc156](https://github.com/pacholoamit/pachtop/commit/4acc156) checkpoint
+* ⏺️ Created new branch improve-chart-performance in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#daf19ba](https://github.com/pacholoamit/pachtop/commit/daf19ba) minor changes
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#c834f35](https://github.com/pacholoamit/pachtop/commit/c834f35) Round decimal places for metrics to 2
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#b3b174c](https://github.com/pacholoamit/pachtop/commit/b3b174c) Upgrade tauri &amp; deps
-* ➡️ Pushed 4 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#6b05591](https://github.com/pacholoamit/pachtop/commit/6b05591) Add Swap Memory (Rust &amp; Typescript)
-  * [#5d1767a](https://github.com/pacholoamit/pachtop/commit/5d1767a) Add Swap Metric
-  * [#d001165](https://github.com/pacholoamit/pachtop/commit/d001165) Improve ticks
-  * [#5923892](https://github.com/pacholoamit/pachtop/commit/5923892) Make x-axis ticks dynamic via mediaquery
+  * [#ddbc779](https://github.com/pacholoamit/pachtop/commit/ddbc779) Add Side panel options
 
 
 ### Stalk me here ❤️
