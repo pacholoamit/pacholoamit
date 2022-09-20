@@ -146,22 +146,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+* ➡️ Pushed 8 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#944c8a5](https://github.com/pacholoamit/pachtop/commit/944c8a5) Successfully implement showing of window via left clicking of tray icon
+  * [#a2dc201](https://github.com/pacholoamit/pachtop/commit/a2dc201) Create system tray
+  * [#7961a8f](https://github.com/pacholoamit/pachtop/commit/7961a8f) Add system tray
+  * [#e630354](https://github.com/pacholoamit/pachtop/commit/e630354) Implement min-max decimation
   * [#0dc08c0](https://github.com/pacholoamit/pachtop/commit/0dc08c0) Add scrollbar decoration
   * [#2a6274b](https://github.com/pacholoamit/pachtop/commit/2a6274b) improve responsiveness of ticks
   * [#c8bfaea](https://github.com/pacholoamit/pachtop/commit/c8bfaea) improve responsiveness
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#874a9b2](https://github.com/pacholoamit/pachtop/commit/874a9b2) Add Header but disable for now
-* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#cf8a98a](https://github.com/pacholoamit/pachtop/commit/cf8a98a) Improve System information data
-  * [#33353b3](https://github.com/pacholoamit/pachtop/commit/33353b3) Remove tooltip temporarily
-  * [#6e0cc88](https://github.com/pacholoamit/pachtop/commit/6e0cc88) Add Card for layout
-  * [#8305fbf](https://github.com/pacholoamit/pachtop/commit/8305fbf) Add cpu metrics
-  * [#2cb82c4](https://github.com/pacholoamit/pachtop/commit/2cb82c4) Add sysinfo metric
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#cf8a98a](https://github.com/pacholoamit/pachtop/commit/cf8a98a) Improve System information data
+  * [#944c8a5](https://github.com/pacholoamit/pachtop/commit/944c8a5) Successfully implement showing of window via left clicking of tray icon
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#33353b3](https://github.com/pacholoamit/pachtop/commit/33353b3) Remove tooltip temporarily
+  * [#a2dc201](https://github.com/pacholoamit/pachtop/commit/a2dc201) Create system tray
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#7961a8f](https://github.com/pacholoamit/pachtop/commit/7961a8f) Add system tray
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#e630354](https://github.com/pacholoamit/pachtop/commit/e630354) Implement min-max decimation
 
 
 ### Stalk me here ❤️
