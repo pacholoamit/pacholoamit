@@ -146,16 +146,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#b5e3eca](https://github.com/pacholoamit/pachtop/commit/b5e3eca) Create LICENSE
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#d7922df](https://github.com/pacholoamit/pachtop/commit/d7922df) Implement CPU chart
+  * [#b0deeb1](https://github.com/pacholoamit/pachtop/commit/b0deeb1) Remove license
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#8d6ac3d](https://github.com/pacholoamit/pachtop/commit/8d6ac3d) Add license
+  * [#40a7b9c](https://github.com/pacholoamit/pachtop/commit/40a7b9c) Add CPU information
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#63da8a9](https://github.com/pacholoamit/pachtop/commit/63da8a9) Add parameter to set minimum xAxis
+  * [#bde9853](https://github.com/pacholoamit/pachtop/commit/bde9853) Debug dates
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#1cfacaf](https://github.com/pacholoamit/pachtop/commit/1cfacaf) modify bytes_to_size function to take in references
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#7415b40](https://github.com/pacholoamit/pachtop/commit/7415b40) Add TS types for GlobalCPU &amp; define Timestamp type
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#63d1584](https://github.com/pacholoamit/pachtop/commit/63d1584) Add get_global_cpu to tauri handler
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#2724fe7](https://github.com/pacholoamit/pachtop/commit/2724fe7) Create custom struct for timestamp to update all in one place, implement global_cpu metrics
+  * [#17b5d27](https://github.com/pacholoamit/pachtop/commit/17b5d27) Add Rust &amp; TS tauri logger
 
 
 ### Stalk me here ❤️
