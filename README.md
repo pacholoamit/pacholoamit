@@ -146,6 +146,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#2697 Article model](https://github.com/MediaJel/mediajel-gql-service/pull/2697) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#b5e3eca](https://github.com/pacholoamit/pachtop/commit/b5e3eca) Create LICENSE
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
@@ -156,8 +157,6 @@
 * ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#63da8a9](https://github.com/pacholoamit/pachtop/commit/63da8a9) Add parameter to set minimum xAxis
   * [#bde9853](https://github.com/pacholoamit/pachtop/commit/bde9853) Debug dates
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#17b5d27](https://github.com/pacholoamit/pachtop/commit/17b5d27) Add Rust &amp; TS tauri logger
 
 
 ### Stalk me here ❤️
