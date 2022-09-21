@@ -146,23 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 8 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#944c8a5](https://github.com/pacholoamit/pachtop/commit/944c8a5) Successfully implement showing of window via left clicking of tray icon
-  * [#a2dc201](https://github.com/pacholoamit/pachtop/commit/a2dc201) Create system tray
-  * [#7961a8f](https://github.com/pacholoamit/pachtop/commit/7961a8f) Add system tray
-  * [#e630354](https://github.com/pacholoamit/pachtop/commit/e630354) Implement min-max decimation
-  * [#0dc08c0](https://github.com/pacholoamit/pachtop/commit/0dc08c0) Add scrollbar decoration
-  * [#2a6274b](https://github.com/pacholoamit/pachtop/commit/2a6274b) improve responsiveness of ticks
-  * [#c8bfaea](https://github.com/pacholoamit/pachtop/commit/c8bfaea) improve responsiveness
-  * [#874a9b2](https://github.com/pacholoamit/pachtop/commit/874a9b2) Add Header but disable for now
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#944c8a5](https://github.com/pacholoamit/pachtop/commit/944c8a5) Successfully implement showing of window via left clicking of tray icon
+  * [#d7922df](https://github.com/pacholoamit/pachtop/commit/d7922df) Implement CPU chart
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#a2dc201](https://github.com/pacholoamit/pachtop/commit/a2dc201) Create system tray
+  * [#1cfacaf](https://github.com/pacholoamit/pachtop/commit/1cfacaf) modify bytes_to_size function to take in references
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#7961a8f](https://github.com/pacholoamit/pachtop/commit/7961a8f) Add system tray
+  * [#7415b40](https://github.com/pacholoamit/pachtop/commit/7415b40) Add TS types for GlobalCPU &amp; define Timestamp type
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#e630354](https://github.com/pacholoamit/pachtop/commit/e630354) Implement min-max decimation
+  * [#63d1584](https://github.com/pacholoamit/pachtop/commit/63d1584) Add get_global_cpu to tauri handler
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#2724fe7](https://github.com/pacholoamit/pachtop/commit/2724fe7) Create custom struct for timestamp to update all in one place, implement global_cpu metrics
 
 
 ### Stalk me here ❤️
