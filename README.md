@@ -146,17 +146,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#2697 Article model](https://github.com/MediaJel/mediajel-gql-service/pull/2697) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#b5e3eca](https://github.com/pacholoamit/pachtop/commit/b5e3eca) Create LICENSE
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#999cdbc](https://github.com/pacholoamit/pachtop/commit/999cdbc) Create Network Chart
+  * [#7b8183b](https://github.com/pacholoamit/pachtop/commit/7b8183b) Add unit to network
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#b0deeb1](https://github.com/pacholoamit/pachtop/commit/b0deeb1) Remove license
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#8d6ac3d](https://github.com/pacholoamit/pachtop/commit/8d6ac3d) Add license
-  * [#40a7b9c](https://github.com/pacholoamit/pachtop/commit/40a7b9c) Add CPU information
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#63da8a9](https://github.com/pacholoamit/pachtop/commit/63da8a9) Add parameter to set minimum xAxis
-  * [#bde9853](https://github.com/pacholoamit/pachtop/commit/bde9853) Debug dates
+  * [#879c4ef](https://github.com/pacholoamit/pachtop/commit/879c4ef) Implement get_networks
+* 🔃 Opened [#2699 [FOR REVIEW] Run Prisma GraphQL Codegen on Articles &amp; ArticleCategories](https://github.com/MediaJel/mediajel-gql-service/pull/2699) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 4 files changed `++1463 --124`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-attempt-articles-migration`
+  * [#01c446f](https://github.com/MediaJel/mediajel-gql-service/commit/01c446f) Implement ArticleCategory
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-attempt-articles-migration`
+  * [#97bc022](https://github.com/MediaJel/mediajel-gql-service/commit/97bc022) Modify articles
 
 
 ### Stalk me here ❤️
