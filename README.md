@@ -146,6 +146,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#386 Added args for 2 other retargeting dags](https://github.com/MediaJel/airflow-dags/pull/386) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#67a2be7](https://github.com/pacholoamit/pachtop/commit/67a2be7) Add units for Network
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
@@ -155,8 +156,6 @@
 * ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#999cdbc](https://github.com/pacholoamit/pachtop/commit/999cdbc) Create Network Chart
   * [#7b8183b](https://github.com/pacholoamit/pachtop/commit/7b8183b) Add unit to network
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#879c4ef](https://github.com/pacholoamit/pachtop/commit/879c4ef) Implement get_networks
 
 
 ### Stalk me here ❤️
