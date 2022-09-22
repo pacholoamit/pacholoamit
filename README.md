@@ -146,17 +146,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#67a2be7](https://github.com/pacholoamit/pachtop/commit/67a2be7) Add units for Network
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#f9b2c27](https://github.com/pacholoamit/pachtop/commit/f9b2c27) Use Network Received for chart
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#dda9c50](https://github.com/pacholoamit/pachtop/commit/dda9c50) Implement Network data sets correctly
 * ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#999cdbc](https://github.com/pacholoamit/pachtop/commit/999cdbc) Create Network Chart
   * [#7b8183b](https://github.com/pacholoamit/pachtop/commit/7b8183b) Add unit to network
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#879c4ef](https://github.com/pacholoamit/pachtop/commit/879c4ef) Implement get_networks
-* 🔃 Opened [#2699 [FOR REVIEW] Run Prisma GraphQL Codegen on Articles &amp; ArticleCategories](https://github.com/MediaJel/mediajel-gql-service/pull/2699) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 4 files changed `++1463 --124`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-attempt-articles-migration`
-  * [#01c446f](https://github.com/MediaJel/mediajel-gql-service/commit/01c446f) Implement ArticleCategory
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-attempt-articles-migration`
-  * [#97bc022](https://github.com/MediaJel/mediajel-gql-service/commit/97bc022) Modify articles
 
 
 ### Stalk me here ❤️
