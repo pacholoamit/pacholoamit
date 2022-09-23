@@ -146,21 +146,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 6 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#a32517f](https://github.com/pacholoamit/pachtop/commit/a32517f) Slight modifications in CI
-  * [#0f66a6b](https://github.com/pacholoamit/pachtop/commit/0f66a6b) Define Release CI
-  * [#1d92379](https://github.com/pacholoamit/pachtop/commit/1d92379) Create publish workflow
-  * [#f91ec6d](https://github.com/pacholoamit/pachtop/commit/f91ec6d) Change rust version &amp; create test-build workflow
-  * [#d465dee](https://github.com/pacholoamit/pachtop/commit/d465dee) Merge branch &#39;staging&#39;
-  * [#b5e3eca](https://github.com/pacholoamit/pachtop/commit/b5e3eca) Create LICENSE
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#a32517f](https://github.com/pacholoamit/pachtop/commit/a32517f) Slight modifications in CI
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#0f66a6b](https://github.com/pacholoamit/pachtop/commit/0f66a6b) Define Release CI
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#1d92379](https://github.com/pacholoamit/pachtop/commit/1d92379) Create publish workflow
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#f91ec6d](https://github.com/pacholoamit/pachtop/commit/f91ec6d) Change rust version &amp; create test-build workflow
+* 🔃 Opened [#141 Merge Staging to main](https://github.com/MediaJel/mediajel-tracker/pull/141) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 8 files changed `++113 --36`
+* #️⃣ Opened [#4 RAM metrics may be slightly incorrect](https://github.com/pacholoamit/pachtop/issues/4) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* #️⃣ Opened [#3 Inconsistent chart xaxis points when app is running in the foreground](https://github.com/pacholoamit/pachtop/issues/3) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* #️⃣ Opened [#2 CPU Usage chart &amp; data not being registered for some cases](https://github.com/pacholoamit/pachtop/issues/2) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* 🔃 Closed [#1 beta](https://github.com/pacholoamit/pachtop/pull/1) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 5 files changed `++97 --119`
 
 
 ### Stalk me here ❤️
