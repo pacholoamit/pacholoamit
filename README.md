@@ -146,16 +146,35 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#386 Added args for 2 other retargeting dags](https://github.com/MediaJel/airflow-dags/pull/386) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+* ➡️ Pushed 21 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#3270a77](https://github.com/pacholoamit/pachtop/commit/3270a77) refactor Dashboard page
+  * [#ad29116](https://github.com/pacholoamit/pachtop/commit/ad29116) Separate dashboard to multiple components
+  * [#b33e43f](https://github.com/pacholoamit/pachtop/commit/b33e43f) Create MemoryChart component
+  * [#9579e11](https://github.com/pacholoamit/pachtop/commit/9579e11) Implement useRequestMetrics generic
   * [#67a2be7](https://github.com/pacholoamit/pachtop/commit/67a2be7) Add units for Network
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#f9b2c27](https://github.com/pacholoamit/pachtop/commit/f9b2c27) Use Network Received for chart
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#dda9c50](https://github.com/pacholoamit/pachtop/commit/dda9c50) Implement Network data sets correctly
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#999cdbc](https://github.com/pacholoamit/pachtop/commit/999cdbc) Create Network Chart
   * [#7b8183b](https://github.com/pacholoamit/pachtop/commit/7b8183b) Add unit to network
+  * [#879c4ef](https://github.com/pacholoamit/pachtop/commit/879c4ef) Implement get_networks
+  * [#b0deeb1](https://github.com/pacholoamit/pachtop/commit/b0deeb1) Remove license
+  * [#8d6ac3d](https://github.com/pacholoamit/pachtop/commit/8d6ac3d) Add license
+  * [#40a7b9c](https://github.com/pacholoamit/pachtop/commit/40a7b9c) Add CPU information
+  * [#63da8a9](https://github.com/pacholoamit/pachtop/commit/63da8a9) Add parameter to set minimum xAxis
+  * [#bde9853](https://github.com/pacholoamit/pachtop/commit/bde9853) Debug dates
+  * [#17b5d27](https://github.com/pacholoamit/pachtop/commit/17b5d27) Add Rust &amp; TS tauri logger
+  * [#d7922df](https://github.com/pacholoamit/pachtop/commit/d7922df) Implement CPU chart
+  * [#1cfacaf](https://github.com/pacholoamit/pachtop/commit/1cfacaf) modify bytes_to_size function to take in references
+  * [#7415b40](https://github.com/pacholoamit/pachtop/commit/7415b40) Add TS types for GlobalCPU &amp; define Timestamp type
+  * [#63d1584](https://github.com/pacholoamit/pachtop/commit/63d1584) Add get_global_cpu to tauri handler
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#3270a77](https://github.com/pacholoamit/pachtop/commit/3270a77) refactor Dashboard page
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#ad29116](https://github.com/pacholoamit/pachtop/commit/ad29116) Separate dashboard to multiple components
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#b33e43f](https://github.com/pacholoamit/pachtop/commit/b33e43f) Create MemoryChart component
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#9579e11](https://github.com/pacholoamit/pachtop/commit/9579e11) Implement useRequestMetrics generic
 
 
 ### Stalk me here ❤️
