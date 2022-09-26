@@ -146,13 +146,82 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#141 Merge Staging to main](https://github.com/MediaJel/mediajel-tracker/pull/141) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 8 files changed `++113 --36`
-* #️⃣ Opened [#4 RAM metrics may be slightly incorrect](https://github.com/pacholoamit/pachtop/issues/4) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* #️⃣ Opened [#3 Inconsistent chart xaxis points when app is running in the foreground](https://github.com/pacholoamit/pachtop/issues/3) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* #️⃣ Opened [#2 CPU Usage chart &amp; data not being registered for some cases](https://github.com/pacholoamit/pachtop/issues/2) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* 🔃 Closed [#1 beta](https://github.com/pacholoamit/pachtop/pull/1) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 5 files changed `++97 --119`
+* ➡️ Pushed 16 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#7588784](https://github.com/MediaJel/mediajel-tracker/commit/7588784) Remove dataLayer push
+  * [#f3b66f2](https://github.com/MediaJel/mediajel-tracker/commit/f3b66f2) modify gtag
+  * [#0721374](https://github.com/MediaJel/mediajel-tracker/commit/0721374) Add optional chaining
+  * [#878bc17](https://github.com/MediaJel/mediajel-tracker/commit/878bc17) Revert dataLayer array type
+  * [#0f1ba1e](https://github.com/MediaJel/mediajel-tracker/commit/0f1ba1e) Add dataLayer push
+  * [#8bf3ff0](https://github.com/MediaJel/mediajel-tracker/commit/8bf3ff0) revert createElement
+  * [#0b188a6](https://github.com/MediaJel/mediajel-tracker/commit/0b188a6) Merge branch &#39;staging&#39; into main
+  * [#6c701ca](https://github.com/MediaJel/mediajel-tracker/commit/6c701ca) Merge pull request #141 from MediaJel/staging
+
+Merge Staging to main
+  * [#1897f34](https://github.com/MediaJel/mediajel-tracker/commit/1897f34) Merge pull request #140 from MediaJel/staging
+
+Update Main branch with changes from Staging
+  * [#0e14690](https://github.com/MediaJel/mediajel-tracker/commit/0e14690) Merge pull request #138 from MediaJel/staging
+
+Update production from Staging
+  * [#d3be3e8](https://github.com/MediaJel/mediajel-tracker/commit/d3be3e8) Merge pull request #133 from MediaJel/staging
+
+Update production from staging
+  * [#4d78ea6](https://github.com/MediaJel/mediajel-tracker/commit/4d78ea6) Merge pull request #129 from MediaJel/staging
+
+Update Master from Staging
+  * [#5009a5c](https://github.com/MediaJel/mediajel-tracker/commit/5009a5c) Merge pull request #124 from MediaJel/staging
+
+[FOR REVIEW] Merge staging into main
+  * [#0e4cd4c](https://github.com/MediaJel/mediajel-tracker/commit/0e4cd4c) Merge pull request #123 from MediaJel/staging
+
+[HOTFIX] Fix Jane cart transaction events
+  * [#a4131a2](https://github.com/MediaJel/mediajel-tracker/commit/a4131a2) Merge pull request #120 from MediaJel/staging
+
+Update production from staging
+  * [#cef4b68](https://github.com/MediaJel/mediajel-tracker/commit/cef4b68) Merge pull request #110 from MediaJel/staging
+
+[FOR REVIEW] Update main branch
+* ➡️ Pushed 16 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#7588784](https://github.com/MediaJel/mediajel-tracker/commit/7588784) Remove dataLayer push
+  * [#f3b66f2](https://github.com/MediaJel/mediajel-tracker/commit/f3b66f2) modify gtag
+  * [#0721374](https://github.com/MediaJel/mediajel-tracker/commit/0721374) Add optional chaining
+  * [#878bc17](https://github.com/MediaJel/mediajel-tracker/commit/878bc17) Revert dataLayer array type
+  * [#0f1ba1e](https://github.com/MediaJel/mediajel-tracker/commit/0f1ba1e) Add dataLayer push
+  * [#8bf3ff0](https://github.com/MediaJel/mediajel-tracker/commit/8bf3ff0) revert createElement
+  * [#0b188a6](https://github.com/MediaJel/mediajel-tracker/commit/0b188a6) Merge branch &#39;staging&#39; into main
+  * [#6c701ca](https://github.com/MediaJel/mediajel-tracker/commit/6c701ca) Merge pull request #141 from MediaJel/staging
+
+Merge Staging to main
+  * [#1897f34](https://github.com/MediaJel/mediajel-tracker/commit/1897f34) Merge pull request #140 from MediaJel/staging
+
+Update Main branch with changes from Staging
+  * [#0e14690](https://github.com/MediaJel/mediajel-tracker/commit/0e14690) Merge pull request #138 from MediaJel/staging
+
+Update production from Staging
+  * [#d3be3e8](https://github.com/MediaJel/mediajel-tracker/commit/d3be3e8) Merge pull request #133 from MediaJel/staging
+
+Update production from staging
+  * [#4d78ea6](https://github.com/MediaJel/mediajel-tracker/commit/4d78ea6) Merge pull request #129 from MediaJel/staging
+
+Update Master from Staging
+  * [#5009a5c](https://github.com/MediaJel/mediajel-tracker/commit/5009a5c) Merge pull request #124 from MediaJel/staging
+
+[FOR REVIEW] Merge staging into main
+  * [#0e4cd4c](https://github.com/MediaJel/mediajel-tracker/commit/0e4cd4c) Merge pull request #123 from MediaJel/staging
+
+[HOTFIX] Fix Jane cart transaction events
+  * [#a4131a2](https://github.com/MediaJel/mediajel-tracker/commit/a4131a2) Merge pull request #120 from MediaJel/staging
+
+Update production from staging
+  * [#cef4b68](https://github.com/MediaJel/mediajel-tracker/commit/cef4b68) Merge pull request #110 from MediaJel/staging
+
+[FOR REVIEW] Update main branch
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#7588784](https://github.com/MediaJel/mediajel-tracker/commit/7588784) Remove dataLayer push
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#f3b66f2](https://github.com/MediaJel/mediajel-tracker/commit/f3b66f2) modify gtag
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#0721374](https://github.com/MediaJel/mediajel-tracker/commit/0721374) Add optional chaining
 
 
 ### Stalk me here ❤️
