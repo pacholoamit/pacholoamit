@@ -146,21 +146,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#a3101d0](https://github.com/pacholoamit/pachtop/commit/a3101d0) Modify sysinfo &amp; globalcpu
-* ➡️ Pushed 7 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#07a8811](https://github.com/pacholoamit/pachtop/commit/07a8811) Update README.md
-  * [#81a922d](https://github.com/pacholoamit/pachtop/commit/81a922d) Resize logo
-  * [#723ef99](https://github.com/pacholoamit/pachtop/commit/723ef99) Remove href
-  * [#fe746c2](https://github.com/pacholoamit/pachtop/commit/fe746c2) Create initial documentation
-  * [#85ffcb9](https://github.com/pacholoamit/pachtop/commit/85ffcb9) temporarily disable test workflow
-  * [#ad91657](https://github.com/pacholoamit/pachtop/commit/ad91657) Modify release workflow
-  * [#33e4aef](https://github.com/pacholoamit/pachtop/commit/33e4aef) update version to 0.1.1
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#07a8811](https://github.com/pacholoamit/pachtop/commit/07a8811) Update README.md
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#81a922d](https://github.com/pacholoamit/pachtop/commit/81a922d) Resize logo
-  * [#723ef99](https://github.com/pacholoamit/pachtop/commit/723ef99) Remove href
+  * [#1169f74](https://github.com/pacholoamit/pachtop/commit/1169f74) Update README.md
+* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#7d76bb2](https://github.com/pacholoamit/pachtop/commit/7d76bb2) temporarily disable test
+  * [#52221ec](https://github.com/pacholoamit/pachtop/commit/52221ec) Update README.md
+  * [#f6857f9](https://github.com/pacholoamit/pachtop/commit/f6857f9) Update README.md
+* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#7d76bb2](https://github.com/pacholoamit/pachtop/commit/7d76bb2) temporarily disable test
+  * [#52221ec](https://github.com/pacholoamit/pachtop/commit/52221ec) Update README.md
+  * [#f6857f9](https://github.com/pacholoamit/pachtop/commit/f6857f9) Update README.md
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#7d76bb2](https://github.com/pacholoamit/pachtop/commit/7d76bb2) temporarily disable test
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#52221ec](https://github.com/pacholoamit/pachtop/commit/52221ec) Update README.md
 
 
 ### Stalk me here ❤️
