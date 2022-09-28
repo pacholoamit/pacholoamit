@@ -146,18 +146,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#211 Error In Production](https://github.com/preactjs/signals/issues/211) from [preactjs/signals](https://github.com/preactjs/signals)
-* ⏺️ Created new branch pa-email-demo in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#1169f74](https://github.com/pacholoamit/pachtop/commit/1169f74) Update README.md
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#7d76bb2](https://github.com/pacholoamit/pachtop/commit/7d76bb2) temporarily disable test
-  * [#52221ec](https://github.com/pacholoamit/pachtop/commit/52221ec) Update README.md
-  * [#f6857f9](https://github.com/pacholoamit/pachtop/commit/f6857f9) Update README.md
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#7d76bb2](https://github.com/pacholoamit/pachtop/commit/7d76bb2) temporarily disable test
-  * [#52221ec](https://github.com/pacholoamit/pachtop/commit/52221ec) Update README.md
-  * [#f6857f9](https://github.com/pacholoamit/pachtop/commit/f6857f9) Update README.md
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#48c3dc8](https://github.com/MediaJel/mediajel-tracker/commit/48c3dc8) Add feature to implement plugins &amp; snowplow tag
+  * [#46f6d1e](https://github.com/MediaJel/mediajel-tracker/commit/46f6d1e) Fix type errors
+  * [#92d8dc2](https://github.com/MediaJel/mediajel-tracker/commit/92d8dc2) Add additional logic to plugin loading
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#48c3dc8](https://github.com/MediaJel/mediajel-tracker/commit/48c3dc8) Add feature to implement plugins &amp; snowplow tag
+  * [#46f6d1e](https://github.com/MediaJel/mediajel-tracker/commit/46f6d1e) Fix type errors
+  * [#92d8dc2](https://github.com/MediaJel/mediajel-tracker/commit/92d8dc2) Add additional logic to plugin loading
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#48c3dc8](https://github.com/MediaJel/mediajel-tracker/commit/48c3dc8) Add feature to implement plugins &amp; snowplow tag
+  * [#46f6d1e](https://github.com/MediaJel/mediajel-tracker/commit/46f6d1e) Fix type errors
+  * [#92d8dc2](https://github.com/MediaJel/mediajel-tracker/commit/92d8dc2) Add additional logic to plugin loading
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#d8b7043](https://github.com/MediaJel/mediajel-tracker/commit/d8b7043) change folder name to google to prevent ad block detection
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#d8b7043](https://github.com/MediaJel/mediajel-tracker/commit/d8b7043) change folder name to google to prevent ad block detection
 
 
 ### Stalk me here ❤️
