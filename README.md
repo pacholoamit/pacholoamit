@@ -146,22 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#48c3dc8](https://github.com/MediaJel/mediajel-tracker/commit/48c3dc8) Add feature to implement plugins &amp; snowplow tag
-  * [#46f6d1e](https://github.com/MediaJel/mediajel-tracker/commit/46f6d1e) Fix type errors
-  * [#92d8dc2](https://github.com/MediaJel/mediajel-tracker/commit/92d8dc2) Add additional logic to plugin loading
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#48c3dc8](https://github.com/MediaJel/mediajel-tracker/commit/48c3dc8) Add feature to implement plugins &amp; snowplow tag
-  * [#46f6d1e](https://github.com/MediaJel/mediajel-tracker/commit/46f6d1e) Fix type errors
-  * [#92d8dc2](https://github.com/MediaJel/mediajel-tracker/commit/92d8dc2) Add additional logic to plugin loading
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#48c3dc8](https://github.com/MediaJel/mediajel-tracker/commit/48c3dc8) Add feature to implement plugins &amp; snowplow tag
-  * [#46f6d1e](https://github.com/MediaJel/mediajel-tracker/commit/46f6d1e) Fix type errors
-  * [#92d8dc2](https://github.com/MediaJel/mediajel-tracker/commit/92d8dc2) Add additional logic to plugin loading
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#d8b7043](https://github.com/MediaJel/mediajel-tracker/commit/d8b7043) change folder name to google to prevent ad block detection
+* 🔃 Opened [#142 use window.gtag vs context.gtag](https://github.com/MediaJel/mediajel-tracker/pull/142) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++6 --8`
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#d8b7043](https://github.com/MediaJel/mediajel-tracker/commit/d8b7043) change folder name to google to prevent ad block detection
+  * [#190e73d](https://github.com/MediaJel/mediajel-tracker/commit/190e73d) use window.gtag vs context.gtag
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#190e73d](https://github.com/MediaJel/mediajel-tracker/commit/190e73d) use window.gtag vs context.gtag
+* 🔃 Closed [#3215 [PASS ENGR QA] Modify App store url macro](https://github.com/MediaJel/mediajel-dashboard/pull/3215) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 1 file changed `++1 --1`
+* 💬 Commented on [#2733 [FOR REVIEW] Article Resolver](https://github.com/MediaJel/mediajel-gql-service/pull/2733) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
