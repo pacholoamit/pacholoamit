@@ -146,15 +146,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#3833819](https://github.com/MediaJel/mediajel-tracker/commit/3833819) Merge pull request #142 from MediaJel/staging
+
+use window.gtag vs context.gtag
+  * [#63960c6](https://github.com/MediaJel/mediajel-tracker/commit/63960c6) Use function arguments instead of arrow functions
+  * [#190e73d](https://github.com/MediaJel/mediajel-tracker/commit/190e73d) use window.gtag vs context.gtag
+* 🔃 Merged [#142 use window.gtag vs context.gtag](https://github.com/MediaJel/mediajel-tracker/pull/142) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++12 --10`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#63960c6](https://github.com/MediaJel/mediajel-tracker/commit/63960c6) Use function arguments instead of arrow functions
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#63960c6](https://github.com/MediaJel/mediajel-tracker/commit/63960c6) Use function arguments instead of arrow functions
 * 🔃 Opened [#142 use window.gtag vs context.gtag](https://github.com/MediaJel/mediajel-tracker/pull/142) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 4 files changed `++6 --8`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#190e73d](https://github.com/MediaJel/mediajel-tracker/commit/190e73d) use window.gtag vs context.gtag
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#190e73d](https://github.com/MediaJel/mediajel-tracker/commit/190e73d) use window.gtag vs context.gtag
-* 🔃 Closed [#3215 [PASS ENGR QA] Modify App store url macro](https://github.com/MediaJel/mediajel-dashboard/pull/3215) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 1 file changed `++1 --1`
-* 💬 Commented on [#2733 [FOR REVIEW] Article Resolver](https://github.com/MediaJel/mediajel-gql-service/pull/2733) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
