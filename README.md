@@ -147,15 +147,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
-  * [#2b1274d](https://github.com/MediaJel/mediajel-gql-service/commit/2b1274d) Implement CustomerByEmail endpoint
+  * [#c94c89a](https://github.com/MediaJel/mediajel-gql-service/commit/c94c89a) Add docs to properties
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
-  * [#ab70e3d](https://github.com/MediaJel/mediajel-gql-service/commit/ab70e3d) Implement Treez Tickets/Transactions API
+  * [#f25e1f0](https://github.com/MediaJel/mediajel-gql-service/commit/f25e1f0) Add comments
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
-  * [#bd6467d](https://github.com/MediaJel/mediajel-gql-service/commit/bd6467d) Implement Treez Customer API
+  * [#831240b](https://github.com/MediaJel/mediajel-gql-service/commit/831240b) Move docs to interfaces
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
-  * [#2b9fd08](https://github.com/MediaJel/mediajel-gql-service/commit/2b9fd08) minor modifications to product client
+  * [#8481648](https://github.com/MediaJel/mediajel-gql-service/commit/8481648) Rename of clients to services&#39;
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
-  * [#b0ba21b](https://github.com/MediaJel/mediajel-gql-service/commit/b0ba21b) Implement Product API
+  * [#9026f83](https://github.com/MediaJel/mediajel-gql-service/commit/9026f83) Add example for createTreezClient
 
 
 ### Stalk me here ❤️
