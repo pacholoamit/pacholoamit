@@ -146,16 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
-  * [#c94c89a](https://github.com/MediaJel/mediajel-gql-service/commit/c94c89a) Add docs to properties
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
-  * [#f25e1f0](https://github.com/MediaJel/mediajel-gql-service/commit/f25e1f0) Add comments
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
-  * [#831240b](https://github.com/MediaJel/mediajel-gql-service/commit/831240b) Move docs to interfaces
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
-  * [#8481648](https://github.com/MediaJel/mediajel-gql-service/commit/8481648) Rename of clients to services&#39;
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
-  * [#9026f83](https://github.com/MediaJel/mediajel-gql-service/commit/9026f83) Add example for createTreezClient
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#29e9f48](https://github.com/MediaJel/mediajel-tracker/commit/29e9f48) remove .husky
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#bb8e0ff](https://github.com/MediaJel/mediajel-tracker/commit/bb8e0ff) remove log
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#bb8e0ff](https://github.com/MediaJel/mediajel-tracker/commit/bb8e0ff) remove log
+* 🔃 Opened [#145 Propose to include cypress test in CircleCI on staging and main](https://github.com/MediaJel/mediajel-tracker/pull/145) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++8 --2`
+* ⏺️ Created new branch pa-add-cypress-to-circle-ci in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
