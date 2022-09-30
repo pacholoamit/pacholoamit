@@ -146,15 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#3228 Fix APP_STOREURL macro &amp; remove unrequired macros from generator](https://github.com/MediaJel/mediajel-dashboard/pull/3228) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 1 file changed `++1 --1`
-* ⏺️ Created new branch pa-modify-impressions in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#aefbecd](https://github.com/MediaJel/mediajel-tracker/commit/aefbecd) Remove unrequired macros for v2
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#aefbecd](https://github.com/MediaJel/mediajel-tracker/commit/aefbecd) Remove unrequired macros for v2
-* 🔃 Opened [#143 Remove unrequired macros](https://github.com/MediaJel/mediajel-tracker/pull/143) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++2 --14`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
+  * [#2b1274d](https://github.com/MediaJel/mediajel-gql-service/commit/2b1274d) Implement CustomerByEmail endpoint
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
+  * [#ab70e3d](https://github.com/MediaJel/mediajel-gql-service/commit/ab70e3d) Implement Treez Tickets/Transactions API
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
+  * [#bd6467d](https://github.com/MediaJel/mediajel-gql-service/commit/bd6467d) Implement Treez Customer API
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
+  * [#2b9fd08](https://github.com/MediaJel/mediajel-gql-service/commit/2b9fd08) minor modifications to product client
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
+  * [#b0ba21b](https://github.com/MediaJel/mediajel-gql-service/commit/b0ba21b) Implement Product API
 
 
 ### Stalk me here ❤️
