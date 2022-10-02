@@ -146,10 +146,43 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 28 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#bea875a](https://github.com/pacholoamit/pachtop/commit/bea875a) Create statis CPUs bar chart
+  * [#2b1f6c9](https://github.com/pacholoamit/pachtop/commit/2b1f6c9) Added RequestCPUs in the provider
+  * [#ed06ed2](https://github.com/pacholoamit/pachtop/commit/ed06ed2) Implement cpus
+  * [#4ae65df](https://github.com/pacholoamit/pachtop/commit/4ae65df) Created Swap Usage radial chart
+  * [#6ce4022](https://github.com/pacholoamit/pachtop/commit/6ce4022) Remove unrequired imports
+  * [#3d5064a](https://github.com/pacholoamit/pachtop/commit/3d5064a) Set Stack spacing of charts to xl
+  * [#275bb0f](https://github.com/pacholoamit/pachtop/commit/275bb0f) Set default height for common card component
+  * [#6fd5b07](https://github.com/pacholoamit/pachtop/commit/6fd5b07) Create common card component
+  * [#78c9ef8](https://github.com/pacholoamit/pachtop/commit/78c9ef8) Cleanup RAM usage chart
+  * [#ecf9040](https://github.com/pacholoamit/pachtop/commit/ecf9040) Set fixed height for radial chart
+  * [#8a45561](https://github.com/pacholoamit/pachtop/commit/8a45561) modify Ram Chart
+  * [#66787aa](https://github.com/pacholoamit/pachtop/commit/66787aa) Implement Memory Used Percentage in RUst
+  * [#530c2ae](https://github.com/pacholoamit/pachtop/commit/530c2ae) Split sysinfo charts by different cards
+  * [#3b6d99c](https://github.com/pacholoamit/pachtop/commit/3b6d99c) Implement basic radial chart
+  * [#ff136e9](https://github.com/pacholoamit/pachtop/commit/ff136e9) Move @types to dev dependencies
+  * [#e2a79ec](https://github.com/pacholoamit/pachtop/commit/e2a79ec) Merge branch &#39;staging&#39;
+  * [#dbe6d58](https://github.com/pacholoamit/pachtop/commit/dbe6d58) Remove signals entirely
+  * [#b957302](https://github.com/pacholoamit/pachtop/commit/b957302) re-enable tests
+  * [#3f8f0b0](https://github.com/pacholoamit/pachtop/commit/3f8f0b0) Update README.md
+  * [#1169f74](https://github.com/pacholoamit/pachtop/commit/1169f74) Update README.md
+* ➡️ Pushed 11 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#b16541b](https://github.com/pacholoamit/pachtop/commit/b16541b) Merge branch &#39;master&#39; into staging
 * ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#e2a79ec](https://github.com/pacholoamit/pachtop/commit/e2a79ec) Merge branch &#39;staging&#39;
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#e2a79ec](https://github.com/pacholoamit/pachtop/commit/e2a79ec) Merge branch &#39;staging&#39;
+  * [#b16541b](https://github.com/pacholoamit/pachtop/commit/b16541b) Merge branch &#39;master&#39; into staging
+* ➡️ Pushed 9 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#818f03a](https://github.com/pacholoamit/pachtop/commit/818f03a) import isLargerThanXL media query
+  * [#8cd090b](https://github.com/pacholoamit/pachtop/commit/8cd090b) Implement formatting of percentage
+  * [#25b01f6](https://github.com/pacholoamit/pachtop/commit/25b01f6) Add % to single bar chart
+  * [#7e0ba5a](https://github.com/pacholoamit/pachtop/commit/7e0ba5a) Make CPU bar chart scrollable
+  * [#62b4f91](https://github.com/pacholoamit/pachtop/commit/62b4f91) Successfully implement CPU bar charts
+  * [#bea875a](https://github.com/pacholoamit/pachtop/commit/bea875a) Create statis CPUs bar chart
+  * [#2b1f6c9](https://github.com/pacholoamit/pachtop/commit/2b1f6c9) Added RequestCPUs in the provider
+  * [#ed06ed2](https://github.com/pacholoamit/pachtop/commit/ed06ed2) Implement cpus
+  * [#4ae65df](https://github.com/pacholoamit/pachtop/commit/4ae65df) Created Swap Usage radial chart
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `pa-implement-apexcharts`
+  * [#818f03a](https://github.com/pacholoamit/pachtop/commit/818f03a) import isLargerThanXL media query
 
 
 ### Stalk me here ❤️
