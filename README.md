@@ -146,15 +146,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#29e9f48](https://github.com/MediaJel/mediajel-tracker/commit/29e9f48) remove .husky
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#bb8e0ff](https://github.com/MediaJel/mediajel-tracker/commit/bb8e0ff) remove log
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#bb8e0ff](https://github.com/MediaJel/mediajel-tracker/commit/bb8e0ff) remove log
-* 🔃 Opened [#145 Propose to include cypress test in CircleCI on staging and main](https://github.com/MediaJel/mediajel-tracker/pull/145) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++8 --2`
-* ⏺️ Created new branch pa-add-cypress-to-circle-ci in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#e2a79ec](https://github.com/pacholoamit/pachtop/commit/e2a79ec) Merge branch &#39;staging&#39;
+* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#e2a79ec](https://github.com/pacholoamit/pachtop/commit/e2a79ec) Merge branch &#39;staging&#39;
 
 
 ### Stalk me here ❤️
