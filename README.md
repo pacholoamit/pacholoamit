@@ -146,6 +146,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-treez-api-concept`
+  * [#3be96e8](https://github.com/MediaJel/mediajel-gql-service/commit/3be96e8) Adjust enviornment variables
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `pa-implement-disks`
   * [#227ba89](https://github.com/pacholoamit/pachtop/commit/227ba89) clean up rust models
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `pa-implement-disks`
@@ -162,8 +164,6 @@
   * [#91c1788](https://github.com/pacholoamit/pachtop/commit/91c1788) Segregate features/metrics/components
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `pa-implement-disks`
   * [#d331770](https://github.com/pacholoamit/pachtop/commit/d331770) Query disk on metrics provider temporarily
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `pa-implement-disks`
-  * [#c9bc384](https://github.com/pacholoamit/pachtop/commit/c9bc384) Add disks in Rust
 
 
 ### Stalk me here ❤️
