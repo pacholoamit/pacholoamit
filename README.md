@@ -147,6 +147,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-improve-tag-testing-experience`
+  * [#91bd1d6](https://github.com/MediaJel/mediajel-gql-service/commit/91bd1d6) Add logging
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-improve-tag-testing-experience`
   * [#b98b2e1](https://github.com/MediaJel/mediajel-gql-service/commit/b98b2e1) Set return type of resolver to string
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-improve-tag-testing-experience`
   * [#ef9ccdc](https://github.com/MediaJel/mediajel-gql-service/commit/ef9ccdc) remove status
@@ -155,8 +157,6 @@
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-improve-tag-testing-experience`
   * [#71a2db0](https://github.com/MediaJel/mediajel-gql-service/commit/71a2db0) minor changes
   * [#9740299](https://github.com/MediaJel/mediajel-gql-service/commit/9740299) Improve message
-* 🔃 Opened [#2774 [FOR REVIEW] Improve Tag testing experience](https://github.com/MediaJel/mediajel-gql-service/pull/2774) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 3 files changed `++60 --21`
 
 
 ### Stalk me here ❤️
