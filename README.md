@@ -146,17 +146,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+* 💬 Commented on [#2774 [PASS QA ENG] Improve Tag testing experience](https://github.com/MediaJel/mediajel-gql-service/pull/2774) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#2774 [PASS QA ENG] Improve Tag testing experience](https://github.com/MediaJel/mediajel-gql-service/pull/2774) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-improve-tag-testing-experience`
   * [#91bd1d6](https://github.com/MediaJel/mediajel-gql-service/commit/91bd1d6) Add logging
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-improve-tag-testing-experience`
   * [#b98b2e1](https://github.com/MediaJel/mediajel-gql-service/commit/b98b2e1) Set return type of resolver to string
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-improve-tag-testing-experience`
-  * [#ef9ccdc](https://github.com/MediaJel/mediajel-gql-service/commit/ef9ccdc) remove status
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-improve-tag-testing-experience`
-  * [#5d09273](https://github.com/MediaJel/mediajel-gql-service/commit/5d09273) Improve comment status
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-improve-tag-testing-experience`
-  * [#71a2db0](https://github.com/MediaJel/mediajel-gql-service/commit/71a2db0) minor changes
-  * [#9740299](https://github.com/MediaJel/mediajel-gql-service/commit/9740299) Improve message
 
 
 ### Stalk me here ❤️
