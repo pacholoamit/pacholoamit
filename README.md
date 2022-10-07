@@ -147,43 +147,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-improve-tag-testing-experience`
-  * [#4806925](https://github.com/MediaJel/mediajel-dashboard/commit/4806925) Use moment to display relative time for tagUpdateDate&#39;
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-improve-tag-testing-experience`
-  * [#687e1b1](https://github.com/MediaJel/mediajel-dashboard/commit/687e1b1) Pass tagUpdateDate as props from controller
-  * [#42a2306](https://github.com/MediaJel/mediajel-dashboard/commit/42a2306) Render transactions
-  * [#e7f46de](https://github.com/MediaJel/mediajel-dashboard/commit/e7f46de) Modify gql for GET BASIC TAG ACTIVITY
-* ➡️ Pushed 12 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-improve-tag-testing-experience`
-  * [#73097f2](https://github.com/MediaJel/mediajel-dashboard/commit/73097f2) resolve conflict
-  * [#bc99bb9](https://github.com/MediaJel/mediajel-dashboard/commit/bc99bb9) [PASS ENG QA] Br/targeting audiences tab (#3260)
-
-* Added targeting locations tabs
-
-* Delete targeting audiences
-
-* Fixed typo error
-  * [#65ffdaa](https://github.com/MediaJel/mediajel-dashboard/commit/65ffdaa) Merge pull request #3259 from MediaJel/jbjm-org-details-website-cpm-reposition
-
-[PASS ENG QA] reposition of website and cpm
-  * [#36f5867](https://github.com/MediaJel/mediajel-dashboard/commit/36f5867) Merge pull request #3253 from MediaJel/rm-is-admin-permission-improvement
-
-[PASS ENG QA] rm isAdmin permission Improvement
-  * [#85b6ab7](https://github.com/MediaJel/mediajel-dashboard/commit/85b6ab7) Merge pull request #3249 from MediaJel/jbjm-Targeting-not-showing-when-paid-search
-
-[PASS ENGR QA] Targeting not showing has been fixed
-  * [#e865e36](https://github.com/MediaJel/mediajel-dashboard/commit/e865e36) Merge pull request #3266 from MediaJel/fbl3-bug/comment-instead-of-erase
-
-BUG: Comment instead of erase the Export All Campaigns button
-  * [#0a41339](https://github.com/MediaJel/mediajel-dashboard/commit/0a41339) BUG: Comment instead of erase the Export All Campaigns button
-  * [#68407a5](https://github.com/MediaJel/mediajel-dashboard/commit/68407a5) Merge pull request #3264 from MediaJel/fbl3-bug/hide-export-all-campaigns-button
-
-BUG: Temporarily hide export all campaigns
-  * [#9b2f35e](https://github.com/MediaJel/mediajel-dashboard/commit/9b2f35e) BUG: Temporarily hide export all campaigns
-  * [#342c872](https://github.com/MediaJel/mediajel-dashboard/commit/342c872) reposition of website and cpm
-  * [#67cfdc5](https://github.com/MediaJel/mediajel-dashboard/commit/67cfdc5) [FOR REVIEW] rm isAdmin permission Improvement
-  * [#8d29fb8](https://github.com/MediaJel/mediajel-dashboard/commit/8d29fb8) Targeting not showing has been fixed
-* 🔍 Reviewed [#152 Cypress Update for Main branch](https://github.com/MediaJel/mediajel-tracker/pull/152) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#4dfac89](https://github.com/MediaJel/mediajel-tracker/commit/4dfac89) Merge branch &#39;develop&#39; of github.com:MediaJel/mediajel-tracker into develop
+  * [#35bf864](https://github.com/MediaJel/mediajel-dashboard/commit/35bf864) revert package.json change
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-improve-tag-testing-experience`
+  * [#e4aa544](https://github.com/MediaJel/mediajel-dashboard/commit/e4aa544) set fetchPolicy to network-only to prevent caching issues
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-improve-tag-testing-experience`
+  * [#122d2e5](https://github.com/MediaJel/mediajel-dashboard/commit/122d2e5) Add fallback values
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-improve-tag-testing-experience`
+  * [#d65c437](https://github.com/MediaJel/mediajel-dashboard/commit/d65c437) minor refactor on onTestTag function in orgConfig controller
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-improve-tag-testing-experience`
+  * [#c8e67ad](https://github.com/MediaJel/mediajel-dashboard/commit/c8e67ad) Remove query logs
 
 
 ### Stalk me here ❤️
