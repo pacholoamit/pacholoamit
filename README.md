@@ -146,16 +146,54 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `minor-maintenance`
-  * [#7456bad](https://github.com/pacholoamit/pachtop/commit/7456bad) Modify disk names
-* ⏺️ Created new branch minor-maintenance in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `pa-implement-disks`
+* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `charts-bytes`
+  * [#5b9c03d](https://github.com/pacholoamit/pachtop/commit/5b9c03d) modify labels
+  * [#39af5a1](https://github.com/pacholoamit/pachtop/commit/39af5a1) Implement callbacks on global-cpu area chart
+  * [#c2913d5](https://github.com/pacholoamit/pachtop/commit/c2913d5) Implement callbacks on memory area chart
+  * [#8792e16](https://github.com/pacholoamit/pachtop/commit/8792e16) Implement callbacks on swap area chart
+  * [#9168207](https://github.com/pacholoamit/pachtop/commit/9168207) modularize chart callbacks
+* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `charts-bytes`
+  * [#0f1bed5](https://github.com/pacholoamit/pachtop/commit/0f1bed5) Remove unit references in charts
+  * [#ce6cdf9](https://github.com/pacholoamit/pachtop/commit/ce6cdf9) minor change
+  * [#018ea1a](https://github.com/pacholoamit/pachtop/commit/018ea1a) Implement label bytes segregation callback on chart
+  * [#1f4b3ae](https://github.com/pacholoamit/pachtop/commit/1f4b3ae) Remove logs &amp; implement basic callbacks for tooltip
+  * [#741aca9](https://github.com/pacholoamit/pachtop/commit/741aca9) remove unrequired import
+* ⏺️ Created new branch charts-bytes in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* ➡️ Pushed 22 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#5f8d224](https://github.com/pacholoamit/pachtop/commit/5f8d224) improve types
   * [#110ea74](https://github.com/pacholoamit/pachtop/commit/110ea74) Remove diskCount from SysInfo
   * [#43c874a](https://github.com/pacholoamit/pachtop/commit/43c874a) Improve error handling
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `pa-implement-disks`
   * [#1e45d0d](https://github.com/pacholoamit/pachtop/commit/1e45d0d) Remove bytes crate
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `pa-implement-disks`
   * [#3cd66d7](https://github.com/pacholoamit/pachtop/commit/3cd66d7) Convert bytes to string
+  * [#acc40b2](https://github.com/pacholoamit/pachtop/commit/acc40b2) Remove ScrollArea form cpu bar chart&#39;
+  * [#9c6aec2](https://github.com/pacholoamit/pachtop/commit/9c6aec2) export uniqueDisks
+  * [#d371a37](https://github.com/pacholoamit/pachtop/commit/d371a37) Add disks to metrics-context provider
+  * [#8090151](https://github.com/pacholoamit/pachtop/commit/8090151) Create useRequestDisks
+  * [#227ba89](https://github.com/pacholoamit/pachtop/commit/227ba89) clean up rust models
+  * [#0c2b38b](https://github.com/pacholoamit/pachtop/commit/0c2b38b) Set disk units to Gib
+  * [#d331770](https://github.com/pacholoamit/pachtop/commit/d331770) Query disk on metrics provider temporarily
+  * [#c9bc384](https://github.com/pacholoamit/pachtop/commit/c9bc384) Add disks in Rust
+  * [#3e8e040](https://github.com/pacholoamit/pachtop/commit/3e8e040) Add to Readme
+  * [#399b807](https://github.com/pacholoamit/pachtop/commit/399b807) Add Motivation for Readme
+  * [#1c4dabd](https://github.com/pacholoamit/pachtop/commit/1c4dabd) Disable animations for Radial charts
+  * [#caab9ab](https://github.com/pacholoamit/pachtop/commit/caab9ab) Add Processes nav option
+  * [#72436d9](https://github.com/pacholoamit/pachtop/commit/72436d9) Create Storage Page
+  * [#36c4af1](https://github.com/pacholoamit/pachtop/commit/36c4af1) Move pages to features/metrics &amp; rename metrics components
+  * [#91c1788](https://github.com/pacholoamit/pachtop/commit/91c1788) Segregate features/metrics/components
+* ➡️ Pushed 13 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#367328f](https://github.com/pacholoamit/pachtop/commit/367328f) remove rust println
+  * [#7456bad](https://github.com/pacholoamit/pachtop/commit/7456bad) Modify disk names
+  * [#5f8d224](https://github.com/pacholoamit/pachtop/commit/5f8d224) improve types
+  * [#110ea74](https://github.com/pacholoamit/pachtop/commit/110ea74) Remove diskCount from SysInfo
+  * [#43c874a](https://github.com/pacholoamit/pachtop/commit/43c874a) Improve error handling
+  * [#1e45d0d](https://github.com/pacholoamit/pachtop/commit/1e45d0d) Remove bytes crate
+  * [#3cd66d7](https://github.com/pacholoamit/pachtop/commit/3cd66d7) Convert bytes to string
+  * [#acc40b2](https://github.com/pacholoamit/pachtop/commit/acc40b2) Remove ScrollArea form cpu bar chart&#39;
+  * [#9c6aec2](https://github.com/pacholoamit/pachtop/commit/9c6aec2) export uniqueDisks
+  * [#d371a37](https://github.com/pacholoamit/pachtop/commit/d371a37) Add disks to metrics-context provider
+  * [#8090151](https://github.com/pacholoamit/pachtop/commit/8090151) Create useRequestDisks
+  * [#227ba89](https://github.com/pacholoamit/pachtop/commit/227ba89) clean up rust models
+  * [#0c2b38b](https://github.com/pacholoamit/pachtop/commit/0c2b38b) Set disk units to Gib
 
 
 ### Stalk me here ❤️
