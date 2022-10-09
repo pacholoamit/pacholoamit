@@ -146,54 +146,48 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `charts-bytes`
+* ➡️ Pushed 16 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#ab41853](https://github.com/pacholoamit/pachtop/commit/ab41853) Label naming modifications for memory &amp; swap
+  * [#7e15c22](https://github.com/pacholoamit/pachtop/commit/7e15c22) Implement yAxisTicksCallbacks on multiple charts
+  * [#8483246](https://github.com/pacholoamit/pachtop/commit/8483246) semi-successful implementation of dynamic y axis ticks
+  * [#8de1038](https://github.com/pacholoamit/pachtop/commit/8de1038) testing formatBytes on yaxisTicksCallback
+  * [#e30eb1e](https://github.com/pacholoamit/pachtop/commit/e30eb1e) implement y axis tick callback
+  * [#12764c2](https://github.com/pacholoamit/pachtop/commit/12764c2) Remove byte-unit crate
   * [#5b9c03d](https://github.com/pacholoamit/pachtop/commit/5b9c03d) modify labels
   * [#39af5a1](https://github.com/pacholoamit/pachtop/commit/39af5a1) Implement callbacks on global-cpu area chart
   * [#c2913d5](https://github.com/pacholoamit/pachtop/commit/c2913d5) Implement callbacks on memory area chart
   * [#8792e16](https://github.com/pacholoamit/pachtop/commit/8792e16) Implement callbacks on swap area chart
   * [#9168207](https://github.com/pacholoamit/pachtop/commit/9168207) modularize chart callbacks
-* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `charts-bytes`
   * [#0f1bed5](https://github.com/pacholoamit/pachtop/commit/0f1bed5) Remove unit references in charts
   * [#ce6cdf9](https://github.com/pacholoamit/pachtop/commit/ce6cdf9) minor change
   * [#018ea1a](https://github.com/pacholoamit/pachtop/commit/018ea1a) Implement label bytes segregation callback on chart
   * [#1f4b3ae](https://github.com/pacholoamit/pachtop/commit/1f4b3ae) Remove logs &amp; implement basic callbacks for tooltip
   * [#741aca9](https://github.com/pacholoamit/pachtop/commit/741aca9) remove unrequired import
-* ⏺️ Created new branch charts-bytes in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 22 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#5f8d224](https://github.com/pacholoamit/pachtop/commit/5f8d224) improve types
-  * [#110ea74](https://github.com/pacholoamit/pachtop/commit/110ea74) Remove diskCount from SysInfo
-  * [#43c874a](https://github.com/pacholoamit/pachtop/commit/43c874a) Improve error handling
-  * [#1e45d0d](https://github.com/pacholoamit/pachtop/commit/1e45d0d) Remove bytes crate
-  * [#3cd66d7](https://github.com/pacholoamit/pachtop/commit/3cd66d7) Convert bytes to string
-  * [#acc40b2](https://github.com/pacholoamit/pachtop/commit/acc40b2) Remove ScrollArea form cpu bar chart&#39;
-  * [#9c6aec2](https://github.com/pacholoamit/pachtop/commit/9c6aec2) export uniqueDisks
-  * [#d371a37](https://github.com/pacholoamit/pachtop/commit/d371a37) Add disks to metrics-context provider
-  * [#8090151](https://github.com/pacholoamit/pachtop/commit/8090151) Create useRequestDisks
-  * [#227ba89](https://github.com/pacholoamit/pachtop/commit/227ba89) clean up rust models
-  * [#0c2b38b](https://github.com/pacholoamit/pachtop/commit/0c2b38b) Set disk units to Gib
-  * [#d331770](https://github.com/pacholoamit/pachtop/commit/d331770) Query disk on metrics provider temporarily
-  * [#c9bc384](https://github.com/pacholoamit/pachtop/commit/c9bc384) Add disks in Rust
-  * [#3e8e040](https://github.com/pacholoamit/pachtop/commit/3e8e040) Add to Readme
-  * [#399b807](https://github.com/pacholoamit/pachtop/commit/399b807) Add Motivation for Readme
-  * [#1c4dabd](https://github.com/pacholoamit/pachtop/commit/1c4dabd) Disable animations for Radial charts
-  * [#caab9ab](https://github.com/pacholoamit/pachtop/commit/caab9ab) Add Processes nav option
-  * [#72436d9](https://github.com/pacholoamit/pachtop/commit/72436d9) Create Storage Page
-  * [#36c4af1](https://github.com/pacholoamit/pachtop/commit/36c4af1) Move pages to features/metrics &amp; rename metrics components
-  * [#91c1788](https://github.com/pacholoamit/pachtop/commit/91c1788) Segregate features/metrics/components
-* ➡️ Pushed 13 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#367328f](https://github.com/pacholoamit/pachtop/commit/367328f) remove rust println
-  * [#7456bad](https://github.com/pacholoamit/pachtop/commit/7456bad) Modify disk names
-  * [#5f8d224](https://github.com/pacholoamit/pachtop/commit/5f8d224) improve types
-  * [#110ea74](https://github.com/pacholoamit/pachtop/commit/110ea74) Remove diskCount from SysInfo
-  * [#43c874a](https://github.com/pacholoamit/pachtop/commit/43c874a) Improve error handling
-  * [#1e45d0d](https://github.com/pacholoamit/pachtop/commit/1e45d0d) Remove bytes crate
-  * [#3cd66d7](https://github.com/pacholoamit/pachtop/commit/3cd66d7) Convert bytes to string
-  * [#acc40b2](https://github.com/pacholoamit/pachtop/commit/acc40b2) Remove ScrollArea form cpu bar chart&#39;
-  * [#9c6aec2](https://github.com/pacholoamit/pachtop/commit/9c6aec2) export uniqueDisks
-  * [#d371a37](https://github.com/pacholoamit/pachtop/commit/d371a37) Add disks to metrics-context provider
-  * [#8090151](https://github.com/pacholoamit/pachtop/commit/8090151) Create useRequestDisks
-  * [#227ba89](https://github.com/pacholoamit/pachtop/commit/227ba89) clean up rust models
-  * [#0c2b38b](https://github.com/pacholoamit/pachtop/commit/0c2b38b) Set disk units to Gib
+* ➡️ Pushed 16 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#ab41853](https://github.com/pacholoamit/pachtop/commit/ab41853) Label naming modifications for memory &amp; swap
+  * [#7e15c22](https://github.com/pacholoamit/pachtop/commit/7e15c22) Implement yAxisTicksCallbacks on multiple charts
+  * [#8483246](https://github.com/pacholoamit/pachtop/commit/8483246) semi-successful implementation of dynamic y axis ticks
+  * [#8de1038](https://github.com/pacholoamit/pachtop/commit/8de1038) testing formatBytes on yaxisTicksCallback
+  * [#e30eb1e](https://github.com/pacholoamit/pachtop/commit/e30eb1e) implement y axis tick callback
+  * [#12764c2](https://github.com/pacholoamit/pachtop/commit/12764c2) Remove byte-unit crate
+  * [#5b9c03d](https://github.com/pacholoamit/pachtop/commit/5b9c03d) modify labels
+  * [#39af5a1](https://github.com/pacholoamit/pachtop/commit/39af5a1) Implement callbacks on global-cpu area chart
+  * [#c2913d5](https://github.com/pacholoamit/pachtop/commit/c2913d5) Implement callbacks on memory area chart
+  * [#8792e16](https://github.com/pacholoamit/pachtop/commit/8792e16) Implement callbacks on swap area chart
+  * [#9168207](https://github.com/pacholoamit/pachtop/commit/9168207) modularize chart callbacks
+  * [#0f1bed5](https://github.com/pacholoamit/pachtop/commit/0f1bed5) Remove unit references in charts
+  * [#ce6cdf9](https://github.com/pacholoamit/pachtop/commit/ce6cdf9) minor change
+  * [#018ea1a](https://github.com/pacholoamit/pachtop/commit/018ea1a) Implement label bytes segregation callback on chart
+  * [#1f4b3ae](https://github.com/pacholoamit/pachtop/commit/1f4b3ae) Remove logs &amp; implement basic callbacks for tooltip
+  * [#741aca9](https://github.com/pacholoamit/pachtop/commit/741aca9) remove unrequired import
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `charts-bytes`
+  * [#ab41853](https://github.com/pacholoamit/pachtop/commit/ab41853) Label naming modifications for memory &amp; swap
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `charts-bytes`
+  * [#7e15c22](https://github.com/pacholoamit/pachtop/commit/7e15c22) Implement yAxisTicksCallbacks on multiple charts
+  * [#8483246](https://github.com/pacholoamit/pachtop/commit/8483246) semi-successful implementation of dynamic y axis ticks
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `charts-bytes`
+  * [#8de1038](https://github.com/pacholoamit/pachtop/commit/8de1038) testing formatBytes on yaxisTicksCallback
+  * [#e30eb1e](https://github.com/pacholoamit/pachtop/commit/e30eb1e) implement y axis tick callback
 
 
 ### Stalk me here ❤️
