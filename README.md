@@ -146,44 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3279 [WIP] Br/sso generate user token](https://github.com/MediaJel/mediajel-dashboard/pull/3279) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#3279 [WIP] Br/sso generate user token](https://github.com/MediaJel/mediajel-dashboard/pull/3279) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 11 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#e82c87d](https://github.com/pacholoamit/pachtop/commit/e82c87d) increment to version 0.2.1
-  * [#23bc272](https://github.com/pacholoamit/pachtop/commit/23bc272) Fix Removable text
-  * [#b23de5d](https://github.com/pacholoamit/pachtop/commit/b23de5d) Remove units from types
-  * [#8e71a6f](https://github.com/pacholoamit/pachtop/commit/8e71a6f) Add Basic data to Disks charts
-  * [#49c1bb6](https://github.com/pacholoamit/pachtop/commit/49c1bb6) Refactor disk chart logic to own component
-  * [#721e42b](https://github.com/pacholoamit/pachtop/commit/721e42b) implement yAxisTicksCallback on global-cpu area chart
-  * [#fba38df](https://github.com/pacholoamit/pachtop/commit/fba38df) Implement Stacked Used &amp; Free disk chart
-  * [#c986d2a](https://github.com/pacholoamit/pachtop/commit/c986d2a) Modify AreaChart to not include Card
-  * [#860ea2c](https://github.com/pacholoamit/pachtop/commit/860ea2c) Substitute Name with drive letter if volume name is not available
-  * [#d44a2f6](https://github.com/pacholoamit/pachtop/commit/d44a2f6) Use mountpoint instead of disk name
-  * [#4ebe260](https://github.com/pacholoamit/pachtop/commit/4ebe260) Add Some handler for blank disk names
-* ➡️ Pushed 11 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#e82c87d](https://github.com/pacholoamit/pachtop/commit/e82c87d) increment to version 0.2.1
-  * [#23bc272](https://github.com/pacholoamit/pachtop/commit/23bc272) Fix Removable text
-  * [#b23de5d](https://github.com/pacholoamit/pachtop/commit/b23de5d) Remove units from types
-  * [#8e71a6f](https://github.com/pacholoamit/pachtop/commit/8e71a6f) Add Basic data to Disks charts
-  * [#49c1bb6](https://github.com/pacholoamit/pachtop/commit/49c1bb6) Refactor disk chart logic to own component
-  * [#721e42b](https://github.com/pacholoamit/pachtop/commit/721e42b) implement yAxisTicksCallback on global-cpu area chart
-  * [#fba38df](https://github.com/pacholoamit/pachtop/commit/fba38df) Implement Stacked Used &amp; Free disk chart
-  * [#c986d2a](https://github.com/pacholoamit/pachtop/commit/c986d2a) Modify AreaChart to not include Card
-  * [#860ea2c](https://github.com/pacholoamit/pachtop/commit/860ea2c) Substitute Name with drive letter if volume name is not available
-  * [#d44a2f6](https://github.com/pacholoamit/pachtop/commit/d44a2f6) Use mountpoint instead of disk name
-  * [#4ebe260](https://github.com/pacholoamit/pachtop/commit/4ebe260) Add Some handler for blank disk names
-* ➡️ Pushed 11 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#e82c87d](https://github.com/pacholoamit/pachtop/commit/e82c87d) increment to version 0.2.1
-  * [#23bc272](https://github.com/pacholoamit/pachtop/commit/23bc272) Fix Removable text
-  * [#b23de5d](https://github.com/pacholoamit/pachtop/commit/b23de5d) Remove units from types
-  * [#8e71a6f](https://github.com/pacholoamit/pachtop/commit/8e71a6f) Add Basic data to Disks charts
-  * [#49c1bb6](https://github.com/pacholoamit/pachtop/commit/49c1bb6) Refactor disk chart logic to own component
-  * [#721e42b](https://github.com/pacholoamit/pachtop/commit/721e42b) implement yAxisTicksCallback on global-cpu area chart
-  * [#fba38df](https://github.com/pacholoamit/pachtop/commit/fba38df) Implement Stacked Used &amp; Free disk chart
-  * [#c986d2a](https://github.com/pacholoamit/pachtop/commit/c986d2a) Modify AreaChart to not include Card
-  * [#860ea2c](https://github.com/pacholoamit/pachtop/commit/860ea2c) Substitute Name with drive letter if volume name is not available
-  * [#d44a2f6](https://github.com/pacholoamit/pachtop/commit/d44a2f6) Use mountpoint instead of disk name
-  * [#4ebe260](https://github.com/pacholoamit/pachtop/commit/4ebe260) Add Some handler for blank disk names
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-modify-transactions-observer`
+  * [#4d81158](https://github.com/MediaJel/mediajel-gql-service/commit/4d81158) revert to .staging.env
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-modify-transactions-observer`
+  * [#1260e07](https://github.com/MediaJel/mediajel-gql-service/commit/1260e07) remove log
+* 🔃 Opened [#2802 [FOR REVIEW] Use `transactionTarget` instead of `transactionsConfig` for campaign-observer](https://github.com/MediaJel/mediajel-gql-service/pull/2802) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 4 files changed `++45 --42`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-modify-transactions-observer`
+  * [#d4df135](https://github.com/MediaJel/mediajel-gql-service/commit/d4df135) set channel to production channel and reenable destinations
+* ⏺️ Created new branch pa-modify-transactions-observer in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
