@@ -146,41 +146,44 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `disks-ui`
+* 💬 Commented on [#3279 [WIP] Br/sso generate user token](https://github.com/MediaJel/mediajel-dashboard/pull/3279) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3279 [WIP] Br/sso generate user token](https://github.com/MediaJel/mediajel-dashboard/pull/3279) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 11 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#e82c87d](https://github.com/pacholoamit/pachtop/commit/e82c87d) increment to version 0.2.1
+  * [#23bc272](https://github.com/pacholoamit/pachtop/commit/23bc272) Fix Removable text
+  * [#b23de5d](https://github.com/pacholoamit/pachtop/commit/b23de5d) Remove units from types
+  * [#8e71a6f](https://github.com/pacholoamit/pachtop/commit/8e71a6f) Add Basic data to Disks charts
+  * [#49c1bb6](https://github.com/pacholoamit/pachtop/commit/49c1bb6) Refactor disk chart logic to own component
+  * [#721e42b](https://github.com/pacholoamit/pachtop/commit/721e42b) implement yAxisTicksCallback on global-cpu area chart
+  * [#fba38df](https://github.com/pacholoamit/pachtop/commit/fba38df) Implement Stacked Used &amp; Free disk chart
+  * [#c986d2a](https://github.com/pacholoamit/pachtop/commit/c986d2a) Modify AreaChart to not include Card
   * [#860ea2c](https://github.com/pacholoamit/pachtop/commit/860ea2c) Substitute Name with drive letter if volume name is not available
   * [#d44a2f6](https://github.com/pacholoamit/pachtop/commit/d44a2f6) Use mountpoint instead of disk name
   * [#4ebe260](https://github.com/pacholoamit/pachtop/commit/4ebe260) Add Some handler for blank disk names
-* ➡️ Pushed 41 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#5f8d224](https://github.com/pacholoamit/pachtop/commit/5f8d224) improve types
-  * [#110ea74](https://github.com/pacholoamit/pachtop/commit/110ea74) Remove diskCount from SysInfo
-  * [#43c874a](https://github.com/pacholoamit/pachtop/commit/43c874a) Improve error handling
-  * [#1e45d0d](https://github.com/pacholoamit/pachtop/commit/1e45d0d) Remove bytes crate
-  * [#3cd66d7](https://github.com/pacholoamit/pachtop/commit/3cd66d7) Convert bytes to string
-  * [#acc40b2](https://github.com/pacholoamit/pachtop/commit/acc40b2) Remove ScrollArea form cpu bar chart&#39;
-  * [#9c6aec2](https://github.com/pacholoamit/pachtop/commit/9c6aec2) export uniqueDisks
-  * [#d371a37](https://github.com/pacholoamit/pachtop/commit/d371a37) Add disks to metrics-context provider
-  * [#8090151](https://github.com/pacholoamit/pachtop/commit/8090151) Create useRequestDisks
-  * [#227ba89](https://github.com/pacholoamit/pachtop/commit/227ba89) clean up rust models
-  * [#0c2b38b](https://github.com/pacholoamit/pachtop/commit/0c2b38b) Set disk units to Gib
-  * [#d331770](https://github.com/pacholoamit/pachtop/commit/d331770) Query disk on metrics provider temporarily
-  * [#c9bc384](https://github.com/pacholoamit/pachtop/commit/c9bc384) Add disks in Rust
-  * [#3e8e040](https://github.com/pacholoamit/pachtop/commit/3e8e040) Add to Readme
-  * [#399b807](https://github.com/pacholoamit/pachtop/commit/399b807) Add Motivation for Readme
-  * [#1c4dabd](https://github.com/pacholoamit/pachtop/commit/1c4dabd) Disable animations for Radial charts
-  * [#caab9ab](https://github.com/pacholoamit/pachtop/commit/caab9ab) Add Processes nav option
-  * [#72436d9](https://github.com/pacholoamit/pachtop/commit/72436d9) Create Storage Page
-  * [#36c4af1](https://github.com/pacholoamit/pachtop/commit/36c4af1) Move pages to features/metrics &amp; rename metrics components
-  * [#91c1788](https://github.com/pacholoamit/pachtop/commit/91c1788) Segregate features/metrics/components
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#77c3429](https://github.com/pacholoamit/pachtop/commit/77c3429) Increment to version 0.2.0
-  * [#dfa8fe3](https://github.com/pacholoamit/pachtop/commit/dfa8fe3) Add Stack to disks page
-  * [#e408c19](https://github.com/pacholoamit/pachtop/commit/e408c19) Render Disks Charts
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#77c3429](https://github.com/pacholoamit/pachtop/commit/77c3429) Increment to version 0.2.0
-  * [#dfa8fe3](https://github.com/pacholoamit/pachtop/commit/dfa8fe3) Add Stack to disks page
-  * [#e408c19](https://github.com/pacholoamit/pachtop/commit/e408c19) Render Disks Charts
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `disks-ui`
-  * [#77c3429](https://github.com/pacholoamit/pachtop/commit/77c3429) Increment to version 0.2.0
+* ➡️ Pushed 11 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#e82c87d](https://github.com/pacholoamit/pachtop/commit/e82c87d) increment to version 0.2.1
+  * [#23bc272](https://github.com/pacholoamit/pachtop/commit/23bc272) Fix Removable text
+  * [#b23de5d](https://github.com/pacholoamit/pachtop/commit/b23de5d) Remove units from types
+  * [#8e71a6f](https://github.com/pacholoamit/pachtop/commit/8e71a6f) Add Basic data to Disks charts
+  * [#49c1bb6](https://github.com/pacholoamit/pachtop/commit/49c1bb6) Refactor disk chart logic to own component
+  * [#721e42b](https://github.com/pacholoamit/pachtop/commit/721e42b) implement yAxisTicksCallback on global-cpu area chart
+  * [#fba38df](https://github.com/pacholoamit/pachtop/commit/fba38df) Implement Stacked Used &amp; Free disk chart
+  * [#c986d2a](https://github.com/pacholoamit/pachtop/commit/c986d2a) Modify AreaChart to not include Card
+  * [#860ea2c](https://github.com/pacholoamit/pachtop/commit/860ea2c) Substitute Name with drive letter if volume name is not available
+  * [#d44a2f6](https://github.com/pacholoamit/pachtop/commit/d44a2f6) Use mountpoint instead of disk name
+  * [#4ebe260](https://github.com/pacholoamit/pachtop/commit/4ebe260) Add Some handler for blank disk names
+* ➡️ Pushed 11 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#e82c87d](https://github.com/pacholoamit/pachtop/commit/e82c87d) increment to version 0.2.1
+  * [#23bc272](https://github.com/pacholoamit/pachtop/commit/23bc272) Fix Removable text
+  * [#b23de5d](https://github.com/pacholoamit/pachtop/commit/b23de5d) Remove units from types
+  * [#8e71a6f](https://github.com/pacholoamit/pachtop/commit/8e71a6f) Add Basic data to Disks charts
+  * [#49c1bb6](https://github.com/pacholoamit/pachtop/commit/49c1bb6) Refactor disk chart logic to own component
+  * [#721e42b](https://github.com/pacholoamit/pachtop/commit/721e42b) implement yAxisTicksCallback on global-cpu area chart
+  * [#fba38df](https://github.com/pacholoamit/pachtop/commit/fba38df) Implement Stacked Used &amp; Free disk chart
+  * [#c986d2a](https://github.com/pacholoamit/pachtop/commit/c986d2a) Modify AreaChart to not include Card
+  * [#860ea2c](https://github.com/pacholoamit/pachtop/commit/860ea2c) Substitute Name with drive letter if volume name is not available
+  * [#d44a2f6](https://github.com/pacholoamit/pachtop/commit/d44a2f6) Use mountpoint instead of disk name
+  * [#4ebe260](https://github.com/pacholoamit/pachtop/commit/4ebe260) Add Some handler for blank disk names
 
 
 ### Stalk me here ❤️
