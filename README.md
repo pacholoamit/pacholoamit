@@ -146,16 +146,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#3298 [For Review] Fix basket items toggle](https://github.com/MediaJel/mediajel-dashboard/pull/3298) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3298 [For Review] Fix basket items toggle](https://github.com/MediaJel/mediajel-dashboard/pull/3298) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#3298 [For Review] Fix basket items toggle](https://github.com/MediaJel/mediajel-dashboard/pull/3298) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#3298 [For Review] Fix basket items toggle](https://github.com/MediaJel/mediajel-dashboard/pull/3298) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#01c3d24](https://github.com/pacholoamit/pachtop/commit/01c3d24) Add License to Readme
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#bb2217b](https://github.com/MediaJel/mediajel-gql-service/commit/bb2217b) Add todo to find a way to counteract API rate limiting
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#28321a6](https://github.com/MediaJel/mediajel-gql-service/commit/28321a6) minor refactor
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#93ed553](https://github.com/MediaJel/mediajel-gql-service/commit/93ed553) Fix parsing issues
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#831cedb](https://github.com/MediaJel/mediajel-gql-service/commit/831cedb) Add filter to not include customerIds that are null
 
 
 ### Stalk me here ❤️
