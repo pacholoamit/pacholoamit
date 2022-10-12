@@ -146,6 +146,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#01c3d24](https://github.com/pacholoamit/pachtop/commit/01c3d24) Add License to Readme
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
   * [#bb2217b](https://github.com/MediaJel/mediajel-gql-service/commit/bb2217b) Add todo to find a way to counteract API rate limiting
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
@@ -154,9 +156,6 @@
   * [#93ed553](https://github.com/MediaJel/mediajel-gql-service/commit/93ed553) Fix parsing issues
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
   * [#831cedb](https://github.com/MediaJel/mediajel-gql-service/commit/831cedb) Add filter to not include customerIds that are null
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#d0ebf51](https://github.com/MediaJel/mediajel-gql-service/commit/d0ebf51) remove artifacts
-  * [#5bfc9ac](https://github.com/MediaJel/mediajel-gql-service/commit/5bfc9ac) Add byOpenDate endpoint for tickets
 
 
 ### Stalk me here ❤️
