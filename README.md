@@ -146,15 +146,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-modify-transactions-observer`
-  * [#4d81158](https://github.com/MediaJel/mediajel-gql-service/commit/4d81158) revert to .staging.env
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-modify-transactions-observer`
-  * [#1260e07](https://github.com/MediaJel/mediajel-gql-service/commit/1260e07) remove log
-* 🔃 Opened [#2802 [FOR REVIEW] Use `transactionTarget` instead of `transactionsConfig` for campaign-observer](https://github.com/MediaJel/mediajel-gql-service/pull/2802) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 4 files changed `++45 --42`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-modify-transactions-observer`
-  * [#d4df135](https://github.com/MediaJel/mediajel-gql-service/commit/d4df135) set channel to production channel and reenable destinations
-* ⏺️ Created new branch pa-modify-transactions-observer in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#bb2217b](https://github.com/MediaJel/mediajel-gql-service/commit/bb2217b) Add todo to find a way to counteract API rate limiting
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#28321a6](https://github.com/MediaJel/mediajel-gql-service/commit/28321a6) minor refactor
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#93ed553](https://github.com/MediaJel/mediajel-gql-service/commit/93ed553) Fix parsing issues
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#831cedb](https://github.com/MediaJel/mediajel-gql-service/commit/831cedb) Add filter to not include customerIds that are null
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#d0ebf51](https://github.com/MediaJel/mediajel-gql-service/commit/d0ebf51) remove artifacts
+  * [#5bfc9ac](https://github.com/MediaJel/mediajel-gql-service/commit/5bfc9ac) Add byOpenDate endpoint for tickets
 
 
 ### Stalk me here ❤️
