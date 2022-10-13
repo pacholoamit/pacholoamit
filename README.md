@@ -146,59 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 24 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#2589ca2](https://github.com/MediaJel/mediajel-gql-service/commit/2589ca2) BUG: Missing argument name in @relation directive
-  * [#3577df6](https://github.com/MediaJel/mediajel-gql-service/commit/3577df6) Merge pull request #2811 from MediaJel/staging
-
-REFACTOR: Explicitly defined 1:N relationships
-  * [#80a0bc9](https://github.com/MediaJel/mediajel-gql-service/commit/80a0bc9) Merge pull request #2818 from MediaJel/fbl3-refactor/include-roas-format
-
-BUG: ssoToken is missing
-  * [#308effe](https://github.com/MediaJel/mediajel-gql-service/commit/308effe) BUG: ssoToken is missing
-  * [#ede5276](https://github.com/MediaJel/mediajel-gql-service/commit/ede5276) Merge pull request #2816 from MediaJel/fbl3-refactor/include-roas-format
-
-FEATURE: Write @relation directive to one end of the 1:1 relation
-  * [#9b784ef](https://github.com/MediaJel/mediajel-gql-service/commit/9b784ef) FEATURE: Write @relation directive to one end of the 1:1 relation
-  * [#2dc06aa](https://github.com/MediaJel/mediajel-gql-service/commit/2dc06aa) Merge pull request #2815 from MediaJel/fbl3-refactor/include-roas-format
-
-REFACTOR: Include roas format in enum of Prisma 1
-  * [#3b50fb7](https://github.com/MediaJel/mediajel-gql-service/commit/3b50fb7) BUG: Invalid relationship in Paid Search
-  * [#fd4031c](https://github.com/MediaJel/mediajel-gql-service/commit/fd4031c) REFACTOR: Include roas format in enum of Prisma 1
-  * [#4352c3f](https://github.com/MediaJel/mediajel-gql-service/commit/4352c3f) Merge pull request #2814 from MediaJel/develop
-
-Merge gql from Develop to dojo
-  * [#10b3d3a](https://github.com/MediaJel/mediajel-gql-service/commit/10b3d3a) Merge pull request #2810 from MediaJel/fbl3-refactor/remove-prisma2-folder
-
-REFACTOR: Remove Prisma 2 Folder
-  * [#413ef03](https://github.com/MediaJel/mediajel-gql-service/commit/413ef03) REFACTOR: Remove Prisma 2 Folder
-  * [#62738b7](https://github.com/MediaJel/mediajel-gql-service/commit/62738b7) Merge pull request #2809 from MediaJel/fbl3-refactor/prisma2-enum-names
-
-REFACTOR: Prisma 2 enum names
-  * [#4a83045](https://github.com/MediaJel/mediajel-gql-service/commit/4a83045) REFACTOR: Prisma 2 enum names
-  * [#fb28044](https://github.com/MediaJel/mediajel-gql-service/commit/fb28044) Merge pull request #2805 from MediaJel/fbl3-feature/prisma1-bidirectional-relation-and-prisma2-schema-file
-
-FEATURE: Prisma 1 bidirectional relationship &amp; Prisma 2 schema file
-  * [#62f9dea](https://github.com/MediaJel/mediajel-gql-service/commit/62f9dea) FEATURE: Prisma 1 bidirectional relationship &amp; Prisma 2 schema file
-  * [#da98a06](https://github.com/MediaJel/mediajel-gql-service/commit/da98a06) Merge pull request #2804 from MediaJel/develop
-
-BUG Fix and Features Deployment from Develop to Dojo
-  * [#e107099](https://github.com/MediaJel/mediajel-gql-service/commit/e107099) Merge pull request #2803 from MediaJel/develop
-
-[PASS ENGR QA] Vm device clicks numbers fix Develop to Dojo
-  * [#14a48e7](https://github.com/MediaJel/mediajel-gql-service/commit/14a48e7) Merge pull request #2801 from MediaJel/develop
-
-[FOR TESTING] Get logs job revert changes and added bug fix (#2800)
-  * [#07d8e9a](https://github.com/MediaJel/mediajel-gql-service/commit/07d8e9a) Merge pull request #2799 from MediaJel/develop
-
-BUG: Vance&#39;s fix on get-logs DAG from develop to dojo
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#4a425e2](https://github.com/MediaJel/mediajel-gql-service/commit/4a425e2) minor cleanup
+  * [#3daa9f1](https://github.com/MediaJel/mediajel-gql-service/commit/3daa9f1) Create retryWithDelay function
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#587acfe](https://github.com/MediaJel/mediajel-gql-service/commit/587acfe) Create unique utility function
+  * [#4fc8f8a](https://github.com/MediaJel/mediajel-gql-service/commit/4fc8f8a) cleanup of utils, types, and minor refactor
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#4bc9bfb](https://github.com/MediaJel/mediajel-gql-service/commit/4bc9bfb) Move sleep util to utils
+  * [#e8dceaf](https://github.com/MediaJel/mediajel-gql-service/commit/e8dceaf) Modify Treez POS ingestion adapter to be compatible with POS ingestion job
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#fb28d10](https://github.com/MediaJel/mediajel-gql-service/commit/fb28d10) Cleanup
+  * [#67c965f](https://github.com/MediaJel/mediajel-gql-service/commit/67c965f) migrate Treez POS script to POS-ingestion job
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#0c2a303](https://github.com/MediaJel/mediajel-gql-service/commit/0c2a303) Scaffold POS ingestion job
 
 
 ### Stalk me here ❤️
