@@ -147,15 +147,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#0d92c33](https://github.com/MediaJel/mediajel-gql-service/commit/0d92c33) Optionally add delay for retry
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#5b91b22](https://github.com/MediaJel/mediajel-gql-service/commit/5b91b22) Add code comments for retry
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#968cc7d](https://github.com/MediaJel/mediajel-gql-service/commit/968cc7d) Create retry function
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
   * [#3daa9f1](https://github.com/MediaJel/mediajel-gql-service/commit/3daa9f1) Create retryWithDelay function
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
   * [#4fc8f8a](https://github.com/MediaJel/mediajel-gql-service/commit/4fc8f8a) cleanup of utils, types, and minor refactor
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#e8dceaf](https://github.com/MediaJel/mediajel-gql-service/commit/e8dceaf) Modify Treez POS ingestion adapter to be compatible with POS ingestion job
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#67c965f](https://github.com/MediaJel/mediajel-gql-service/commit/67c965f) migrate Treez POS script to POS-ingestion job
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#0c2a303](https://github.com/MediaJel/mediajel-gql-service/commit/0c2a303) Scaffold POS ingestion job
 
 
 ### Stalk me here ❤️
