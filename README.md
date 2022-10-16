@@ -147,13 +147,12 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * 🔍 Reviewed [#2836 [FOR REVIEW] Added RegionGroup Schema](https://github.com/MediaJel/mediajel-gql-service/pull/2836) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#2836 [FOR REVIEW] Added RegionGroup Schema](https://github.com/MediaJel/mediajel-gql-service/pull/2836) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#2837 [HOTFIX] Modified TAPAD array object and optimized loading of audience page](https://github.com/MediaJel/mediajel-gql-service/pull/2837) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
   * [#0d92c33](https://github.com/MediaJel/mediajel-gql-service/commit/0d92c33) Optionally add delay for retry
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
   * [#5b91b22](https://github.com/MediaJel/mediajel-gql-service/commit/5b91b22) Add code comments for retry
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#968cc7d](https://github.com/MediaJel/mediajel-gql-service/commit/968cc7d) Create retry function
 
 
 ### Stalk me here ❤️
