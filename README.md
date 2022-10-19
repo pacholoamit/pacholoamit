@@ -146,13 +146,50 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#2836 [FOR REVIEW] Added RegionGroup Schema](https://github.com/MediaJel/mediajel-gql-service/pull/2836) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#2836 [FOR REVIEW] Added RegionGroup Schema](https://github.com/MediaJel/mediajel-gql-service/pull/2836) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#2837 [HOTFIX] Modified TAPAD array object and optimized loading of audience page](https://github.com/MediaJel/mediajel-gql-service/pull/2837) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#0d92c33](https://github.com/MediaJel/mediajel-gql-service/commit/0d92c33) Optionally add delay for retry
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#5b91b22](https://github.com/MediaJel/mediajel-gql-service/commit/5b91b22) Add code comments for retry
+* ➡️ Pushed 22 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#275b595](https://github.com/MediaJel/mediajel-tracker/commit/275b595) Add wefunder to cart index
+  * [#0901391](https://github.com/MediaJel/mediajel-tracker/commit/0901391) Add wefunder tracker
+  * [#a8c6bd6](https://github.com/MediaJel/mediajel-tracker/commit/a8c6bd6) Merge pull request #152 from MediaJel/develop
+
+Cypress Update for Main branch
+  * [#4514204](https://github.com/MediaJel/mediajel-tracker/commit/4514204) Merge pull request #151 from MediaJel/jjy-cypress
+
+Cypress Update
+  * [#cbdb8db](https://github.com/MediaJel/mediajel-tracker/commit/cbdb8db) Cypress for Main Branch
+  * [#05614b4](https://github.com/MediaJel/mediajel-tracker/commit/05614b4) Merge pull request #150 from MediaJel/jjy-cypress
+
+use Cypress Image
+  * [#1a5f41e](https://github.com/MediaJel/mediajel-tracker/commit/1a5f41e)  Reconfig Command
+  * [#45b49d0](https://github.com/MediaJel/mediajel-tracker/commit/45b49d0) use Cypress Image
+  * [#5c4243f](https://github.com/MediaJel/mediajel-tracker/commit/5c4243f) Merge pull request #149 from MediaJel/jjy-cypress
+
+Try Sudo
+  * [#b327fbe](https://github.com/MediaJel/mediajel-tracker/commit/b327fbe) Try Sudo
+  * [#fc39e72](https://github.com/MediaJel/mediajel-tracker/commit/fc39e72) Merge pull request #148 from MediaJel/jjy-cypress
+
+Test apt-get install
+  * [#84f47d7](https://github.com/MediaJel/mediajel-tracker/commit/84f47d7) Test apt-get install
+  * [#9ee9ba2](https://github.com/MediaJel/mediajel-tracker/commit/9ee9ba2) Merge pull request #147 from MediaJel/develop
+
+Install Dependencies from Develop to Staging
+  * [#8f5aad9](https://github.com/MediaJel/mediajel-tracker/commit/8f5aad9) Merge pull request #146 from MediaJel/jjy-cypress
+
+Install Depenencies for cypress
+  * [#7279ebf](https://github.com/MediaJel/mediajel-tracker/commit/7279ebf) Install Depenencies for cypress
+  * [#4dfac89](https://github.com/MediaJel/mediajel-tracker/commit/4dfac89) Merge branch &#39;develop&#39; of github.com:MediaJel/mediajel-tracker into develop
+  * [#ea8bc8d](https://github.com/MediaJel/mediajel-tracker/commit/ea8bc8d) Merge pull request #145 from MediaJel/pa-add-cypress-to-circle-ci
+
+Propose to include cypress test in CircleCI on staging and main
+  * [#f51f73b](https://github.com/MediaJel/mediajel-tracker/commit/f51f73b) re-add husky pre-commit
+  * [#29e9f48](https://github.com/MediaJel/mediajel-tracker/commit/29e9f48) remove .husky
+  * [#d477683](https://github.com/MediaJel/mediajel-tracker/commit/d477683) Propose to include cypress test in CircleCI on staging and main
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#e0bbc3d](https://github.com/MediaJel/mediajel-tracker/commit/e0bbc3d) Merge branch &#39;develop&#39; into staging
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#275b595](https://github.com/MediaJel/mediajel-tracker/commit/275b595) Add wefunder to cart index
+  * [#0901391](https://github.com/MediaJel/mediajel-tracker/commit/0901391) Add wefunder tracker
+* 💬 Commented on [#2836 [ON HOLD] Added RegionGroup Schema](https://github.com/MediaJel/mediajel-gql-service/issues/2836) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ⏺️ Created new branch pa-add-pos-prisma-entities in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
