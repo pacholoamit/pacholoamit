@@ -146,64 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#2853 [IN PROGRESS] PA Add POS entities](https://github.com/MediaJel/mediajel-gql-service/pull/2853) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 4 files changed `++1756 --11`
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-add-POS-prisma-entities`
-  * [#fd1f483](https://github.com/MediaJel/mediajel-gql-service/commit/fd1f483) Fix merge conflicts
-  * [#017b872](https://github.com/MediaJel/mediajel-gql-service/commit/017b872) [PASS ENGR QA] Added RegionGroup Schema (#2836)
-
-* Add RegionGroup Schema
-
-* BUG: Unable to compile new schema RegionGroup in CircleCI
-
-* BUG: Re-generate CodeGen
-
-* BUG: Module src/generated/prisma has no exported member PaidSearchCommerceUnitUpdateDataInput
-
-* BUG: Wrong spelling on PaidSearchCommerceUnitUpdateInput
-
-* Add to permissions
-
-* Reading Records
-
-* Added org field
-
-* Delete Mutation Regiongroup
-
-Co-authored-by: Felix Labayen &lt;felixlabayen@yahoo.com&gt;
-  * [#4c7ce83](https://github.com/MediaJel/mediajel-gql-service/commit/4c7ce83) [PASS ENGR QA] VM Roll-up SEO Analytics Custom Resolver (#2823)
-
-* SEO Analytics Resolver
-
-* Update Roll Up SEO Performance custom resolvers
-
-* refactor filename of roll up analytics files and method
-
-* Update the analytics into 6 months only
-
-* Add key in byDate array
-
-* Update calculation for average values
-
-* Add xAxis date
-
-* change the date into xAxis
-
-* Add start and end date field for daterangepicker
-
-* Change the start and end date into 6 months default
-
-* Change the let into const for the same memory addresses
-
-* Add startOf in the org summary jobqueue
-
-* Update the query of campaign orders from getRollUpDisplay
-
-Co-authored-by: Albert Vince Mendiola &lt;albert@mediajel.com&gt;
-Co-authored-by: Verdel Manzano &lt;verdelmanzano@gmail.com&gt;
-* 🔃 Opened [#2853 [IN PROGRESS] PA Add POS entities](https://github.com/MediaJel/mediajel-gql-service/pull/2853) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 12 files changed `++37958 --15447`
-* ⏺️ Created new branch pa-add-POS-prisma-entities in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#a8fc642](https://github.com/MediaJel/mediajel-gql-service/commit/a8fc642) Cleanup imports
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#028c603](https://github.com/MediaJel/mediajel-gql-service/commit/028c603) Log result
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#e08579a](https://github.com/MediaJel/mediajel-gql-service/commit/e08579a) remove passing prisma asa argument
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#a25db07](https://github.com/MediaJel/mediajel-gql-service/commit/a25db07) Implement updateOrgPOSData function with dynamic orgPOSConfig type
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#762941b](https://github.com/MediaJel/mediajel-gql-service/commit/762941b) Fix types in TreezPOS ingestion job
 
 
 ### Stalk me here ❤️
