@@ -146,16 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch pa-add-additional-pos-config-properties in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#a8fc642](https://github.com/MediaJel/mediajel-gql-service/commit/a8fc642) Cleanup imports
+  * [#143ae3b](https://github.com/MediaJel/mediajel-gql-service/commit/143ae3b) Temporarily comment out functions
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#028c603](https://github.com/MediaJel/mediajel-gql-service/commit/028c603) Log result
+  * [#8c55d42](https://github.com/MediaJel/mediajel-gql-service/commit/8c55d42) Modify query of orgs with POS config
+* ➡️ Pushed 7 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#5c3b05b](https://github.com/MediaJel/mediajel-gql-service/commit/5c3b05b) Merge branch &#39;develop&#39; into pa-pos-new-vs-existing-customer
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#e08579a](https://github.com/MediaJel/mediajel-gql-service/commit/e08579a) remove passing prisma asa argument
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#a25db07](https://github.com/MediaJel/mediajel-gql-service/commit/a25db07) Implement updateOrgPOSData function with dynamic orgPOSConfig type
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#762941b](https://github.com/MediaJel/mediajel-gql-service/commit/762941b) Fix types in TreezPOS ingestion job
+  * [#45a97e1](https://github.com/MediaJel/mediajel-gql-service/commit/45a97e1) Test orgs query POSconfig
 
 
 ### Stalk me here ❤️
