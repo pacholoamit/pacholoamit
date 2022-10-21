@@ -146,15 +146,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch pa-add-additional-pos-config-properties in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#143ae3b](https://github.com/MediaJel/mediajel-gql-service/commit/143ae3b) Temporarily comment out functions
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#8c55d42](https://github.com/MediaJel/mediajel-gql-service/commit/8c55d42) Modify query of orgs with POS config
-* ➡️ Pushed 7 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#5c3b05b](https://github.com/MediaJel/mediajel-gql-service/commit/5c3b05b) Merge branch &#39;develop&#39; into pa-pos-new-vs-existing-customer
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#45a97e1](https://github.com/MediaJel/mediajel-gql-service/commit/45a97e1) Test orgs query POSconfig
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#63cd747](https://github.com/MediaJel/mediajel-tracker/commit/63cd747) Fix cypress tests
+* ➡️ Pushed 8 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#d5c94b8](https://github.com/MediaJel/mediajel-gql-service/commit/d5c94b8) Merge branch &#39;develop&#39; into pa-pos-new-vs-existing-customer
+* ➡️ Pushed 6 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-add-additional-pos-config-properties`
+  * [#f409a10](https://github.com/MediaJel/mediajel-gql-service/commit/f409a10) Merge branch &#39;develop&#39; into pa-add-additional-pos-config-properties
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-add-additional-pos-config-properties`
+  * [#e1783c9](https://github.com/MediaJel/mediajel-gql-service/commit/e1783c9) Regenerate prisma files
+  * [#6f96038](https://github.com/MediaJel/mediajel-gql-service/commit/6f96038) Add org relation on POSConfig
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#bb7ce28](https://github.com/MediaJel/mediajel-gql-service/commit/bb7ce28) Add @salesforce/core dep
 
 
 ### Stalk me here ❤️
