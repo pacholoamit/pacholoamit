@@ -146,17 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#63cd747](https://github.com/MediaJel/mediajel-tracker/commit/63cd747) Fix cypress tests
-* ➡️ Pushed 8 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#d5c94b8](https://github.com/MediaJel/mediajel-gql-service/commit/d5c94b8) Merge branch &#39;develop&#39; into pa-pos-new-vs-existing-customer
-* ➡️ Pushed 6 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-add-additional-pos-config-properties`
-  * [#f409a10](https://github.com/MediaJel/mediajel-gql-service/commit/f409a10) Merge branch &#39;develop&#39; into pa-add-additional-pos-config-properties
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-add-additional-pos-config-properties`
-  * [#e1783c9](https://github.com/MediaJel/mediajel-gql-service/commit/e1783c9) Regenerate prisma files
-  * [#6f96038](https://github.com/MediaJel/mediajel-gql-service/commit/6f96038) Add org relation on POSConfig
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#bb7ce28](https://github.com/MediaJel/mediajel-gql-service/commit/bb7ce28) Add @salesforce/core dep
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#fa7210c](https://github.com/MediaJel/mediajel-gql-service/commit/fa7210c) Successfully set up Ingestion job
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#c4ec283](https://github.com/MediaJel/mediajel-gql-service/commit/c4ec283) modify logging to use arr length
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#f2a0b84](https://github.com/MediaJel/mediajel-gql-service/commit/f2a0b84) Implement updateOrgPOSConfig after POS ingestion
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#8a962b5](https://github.com/MediaJel/mediajel-gql-service/commit/8a962b5) log length of unqiqueCustomers
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#5614ebd](https://github.com/MediaJel/mediajel-gql-service/commit/5614ebd) Modify types &amp; treez adapter
 
 
 ### Stalk me here ❤️
