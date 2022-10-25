@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.footnote{width:100%;justify-content:flex-end;font-size:12px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:pre}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}.ct-series-f .ct-line,.ct-series-f .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-f .ct-area,.ct-series-f .ct-slice-pie{fill:#cd5c5c}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.footnote{width:100%;justify-content:flex-end;font-size:12px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:pre}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}.ct-series-f .ct-line,.ct-series-f .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-f .ct-area,.ct-series-f .ct-slice-pie{fill:#cd5c5c}.ct-series-g .ct-line,.ct-series-g .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-g .ct-area,.ct-series-g .ct-slice-pie{fill:#cd5c5c}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -306,12 +306,12 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="13.134328358208956" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="13.134328358208956" y="0" width="30.49040511727079" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="20.639658848614072" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="20.639658848614072" y="0" width="22.98507462686567" height="8" fill="#56d364"/>
                             <rect mask="url(#issues-bar)" x="43.624733475479744" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="43.624733475479744" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="43.624733475479744" y="0" width="59.57356076759062" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="103.19829424307036" y="0" width="116.80170575692962" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="43.624733475479744" y="0" width="88.18763326226012" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="131.81236673773986" y="0" width="88.18763326226012" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="-0.2345415778251599" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="219.76545842217485" y="0" width="0.2345415778251599" height="8" fill="#c9d1d9"/>
                         </svg>
@@ -361,14 +361,14 @@
                                     <path fill="#56d364" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#56d364" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">130 <small>open</small></span>
+                                <span class="no-wrap">98 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#d2a8ff" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">498 <small>closed</small></span>
+                                <span class="no-wrap">376 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -391,14 +391,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.6734165293148104" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0.6734165293148104" y="0" width="0.7511184365434425" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="1.424534965858253" y="0" width="-0.18130445020014127" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="1.2432305156581116" y="0" width="0.18130445020014127" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="1.424534965858253" y="0" width="8.236402166234988" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="9.660937132093242" y="0" width="2.5900635742877323" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="12.251000706380974" y="0" width="158.30468566046622" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="170.5556863668472" y="0" width="49.44431363315282" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.7507648858554954" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0.7507648858554954" y="0" width="0.7507648858554954" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="1.5015297717109908" y="0" width="-0.07766533301953402" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="1.4238644386914567" y="0" width="0.07766533301953402" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="1.5015297717109908" y="0" width="8.439632854789362" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="9.941162626500354" y="0" width="2.4076253236055543" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="12.348787950105908" y="0" width="163.82207578253707" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="176.17086373264297" y="0" width="43.82913626735702" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -411,7 +411,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">55 <small>open</small></span>
+                                <span class="no-wrap">58 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -430,7 +430,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">418 <small>closed</small></span>
+                                <span class="no-wrap">419 <small>closed</small></span>
                             </div>
                         </div>
                         <div class="field blue fill-width">
@@ -450,20 +450,20 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">1909 <small>merged</small></span>
+                                <span class="no-wrap">1693 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#c9d1d9" d="M2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5zm9.5 3a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5zm0-3a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     <path d="M14 7.5a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0zm0-4.25a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z"/>
                                 </svg>
-                                <span class="no-wrap">7 <small>drafts</small></span>
+                                <span class="no-wrap">3 <small>drafts</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ff7b72" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">100 <small>closed</small></span>
+                                <span class="no-wrap">93 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -475,7 +475,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 253 commits)</small>
+                    <small class="h-details">(computed from last 254 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -502,8 +502,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,111.25C36.304,113.083,42.609,116.75,48.913,116.75C55.217,116.75,61.522,50.75,67.826,50.75C74.13,50.75,80.435,103,86.739,103C93.043,103,99.348,83.75,105.652,83.75C111.957,83.75,118.261,100.109,124.565,105.75C130.87,111.391,137.174,116.881,143.478,119.5C149.783,122.119,156.087,125,162.391,125C168.696,125,175,64.5,181.304,64.5C187.609,64.5,193.913,106.775,200.217,108.5C206.522,110.225,212.826,110.333,219.13,111.25C225.435,112.167,231.739,114,238.043,114C244.348,114,250.652,114,256.957,114C263.261,114,269.565,110.661,275.87,105.75C282.174,100.839,288.478,37,294.783,37C301.087,37,307.391,87.346,313.696,94.75C320,102.154,326.304,106.972,332.609,108.5C338.913,110.028,345.217,111.25,351.522,111.25C357.826,111.25,364.13,92,370.435,92C376.739,92,383.043,92,389.348,92C395.652,92,401.957,42.5,408.261,42.5C414.565,42.5,420.87,100.25,427.174,100.25C433.478,100.25,439.783,86.5,446.087,86.5C452.391,86.5,458.696,99.333,465,105.75L465,125Z" class="ct-area"/>
-                                        <path d="M30,111.25C36.304,113.083,42.609,116.75,48.913,116.75C55.217,116.75,61.522,50.75,67.826,50.75C74.13,50.75,80.435,103,86.739,103C93.043,103,99.348,83.75,105.652,83.75C111.957,83.75,118.261,100.109,124.565,105.75C130.87,111.391,137.174,116.881,143.478,119.5C149.783,122.119,156.087,125,162.391,125C168.696,125,175,64.5,181.304,64.5C187.609,64.5,193.913,106.775,200.217,108.5C206.522,110.225,212.826,110.333,219.13,111.25C225.435,112.167,231.739,114,238.043,114C244.348,114,250.652,114,256.957,114C263.261,114,269.565,110.661,275.87,105.75C282.174,100.839,288.478,37,294.783,37C301.087,37,307.391,87.346,313.696,94.75C320,102.154,326.304,106.972,332.609,108.5C338.913,110.028,345.217,111.25,351.522,111.25C357.826,111.25,364.13,92,370.435,92C376.739,92,383.043,92,389.348,92C395.652,92,401.957,42.5,408.261,42.5C414.565,42.5,420.87,100.25,427.174,100.25C433.478,100.25,439.783,86.5,446.087,86.5C452.391,86.5,458.696,99.333,465,105.75" class="ct-line"/>
+                                        <path d="M30,125L30,111.25C36.304,113.083,42.609,116.75,48.913,116.75C55.217,116.75,61.522,50.75,67.826,50.75C74.13,50.75,80.435,103,86.739,103C93.043,103,99.348,83.75,105.652,83.75C111.957,83.75,118.261,100.109,124.565,105.75C130.87,111.391,137.174,116.881,143.478,119.5C149.783,122.119,156.087,125,162.391,125C168.696,125,175,61.75,181.304,61.75C187.609,61.75,193.913,106.769,200.217,108.5C206.522,110.231,212.826,110.333,219.13,111.25C225.435,112.167,231.739,114,238.043,114C244.348,114,250.652,114,256.957,114C263.261,114,269.565,110.661,275.87,105.75C282.174,100.839,288.478,37,294.783,37C301.087,37,307.391,87.346,313.696,94.75C320,102.154,326.304,106.972,332.609,108.5C338.913,110.028,345.217,111.25,351.522,111.25C357.826,111.25,364.13,92,370.435,92C376.739,92,383.043,92,389.348,92C395.652,92,401.957,42.5,408.261,42.5C414.565,42.5,420.87,100.25,427.174,100.25C433.478,100.25,439.783,86.5,446.087,86.5C452.391,86.5,458.696,99.333,465,105.75L465,125Z" class="ct-area"/>
+                                        <path d="M30,111.25C36.304,113.083,42.609,116.75,48.913,116.75C55.217,116.75,61.522,50.75,67.826,50.75C74.13,50.75,80.435,103,86.739,103C93.043,103,99.348,83.75,105.652,83.75C111.957,83.75,118.261,100.109,124.565,105.75C130.87,111.391,137.174,116.881,143.478,119.5C149.783,122.119,156.087,125,162.391,125C168.696,125,175,61.75,181.304,61.75C187.609,61.75,193.913,106.769,200.217,108.5C206.522,110.231,212.826,110.333,219.13,111.25C225.435,112.167,231.739,114,238.043,114C244.348,114,250.652,114,256.957,114C263.261,114,269.565,110.661,275.87,105.75C282.174,100.839,288.478,37,294.783,37C301.087,37,307.391,87.346,313.696,94.75C320,102.154,326.304,106.972,332.609,108.5C338.913,110.028,345.217,111.25,351.522,111.25C357.826,111.25,364.13,92,370.435,92C376.739,92,383.043,92,389.348,92C395.652,92,401.957,42.5,408.261,42.5C414.565,42.5,420.87,100.25,427.174,100.25C433.478,100.25,439.783,86.5,446.087,86.5C452.391,86.5,458.696,99.333,465,105.75" class="ct-line"/>
                                         <line x1="30" y1="111.25" x2="30.01" y2="111.25" class="ct-point" ct:value="5"/>
                                         <line x1="48.913043478260875" y1="116.75" x2="48.92304347826087" y2="116.75" class="ct-point" ct:value="3"/>
                                         <line x1="67.82608695652175" y1="50.75" x2="67.83608695652175" y2="50.75" class="ct-point" ct:value="27"/>
@@ -512,7 +512,7 @@
                                         <line x1="124.56521739130436" y1="105.75" x2="124.57521739130436" y2="105.75" class="ct-point" ct:value="7"/>
                                         <line x1="143.47826086956522" y1="119.5" x2="143.4882608695652" y2="119.5" class="ct-point" ct:value="2"/>
                                         <line x1="162.3913043478261" y1="125" x2="162.40130434782608" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="181.30434782608697" y1="64.5" x2="181.31434782608696" y2="64.5" class="ct-point" ct:value="22"/>
+                                        <line x1="181.30434782608697" y1="61.75" x2="181.31434782608696" y2="61.75" class="ct-point" ct:value="23"/>
                                         <line x1="200.21739130434784" y1="108.5" x2="200.22739130434783" y2="108.5" class="ct-point" ct:value="6"/>
                                         <line x1="219.13043478260872" y1="111.25" x2="219.1404347826087" y2="111.25" class="ct-point" ct:value="5"/>
                                         <line x1="238.0434782608696" y1="114" x2="238.05347826086958" y2="114" class="ct-point" ct:value="4"/>
@@ -528,7 +528,7 @@
                                         <line x1="427.1739130434783" y1="100.25" x2="427.1839130434783" y2="100.25" class="ct-point" ct:value="9"/>
                                         <line x1="446.0869565217392" y1="86.5" x2="446.0969565217392" y2="86.5" class="ct-point" ct:value="14"/>
                                         <line x1="465.00000000000006" y1="105.75" x2="465.01000000000005" y2="105.75" class="ct-point" ct:value="7"/>
-                                    <text x="30" y="106.25" class="ct-post">5</text><text x="48.913043478260875" y="111.75" class="ct-post">3</text><text x="67.82608695652175" y="45.75" class="ct-post">27</text><text x="86.73913043478261" y="98" class="ct-post">8</text><text x="105.65217391304348" y="78.75" class="ct-post">15</text><text x="124.56521739130436" y="100.75" class="ct-post">7</text><text x="143.47826086956522" y="114.5" class="ct-post">2</text><text x="181.30434782608697" y="59.5" class="ct-post">22</text><text x="200.21739130434784" y="103.5" class="ct-post">6</text><text x="219.13043478260872" y="106.25" class="ct-post">5</text><text x="238.0434782608696" y="109" class="ct-post">4</text><text x="256.95652173913044" y="109" class="ct-post">4</text><text x="275.8695652173913" y="100.75" class="ct-post">7</text><text x="294.7826086956522" y="32" class="ct-post">32</text><text x="313.69565217391306" y="89.75" class="ct-post">11</text><text x="332.60869565217394" y="103.5" class="ct-post">6</text><text x="351.5217391304348" y="106.25" class="ct-post">5</text><text x="370.4347826086957" y="87" class="ct-post">12</text><text x="389.34782608695656" y="87" class="ct-post">12</text><text x="408.26086956521743" y="37.5" class="ct-post">30</text><text x="427.1739130434783" y="95.25" class="ct-post">9</text><text x="446.0869565217392" y="81.5" class="ct-post">14</text><text x="465.00000000000006" y="100.75" class="ct-post">7</text></g>
+                                    <text x="30" y="106.25" class="ct-post">5</text><text x="48.913043478260875" y="111.75" class="ct-post">3</text><text x="67.82608695652175" y="45.75" class="ct-post">27</text><text x="86.73913043478261" y="98" class="ct-post">8</text><text x="105.65217391304348" y="78.75" class="ct-post">15</text><text x="124.56521739130436" y="100.75" class="ct-post">7</text><text x="143.47826086956522" y="114.5" class="ct-post">2</text><text x="181.30434782608697" y="56.75" class="ct-post">23</text><text x="200.21739130434784" y="103.5" class="ct-post">6</text><text x="219.13043478260872" y="106.25" class="ct-post">5</text><text x="238.0434782608696" y="109" class="ct-post">4</text><text x="256.95652173913044" y="109" class="ct-post">4</text><text x="275.8695652173913" y="100.75" class="ct-post">7</text><text x="294.7826086956522" y="32" class="ct-post">32</text><text x="313.69565217391306" y="89.75" class="ct-post">11</text><text x="332.60869565217394" y="103.5" class="ct-post">6</text><text x="351.5217391304348" y="106.25" class="ct-post">5</text><text x="370.4347826086957" y="87" class="ct-post">12</text><text x="389.34782608695656" y="87" class="ct-post">12</text><text x="408.26086956521743" y="37.5" class="ct-post">30</text><text x="427.1739130434783" y="95.25" class="ct-post">9</text><text x="446.0869565217392" y="81.5" class="ct-post">14</text><text x="465.00000000000006" y="100.75" class="ct-post">7</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -577,16 +577,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,29.667C39.5,36.389,49,40.281,58.5,49.833C68,59.386,77.5,99.333,87,99.333C96.5,99.333,106,63.979,115.5,59C125,54.021,134.5,49.833,144,49.833C153.5,49.833,163,52.767,172.5,55.333C182,57.9,191.5,63.889,201,68.167L201,125Z" class="ct-area"/>
-                                            <path d="M30,29.667C39.5,36.389,49,40.281,58.5,49.833C68,59.386,77.5,99.333,87,99.333C96.5,99.333,106,63.979,115.5,59C125,54.021,134.5,49.833,144,49.833C153.5,49.833,163,52.767,172.5,55.333C182,57.9,191.5,63.889,201,68.167" class="ct-line"/>
+                                            <path d="M30,125L30,29.667C39.5,36.389,49,40.386,58.5,49.833C68,59.281,77.5,97.5,87,97.5C96.5,97.5,106,63.936,115.5,59C125,54.064,134.5,49.833,144,49.833C153.5,49.833,163,52.767,172.5,55.333C182,57.9,191.5,63.889,201,68.167L201,125Z" class="ct-area"/>
+                                            <path d="M30,29.667C39.5,36.389,49,40.386,58.5,49.833C68,59.281,77.5,97.5,87,97.5C96.5,97.5,106,63.936,115.5,59C125,54.064,134.5,49.833,144,49.833C153.5,49.833,163,52.767,172.5,55.333C182,57.9,191.5,63.889,201,68.167" class="ct-line"/>
                                             <line x1="30" y1="29.66666666666667" x2="30.01" y2="29.66666666666667" class="ct-point" ct:value="52"/>
                                             <line x1="58.5" y1="49.83333333333333" x2="58.51" y2="49.83333333333333" class="ct-point" ct:value="41"/>
-                                            <line x1="87" y1="99.33333333333333" x2="87.01" y2="99.33333333333333" class="ct-point" ct:value="14"/>
+                                            <line x1="87" y1="97.5" x2="87.01" y2="97.5" class="ct-point" ct:value="15"/>
                                             <line x1="115.5" y1="59" x2="115.51" y2="59" class="ct-point" ct:value="36"/>
                                             <line x1="144" y1="49.83333333333333" x2="144.01" y2="49.83333333333333" class="ct-point" ct:value="41"/>
                                             <line x1="172.5" y1="55.33333333333333" x2="172.51" y2="55.33333333333333" class="ct-point" ct:value="38"/>
                                             <line x1="201" y1="68.16666666666666" x2="201.01" y2="68.16666666666666" class="ct-point" ct:value="31"/>
-                                        <text x="30" y="24.66666666666667" class="ct-post">52</text><text x="58.5" y="44.83333333333333" class="ct-post">41</text><text x="87" y="94.33333333333333" class="ct-post">14</text><text x="115.5" y="54" class="ct-post">36</text><text x="144" y="44.83333333333333" class="ct-post">41</text><text x="172.5" y="50.33333333333333" class="ct-post">38</text><text x="201" y="63.16666666666666" class="ct-post">31</text></g>
+                                        <text x="30" y="24.66666666666667" class="ct-post">52</text><text x="58.5" y="44.83333333333333" class="ct-post">41</text><text x="87" y="92.5" class="ct-post">15</text><text x="115.5" y="54" class="ct-post">36</text><text x="144" y="44.83333333333333" class="ct-post">41</text><text x="172.5" y="50.33333333333333" class="ct-post">38</text><text x="201" y="63.16666666666666" class="ct-post">31</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -609,30 +609,34 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M123.551,6.63A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.03193933047326285"/>
+                                        <path d="M123.48,6.615A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.03179754498066252"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M59.19,23.056A75,75,0,1,0,123.294,6.576L108,80Z" class="ct-slice-pie" ct:value="0.8205418369759822"/>
+                                        <path d="M56.486,25.49A75,75,0,1,0,123.224,6.561L108,80Z" class="ct-slice-pie" ct:value="0.8134185303514377"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M59.847,22.499A75,75,0,0,0,58.992,23.227L108,80Z" class="ct-slice-pie" ct:value="0.00175657872512921"/>
+                                        <path d="M56.835,25.163A75,75,0,0,0,56.296,25.67L108,80Z" class="ct-slice-pie" ct:value="0.0009752816546157727"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M60.556,21.913A75,75,0,0,0,59.647,22.668L108,80Z" class="ct-slice-pie" ct:value="0.0018748099854744452"/>
+                                        <path d="M57.465,24.581A75,75,0,0,0,56.644,25.342L108,80Z" class="ct-slice-pie" ct:value="0.0017487808979317302"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M62.75,20.188A75,75,0,0,0,60.353,22.079L108,80Z" class="ct-slice-pie" ct:value="0.005691990676620613"/>
+                                        <path d="M58.145,23.969A75,75,0,0,0,57.272,24.758L108,80Z" class="ct-slice-pie" ct:value="0.001866487304523289"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M108,5A75,75,0,0,0,62.542,20.346L108,80Z" class="ct-slice-pie" ct:value="0.09904401580920853"/>
+                                        <path d="M60.255,22.16A75,75,0,0,0,57.95,24.143L108,80Z" class="ct-slice-pie" ct:value="0.005666722717336472"/>
+                                    </g>
+                                    <g class="ct-series ct-series-g">
+                                        <path d="M108,5A75,75,0,0,0,60.053,22.327L108,80Z" class="ct-slice-pie" ct:value="0.10554901631074491"/>
                                     </g>
                                     <g>
-                                        <text dx="111.90897018152502" dy="42.70429043281321" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="117.27362893786463" dy="116.33524193290586" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="83.7589549251247" dy="51.388433568260126" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="84.10036634696176" dy="51.102638334087274" text-anchor="middle" class="ct-label">RenderScript</text>
-                                        <text dx="84.82254050793496" dy="50.52025489435697" text-anchor="middle" class="ct-label">Rust</text>
-                                        <text dx="96.06734548554303" dy="44.44916658869149" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="111.89097885996352" dy="42.70240914601431" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="118.16949356615733" dy="116.09475586020613" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="82.33020480978863" dy="52.66299916061381" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="82.57465510771972" dy="52.43549679191375" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="82.90219011188725" dy="52.136943117810105" text-anchor="middle" class="ct-label">RenderScript</text>
+                                        <text dx="83.59589033580747" dy="51.52739155788383" text-anchor="middle" class="ct-label">Rust</text>
+                                        <text dx="95.31618150498765" dy="44.710189170447755" text-anchor="middle" class="ct-label">TSX</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -659,7 +663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>surrealdb/surrealdb</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A scalable, distributed, collaborative, document-graph database, for the realtime web</div>
@@ -686,7 +690,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        320
+                                        321
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -712,7 +716,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BuilderIO/mitosis</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.</div>
@@ -733,7 +737,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        7k
+                                        7.01k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -746,13 +750,13 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        297
+                                        298
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        541
+                                        542
                                     </div>
                                 </div>
                             </section>
@@ -765,7 +769,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/book</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Rust Programming Language</div>
@@ -2918,19 +2922,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">pacholoamit/machine-learning</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">MediaJel/mediajel-google-connector</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">MediaJel/snowplow-react-native-app</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">MediaJel/mj-snowplow-management</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">MediaJel/go-snowplow-concept</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2946,25 +2950,25 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
+                            <div class="diff-stats"><span class="added">  +133k</span> <span class="deleted">   -479</span></div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats"><span class="added"> +22.8k</span> <span class="deleted">     -1</span></div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-stats"><span class="added"> +12.9k</span> <span class="deleted">     -2</span></div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +1.04k</span> <span class="deleted">   -253</span></div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">   +363</span> <span class="deleted">   -125</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
@@ -2983,80 +2987,44 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(45.97478991596639,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">February</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(69.62184873949579,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">March</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(95.80252100840337,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">April</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(121.13865546218489,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">May</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(147.31932773109244,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">June</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(172.65546218487395,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">July</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(198.8361344537815,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">August</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(225.0168067226891,0)">
+                            <g class="tick" opacity="1" transform="translate(44.78078817733991,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">September</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(250.35294117647058,0)">
+                            <g class="tick" opacity="1" transform="translate(104.18965517241378,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">October</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(276.5336134453782,0)">
+                            <g class="tick" opacity="1" transform="translate(165.57881773399015,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">November</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(301.8697478991597,0)">
+                            <g class="tick" opacity="1" transform="translate(224.98768472906403,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">December</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(328.05042016806726,0)">
+                            <g class="tick" opacity="1" transform="translate(286.3768472906404,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">2022</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(354.2310924369748,0)">
+                            <g class="tick" opacity="1" transform="translate(347.7660098522167,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">February</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(377.8781512605042,0)">
+                            <g class="tick" opacity="1" transform="translate(403.2142857142857,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">March</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(404.05882352941177,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">April</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(429.39495798319325,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">May</text>
                             </g>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
                             <g class="tick" opacity="1" transform="translate(0,39.27327327327328)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">10k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">100k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,90.13663663663662)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">5.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">50k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
@@ -3064,15 +3032,15 @@
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,191.86336336336336)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−5.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−50k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,242.72672672672672)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−10k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−100k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L163.14705882352942,140.5L192.70588235294116,140.5L198.61764705882354,140.5L204.52941176470588,140.5L210.44117647058823,140.5L216.35294117647058,140.5L222.26470588235293,140.5L228.1764705882353,140.5L234.08823529411762,140.5L240,140.5L346.4117647058823,140.5L352.32352941176475,140.5L364.1470588235294,140.5L387.79411764705884,140.5L393.70588235294116,140.5L399.61764705882354,140.5L441,140.5L441,139.84894894894893L399.61764705882354,140.47965465465464L393.70588235294116,5L387.79411764705884,140.1643018018018L364.1470588235294,140.25585585585586L352.32352941176475,140.03205705705705L346.4117647058823,140.45930930930928L240,137.7126876876877L234.08823529411762,139.44204204204203L228.1764705882353,140.3881006006006L222.26470588235293,139.80825825825826L216.35294117647058,139.98119369369368L210.44117647058823,139.4623873873874L204.52941176470588,140.45930930930928L198.61764705882354,139.5742867867868L192.70588235294116,139.54376876876879L163.14705882352942,140.0930930930931L39,140.46948198198197Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L163.14705882352942,140.5L192.70588235294116,140.5L198.61764705882354,140.5L204.52941176470588,140.5L210.44117647058823,140.5L216.35294117647058,140.5L222.26470588235293,140.5L228.1764705882353,140.5L234.08823529411762,140.5L240,140.5L346.4117647058823,140.5L352.32352941176475,140.5L364.1470588235294,140.5L387.79411764705884,140.5L393.70588235294116,140.5L399.61764705882354,140.5L441,140.5L441,140.51017267267267L399.61764705882354,140.52034534534536L393.70588235294116,142.1378003003003L387.79411764705884,140.51017267267267L364.1470588235294,140.51017267267267L352.32352941176475,140.54069069069072L346.4117647058823,140.54069069069072L240,141.4257132132132L234.08823529411762,140.5813813813814L228.1764705882353,140.51017267267267L222.26470588235293,140.85604354354354L216.35294117647058,140.53051801801803L210.44117647058823,140.53051801801803L204.52941176470588,140.51017267267267L198.61764705882354,140.51017267267267L192.70588235294116,141.120533033033L163.14705882352942,140.51017267267267L39,140.55086336336336Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L80.58620689655172,140.5L330.1034482758621,140.5L441,140.5L441,127.35385510510508L330.1034482758621,140.49593093093094L80.58620689655172,117.24120120120118L39,5Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L80.58620689655172,140.5L330.1034482758621,140.5L441,140.5L441,140.50203453453452L330.1034482758621,140.50406906906906L80.58620689655172,140.5010172672673L39,140.987271021021Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
