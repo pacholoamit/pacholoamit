@@ -147,15 +147,16 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#3bdf357](https://github.com/MediaJel/mediajel-gql-service/commit/3bdf357) Add comments
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#119e1f8](https://github.com/MediaJel/mediajel-gql-service/commit/119e1f8) Fix logging
+  * [#5f5fc1b](https://github.com/MediaJel/mediajel-gql-service/commit/5f5fc1b) Import Org Prisma queries &amp; mutations
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
+  * [#2d60498](https://github.com/MediaJel/mediajel-gql-service/commit/2d60498) Modify prisma
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
   * [#fa7210c](https://github.com/MediaJel/mediajel-gql-service/commit/fa7210c) Successfully set up Ingestion job
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
   * [#c4ec283](https://github.com/MediaJel/mediajel-gql-service/commit/c4ec283) modify logging to use arr length
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#f2a0b84](https://github.com/MediaJel/mediajel-gql-service/commit/f2a0b84) Implement updateOrgPOSConfig after POS ingestion
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#8a962b5](https://github.com/MediaJel/mediajel-gql-service/commit/8a962b5) log length of unqiqueCustomers
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#5614ebd](https://github.com/MediaJel/mediajel-gql-service/commit/5614ebd) Modify types &amp; treez adapter
 
 
 ### Stalk me here ❤️
