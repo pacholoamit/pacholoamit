@@ -147,16 +147,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#3bdf357](https://github.com/MediaJel/mediajel-gql-service/commit/3bdf357) Add comments
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#119e1f8](https://github.com/MediaJel/mediajel-gql-service/commit/119e1f8) Fix logging
-  * [#5f5fc1b](https://github.com/MediaJel/mediajel-gql-service/commit/5f5fc1b) Import Org Prisma queries &amp; mutations
+  * [#71aebeb](https://github.com/MediaJel/mediajel-gql-service/commit/71aebeb) Use createdAt as start date
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#2d60498](https://github.com/MediaJel/mediajel-gql-service/commit/2d60498) Modify prisma
+  * [#a612be3](https://github.com/MediaJel/mediajel-gql-service/commit/a612be3) minor cleanup
+* 🔃 Opened [#2897 [FOR REVIEW] Scaffold POS ingestion job](https://github.com/MediaJel/mediajel-gql-service/pull/2897) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 12 files changed `++328 --90`
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#fa7210c](https://github.com/MediaJel/mediajel-gql-service/commit/fa7210c) Successfully set up Ingestion job
+  * [#8e8cdcd](https://github.com/MediaJel/mediajel-gql-service/commit/8e8cdcd) clean up logging
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#c4ec283](https://github.com/MediaJel/mediajel-gql-service/commit/c4ec283) modify logging to use arr length
+  * [#98dab8b](https://github.com/MediaJel/mediajel-gql-service/commit/98dab8b) Remove handler
 
 
 ### Stalk me here ❤️
