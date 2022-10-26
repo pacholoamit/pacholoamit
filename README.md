@@ -146,16 +146,80 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#71aebeb](https://github.com/MediaJel/mediajel-gql-service/commit/71aebeb) Use createdAt as start date
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#a612be3](https://github.com/MediaJel/mediajel-gql-service/commit/a612be3) minor cleanup
-* 🔃 Opened [#2897 [FOR REVIEW] Scaffold POS ingestion job](https://github.com/MediaJel/mediajel-gql-service/pull/2897) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 12 files changed `++328 --90`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#8e8cdcd](https://github.com/MediaJel/mediajel-gql-service/commit/8e8cdcd) clean up logging
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-pos-new-vs-existing-customer`
-  * [#98dab8b](https://github.com/MediaJel/mediajel-gql-service/commit/98dab8b) Remove handler
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#78b9e57](https://github.com/MediaJel/mediajel-gql-service/commit/78b9e57) implement jsforce &amp; salesforce auth boilerplate
+* ➡️ Pushed 34 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#cdcfa97](https://github.com/MediaJel/mediajel-gql-service/commit/cdcfa97) Seo Improvement
+  * [#8d08686](https://github.com/MediaJel/mediajel-gql-service/commit/8d08686) [SCHEMA UPDATE] Explicitly define GeoTarget relationship in Polygon &amp; Circle table (#2878)
+
+* [SCHEMA UPDATE] Explicitly define GeoTarget relationship in Polygon &amp; Circle table
+
+* Deploy explicit relationship under Polygon &amp; Circle tables
+  * [#2defb17](https://github.com/MediaJel/mediajel-gql-service/commit/2defb17) Merge pull request #2813 from MediaJel/br/sso-token
+
+[PASS ENGR QA] SSO token generate
+  * [#f263394](https://github.com/MediaJel/mediajel-gql-service/commit/f263394) Update create-asana-ticket.ts
+  * [#0a00acf](https://github.com/MediaJel/mediajel-gql-service/commit/0a00acf) bugfix
+  * [#8a76233](https://github.com/MediaJel/mediajel-gql-service/commit/8a76233) Ds table name correction (#2872)
+
+* updates names and extends job to a full year
+
+* adds attribution filter within campaigns
+
+* modifies name of build service and extends date range to encompass 2 years
+  * [#8526d26](https://github.com/MediaJel/mediajel-gql-service/commit/8526d26) [SCHEMA UPDATE] Modify POS Config properties (#2874)
+
+* Add additional properties
+
+* Generate prisma files
+
+* Add org relation on POSConfig
+
+* Regenerate prisma files
+  * [#a735778](https://github.com/MediaJel/mediajel-gql-service/commit/a735778) Merge pull request #2873 from MediaJel/vm-fix-end-date-in-rollup-display
+
+[PASS QA ENG] vm fix end date parameter in getRollUpDisplay resolver
+  * [#dc3e1ee](https://github.com/MediaJel/mediajel-gql-service/commit/dc3e1ee) Merge pull request #2866 from MediaJel/icf-schema-articles-user
+
+[PASS ENGR QA][SCHEMA UPDATE] ICF schema articles user
+  * [#5ef2d1b](https://github.com/MediaJel/mediajel-gql-service/commit/5ef2d1b) Merge pull request #2865 from MediaJel/br/fix-console-errors
+
+[PASS ENGR QA] Fix sort of null
+  * [#9f0840b](https://github.com/MediaJel/mediajel-gql-service/commit/9f0840b) Fix end date parameter in roll-up display
+  * [#80c51fa](https://github.com/MediaJel/mediajel-gql-service/commit/80c51fa) articles permission user
+  * [#cb3eddc](https://github.com/MediaJel/mediajel-gql-service/commit/cb3eddc) Fix sort of null
+  * [#2a6f9da](https://github.com/MediaJel/mediajel-gql-service/commit/2a6f9da) Add Budget per Month
+  * [#bcf9191](https://github.com/MediaJel/mediajel-gql-service/commit/bcf9191) Update index.ts
+  * [#f680e96](https://github.com/MediaJel/mediajel-gql-service/commit/f680e96) Merge branch &#39;develop&#39; into rm-is-asana-finalization
+  * [#40630bb](https://github.com/MediaJel/mediajel-gql-service/commit/40630bb) [FOR REVIEW] rm Asana Finalization
+  * [#769907b](https://github.com/MediaJel/mediajel-gql-service/commit/769907b) initial
+  * [#cafb5bd](https://github.com/MediaJel/mediajel-gql-service/commit/cafb5bd) Update Cart Provider
+  * [#d30f66f](https://github.com/MediaJel/mediajel-gql-service/commit/d30f66f) SSO token generate
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#4f69e30](https://github.com/MediaJel/mediajel-tracker/commit/4f69e30) Merge pull request #153 from MediaJel/jjl-v2-error-tracking
+
+[FOR REVIEW] Error Tracking for v2
+  * [#23ecaee](https://github.com/MediaJel/mediajel-tracker/commit/23ecaee) Error Tracking
+* 🔃 Merged [#153 [FOR REVIEW] Error Tracking for v2](https://github.com/MediaJel/mediajel-tracker/pull/153) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 15 files changed `++540 --496`
+* ➡️ Pushed 15 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#d4b4158](https://github.com/MediaJel/mediajel-tracker/commit/d4b4158) evaluate responseText type for wefunder
+  * [#54f4225](https://github.com/MediaJel/mediajel-tracker/commit/54f4225) Set wefunder to stable
+  * [#3595343](https://github.com/MediaJel/mediajel-tracker/commit/3595343) Revert &#34;Add WeFunder for v2&#34;
+
+This reverts commit 598040756bdef75c432c7a3d702d2f1f5fa9f4d3.
+  * [#c021b8e](https://github.com/MediaJel/mediajel-tracker/commit/c021b8e) Merge branch &#39;main&#39; into staging
+  * [#5980407](https://github.com/MediaJel/mediajel-tracker/commit/5980407) Add WeFunder for v2
+  * [#26a8d9f](https://github.com/MediaJel/mediajel-tracker/commit/26a8d9f) Fix Wefunder tracker
+  * [#be18b12](https://github.com/MediaJel/mediajel-tracker/commit/be18b12) Log response text
+  * [#25b7e79](https://github.com/MediaJel/mediajel-tracker/commit/25b7e79) Log xhr
+  * [#47579dd](https://github.com/MediaJel/mediajel-tracker/commit/47579dd) Add XHR
+  * [#1b28340](https://github.com/MediaJel/mediajel-tracker/commit/1b28340) Add logging
+  * [#c6e3942](https://github.com/MediaJel/mediajel-tracker/commit/c6e3942) Merge branch &#39;develop&#39; into staging
+  * [#63cd747](https://github.com/MediaJel/mediajel-tracker/commit/63cd747) Fix cypress tests
+  * [#684fbfe](https://github.com/MediaJel/mediajel-tracker/commit/684fbfe) Merge branch &#39;develop&#39; into staging
+  * [#1ce03d2](https://github.com/MediaJel/mediajel-tracker/commit/1ce03d2) Use https for sp.js file
+  * [#ef96efc](https://github.com/MediaJel/mediajel-tracker/commit/ef96efc) Use https instead of http for collector url
 
 
 ### Stalk me here ❤️
