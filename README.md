@@ -146,6 +146,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#11fc487](https://github.com/MediaJel/mediajel-gql-service/commit/11fc487) Merge branch &#39;develop&#39; into pa-salesforce-integration
 * 🔍 Reviewed [#3351 [FOR REVIEW] Public Facing Website](https://github.com/MediaJel/mediajel-dashboard/pull/3351) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
   * [#576306c](https://github.com/MediaJel/mediajel-gql-service/commit/576306c) cleanup
@@ -153,8 +155,6 @@
   * [#14aacbf](https://github.com/MediaJel/mediajel-gql-service/commit/14aacbf) minor refactor
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
   * [#dfd4919](https://github.com/MediaJel/mediajel-gql-service/commit/dfd4919) Finalize Salesforce POC
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#541c041](https://github.com/MediaJel/mediajel-gql-service/commit/541c041) Successfully get Oauth2 code from Salesforce
 
 
 ### Stalk me here ❤️
