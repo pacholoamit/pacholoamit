@@ -146,15 +146,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#e22333d](https://github.com/MediaJel/mediajel-tracker/commit/e22333d) Create Cart Platform event handler callbacks
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#6114306](https://github.com/MediaJel/mediajel-tracker/commit/6114306) Merge branch &#39;develop&#39; into staging
+* 🔍 Reviewed [#523 [HOTFIX] Set to none schedules for the retargeting jobs in production](https://github.com/MediaJel/airflow-dags/pull/523) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
 * ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
   * [#11fc487](https://github.com/MediaJel/mediajel-gql-service/commit/11fc487) Merge branch &#39;develop&#39; into pa-salesforce-integration
 * 🔍 Reviewed [#3351 [FOR REVIEW] Public Facing Website](https://github.com/MediaJel/mediajel-dashboard/pull/3351) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#576306c](https://github.com/MediaJel/mediajel-gql-service/commit/576306c) cleanup
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#14aacbf](https://github.com/MediaJel/mediajel-gql-service/commit/14aacbf) minor refactor
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#dfd4919](https://github.com/MediaJel/mediajel-gql-service/commit/dfd4919) Finalize Salesforce POC
 
 
 ### Stalk me here ❤️
