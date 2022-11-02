@@ -146,14 +146,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#d85dd45](https://github.com/MediaJel/mediajel-tracker/commit/d85dd45) Added logging for each transaaction event
+  * [#92aa724](https://github.com/MediaJel/mediajel-tracker/commit/92aa724) Add to readme
+  * [#9bf9513](https://github.com/MediaJel/mediajel-tracker/commit/9bf9513) minor fix
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#d85dd45](https://github.com/MediaJel/mediajel-tracker/commit/d85dd45) Added logging for each transaaction event
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#e22333d](https://github.com/MediaJel/mediajel-tracker/commit/e22333d) Create Cart Platform event handler callbacks
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#6114306](https://github.com/MediaJel/mediajel-tracker/commit/6114306) Merge branch &#39;develop&#39; into staging
-* 🔍 Reviewed [#523 [HOTFIX] Set to none schedules for the retargeting jobs in production](https://github.com/MediaJel/airflow-dags/pull/523) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#11fc487](https://github.com/MediaJel/mediajel-gql-service/commit/11fc487) Merge branch &#39;develop&#39; into pa-salesforce-integration
-* 🔍 Reviewed [#3351 [FOR REVIEW] Public Facing Website](https://github.com/MediaJel/mediajel-dashboard/pull/3351) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * [#d85dd45](https://github.com/MediaJel/mediajel-tracker/commit/d85dd45) Added logging for each transaaction event
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#92aa724](https://github.com/MediaJel/mediajel-tracker/commit/92aa724) Add to readme
+  * [#9bf9513](https://github.com/MediaJel/mediajel-tracker/commit/9bf9513) minor fix
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#92aa724](https://github.com/MediaJel/mediajel-tracker/commit/92aa724) Add to readme
+  * [#9bf9513](https://github.com/MediaJel/mediajel-tracker/commit/9bf9513) minor fix
 
 
 ### Stalk me here ❤️
