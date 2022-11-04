@@ -146,6 +146,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#7ebe0a3](https://github.com/MediaJel/mediajel-gql-service/commit/7ebe0a3) Describe accounts in Salesforce script
 * ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
   * [#d85dd45](https://github.com/MediaJel/mediajel-tracker/commit/d85dd45) Added logging for each transaaction event
   * [#92aa724](https://github.com/MediaJel/mediajel-tracker/commit/92aa724) Add to readme
@@ -155,9 +157,6 @@
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#d85dd45](https://github.com/MediaJel/mediajel-tracker/commit/d85dd45) Added logging for each transaaction event
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#92aa724](https://github.com/MediaJel/mediajel-tracker/commit/92aa724) Add to readme
-  * [#9bf9513](https://github.com/MediaJel/mediajel-tracker/commit/9bf9513) minor fix
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#92aa724](https://github.com/MediaJel/mediajel-tracker/commit/92aa724) Add to readme
   * [#9bf9513](https://github.com/MediaJel/mediajel-tracker/commit/9bf9513) minor fix
 
