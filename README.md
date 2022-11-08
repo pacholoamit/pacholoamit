@@ -146,17 +146,79 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#694ee67](https://github.com/MediaJel/mediajel-gql-service/commit/694ee67) Successfully query Contact &amp; Acount from Oppurtunity via SOQL
+* ➡️ Pushed 85 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#79cf5d8](https://github.com/MediaJel/mediajel-gql-service/commit/79cf5d8) Prisma Deploy
+  * [#9190bc3](https://github.com/MediaJel/mediajel-gql-service/commit/9190bc3) Merge pull request #2905 from MediaJel/dojo
+
+Deploy the release this Oct 27, 2022
+  * [#386cec7](https://github.com/MediaJel/mediajel-gql-service/commit/386cec7) Include parent org for campaign org ids
+  * [#17eaa1f](https://github.com/MediaJel/mediajel-gql-service/commit/17eaa1f) Merge pull request #2901 from MediaJel/develop
+
+BUG: Temporary remove canReadCampaignOrder permission
+  * [#49bd6d9](https://github.com/MediaJel/mediajel-gql-service/commit/49bd6d9) Merge pull request #2899 from MediaJel/develop
+
+Fix Region Group Schema from Develop to Dojo
+  * [#6d7a1ea](https://github.com/MediaJel/mediajel-gql-service/commit/6d7a1ea) Merge pull request #2896 from MediaJel/develop
+
+Fix start and end dates in Roll-up custom resolvers form Develop to Dojo
+  * [#f370ffc](https://github.com/MediaJel/mediajel-gql-service/commit/f370ffc) Merge pull request #2893 from MediaJel/develop
+
+revert Cart Provider Schema Update Develop to Dojo
+  * [#57112db](https://github.com/MediaJel/mediajel-gql-service/commit/57112db) Merge pull request #2891 from MediaJel/develop
+
+FEATURE: Add articles in query
+  * [#8437eee](https://github.com/MediaJel/mediajel-gql-service/commit/8437eee) Merge pull request #2889 from MediaJel/develop
+
+Schema Update Cart Provider Develop to Dojo
+  * [#b1008c7](https://github.com/MediaJel/mediajel-gql-service/commit/b1008c7) Merge pull request #2888 from MediaJel/develop
+
+[SCHEMA UPDATE] [FOR REVIEW] ICF aggregated channels schema (#2887)
+  * [#a4ed0c8](https://github.com/MediaJel/mediajel-gql-service/commit/a4ed0c8) Merge pull request #2886 from MediaJel/develop
+
+[PASS ENGR QA] Audience liquidm segment activation with only snowplow
+  * [#51bde9b](https://github.com/MediaJel/mediajel-gql-service/commit/51bde9b) Merge pull request #2882 from MediaJel/develop
+
+Update Dojo from Develop
+  * [#d6ef319](https://github.com/MediaJel/mediajel-gql-service/commit/d6ef319) Merge pull request #2880 from MediaJel/develop
+
+[SCHEMA UPDATE] Explicitly define GeoTarget 1:N relationship in Polygon &amp; Circle table (#2878)
+  * [#8d1df36](https://github.com/MediaJel/mediajel-gql-service/commit/8d1df36) Merge pull request #2879 from MediaJel/develop
+
+FEATURE: SSO Token
+  * [#57b1958](https://github.com/MediaJel/mediajel-gql-service/commit/57b1958) Merge pull request #2877 from MediaJel/develop
+
+Ds table name correction (#2872) from develop to dojo
+  * [#59df832](https://github.com/MediaJel/mediajel-gql-service/commit/59df832) Merge pull request #2876 from MediaJel/develop
+
+* Add additional properties
+
+* Generate prisma files
+
+* Add org relation on POSConfig
+
+* Regenerate prisma files
+
+Co-authored-by: Pacholo Amit &lt;69985528+pacholoamit@users.noreply.github.com&gt;
+  * [#d075337](https://github.com/MediaJel/mediajel-gql-service/commit/d075337) Merge pull request #2875 from MediaJel/develop
+
+BUG: Merge all PASS ENG QA bug-fixes from develop to dojo
+  * [#c6d1aec](https://github.com/MediaJel/mediajel-gql-service/commit/c6d1aec) Merge pull request #2871 from MediaJel/develop
+
+FEATURE: Increase gql pod memory limit in production
+  * [#7530036](https://github.com/MediaJel/mediajel-gql-service/commit/7530036) Merge pull request #2869 from MediaJel/develop
+
+BUG: Merge Bertwin&#39;s fix on date null from develop to dojo
+  * [#dfe5f76](https://github.com/MediaJel/mediajel-gql-service/commit/dfe5f76) Merge pull request #2868 from MediaJel/develop
+
+FEATURE: Lower graphqlserver-dojo pod&#39;s memory limit
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#633304a](https://github.com/MediaJel/mediajel-gql-service/commit/633304a) comment unnecessary fields
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
   * [#f3e29b3](https://github.com/MediaJel/mediajel-tracker/commit/f3e29b3) Add break to woocommerce switch
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#f3e29b3](https://github.com/MediaJel/mediajel-tracker/commit/f3e29b3) Add break to woocommerce switch
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#f3e29b3](https://github.com/MediaJel/mediajel-tracker/commit/f3e29b3) Add break to woocommerce switch
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#e62d74a](https://github.com/MediaJel/mediajel-tracker/commit/e62d74a) log fix
-  * [#c5ee310](https://github.com/MediaJel/mediajel-tracker/commit/c5ee310) Improve logging
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#e62d74a](https://github.com/MediaJel/mediajel-tracker/commit/e62d74a) log fix
 
 
 ### Stalk me here ❤️
