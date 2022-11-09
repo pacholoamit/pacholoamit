@@ -147,16 +147,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#00927d8](https://github.com/MediaJel/mediajel-gql-service/commit/00927d8) Move types to types file
+  * [#f3e4a43](https://github.com/MediaJel/mediajel-gql-service/commit/f3e4a43) Improve createSalesforceAuth factory
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#d110f5d](https://github.com/MediaJel/mediajel-gql-service/commit/d110f5d) create resolveQuery helper to handle callbacks
+  * [#92b3f57](https://github.com/MediaJel/mediajel-gql-service/commit/92b3f57) abstract auth from salesforce operations
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#ae5ed2d](https://github.com/MediaJel/mediajel-gql-service/commit/ae5ed2d) minor fix to auth-server
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#7d96eca](https://github.com/MediaJel/mediajel-gql-service/commit/7d96eca) Create Salesforce auth-server script
-  * [#109d165](https://github.com/MediaJel/mediajel-gql-service/commit/109d165) Successfully request refresh token
+  * [#0f216cc](https://github.com/MediaJel/mediajel-gql-service/commit/0f216cc) Add prisma &amp; comments on next steps
+* 🔃 Opened [#2958 [IN PROGRESS] Salesforce integration](https://github.com/MediaJel/mediajel-gql-service/pull/2958) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 6 files changed `++443 --24`
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#3ab1986](https://github.com/MediaJel/mediajel-gql-service/commit/3ab1986) Query contacts from Deal_Signatory__c field
+  * [#7c8abb0](https://github.com/MediaJel/mediajel-gql-service/commit/7c8abb0) modify filtering
 
 
 ### Stalk me here ❤️
