@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.footnote{width:100%;justify-content:flex-end;font-size:12px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:pre}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.footnote{width:100%;justify-content:flex-end;font-size:12px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:pre}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -391,14 +391,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.5560661764705883" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0.5560661764705883" y="0" width="0.7329963235294117" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="1.2890625" y="0" width="-0.1769301470588235" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="1.1121323529411764" y="0" width="0.1769301470588235" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="1.2890625" y="0" width="8.517922794117647" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="9.806985294117647" y="0" width="2.527573529411765" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="12.334558823529411" y="0" width="158.93382352941177" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="171.2683823529412" y="0" width="48.73161764705882" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.5811416101986907" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0.5811416101986907" y="0" width="0.7327437693809578" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="1.3138853795796486" y="0" width="-0.176869185712645" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="1.1370161938670036" y="0" width="0.176869185712645" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="1.3138853795796486" y="0" width="8.514987940737338" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="9.828873320316987" y="0" width="2.5267026530377854" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="12.355575973354773" y="0" width="158.92959687607672" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="171.2851728494315" y="0" width="48.71482715056851" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -411,13 +411,13 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">51 <small>open</small></span>
+                                <span class="no-wrap">52 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">8216 <small>merged</small></span>
+                                <span class="no-wrap">8218 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -475,12 +475,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 272 commits)</small>
+                    <small class="h-details">(computed from last 269 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.7 characters per line of code written</li>
+                        <li>Has approximately 33.5 characters per line of code written</li>
                         <li>Mostly pushes code around 02:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -502,8 +502,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,94.75C36.304,91.083,42.609,90.036,48.913,83.75C55.217,77.464,61.522,17.75,67.826,17.75C74.13,17.75,80.435,72.75,86.739,72.75C93.043,72.75,99.348,50.75,105.652,50.75C111.957,50.75,118.261,75.06,124.565,86.5C130.87,97.94,137.174,116.357,143.478,119.5C149.783,122.643,156.087,125,162.391,125C168.696,125,175,45.25,181.304,45.25C187.609,45.25,193.913,111.819,200.217,116.75C206.522,121.681,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,124.031,275.87,122.25C282.174,120.469,288.478,28.75,294.783,28.75C301.087,28.75,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,111.25,370.435,111.25C376.739,111.25,383.043,116.75,389.348,116.75C395.652,116.75,401.957,26,408.261,26C414.565,26,420.87,103,427.174,103C433.478,103,439.783,83.75,446.087,83.75C452.391,83.75,458.696,92.917,465,97.5L465,125Z" class="ct-area"/>
-                                        <path d="M30,94.75C36.304,91.083,42.609,90.036,48.913,83.75C55.217,77.464,61.522,17.75,67.826,17.75C74.13,17.75,80.435,72.75,86.739,72.75C93.043,72.75,99.348,50.75,105.652,50.75C111.957,50.75,118.261,75.06,124.565,86.5C130.87,97.94,137.174,116.357,143.478,119.5C149.783,122.643,156.087,125,162.391,125C168.696,125,175,45.25,181.304,45.25C187.609,45.25,193.913,111.819,200.217,116.75C206.522,121.681,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,124.031,275.87,122.25C282.174,120.469,288.478,28.75,294.783,28.75C301.087,28.75,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,111.25,370.435,111.25C376.739,111.25,383.043,116.75,389.348,116.75C395.652,116.75,401.957,26,408.261,26C414.565,26,420.87,103,427.174,103C433.478,103,439.783,83.75,446.087,83.75C452.391,83.75,458.696,92.917,465,97.5" class="ct-line"/>
+                                        <path d="M30,125L30,94.75C36.304,91.083,42.609,90.036,48.913,83.75C55.217,77.464,61.522,17.75,67.826,17.75C74.13,17.75,80.435,72.75,86.739,72.75C93.043,72.75,99.348,50.75,105.652,50.75C111.957,50.75,118.261,75.06,124.565,86.5C130.87,97.94,137.174,116.357,143.478,119.5C149.783,122.643,156.087,125,162.391,125C168.696,125,175,42.5,181.304,42.5C187.609,42.5,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,28.75,294.783,28.75C301.087,28.75,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,111.25,370.435,111.25C376.739,111.25,383.043,116.75,389.348,116.75C395.652,116.75,401.957,26,408.261,26C414.565,26,420.87,103,427.174,103C433.478,103,439.783,83.75,446.087,83.75C452.391,83.75,458.696,92.917,465,97.5L465,125Z" class="ct-area"/>
+                                        <path d="M30,94.75C36.304,91.083,42.609,90.036,48.913,83.75C55.217,77.464,61.522,17.75,67.826,17.75C74.13,17.75,80.435,72.75,86.739,72.75C93.043,72.75,99.348,50.75,105.652,50.75C111.957,50.75,118.261,75.06,124.565,86.5C130.87,97.94,137.174,116.357,143.478,119.5C149.783,122.643,156.087,125,162.391,125C168.696,125,175,42.5,181.304,42.5C187.609,42.5,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,28.75,294.783,28.75C301.087,28.75,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,111.25,370.435,111.25C376.739,111.25,383.043,116.75,389.348,116.75C395.652,116.75,401.957,26,408.261,26C414.565,26,420.87,103,427.174,103C433.478,103,439.783,83.75,446.087,83.75C452.391,83.75,458.696,92.917,465,97.5" class="ct-line"/>
                                         <line x1="30" y1="94.75" x2="30.01" y2="94.75" class="ct-point" ct:value="11"/>
                                         <line x1="48.913043478260875" y1="83.75" x2="48.92304347826087" y2="83.75" class="ct-point" ct:value="15"/>
                                         <line x1="67.82608695652175" y1="17.75" x2="67.83608695652175" y2="17.75" class="ct-point" ct:value="39"/>
@@ -512,12 +512,12 @@
                                         <line x1="124.56521739130436" y1="86.5" x2="124.57521739130436" y2="86.5" class="ct-point" ct:value="14"/>
                                         <line x1="143.47826086956522" y1="119.5" x2="143.4882608695652" y2="119.5" class="ct-point" ct:value="2"/>
                                         <line x1="162.3913043478261" y1="125" x2="162.40130434782608" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="181.30434782608697" y1="45.25" x2="181.31434782608696" y2="45.25" class="ct-point" ct:value="29"/>
-                                        <line x1="200.21739130434784" y1="116.75" x2="200.22739130434783" y2="116.75" class="ct-point" ct:value="3"/>
+                                        <line x1="181.30434782608697" y1="42.5" x2="181.31434782608696" y2="42.5" class="ct-point" ct:value="30"/>
+                                        <line x1="200.21739130434784" y1="125" x2="200.22739130434783" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="219.13043478260872" y1="125" x2="219.1404347826087" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="238.0434782608696" y1="125" x2="238.05347826086958" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="256.95652173913044" y1="125" x2="256.9665217391304" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="275.8695652173913" y1="122.25" x2="275.8795652173913" y2="122.25" class="ct-point" ct:value="1"/>
+                                        <line x1="275.8695652173913" y1="125" x2="275.8795652173913" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="294.7826086956522" y1="28.75" x2="294.7926086956522" y2="28.75" class="ct-point" ct:value="35"/>
                                         <line x1="313.69565217391306" y1="125" x2="313.70565217391305" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="332.60869565217394" y1="125" x2="332.6186956521739" y2="125" class="ct-point" ct:value="0"/>
@@ -528,7 +528,7 @@
                                         <line x1="427.1739130434783" y1="103" x2="427.1839130434783" y2="103" class="ct-point" ct:value="8"/>
                                         <line x1="446.0869565217392" y1="83.75" x2="446.0969565217392" y2="83.75" class="ct-point" ct:value="15"/>
                                         <line x1="465.00000000000006" y1="97.5" x2="465.01000000000005" y2="97.5" class="ct-point" ct:value="10"/>
-                                    <text x="30" y="89.75" class="ct-post">11</text><text x="48.913043478260875" y="78.75" class="ct-post">15</text><text x="67.82608695652175" y="12.75" class="ct-post">39</text><text x="86.73913043478261" y="67.75" class="ct-post">19</text><text x="105.65217391304348" y="45.75" class="ct-post">27</text><text x="124.56521739130436" y="81.5" class="ct-post">14</text><text x="143.47826086956522" y="114.5" class="ct-post">2</text><text x="181.30434782608697" y="40.25" class="ct-post">29</text><text x="200.21739130434784" y="111.75" class="ct-post">3</text><text x="275.8695652173913" y="117.25" class="ct-post">1</text><text x="294.7826086956522" y="23.75" class="ct-post">35</text><text x="370.4347826086957" y="106.25" class="ct-post">5</text><text x="389.34782608695656" y="111.75" class="ct-post">3</text><text x="408.26086956521743" y="21" class="ct-post">36</text><text x="427.1739130434783" y="98" class="ct-post">8</text><text x="446.0869565217392" y="78.75" class="ct-post">15</text><text x="465.00000000000006" y="92.5" class="ct-post">10</text></g>
+                                    <text x="30" y="89.75" class="ct-post">11</text><text x="48.913043478260875" y="78.75" class="ct-post">15</text><text x="67.82608695652175" y="12.75" class="ct-post">39</text><text x="86.73913043478261" y="67.75" class="ct-post">19</text><text x="105.65217391304348" y="45.75" class="ct-post">27</text><text x="124.56521739130436" y="81.5" class="ct-post">14</text><text x="143.47826086956522" y="114.5" class="ct-post">2</text><text x="181.30434782608697" y="37.5" class="ct-post">30</text><text x="294.7826086956522" y="23.75" class="ct-post">35</text><text x="370.4347826086957" y="106.25" class="ct-post">5</text><text x="389.34782608695656" y="111.75" class="ct-post">3</text><text x="408.26086956521743" y="21" class="ct-post">36</text><text x="427.1739130434783" y="98" class="ct-post">8</text><text x="446.0869565217392" y="78.75" class="ct-post">15</text><text x="465.00000000000006" y="92.5" class="ct-post">10</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -578,16 +578,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,103C39.5,97.042,49,89.296,58.5,85.125C68,80.954,77.5,80.896,87,75.5C96.5,70.104,106,24.625,115.5,24.625C125,24.625,134.5,58.018,144,65.875C153.5,73.732,163,82.375,172.5,82.375C182,82.375,191.5,70.458,201,64.5L201,125Z" class="ct-area"/>
-                                            <path d="M30,103C39.5,97.042,49,89.296,58.5,85.125C68,80.954,77.5,80.896,87,75.5C96.5,70.104,106,24.625,115.5,24.625C125,24.625,134.5,58.018,144,65.875C153.5,73.732,163,82.375,172.5,82.375C182,82.375,191.5,70.458,201,64.5" class="ct-line"/>
+                                            <path d="M30,125L30,103C39.5,98.875,49,95.163,58.5,90.625C68,86.088,77.5,83.32,87,75.5C96.5,67.68,106,23.25,115.5,23.25C125,23.25,134.5,57.945,144,65.875C153.5,73.805,163,82.375,172.5,82.375C182,82.375,191.5,70.458,201,64.5L201,125Z" class="ct-area"/>
+                                            <path d="M30,103C39.5,98.875,49,95.163,58.5,90.625C68,86.088,77.5,83.32,87,75.5C96.5,67.68,106,23.25,115.5,23.25C125,23.25,134.5,57.945,144,65.875C153.5,73.805,163,82.375,172.5,82.375C182,82.375,191.5,70.458,201,64.5" class="ct-line"/>
                                             <line x1="30" y1="103" x2="30.01" y2="103" class="ct-point" ct:value="16"/>
-                                            <line x1="58.5" y1="85.125" x2="58.51" y2="85.125" class="ct-point" ct:value="29"/>
+                                            <line x1="58.5" y1="90.625" x2="58.51" y2="90.625" class="ct-point" ct:value="25"/>
                                             <line x1="87" y1="75.5" x2="87.01" y2="75.5" class="ct-point" ct:value="36"/>
-                                            <line x1="115.5" y1="24.625" x2="115.51" y2="24.625" class="ct-point" ct:value="73"/>
+                                            <line x1="115.5" y1="23.25" x2="115.51" y2="23.25" class="ct-point" ct:value="74"/>
                                             <line x1="144" y1="65.875" x2="144.01" y2="65.875" class="ct-point" ct:value="43"/>
                                             <line x1="172.5" y1="82.375" x2="172.51" y2="82.375" class="ct-point" ct:value="31"/>
                                             <line x1="201" y1="64.5" x2="201.01" y2="64.5" class="ct-point" ct:value="44"/>
-                                        <text x="30" y="98" class="ct-post">16</text><text x="58.5" y="80.125" class="ct-post">29</text><text x="87" y="70.5" class="ct-post">36</text><text x="115.5" y="19.625" class="ct-post">73</text><text x="144" y="60.875" class="ct-post">43</text><text x="172.5" y="77.375" class="ct-post">31</text><text x="201" y="59.5" class="ct-post">44</text></g>
+                                        <text x="30" y="98" class="ct-post">16</text><text x="58.5" y="85.625" class="ct-post">25</text><text x="87" y="70.5" class="ct-post">36</text><text x="115.5" y="18.25" class="ct-post">74</text><text x="144" y="60.875" class="ct-post">43</text><text x="172.5" y="77.375" class="ct-post">31</text><text x="201" y="59.5" class="ct-post">44</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -610,26 +610,18 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M98.076,5.659A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9385198769154259"/>
+                                        <path d="M106.91,5.008A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9872365896167455"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M98.516,5.602A75,75,0,0,0,97.817,5.695L108,80Z" class="ct-slice-pie" ct:value="0.0009013769309669598"/>
+                                        <path d="M107.396,5.002A75,75,0,0,0,106.648,5.012L108,80Z" class="ct-slice-pie" ct:value="0.0010210728306603524"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M99.334,5.502A75,75,0,0,0,98.256,5.636L108,80Z" class="ct-slice-pie" ct:value="0.0016784260093867529"/>
-                                    </g>
-                                    <g class="ct-series ct-series-d">
-                                        <path d="M101.774,5.259A75,75,0,0,0,99.074,5.533L108,80Z" class="ct-slice-pie" ct:value="0.004988655083455071"/>
-                                    </g>
-                                    <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,101.513,5.281L108,80Z" class="ct-slice-pie" ct:value="0.012681440959811021"/>
+                                        <path d="M108,5A75,75,0,0,0,107.135,5.005L108,80Z" class="ct-slice-pie" ct:value="0.0012675386863369893"/>
                                     </g>
                                     <g>
-                                        <text dx="110.48639969248084" dy="117.4174800937908" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="103.14794859258197" dy="42.81522358357156" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="103.46244922709684" dy="42.77553716998288" text-anchor="middle" class="ct-label">RenderScript</text>
-                                        <text dx="104.27667165741471" dy="42.6853001344872" text-anchor="middle" class="ct-label">Rust</text>
-                                        <text dx="106.44220458176235" dy="42.53237032537396" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="108.27247241363959" dy="117.49901010405216" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="107.57662505734115" dy="42.502390027390696" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="107.8490912811303" dy="42.500303647115096" text-anchor="middle" class="ct-label">RenderScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -2920,7 +2912,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">MediaJel/go-snowplow-concept</span>
+                            <span class="diff-handle">MediaJel/mj-snowplow-management</span>
                         </div>
                     </section>
                     <section>
@@ -2928,9 +2920,9 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">   +363</span> <span class="deleted">   -125</span></div>
+                            <div class="diff-stats"><span class="added"> +1.04k</span> <span class="deleted">   -253</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -2940,74 +2932,78 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(49.07142857142857,0)">
+                            <g class="tick" opacity="1" transform="translate(45.97478991596639,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">12 PM</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">February</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(77.78571428571428,0)">
+                            <g class="tick" opacity="1" transform="translate(69.62184873949579,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Mon 21</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">March</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(106.5,0)">
+                            <g class="tick" opacity="1" transform="translate(95.80252100840337,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">12 PM</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">April</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(135.21428571428572,0)">
+                            <g class="tick" opacity="1" transform="translate(121.13865546218489,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Tue 22</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">May</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(163.92857142857142,0)">
+                            <g class="tick" opacity="1" transform="translate(147.31932773109244,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">12 PM</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">June</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(192.64285714285714,0)">
+                            <g class="tick" opacity="1" transform="translate(172.65546218487395,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Wed 23</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">July</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(221.35714285714286,0)">
+                            <g class="tick" opacity="1" transform="translate(198.8361344537815,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">12 PM</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">August</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(250.07142857142856,0)">
+                            <g class="tick" opacity="1" transform="translate(225.0168067226891,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Thu 24</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">September</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(278.7857142857143,0)">
+                            <g class="tick" opacity="1" transform="translate(250.35294117647058,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">12 PM</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">October</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(307.5,0)">
+                            <g class="tick" opacity="1" transform="translate(276.5336134453782,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Fri 25</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">November</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(336.2142857142857,0)">
+                            <g class="tick" opacity="1" transform="translate(301.8697478991597,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">12 PM</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">December</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(364.92857142857144,0)">
+                            <g class="tick" opacity="1" transform="translate(328.05042016806726,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Sat 26</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">2022</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(393.64285714285717,0)">
+                            <g class="tick" opacity="1" transform="translate(354.2310924369748,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">12 PM</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">February</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(422.35714285714283,0)">
+                            <g class="tick" opacity="1" transform="translate(377.8781512605042,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Mar 27</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">March</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(404.05882352941177,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">April</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(429.39495798319325,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">May</text>
                             </g>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,28.3961218836565)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">300</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,65.93074792243766)">
+                            <g class="tick" opacity="1" transform="translate(0,42.09489051094891)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">200</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,103.46537396121883)">
+                            <g class="tick" opacity="1" transform="translate(0,91.54744525547446)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">100</text>
                             </g>
@@ -3015,21 +3011,17 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,178.53462603878114)">
+                            <g class="tick" opacity="1" transform="translate(0,190.45255474452557)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−100</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,216.06925207756234)">
+                            <g class="tick" opacity="1" transform="translate(0,239.90510948905109)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−200</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,253.6038781163435)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−300</text>
-                            </g>
                         </g>
-                        <path d="M39,140.5L441,140.5L441,139.7493074792244L39,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L441,140.5L441,141.2506925207756L39,186.66759002770084Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L163.14705882352942,140.5L192.70588235294116,140.5L198.61764705882354,140.5L204.52941176470588,140.5L210.44117647058823,140.5L216.35294117647058,140.5L222.26470588235293,140.5L228.1764705882353,140.5L234.08823529411762,140.5L240,140.5L352.32352941176475,140.5L364.1470588235294,140.5L387.79411764705884,140.5L393.70588235294116,140.5L441,140.5L441,108.85036496350365L393.70588235294116,122.6970802919708L387.79411764705884,124.18065693430657L364.1470588235294,128.6313868613139L352.32352941176475,117.75182481751827L240,5L234.08823529411762,89.06934306569343L228.1764705882353,135.06021897810217L222.26470588235293,106.87226277372264L216.35294117647058,115.27919708029196L210.44117647058823,90.05839416058393L204.52941176470588,138.52189781021897L198.61764705882354,95.49817518248173L192.70588235294116,94.014598540146L163.14705882352942,120.71897810218978L39,139.01642335766422Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L163.14705882352942,140.5L192.70588235294116,140.5L198.61764705882354,140.5L204.52941176470588,140.5L210.44117647058823,140.5L216.35294117647058,140.5L222.26470588235293,140.5L228.1764705882353,140.5L234.08823529411762,140.5L240,140.5L352.32352941176475,140.5L364.1470588235294,140.5L387.79411764705884,140.5L393.70588235294116,140.5L441,140.5L441,140.99452554744528L393.70588235294116,158.3029197080292L387.79411764705884,140.99452554744528L364.1470588235294,140.99452554744528L352.32352941176475,142.47810218978103L240,185.50182481751824L234.08823529411762,144.45620437956205L228.1764705882353,140.99452554744528L222.26470588235293,157.80839416058393L216.35294117647058,141.98357664233578L210.44117647058823,141.98357664233578L204.52941176470588,140.99452554744528L198.61764705882354,140.99452554744528L192.70588235294116,170.66605839416061L163.14705882352942,140.99452554744528L39,142.97262773722625Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
