@@ -146,15 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs)
-* 🌟 Starred [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
-* 🌟 Starred [refinedev/refine](https://github.com/refinedev/refine)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#55b4758](https://github.com/MediaJel/mediajel-gql-service/commit/55b4758) Rename client to service
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#b00ef81](https://github.com/MediaJel/mediajel-tracker/commit/b00ef81) Create Shopify Google Ads integration
-  * [#1ed7ffe](https://github.com/MediaJel/mediajel-tracker/commit/1ed7ffe) enforce type on product items
-  * [#9f5c784](https://github.com/MediaJel/mediajel-tracker/commit/9f5c784) Change event directory to environment-data-sources
+  * [#49fdfa1](https://github.com/MediaJel/mediajel-gql-service/commit/49fdfa1) Cleanup
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#40759cf](https://github.com/MediaJel/mediajel-gql-service/commit/40759cf) remove moment
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#640766f](https://github.com/MediaJel/mediajel-gql-service/commit/640766f) Use moment to set interval of reconnection to salesforce
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#32e8de4](https://github.com/MediaJel/mediajel-gql-service/commit/32e8de4) Successfully implement reauthentication
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#d25e544](https://github.com/MediaJel/mediajel-gql-service/commit/d25e544) Use setInterval to reauthenticate Salesforce stream
 
 
 ### Stalk me here ❤️
