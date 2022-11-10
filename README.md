@@ -146,16 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs)
+* 🌟 Starred [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
+* 🌟 Starred [refinedev/refine](https://github.com/refinedev/refine)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#f3e4a43](https://github.com/MediaJel/mediajel-gql-service/commit/f3e4a43) Improve createSalesforceAuth factory
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#92b3f57](https://github.com/MediaJel/mediajel-gql-service/commit/92b3f57) abstract auth from salesforce operations
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#0f216cc](https://github.com/MediaJel/mediajel-gql-service/commit/0f216cc) Add prisma &amp; comments on next steps
-* 🔃 Opened [#2958 [IN PROGRESS] Salesforce integration](https://github.com/MediaJel/mediajel-gql-service/pull/2958) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 6 files changed `++443 --24`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#7c8abb0](https://github.com/MediaJel/mediajel-gql-service/commit/7c8abb0) modify filtering
+  * [#55b4758](https://github.com/MediaJel/mediajel-gql-service/commit/55b4758) Rename client to service
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#b00ef81](https://github.com/MediaJel/mediajel-tracker/commit/b00ef81) Create Shopify Google Ads integration
+  * [#1ed7ffe](https://github.com/MediaJel/mediajel-tracker/commit/1ed7ffe) enforce type on product items
+  * [#9f5c784](https://github.com/MediaJel/mediajel-tracker/commit/9f5c784) Change event directory to environment-data-sources
 
 
 ### Stalk me here ❤️
