@@ -146,15 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#a7cc31a](https://github.com/MediaJel/mediajel-gql-service/commit/a7cc31a) Add comments
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#8dedacb](https://github.com/MediaJel/mediajel-gql-service/commit/8dedacb) destructure prisma from PrismaCTX
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#846c4aa](https://github.com/MediaJel/mediajel-gql-service/commit/846c4aa) improve logging
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#1de18d3](https://github.com/MediaJel/mediajel-gql-service/commit/1de18d3) Migrate Salesforce logic to shared folder
 * 🔍 Reviewed [#15 [FOR REVIEW] ICF Migrate Retargeting to Prisma 2](https://github.com/MediaJel/jobs-v2/pull/15) in [MediaJel/jobs-v2](https://github.com/MediaJel/jobs-v2)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#f45acb2](https://github.com/MediaJel/mediajel-gql-service/commit/f45acb2) Remove unrequired topics
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#bd232a9](https://github.com/MediaJel/mediajel-gql-service/commit/bd232a9) Move types to types file
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#e35f655](https://github.com/MediaJel/mediajel-gql-service/commit/e35f655) minor refactor
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#28f0533](https://github.com/MediaJel/mediajel-gql-service/commit/28f0533) Complete initial scaffold
 
 
 ### Stalk me here ❤️
