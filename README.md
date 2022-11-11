@@ -146,16 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#15 [FOR REVIEW] ICF Migrate Retargeting to Prisma 2](https://github.com/MediaJel/jobs-v2/pull/15) in [MediaJel/jobs-v2](https://github.com/MediaJel/jobs-v2)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#49fdfa1](https://github.com/MediaJel/mediajel-gql-service/commit/49fdfa1) Cleanup
+  * [#f45acb2](https://github.com/MediaJel/mediajel-gql-service/commit/f45acb2) Remove unrequired topics
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#40759cf](https://github.com/MediaJel/mediajel-gql-service/commit/40759cf) remove moment
+  * [#bd232a9](https://github.com/MediaJel/mediajel-gql-service/commit/bd232a9) Move types to types file
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#640766f](https://github.com/MediaJel/mediajel-gql-service/commit/640766f) Use moment to set interval of reconnection to salesforce
+  * [#e35f655](https://github.com/MediaJel/mediajel-gql-service/commit/e35f655) minor refactor
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#32e8de4](https://github.com/MediaJel/mediajel-gql-service/commit/32e8de4) Successfully implement reauthentication
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#d25e544](https://github.com/MediaJel/mediajel-gql-service/commit/d25e544) Use setInterval to reauthenticate Salesforce stream
+  * [#28f0533](https://github.com/MediaJel/mediajel-gql-service/commit/28f0533) Complete initial scaffold
 
 
 ### Stalk me here ❤️
