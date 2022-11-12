@@ -147,14 +147,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#a7cc31a](https://github.com/MediaJel/mediajel-gql-service/commit/a7cc31a) Add comments
+  * [#dd461d2](https://github.com/MediaJel/mediajel-gql-service/commit/dd461d2) Remove callback comment for auth
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#8dedacb](https://github.com/MediaJel/mediajel-gql-service/commit/8dedacb) destructure prisma from PrismaCTX
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#846c4aa](https://github.com/MediaJel/mediajel-gql-service/commit/846c4aa) improve logging
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#1de18d3](https://github.com/MediaJel/mediajel-gql-service/commit/1de18d3) Migrate Salesforce logic to shared folder
-* 🔍 Reviewed [#15 [FOR REVIEW] ICF Migrate Retargeting to Prisma 2](https://github.com/MediaJel/jobs-v2/pull/15) in [MediaJel/jobs-v2](https://github.com/MediaJel/jobs-v2)
+  * [#ac17e15](https://github.com/MediaJel/mediajel-gql-service/commit/ac17e15) more cleanup
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#3899d4f](https://github.com/MediaJel/mediajel-gql-service/commit/3899d4f) Fix imports
+  * [#c2f5527](https://github.com/MediaJel/mediajel-gql-service/commit/c2f5527) Cleanup
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-refactor-posconfig`
+  * [#c757210](https://github.com/MediaJel/mediajel-gql-service/commit/c757210) fix types
+* 💬 Commented on [#2967 [SCHEMA UPDATE] Change POSConfig case](https://github.com/MediaJel/mediajel-gql-service/pull/2967) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
