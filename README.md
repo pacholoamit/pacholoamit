@@ -146,16 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#2cd4951](https://github.com/MediaJel/mediajel-gql-service/commit/2cd4951) Merge branch &#39;develop&#39; into pa-salesforce-integration
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#dd461d2](https://github.com/MediaJel/mediajel-gql-service/commit/dd461d2) Remove callback comment for auth
+  * [#a78aa95](https://github.com/MediaJel/mediajel-gql-service/commit/a78aa95) doc fix
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#ac17e15](https://github.com/MediaJel/mediajel-gql-service/commit/ac17e15) more cleanup
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#3899d4f](https://github.com/MediaJel/mediajel-gql-service/commit/3899d4f) Fix imports
-  * [#c2f5527](https://github.com/MediaJel/mediajel-gql-service/commit/c2f5527) Cleanup
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-refactor-posconfig`
-  * [#c757210](https://github.com/MediaJel/mediajel-gql-service/commit/c757210) fix types
-* 💬 Commented on [#2967 [SCHEMA UPDATE] Change POSConfig case](https://github.com/MediaJel/mediajel-gql-service/pull/2967) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * [#bbdda24](https://github.com/MediaJel/mediajel-gql-service/commit/bbdda24) Add documentation to Salesforce service
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#73184df](https://github.com/MediaJel/mediajel-gql-service/commit/73184df) Cleanup and additional documentation
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
+  * [#b425c63](https://github.com/MediaJel/mediajel-gql-service/commit/b425c63) Implement Replay for data durability
 
 
 ### Stalk me here ❤️
