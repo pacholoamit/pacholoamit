@@ -146,16 +146,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#2cd4951](https://github.com/MediaJel/mediajel-gql-service/commit/2cd4951) Merge branch &#39;develop&#39; into pa-salesforce-integration
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#a78aa95](https://github.com/MediaJel/mediajel-gql-service/commit/a78aa95) doc fix
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#bbdda24](https://github.com/MediaJel/mediajel-gql-service/commit/bbdda24) Add documentation to Salesforce service
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#73184df](https://github.com/MediaJel/mediajel-gql-service/commit/73184df) Cleanup and additional documentation
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-salesforce-integration`
-  * [#b425c63](https://github.com/MediaJel/mediajel-gql-service/commit/b425c63) Implement Replay for data durability
+* ➡️ Pushed 8 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#0534d8b](https://github.com/MediaJel/salesforce-automation/commit/0534d8b) Add nodemon configs
+  * [#6f903f9](https://github.com/MediaJel/salesforce-automation/commit/6f903f9) Add Salesforce Service to index.ts
+  * [#c87e350](https://github.com/MediaJel/salesforce-automation/commit/c87e350) refactor salesforce service to implement absolute paths
+  * [#f3bf914](https://github.com/MediaJel/salesforce-automation/commit/f3bf914) modify tsconfig
+  * [#0c96579](https://github.com/MediaJel/salesforce-automation/commit/0c96579) Create Salesforce service
+  * [#bc4ab2a](https://github.com/MediaJel/salesforce-automation/commit/bc4ab2a) Add JSForce packages
+  * [#2f7d1f6](https://github.com/MediaJel/salesforce-automation/commit/2f7d1f6) Modify index.ts path
+  * [#2c75d4f](https://github.com/MediaJel/salesforce-automation/commit/2c75d4f) Proof of concept
+* ⏺️ Created new branch staging in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `bun`
+  * [#6f903f9](https://github.com/MediaJel/salesforce-automation/commit/6f903f9) Add Salesforce Service to index.ts
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `bun`
+  * [#c87e350](https://github.com/MediaJel/salesforce-automation/commit/c87e350) refactor salesforce service to implement absolute paths
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `bun`
+  * [#f3bf914](https://github.com/MediaJel/salesforce-automation/commit/f3bf914) modify tsconfig
 
 
 ### Stalk me here ❤️
