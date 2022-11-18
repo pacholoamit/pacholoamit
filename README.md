@@ -146,22 +146,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 8 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#0534d8b](https://github.com/MediaJel/salesforce-automation/commit/0534d8b) Add nodemon configs
-  * [#6f903f9](https://github.com/MediaJel/salesforce-automation/commit/6f903f9) Add Salesforce Service to index.ts
-  * [#c87e350](https://github.com/MediaJel/salesforce-automation/commit/c87e350) refactor salesforce service to implement absolute paths
-  * [#f3bf914](https://github.com/MediaJel/salesforce-automation/commit/f3bf914) modify tsconfig
-  * [#0c96579](https://github.com/MediaJel/salesforce-automation/commit/0c96579) Create Salesforce service
-  * [#bc4ab2a](https://github.com/MediaJel/salesforce-automation/commit/bc4ab2a) Add JSForce packages
-  * [#2f7d1f6](https://github.com/MediaJel/salesforce-automation/commit/2f7d1f6) Modify index.ts path
-  * [#2c75d4f](https://github.com/MediaJel/salesforce-automation/commit/2c75d4f) Proof of concept
-* ⏺️ Created new branch staging in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `bun`
-  * [#6f903f9](https://github.com/MediaJel/salesforce-automation/commit/6f903f9) Add Salesforce Service to index.ts
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `bun`
-  * [#c87e350](https://github.com/MediaJel/salesforce-automation/commit/c87e350) refactor salesforce service to implement absolute paths
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `bun`
-  * [#f3bf914](https://github.com/MediaJel/salesforce-automation/commit/f3bf914) modify tsconfig
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#a8a062e](https://github.com/MediaJel/salesforce-automation/commit/a8a062e) Implement Graphql codegen
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#a8a062e](https://github.com/MediaJel/salesforce-automation/commit/a8a062e) Implement Graphql codegen
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#a79fe20](https://github.com/MediaJel/salesforce-automation/commit/a79fe20) Successfully implement Graphql resolvers querying
+  * [#d86e9a1](https://github.com/MediaJel/salesforce-automation/commit/d86e9a1) Scaffold GraphQL client
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#a79fe20](https://github.com/MediaJel/salesforce-automation/commit/a79fe20) Successfully implement Graphql resolvers querying
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#d86e9a1](https://github.com/MediaJel/salesforce-automation/commit/d86e9a1) Scaffold GraphQL client
 
 
 ### Stalk me here ❤️
