@@ -146,17 +146,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#a8a062e](https://github.com/MediaJel/salesforce-automation/commit/a8a062e) Implement Graphql codegen
+* ➡️ Pushed 3 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#98f3db1](https://github.com/MediaJel/salesforce-automation/commit/98f3db1) Implement clearer logging
+  * [#7dea5c5](https://github.com/MediaJel/salesforce-automation/commit/7dea5c5) docfix&#34;
+  * [#36ced03](https://github.com/MediaJel/salesforce-automation/commit/36ced03) Add engines to package.json and .npmrc to enforce versions
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#a8a062e](https://github.com/MediaJel/salesforce-automation/commit/a8a062e) Implement Graphql codegen
-* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#a79fe20](https://github.com/MediaJel/salesforce-automation/commit/a79fe20) Successfully implement Graphql resolvers querying
-  * [#d86e9a1](https://github.com/MediaJel/salesforce-automation/commit/d86e9a1) Scaffold GraphQL client
+  * [#98f3db1](https://github.com/MediaJel/salesforce-automation/commit/98f3db1) Implement clearer logging
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#a79fe20](https://github.com/MediaJel/salesforce-automation/commit/a79fe20) Successfully implement Graphql resolvers querying
+  * [#7dea5c5](https://github.com/MediaJel/salesforce-automation/commit/7dea5c5) docfix&#34;
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#d86e9a1](https://github.com/MediaJel/salesforce-automation/commit/d86e9a1) Scaffold GraphQL client
+  * [#36ced03](https://github.com/MediaJel/salesforce-automation/commit/36ced03) Add engines to package.json and .npmrc to enforce versions
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#82c4a77](https://github.com/MediaJel/salesforce-automation/commit/82c4a77) Create docker-compose file &amp; modify tsconfig libCheck
+  * [#2becf89](https://github.com/MediaJel/salesforce-automation/commit/2becf89) Add DOM lim to compiler options
 
 
 ### Stalk me here ❤️
