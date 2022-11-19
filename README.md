@@ -146,19 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#98f3db1](https://github.com/MediaJel/salesforce-automation/commit/98f3db1) Implement clearer logging
-  * [#7dea5c5](https://github.com/MediaJel/salesforce-automation/commit/7dea5c5) docfix&#34;
-  * [#36ced03](https://github.com/MediaJel/salesforce-automation/commit/36ced03) Add engines to package.json and .npmrc to enforce versions
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#98f3db1](https://github.com/MediaJel/salesforce-automation/commit/98f3db1) Implement clearer logging
+  * [#ef5d129](https://github.com/MediaJel/salesforce-automation/commit/ef5d129) Add RecordTypeId type to opportunity
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#7dea5c5](https://github.com/MediaJel/salesforce-automation/commit/7dea5c5) docfix&#34;
+  * [#e4f8d6d](https://github.com/MediaJel/salesforce-automation/commit/e4f8d6d) Segregate subscription Handler
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#36ced03](https://github.com/MediaJel/salesforce-automation/commit/36ced03) Add engines to package.json and .npmrc to enforce versions
-* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#82c4a77](https://github.com/MediaJel/salesforce-automation/commit/82c4a77) Create docker-compose file &amp; modify tsconfig libCheck
-  * [#2becf89](https://github.com/MediaJel/salesforce-automation/commit/2becf89) Add DOM lim to compiler options
+  * [#af2f64b](https://github.com/MediaJel/salesforce-automation/commit/af2f64b) Change match to where
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#ec464df](https://github.com/MediaJel/salesforce-automation/commit/ec464df) Add Parent Account field in account query
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#ec464df](https://github.com/MediaJel/salesforce-automation/commit/ec464df) Add Parent Account field in account query
 
 
 ### Stalk me here ❤️
