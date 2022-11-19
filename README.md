@@ -146,20 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#b96ef29](https://github.com/MediaJel/salesforce-automation/commit/b96ef29) Successfully implement User creation on microservice
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#b96ef29](https://github.com/MediaJel/salesforce-automation/commit/b96ef29) Successfully implement User creation on microservice
-* ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#2229f6f](https://github.com/MediaJel/salesforce-automation/commit/2229f6f) modify org id field
-  * [#06b1381](https://github.com/MediaJel/salesforce-automation/commit/06b1381) Add createdOrg validation
-  * [#9f286ce](https://github.com/MediaJel/salesforce-automation/commit/9f286ce) Generate types for GET_ORG_BY_NAME
-  * [#d07d011](https://github.com/MediaJel/salesforce-automation/commit/d07d011) Temporarily implement GET_ORG_BY_NAME to validate Salesforce org
-  * [#d1f2c68](https://github.com/MediaJel/salesforce-automation/commit/d1f2c68) Implement createUser to main run function
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#2229f6f](https://github.com/MediaJel/salesforce-automation/commit/2229f6f) modify org id field
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#06b1381](https://github.com/MediaJel/salesforce-automation/commit/06b1381) Add createdOrg validation
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
+  * [#4185256](https://github.com/MediaJel/mediajel-gql-service/commit/4185256) cleanup
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
+  * [#3d9179c](https://github.com/MediaJel/mediajel-gql-service/commit/3d9179c) Implement remove func
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
+  * [#86baa72](https://github.com/MediaJel/mediajel-gql-service/commit/86baa72) Implement createMongoDBCache
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
+  * [#bf8e867](https://github.com/MediaJel/mediajel-gql-service/commit/bf8e867) Implement createMongoDBCache
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
+  * [#2dd7d1f](https://github.com/MediaJel/mediajel-gql-service/commit/2dd7d1f) get function
 
 
 ### Stalk me here ❤️
