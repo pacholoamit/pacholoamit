@@ -146,16 +146,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#ef5d129](https://github.com/MediaJel/salesforce-automation/commit/ef5d129) Add RecordTypeId type to opportunity
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#e4f8d6d](https://github.com/MediaJel/salesforce-automation/commit/e4f8d6d) Segregate subscription Handler
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#af2f64b](https://github.com/MediaJel/salesforce-automation/commit/af2f64b) Change match to where
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#ec464df](https://github.com/MediaJel/salesforce-automation/commit/ec464df) Add Parent Account field in account query
+  * [#b96ef29](https://github.com/MediaJel/salesforce-automation/commit/b96ef29) Successfully implement User creation on microservice
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#ec464df](https://github.com/MediaJel/salesforce-automation/commit/ec464df) Add Parent Account field in account query
+  * [#b96ef29](https://github.com/MediaJel/salesforce-automation/commit/b96ef29) Successfully implement User creation on microservice
+* ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#2229f6f](https://github.com/MediaJel/salesforce-automation/commit/2229f6f) modify org id field
+  * [#06b1381](https://github.com/MediaJel/salesforce-automation/commit/06b1381) Add createdOrg validation
+  * [#9f286ce](https://github.com/MediaJel/salesforce-automation/commit/9f286ce) Generate types for GET_ORG_BY_NAME
+  * [#d07d011](https://github.com/MediaJel/salesforce-automation/commit/d07d011) Temporarily implement GET_ORG_BY_NAME to validate Salesforce org
+  * [#d1f2c68](https://github.com/MediaJel/salesforce-automation/commit/d1f2c68) Implement createUser to main run function
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#2229f6f](https://github.com/MediaJel/salesforce-automation/commit/2229f6f) modify org id field
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#06b1381](https://github.com/MediaJel/salesforce-automation/commit/06b1381) Add createdOrg validation
 
 
 ### Stalk me here ❤️
