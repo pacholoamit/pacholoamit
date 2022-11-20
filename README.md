@@ -147,15 +147,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#4185256](https://github.com/MediaJel/mediajel-gql-service/commit/4185256) cleanup
+  * [#0dd52c3](https://github.com/MediaJel/mediajel-gql-service/commit/0dd52c3) docfix
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#3d9179c](https://github.com/MediaJel/mediajel-gql-service/commit/3d9179c) Implement remove func
+  * [#d29704e](https://github.com/MediaJel/mediajel-gql-service/commit/d29704e) use Promise.all
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#86baa72](https://github.com/MediaJel/mediajel-gql-service/commit/86baa72) Implement createMongoDBCache
+  * [#c05b524](https://github.com/MediaJel/mediajel-gql-service/commit/c05b524) Add more informative types for DB Cache
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#bf8e867](https://github.com/MediaJel/mediajel-gql-service/commit/bf8e867) Implement createMongoDBCache
+  * [#1592d15](https://github.com/MediaJel/mediajel-gql-service/commit/1592d15) Add multiple cache example
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#2dd7d1f](https://github.com/MediaJel/mediajel-gql-service/commit/2dd7d1f) get function
+  * [#d1bfad8](https://github.com/MediaJel/mediajel-gql-service/commit/d1bfad8) Add types to cache
 
 
 ### Stalk me here ❤️
