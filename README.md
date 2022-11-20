@@ -147,15 +147,16 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#0dd52c3](https://github.com/MediaJel/mediajel-gql-service/commit/0dd52c3) docfix
+  * [#c819e6e](https://github.com/MediaJel/mediajel-gql-service/commit/c819e6e) consolidate doc
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#d29704e](https://github.com/MediaJel/mediajel-gql-service/commit/d29704e) use Promise.all
+  * [#b8db75c](https://github.com/MediaJel/mediajel-gql-service/commit/b8db75c) use TR_ORDERID from transacitons example
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#c05b524](https://github.com/MediaJel/mediajel-gql-service/commit/c05b524) Add more informative types for DB Cache
+  * [#1d46a34](https://github.com/MediaJel/mediajel-gql-service/commit/1d46a34) Add Doc to Cache
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
+  * [#5431ff9](https://github.com/MediaJel/mediajel-gql-service/commit/5431ff9) Add additional comments
+  * [#f76d300](https://github.com/MediaJel/mediajel-gql-service/commit/f76d300) Name DBCache to Cache
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#1592d15](https://github.com/MediaJel/mediajel-gql-service/commit/1592d15) Add multiple cache example
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#d1bfad8](https://github.com/MediaJel/mediajel-gql-service/commit/d1bfad8) Add types to cache
+  * [#99bde6c](https://github.com/MediaJel/mediajel-gql-service/commit/99bde6c) remove close function from DB cache
 
 
 ### Stalk me here ❤️
