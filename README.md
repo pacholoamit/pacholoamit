@@ -146,21 +146,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#3d6479d](https://github.com/MediaJel/salesforce-automation/commit/3d6479d) Add Error handlers for Graphql service
-  * [#6b06db9](https://github.com/MediaJel/salesforce-automation/commit/6b06db9) Add error logging for salesforce auth
-  * [#416ebad](https://github.com/MediaJel/salesforce-automation/commit/416ebad) Implement error handling on Salesforce query service
-  * [#fa4d2e1](https://github.com/MediaJel/salesforce-automation/commit/fa4d2e1) modify todos
-  * [#0573659](https://github.com/MediaJel/salesforce-automation/commit/0573659) change func name to logError
-* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#3d6479d](https://github.com/MediaJel/salesforce-automation/commit/3d6479d) Add Error handlers for Graphql service
-  * [#6b06db9](https://github.com/MediaJel/salesforce-automation/commit/6b06db9) Add error logging for salesforce auth
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#0dc0126](https://github.com/MediaJel/salesforce-automation/commit/0dc0126) improve logging
+  * [#aebbfdc](https://github.com/MediaJel/salesforce-automation/commit/aebbfdc) add info logs to salesforce queries
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#416ebad](https://github.com/MediaJel/salesforce-automation/commit/416ebad) Implement error handling on Salesforce query service
+  * [#0dc0126](https://github.com/MediaJel/salesforce-automation/commit/0dc0126) improve logging
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#fa4d2e1](https://github.com/MediaJel/salesforce-automation/commit/fa4d2e1) modify todos
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#0573659](https://github.com/MediaJel/salesforce-automation/commit/0573659) change func name to logError
+  * [#aebbfdc](https://github.com/MediaJel/salesforce-automation/commit/aebbfdc) add info logs to salesforce queries
+* ➡️ Pushed 6 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#616503a](https://github.com/MediaJel/salesforce-automation/commit/616503a) downgrade chalk to 4.1.2 to fix ESM module issues
+  * [#cc5271e](https://github.com/MediaJel/salesforce-automation/commit/cc5271e) Implement logging on salesforce service
+  * [#586c7ee](https://github.com/MediaJel/salesforce-automation/commit/586c7ee) Implement success logging for GraphQL service
+  * [#36e8aa3](https://github.com/MediaJel/salesforce-automation/commit/36e8aa3) Create logger
+  * [#d5c8c0a](https://github.com/MediaJel/salesforce-automation/commit/d5c8c0a) Create config for graphql service
+  * [#6f0d61f](https://github.com/MediaJel/salesforce-automation/commit/6f0d61f) Create config for Salesforce
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#616503a](https://github.com/MediaJel/salesforce-automation/commit/616503a) downgrade chalk to 4.1.2 to fix ESM module issues
 
 
 ### Stalk me here ❤️
