@@ -146,17 +146,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#3022 HOTFIX: Use Kubernetes liveness probe to permenantly fix jobqueue heap out of memory](https://github.com/MediaJel/mediajel-gql-service/pull/3022) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#15e2a87](https://github.com/MediaJel/mediajel-gql-service/commit/15e2a87) remove unrequired func
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#9b15464](https://github.com/MediaJel/mediajel-gql-service/commit/9b15464) rename vars
-  * [#1bb1db4](https://github.com/MediaJel/mediajel-gql-service/commit/1bb1db4) re-enable clear
-  * [#6930a1f](https://github.com/MediaJel/mediajel-gql-service/commit/6930a1f) working version
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#c819e6e](https://github.com/MediaJel/mediajel-gql-service/commit/c819e6e) consolidate doc
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-snowflake-stream`
-  * [#b8db75c](https://github.com/MediaJel/mediajel-gql-service/commit/b8db75c) use TR_ORDERID from transacitons example
+* ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#3d6479d](https://github.com/MediaJel/salesforce-automation/commit/3d6479d) Add Error handlers for Graphql service
+  * [#6b06db9](https://github.com/MediaJel/salesforce-automation/commit/6b06db9) Add error logging for salesforce auth
+  * [#416ebad](https://github.com/MediaJel/salesforce-automation/commit/416ebad) Implement error handling on Salesforce query service
+  * [#fa4d2e1](https://github.com/MediaJel/salesforce-automation/commit/fa4d2e1) modify todos
+  * [#0573659](https://github.com/MediaJel/salesforce-automation/commit/0573659) change func name to logError
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#3d6479d](https://github.com/MediaJel/salesforce-automation/commit/3d6479d) Add Error handlers for Graphql service
+  * [#6b06db9](https://github.com/MediaJel/salesforce-automation/commit/6b06db9) Add error logging for salesforce auth
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#416ebad](https://github.com/MediaJel/salesforce-automation/commit/416ebad) Implement error handling on Salesforce query service
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#fa4d2e1](https://github.com/MediaJel/salesforce-automation/commit/fa4d2e1) modify todos
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#0573659](https://github.com/MediaJel/salesforce-automation/commit/0573659) change func name to logError
 
 
 ### Stalk me here ❤️
