@@ -146,17 +146,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#7dc1dad](https://github.com/MediaJel/salesforce-automation/commit/7dc1dad) Add additional logging
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#f9d8ac5](https://github.com/MediaJel/salesforce-automation/commit/f9d8ac5) Add better error handling
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#d2b1090](https://github.com/MediaJel/salesforce-automation/commit/d2b1090) remove evaluation of limit number
+  * [#ba53b96](https://github.com/MediaJel/salesforce-automation/commit/ba53b96) Define types for limiter
 * ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#9e323fb](https://github.com/MediaJel/salesforce-automation/commit/9e323fb) Establish default for roles
-  * [#0820dd0](https://github.com/MediaJel/salesforce-automation/commit/0820dd0) Remove successlog and improve log level
+  * [#d2b1090](https://github.com/MediaJel/salesforce-automation/commit/d2b1090) remove evaluation of limit number
+  * [#ba53b96](https://github.com/MediaJel/salesforce-automation/commit/ba53b96) Define types for limiter
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#9e323fb](https://github.com/MediaJel/salesforce-automation/commit/9e323fb) Establish default for roles
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#0820dd0](https://github.com/MediaJel/salesforce-automation/commit/0820dd0) Remove successlog and improve log level
+  * [#8f473a6](https://github.com/MediaJel/salesforce-automation/commit/8f473a6) Remove unrequired code
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#8f473a6](https://github.com/MediaJel/salesforce-automation/commit/8f473a6) Remove unrequired code
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#ebee25b](https://github.com/MediaJel/salesforce-automation/commit/ebee25b) Create limiter
+  * [#a69a8d6](https://github.com/MediaJel/salesforce-automation/commit/a69a8d6) GraphQL Codegen
 
 
 ### Stalk me here ❤️
