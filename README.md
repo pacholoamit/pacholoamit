@@ -146,17 +146,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#fc3725a](https://github.com/MediaJel/salesforce-automation/commit/fc3725a) Evaluate deal signatory first
+* 🌟 Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#fc3725a](https://github.com/MediaJel/salesforce-automation/commit/fc3725a) Evaluate deal signatory first
-* ➡️ Pushed 3 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#cf1b018](https://github.com/MediaJel/salesforce-automation/commit/cf1b018) implemented server key
-  * [#6a3694f](https://github.com/MediaJel/salesforce-automation/commit/6a3694f) Remove graphql codegen in dockerfile
-  * [#fa1f870](https://github.com/MediaJel/salesforce-automation/commit/fa1f870) suppress fetch experimental warning
+  * [#d18d1b5](https://github.com/MediaJel/salesforce-automation/commit/d18d1b5) Add overview to Readme
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#cf1b018](https://github.com/MediaJel/salesforce-automation/commit/cf1b018) implemented server key
+  * [#cbdb1c6](https://github.com/MediaJel/salesforce-automation/commit/cbdb1c6) Add basic readme
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#892d73f](https://github.com/MediaJel/salesforce-automation/commit/892d73f) Change context of docker-compose
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#86c4e45](https://github.com/MediaJel/salesforce-automation/commit/86c4e45) Merge pull request #1 from MediaJel/jjy-salesforce
+
+[FOR REVIEW] DO NOT MERGE Sales force Deployment to Staging
+  * [#e62b70d](https://github.com/MediaJel/salesforce-automation/commit/e62b70d) Sales force Deployment to Staging
 
 
 ### Stalk me here ❤️
