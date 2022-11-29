@@ -146,6 +146,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#62ed646](https://github.com/MediaJel/salesforce-automation/commit/62ed646) modify query for OpportunitiesUpdate pushtopic
 * 🌟 Starred [kerolloz/go-installer](https://github.com/kerolloz/go-installer)
 * 🔍 Reviewed [#3534 BUG - Cannot Preview Org Canna Provisions on dojo.](https://github.com/MediaJel/mediajel-dashboard/pull/3534) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🔍 Reviewed [#13 Replace Node_env value](https://github.com/MediaJel/salesforce-automation/pull/13) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
@@ -153,8 +155,6 @@
   * [#c0c5a05](https://github.com/MediaJel/salesforce-automation/commit/c0c5a05) Add config for subscriptions
   * [#4335d37](https://github.com/MediaJel/salesforce-automation/commit/4335d37) Add isStaging func
   * [#3131aea](https://github.com/MediaJel/salesforce-automation/commit/3131aea) Add OpportunitiesUpdateTest push topic
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `create-staging-pushtopics`
-  * [#c0c5a05](https://github.com/MediaJel/salesforce-automation/commit/c0c5a05) Add config for subscriptions
 
 
 ### Stalk me here ❤️
