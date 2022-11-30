@@ -146,13 +146,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#1 Add VRNBLTY chrome extension in Readme](https://github.com/PlasmoHQ/awesome-plasmo/pull/1) in [PlasmoHQ/awesome-plasmo](https://github.com/PlasmoHQ/awesome-plasmo)
-  * 1 file changed `++3 --2`
-* ➡️ Pushed 1 commit in [pacholoamit/awesome-plasmo](https://github.com/pacholoamit/awesome-plasmo) on branch `add-vrnblty-extension`
-  * [#3deaf59](https://github.com/pacholoamit/awesome-plasmo/commit/3deaf59) docfix
-* ⏺️ Created new branch add-vrnblty-extension in [pacholoamit/awesome-plasmo](https://github.com/pacholoamit/awesome-plasmo)
-* 🍽️ Forked [PlasmoHQ/awesome-plasmo](https://github.com/PlasmoHQ/awesome-plasmo) to [pacholoamit/awesome-plasmo](https://github.com/pacholoamit/awesome-plasmo)
-* 🌟 Starred [PlasmoHQ/awesome-plasmo](https://github.com/PlasmoHQ/awesome-plasmo)
+* 🔃 Opened [#3549 [FOR REVIEW] Remove Impression component in tag generator](https://github.com/MediaJel/mediajel-dashboard/pull/3549) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 1 file changed `++3 --33`
+* ⏺️ Created new branch remove-impressions-tag in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3044 [SCHEMA UPDATE] Added ReportType to DistributionConfig prisma model](https://github.com/MediaJel/mediajel-gql-service/pull/3044) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3548 [FOR REVIEW] Jbjm phase1 improve self service taggenerator UI](https://github.com/MediaJel/mediajel-dashboard/pull/3548) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3548 [FOR REVIEW] Jbjm phase1 improve self service taggenerator UI](https://github.com/MediaJel/mediajel-dashboard/pull/3548) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
