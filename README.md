@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#3549 [FOR REVIEW] Remove Impression component in tag generator](https://github.com/MediaJel/mediajel-dashboard/pull/3549) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 1 file changed `++3 --33`
-* ⏺️ Created new branch remove-impressions-tag in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#3044 [SCHEMA UPDATE] Added ReportType to DistributionConfig prisma model](https://github.com/MediaJel/mediajel-gql-service/pull/3044) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3548 [FOR REVIEW] Jbjm phase1 improve self service taggenerator UI](https://github.com/MediaJel/mediajel-dashboard/pull/3548) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3548 [FOR REVIEW] Jbjm phase1 improve self service taggenerator UI](https://github.com/MediaJel/mediajel-dashboard/pull/3548) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🌟 Starred [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ)
+* 🌟 Starred [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `jbjm-phase1-improve-self-service-taggenerator-ui`
+  * [#f0c19a7](https://github.com/MediaJel/mediajel-dashboard/commit/f0c19a7) Create useUniversalTag hook for rendering universal tag
 * 🔍 Reviewed [#3548 [FOR REVIEW] Jbjm phase1 improve self service taggenerator UI](https://github.com/MediaJel/mediajel-dashboard/pull/3548) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
