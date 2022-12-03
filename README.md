@@ -146,12 +146,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop)
-* 🔍 Reviewed [#3548 [FOR REVIEW] Jbjm phase1 improve self service taggenerator UI](https://github.com/MediaJel/mediajel-dashboard/pull/3548) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ)
-* 🌟 Starred [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `jbjm-phase1-improve-self-service-taggenerator-ui`
-  * [#f0c19a7](https://github.com/MediaJel/mediajel-dashboard/commit/f0c19a7) Create useUniversalTag hook for rendering universal tag
+* ➡️ Pushed 2 commits in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook) on branch `staging`
+  * [#a72151a](https://github.com/MediaJel/jupyter-notebook/commit/a72151a) Merge pull request #83 from MediaJel/add-javascript-kernel
+
+Install snowflake-sdk
+  * [#51563ac](https://github.com/MediaJel/jupyter-notebook/commit/51563ac) Install snowflake-sdk
+* 🔃 Merged [#83 Install snowflake-sdk](https://github.com/MediaJel/jupyter-notebook/pull/83) in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook)
+  * 1 file changed `++3 --3`
+* 🔃 Opened [#83 Install snowflake-sdk](https://github.com/MediaJel/jupyter-notebook/pull/83) in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook)
+  * 1 file changed `++3 --3`
+* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook) on branch `add-javascript-kernel`
+  * [#51563ac](https://github.com/MediaJel/jupyter-notebook/commit/51563ac) Install snowflake-sdk
+* ➡️ Pushed 3 commits in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook) on branch `staging`
+  * [#3d9190a](https://github.com/MediaJel/jupyter-notebook/commit/3d9190a) Merge pull request #82 from MediaJel/add-javascript-kernel
+
+Add javascript kernel
+  * [#60f2c00](https://github.com/MediaJel/jupyter-notebook/commit/60f2c00) add fix-permissions
+  * [#536fd2b](https://github.com/MediaJel/jupyter-notebook/commit/536fd2b) revert to spec-path full
 
 
 ### Stalk me here ❤️
