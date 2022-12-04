@@ -146,17 +146,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch modify-navbar-layout in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#316ce6a](https://github.com/pacholoamit/pachtop/commit/316ce6a) Create Processes table component
+* ⏺️ Created new branch cleanup in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 * 🌟 Starred [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)
 * 🌟 Starred [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
-* ➡️ Pushed 2 commits in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook) on branch `staging`
-  * [#a72151a](https://github.com/MediaJel/jupyter-notebook/commit/a72151a) Merge pull request #83 from MediaJel/add-javascript-kernel
-
-Install snowflake-sdk
-  * [#51563ac](https://github.com/MediaJel/jupyter-notebook/commit/51563ac) Install snowflake-sdk
-* 🔃 Merged [#83 Install snowflake-sdk](https://github.com/MediaJel/jupyter-notebook/pull/83) in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook)
-  * 1 file changed `++3 --3`
-* 🔃 Opened [#83 Install snowflake-sdk](https://github.com/MediaJel/jupyter-notebook/pull/83) in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook)
-  * 1 file changed `++3 --3`
 
 
 ### Stalk me here ❤️
