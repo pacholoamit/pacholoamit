@@ -146,12 +146,24 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch modify-navbar-layout in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#316ce6a](https://github.com/pacholoamit/pachtop/commit/316ce6a) Create Processes table component
-* ⏺️ Created new branch cleanup in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* 🌟 Starred [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)
-* 🌟 Starred [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `rust-kill-process`
+  * [#037a722](https://github.com/pacholoamit/pachtop/commit/037a722) Move useKillProcess hook
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `rust-kill-process`
+  * [#1203de4](https://github.com/pacholoamit/pachtop/commit/1203de4) Add Redux
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `rust-kill-process`
+  * [#b120225](https://github.com/pacholoamit/pachtop/commit/b120225) Separate Processes
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `rust-kill-process`
+  * [#4bd65ac](https://github.com/pacholoamit/pachtop/commit/4bd65ac) remove debounced query
+* ➡️ Pushed 9 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#c0b8f79](https://github.com/pacholoamit/pachtop/commit/c0b8f79) create kill process verification component
+  * [#f7e115d](https://github.com/pacholoamit/pachtop/commit/f7e115d) Successfully implement Modal validation
+  * [#26e1516](https://github.com/pacholoamit/pachtop/commit/26e1516) Create notification util
+  * [#2452996](https://github.com/pacholoamit/pachtop/commit/2452996) Bugfix
+  * [#c31189b](https://github.com/pacholoamit/pachtop/commit/c31189b) Implement notification provider
+  * [#c81cbcf](https://github.com/pacholoamit/pachtop/commit/c81cbcf) Renamed tauricommand to command
+  * [#05e08a5](https://github.com/pacholoamit/pachtop/commit/05e08a5) Implement Kill process functionality
+  * [#7cb67c6](https://github.com/pacholoamit/pachtop/commit/7cb67c6) Create kill_process method for metrics
+  * [#f614cec](https://github.com/pacholoamit/pachtop/commit/f614cec) Create actions.rs
 
 
 ### Stalk me here ❤️
