@@ -146,18 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch implement-relations in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* ➡️ Pushed 2 commits in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook) on branch `staging`
-  * [#c251598](https://github.com/MediaJel/jupyter-notebook/commit/c251598) Merge pull request #84 from MediaJel/add-javascript-kernel
-
-add json2csv
-  * [#2bbac59](https://github.com/MediaJel/jupyter-notebook/commit/2bbac59) add json2csv
-* 🔃 Merged [#84 add json2csv](https://github.com/MediaJel/jupyter-notebook/pull/84) in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook)
-  * 1 file changed `++1 --0`
-* 🔃 Opened [#84 add json2csv](https://github.com/MediaJel/jupyter-notebook/pull/84) in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook)
-  * 1 file changed `++1 --0`
-* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook) on branch `add-javascript-kernel`
-  * [#2bbac59](https://github.com/MediaJel/jupyter-notebook/commit/2bbac59) add json2csv
+* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#c5245ab](https://github.com/pacholoamit/pachtop/commit/c5245ab) Merge branch &#39;staging&#39;
+* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#c5245ab](https://github.com/pacholoamit/pachtop/commit/c5245ab) Merge branch &#39;staging&#39;
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#943d06f](https://github.com/pacholoamit/pachtop/commit/943d06f) Remove unrequired code
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#7418cff](https://github.com/pacholoamit/pachtop/commit/7418cff) Modify kill_process fn
+* ⏺️ Created new branch update-rust in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 
 ### Stalk me here ❤️
