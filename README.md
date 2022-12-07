@@ -146,15 +146,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#c5245ab](https://github.com/pacholoamit/pachtop/commit/c5245ab) Merge branch &#39;staging&#39;
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#c5245ab](https://github.com/pacholoamit/pachtop/commit/c5245ab) Merge branch &#39;staging&#39;
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#943d06f](https://github.com/pacholoamit/pachtop/commit/943d06f) Remove unrequired code
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#7418cff](https://github.com/pacholoamit/pachtop/commit/7418cff) Modify kill_process fn
-* ⏺️ Created new branch update-rust in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `implement-relations`
+  * [#68d6fb7](https://github.com/MediaJel/salesforce-automation/commit/68d6fb7) Create ensureParentExists function
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `implement-relations`
+  * [#741a33f](https://github.com/MediaJel/salesforce-automation/commit/741a33f) Add salesforce relationship feature
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#27dee85](https://github.com/pacholoamit/pachtop/commit/27dee85) Merge pull request #7 from pacholoamit/staging
+
+Update release.yml
+  * [#cd3f3b4](https://github.com/pacholoamit/pachtop/commit/cd3f3b4) Update release.yml
+* 🔃 Merged [#7 Update release.yml](https://github.com/pacholoamit/pachtop/pull/7) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 1 file changed `++1 --0`
+* 🔃 Opened [#7 Update release.yml](https://github.com/pacholoamit/pachtop/pull/7) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 1 file changed `++1 --0`
 
 
 ### Stalk me here ❤️
