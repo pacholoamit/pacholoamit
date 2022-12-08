@@ -146,6 +146,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
   * [#a1f19e2](https://github.com/MediaJel/salesforce-automation/commit/a1f19e2) Improve log
 * ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
@@ -160,8 +161,6 @@
 modify docs
   * [#8fcc9db](https://github.com/MediaJel/mediajel-tracker/commit/8fcc9db) modify docs
 * 🔃 Merged [#154 modify docs](https://github.com/MediaJel/mediajel-tracker/pull/154) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++6 --1`
-* 🔃 Opened [#154 modify docs](https://github.com/MediaJel/mediajel-tracker/pull/154) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 1 file changed `++6 --1`
 
 
