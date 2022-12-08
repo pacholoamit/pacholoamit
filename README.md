@@ -146,18 +146,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#894a284](https://github.com/MediaJel/salesforce-automation/commit/894a284) Minor changes
-  * [#7b02c4f](https://github.com/MediaJel/salesforce-automation/commit/7b02c4f) Remove unrequired logging
-  * [#68d6fb7](https://github.com/MediaJel/salesforce-automation/commit/68d6fb7) Create ensureParentExists function
-  * [#741a33f](https://github.com/MediaJel/salesforce-automation/commit/741a33f) Add salesforce relationship feature
-  * [#ab60756](https://github.com/MediaJel/salesforce-automation/commit/ab60756) Improve logging
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `implement-relations`
-  * [#894a284](https://github.com/MediaJel/salesforce-automation/commit/894a284) Minor changes
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `implement-relations`
-  * [#7b02c4f](https://github.com/MediaJel/salesforce-automation/commit/7b02c4f) Remove unrequired logging
-* 🌟 Starred [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust)
-* 🌟 Starred [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#a1f19e2](https://github.com/MediaJel/salesforce-automation/commit/a1f19e2) Improve log
+* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#8fcc9db](https://github.com/MediaJel/mediajel-tracker/commit/8fcc9db) modify docs
+  * [#bf77fd6](https://github.com/MediaJel/mediajel-tracker/commit/bf77fd6) docfix
+  * [#37c10f5](https://github.com/MediaJel/mediajel-tracker/commit/37c10f5) Set up cross domain tracking feature
+  * [#6100b8f](https://github.com/MediaJel/mediajel-tracker/commit/6100b8f) Add dutchie-subdomain to google ads environments
+  * [#0a99d49](https://github.com/MediaJel/mediajel-tracker/commit/0a99d49) Add Dutchie subdomain Google tag for takoma wellness
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#b884228](https://github.com/MediaJel/mediajel-tracker/commit/b884228) Merge pull request #154 from MediaJel/staging
+
+modify docs
+  * [#8fcc9db](https://github.com/MediaJel/mediajel-tracker/commit/8fcc9db) modify docs
+* 🔃 Merged [#154 modify docs](https://github.com/MediaJel/mediajel-tracker/pull/154) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++6 --1`
+* 🔃 Opened [#154 modify docs](https://github.com/MediaJel/mediajel-tracker/pull/154) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++6 --1`
 
 
 ### Stalk me here ❤️
