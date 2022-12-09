@@ -146,13 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#24e1f64](https://github.com/MediaJel/salesforce-automation/commit/24e1f64) minor refactor on child org creation defaults
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#a145a5c](https://github.com/MediaJel/salesforce-automation/commit/a145a5c) remove unrequired imports
-* 🌟 Starred [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
-* 🔍 Reviewed [#3100 [HOTFIX] [FOR REVIEW] ICF Google Process](https://github.com/MediaJel/mediajel-gql-service/pull/3100) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#155 Auto generate documentation with Better Docs](https://github.com/MediaJel/mediajel-tracker/issues/155) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#3108 Add Campaign Status (Live/In Attribution) to transaction observer message](https://github.com/MediaJel/mediajel-gql-service/issues/3108) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Opened [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Opened [#3591 Create Articles &amp; Documentation for the &#34;Articles&#34; feature contents](https://github.com/MediaJel/mediajel-dashboard/issues/3591) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#3107 Implement algorithm in transactions observer to detect decrease in transactions by X% over Y days](https://github.com/MediaJel/mediajel-gql-service/issues/3107) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
