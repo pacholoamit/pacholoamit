@@ -146,21 +146,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer)
-* 🌟 Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#a1f19e2](https://github.com/MediaJel/salesforce-automation/commit/a1f19e2) Improve log
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#8fcc9db](https://github.com/MediaJel/mediajel-tracker/commit/8fcc9db) modify docs
-  * [#bf77fd6](https://github.com/MediaJel/mediajel-tracker/commit/bf77fd6) docfix
-  * [#37c10f5](https://github.com/MediaJel/mediajel-tracker/commit/37c10f5) Set up cross domain tracking feature
-  * [#6100b8f](https://github.com/MediaJel/mediajel-tracker/commit/6100b8f) Add dutchie-subdomain to google ads environments
-  * [#0a99d49](https://github.com/MediaJel/mediajel-tracker/commit/0a99d49) Add Dutchie subdomain Google tag for takoma wellness
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#b884228](https://github.com/MediaJel/mediajel-tracker/commit/b884228) Merge pull request #154 from MediaJel/staging
-
-modify docs
-  * [#8fcc9db](https://github.com/MediaJel/mediajel-tracker/commit/8fcc9db) modify docs
+* 🔍 Reviewed [#3100 [HOTFIX] [FOR REVIEW] ICF Google Process](https://github.com/MediaJel/mediajel-gql-service/pull/3100) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#155 Auto generate documentation with Better Docs](https://github.com/MediaJel/mediajel-tracker/issues/155) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#156 Example](https://github.com/MediaJel/mediajel-tracker/issues/156) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#155 Auto generate documentation with Better Docs](https://github.com/MediaJel/mediajel-tracker/issues/155) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#a72a3b7](https://github.com/MediaJel/mediajel-tracker/commit/a72a3b7) Add Bing Ads plugin
 
 
 ### Stalk me here ❤️
