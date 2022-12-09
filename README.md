@@ -3,7 +3,7 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,aws,gcp,apollo,prisma,graphql,bash,dart,react,redis,py,docker,kubernetes,express,nestjs,firebase,flutter,go,git,github,grafana,linux,materialui,mongodb,mysql,postgres,supabase,heroku,netlify,js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,rust,nodejs,dart,py,bash,aws,gcp,apollo,prisma,graphql,react,redis,docker,kubernetes,express,nestjs,firebase,flutter,git,github,grafana,linux,materialui,mongodb,mysql,postgres,supabase,heroku,netlify,js,html,css,bootstrap)](https://skillicons.dev)
 
 ### About Me 🤗
 
@@ -146,12 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
 * 🔍 Reviewed [#3100 [HOTFIX] [FOR REVIEW] ICF Google Process](https://github.com/MediaJel/mediajel-gql-service/pull/3100) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Closed [#155 Auto generate documentation with Better Docs](https://github.com/MediaJel/mediajel-tracker/issues/155) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Opened [#156 Example](https://github.com/MediaJel/mediajel-tracker/issues/156) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Opened [#155 Auto generate documentation with Better Docs](https://github.com/MediaJel/mediajel-tracker/issues/155) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#a72a3b7](https://github.com/MediaJel/mediajel-tracker/commit/a72a3b7) Add Bing Ads plugin
 
 
 ### Stalk me here ❤️
