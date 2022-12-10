@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [shuding/nextra](https://github.com/shuding/nextra)
 * 🍽️ Forked [shuding/nextra](https://github.com/shuding/nextra) to [pacholoamit/nextra](https://github.com/pacholoamit/nextra)
 * #️⃣ Opened [#3108 Add Campaign Status (Live/In Attribution) to transaction observer message](https://github.com/MediaJel/mediajel-gql-service/issues/3108) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 * #️⃣ Opened [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* #️⃣ Opened [#3591 Create Articles &amp; Documentation for the &#34;Articles&#34; feature contents](https://github.com/MediaJel/mediajel-dashboard/issues/3591) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
