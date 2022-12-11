@@ -146,6 +146,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#75d257c](https://github.com/pacholoamit/pachtop/commit/75d257c) Refactor and fix state issues
+  * [#89619f8](https://github.com/pacholoamit/pachtop/commit/89619f8) Rename App struct
+  * [#a8b3419](https://github.com/pacholoamit/pachtop/commit/a8b3419) Fix App state issues
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `implement-sqlite`
+  * [#75d257c](https://github.com/pacholoamit/pachtop/commit/75d257c) Refactor and fix state issues
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `implement-sqlite`
   * [#89619f8](https://github.com/pacholoamit/pachtop/commit/89619f8) Rename App struct
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `implement-sqlite`
@@ -153,9 +159,6 @@
 * ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
   * [#8e50198](https://github.com/pacholoamit/pachtop/commit/8e50198) Successfully implement Appstate
   * [#daccfeb](https://github.com/pacholoamit/pachtop/commit/daccfeb) Remove unrequired dependencies and update dependencies
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `implement-sqlite`
-  * [#8e50198](https://github.com/pacholoamit/pachtop/commit/8e50198) Successfully implement Appstate
-* ⏺️ Created new branch implement-sqlite in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 
 ### Stalk me here ❤️
