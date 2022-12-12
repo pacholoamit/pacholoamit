@@ -146,19 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#75d257c](https://github.com/pacholoamit/pachtop/commit/75d257c) Refactor and fix state issues
-  * [#89619f8](https://github.com/pacholoamit/pachtop/commit/89619f8) Rename App struct
-  * [#a8b3419](https://github.com/pacholoamit/pachtop/commit/a8b3419) Fix App state issues
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `implement-sqlite`
-  * [#75d257c](https://github.com/pacholoamit/pachtop/commit/75d257c) Refactor and fix state issues
+  * [#f0104e5](https://github.com/pacholoamit/pachtop/commit/f0104e5) return data
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `implement-sqlite`
-  * [#89619f8](https://github.com/pacholoamit/pachtop/commit/89619f8) Rename App struct
+  * [#e786aa6](https://github.com/pacholoamit/pachtop/commit/e786aa6) implement basic version for storing metrics of sysinfo periodically
+* ➡️ Pushed 7 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#85ebe76](https://github.com/pacholoamit/pachtop/commit/85ebe76) Merge branch &#39;staging&#39;
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
+  * [#57f808c](https://github.com/pacholoamit/pachtop/commit/57f808c) implement creation of sqlite db at app cache_dir
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `implement-sqlite`
-  * [#a8b3419](https://github.com/pacholoamit/pachtop/commit/a8b3419) Fix App state issues
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#8e50198](https://github.com/pacholoamit/pachtop/commit/8e50198) Successfully implement Appstate
-  * [#daccfeb](https://github.com/pacholoamit/pachtop/commit/daccfeb) Remove unrequired dependencies and update dependencies
+  * [#57f808c](https://github.com/pacholoamit/pachtop/commit/57f808c) implement creation of sqlite db at app cache_dir
 
 
 ### Stalk me here ❤️
