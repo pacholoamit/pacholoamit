@@ -146,22 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#3115 [FOR REVIEW] finalize tags multi](https://github.com/MediaJel/mediajel-gql-service/pull/3115) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#3282e14](https://github.com/MediaJel/salesforce-automation/commit/3282e14) Add debug and info logs
-* ➡️ Pushed 6 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#7492875](https://github.com/MediaJel/salesforce-automation/commit/7492875) Merge pull request #16 from MediaJel/refactor-ensure-org
-
-Refactor ensure org
-  * [#b1b4a7c](https://github.com/MediaJel/salesforce-automation/commit/b1b4a7c) Create defaults for ParentAccount parent id
-  * [#4794783](https://github.com/MediaJel/salesforce-automation/commit/4794783) Move ParentOrg type to types.ts
-  * [#62e9d6c](https://github.com/MediaJel/salesforce-automation/commit/62e9d6c) Graphql codegen
-  * [#98e8901](https://github.com/MediaJel/salesforce-automation/commit/98e8901) reduce graphql resolver values to be returned for create_org
-  * [#6812a30](https://github.com/MediaJel/salesforce-automation/commit/6812a30) Refactor ensureOrg
-* 🔃 Merged [#16 Refactor ensure org](https://github.com/MediaJel/salesforce-automation/pull/16) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 6 files changed `++435 --160`
-* 🔃 Opened [#16 Refactor ensure org](https://github.com/MediaJel/salesforce-automation/pull/16) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 6 files changed `++435 --160`
+* 🔍 Reviewed [#3605 [FOR REVIEW] Jbjm tags orgconfig tracking multi final](https://github.com/MediaJel/mediajel-dashboard/pull/3605) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3605 [FOR REVIEW] Jbjm tags orgconfig tracking multi final](https://github.com/MediaJel/mediajel-dashboard/pull/3605) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3605 [FOR REVIEW] Jbjm tags orgconfig tracking multi final](https://github.com/MediaJel/mediajel-dashboard/pull/3605) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3605 [FOR REVIEW] Jbjm tags orgconfig tracking multi final](https://github.com/MediaJel/mediajel-dashboard/pull/3605) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3605 [FOR REVIEW] Jbjm tags orgconfig tracking multi final](https://github.com/MediaJel/mediajel-dashboard/pull/3605) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
