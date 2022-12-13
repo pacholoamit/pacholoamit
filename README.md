@@ -146,16 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#ba1af70](https://github.com/MediaJel/salesforce-automation/commit/ba1af70) modify validations
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#4c5a4bf](https://github.com/MediaJel/salesforce-automation/commit/4c5a4bf) change org vars
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `implement-sqlite`
   * [#f0104e5](https://github.com/pacholoamit/pachtop/commit/f0104e5) return data
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `implement-sqlite`
   * [#e786aa6](https://github.com/pacholoamit/pachtop/commit/e786aa6) implement basic version for storing metrics of sysinfo periodically
 * ➡️ Pushed 7 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#85ebe76](https://github.com/pacholoamit/pachtop/commit/85ebe76) Merge branch &#39;staging&#39;
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `staging`
-  * [#57f808c](https://github.com/pacholoamit/pachtop/commit/57f808c) implement creation of sqlite db at app cache_dir
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `implement-sqlite`
-  * [#57f808c](https://github.com/pacholoamit/pachtop/commit/57f808c) implement creation of sqlite db at app cache_dir
 
 
 ### Stalk me here ❤️
