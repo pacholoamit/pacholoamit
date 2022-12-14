@@ -146,11 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#3605 [FOR REVIEW] Jbjm tags orgconfig tracking multi final](https://github.com/MediaJel/mediajel-dashboard/pull/3605) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#3605 [FOR REVIEW] Jbjm tags orgconfig tracking multi final](https://github.com/MediaJel/mediajel-dashboard/pull/3605) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#3605 [FOR REVIEW] Jbjm tags orgconfig tracking multi final](https://github.com/MediaJel/mediajel-dashboard/pull/3605) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#3605 [FOR REVIEW] Jbjm tags orgconfig tracking multi final](https://github.com/MediaJel/mediajel-dashboard/pull/3605) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#3605 [FOR REVIEW] Jbjm tags orgconfig tracking multi final](https://github.com/MediaJel/mediajel-dashboard/pull/3605) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 6 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#1f507b1](https://github.com/MediaJel/mediajel-tracker/commit/1f507b1) Merge branch &#39;staging&#39;
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#1d9ef86](https://github.com/MediaJel/mediajel-tracker/commit/1d9ef86) Change cypress tests to expect status 200
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#1d9ef86](https://github.com/MediaJel/mediajel-tracker/commit/1d9ef86) Change cypress tests to expect status 200
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#4ce2d22](https://github.com/MediaJel/mediajel-tracker/commit/4ce2d22) Add Bing Ads Plugin documentation
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#4ce2d22](https://github.com/MediaJel/mediajel-tracker/commit/4ce2d22) Add Bing Ads Plugin documentation
 
 
 ### Stalk me here ❤️
