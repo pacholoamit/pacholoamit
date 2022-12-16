@@ -146,16 +146,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [questdb/questdb](https://github.com/questdb/questdb)
+* 🌟 Starred [questdb/questdb](https://github.com/questdb/questdb)
+* 🌟 Starred [questdb/questdb](https://github.com/questdb/questdb)
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#7162462](https://github.com/MediaJel/mediajel-tracker/commit/7162462) Merge branch &#39;staging&#39;
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#6a3c302](https://github.com/MediaJel/mediajel-tracker/commit/6a3c302) modify appendChild
-* ➡️ Pushed 6 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#1f507b1](https://github.com/MediaJel/mediajel-tracker/commit/1f507b1) Merge branch &#39;staging&#39;
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#1d9ef86](https://github.com/MediaJel/mediajel-tracker/commit/1d9ef86) Change cypress tests to expect status 200
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#1d9ef86](https://github.com/MediaJel/mediajel-tracker/commit/1d9ef86) Change cypress tests to expect status 200
 
 
 ### Stalk me here ❤️
