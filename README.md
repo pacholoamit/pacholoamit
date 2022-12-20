@@ -146,13 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#f8e831c](https://github.com/MediaJel/salesforce-automation/commit/f8e831c) Add logging
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#4f98677](https://github.com/MediaJel/salesforce-automation/commit/4f98677) Add logging to graphql queries
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#8b8fc72](https://github.com/MediaJel/salesforce-automation/commit/8b8fc72) Remove unrequired code
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#7e3d0ad](https://github.com/MediaJel/salesforce-automation/commit/7e3d0ad) Implement recursive org &amp; parent org creation
 * ⏺️ Created new branch test in [pacholoamit/image-pixel](https://github.com/pacholoamit/image-pixel)
-* ⏺️ Created new branch main in [pacholoamit/image-pixel](https://github.com/pacholoamit/image-pixel)
-* ⏺️ Created new repository  [pacholoamit/image-pixel](https://github.com/pacholoamit/image-pixel)
-* 🔃 Opened [#3620 [HOTFIX] Fix Org creation issue](https://github.com/MediaJel/mediajel-dashboard/pull/3620) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-hotfix-create-org`
-  * [#b382613](https://github.com/MediaJel/mediajel-dashboard/commit/b382613) modify createOrg resolver
 
 
 ### Stalk me here ❤️
