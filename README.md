@@ -146,15 +146,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#3154 [FOR REVIEW] delete multiple tags org config graphql](https://github.com/MediaJel/mediajel-gql-service/pull/3154) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#f8e831c](https://github.com/MediaJel/salesforce-automation/commit/f8e831c) Add logging
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#4f98677](https://github.com/MediaJel/salesforce-automation/commit/4f98677) Add logging to graphql queries
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#8b8fc72](https://github.com/MediaJel/salesforce-automation/commit/8b8fc72) Remove unrequired code
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#7e3d0ad](https://github.com/MediaJel/salesforce-automation/commit/7e3d0ad) Implement recursive org &amp; parent org creation
+  * [#e539535](https://github.com/MediaJel/salesforce-automation/commit/e539535) Fix accountById Salesforce query
+* 💬 Commented on [#3167 SEO Google My Business Reporting (API Integration)](https://github.com/MediaJel/mediajel-gql-service/issues/3167) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#17 Implement a rollback strategy for Salesforce creations](https://github.com/MediaJel/salesforce-automation/issues/17) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Opened [#158 Microsoft Ads Plugin showing &#34;No Conversions&#34; for Bing campaigns](https://github.com/MediaJel/mediajel-tracker/issues/158) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#3629 Incomplete Data for Curaleaf ALS and Test Campaigns in the Dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/3629) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
