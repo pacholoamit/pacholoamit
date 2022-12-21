@@ -146,6 +146,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#3154 [FOR REVIEW] delete multiple tags org config graphql](https://github.com/MediaJel/mediajel-gql-service/pull/3154) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
   * [#f8e831c](https://github.com/MediaJel/salesforce-automation/commit/f8e831c) Add logging
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
@@ -154,7 +155,6 @@
   * [#8b8fc72](https://github.com/MediaJel/salesforce-automation/commit/8b8fc72) Remove unrequired code
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
   * [#7e3d0ad](https://github.com/MediaJel/salesforce-automation/commit/7e3d0ad) Implement recursive org &amp; parent org creation
-* ⏺️ Created new branch test in [pacholoamit/image-pixel](https://github.com/pacholoamit/image-pixel)
 
 
 ### Stalk me here ❤️
