@@ -146,12 +146,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#3167 SEO Google My Business Reporting (API Integration)](https://github.com/MediaJel/mediajel-gql-service/issues/3167) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#365dca5](https://github.com/MediaJel/salesforce-automation/commit/365dca5) Add additional code for orgs without parents
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
   * [#e539535](https://github.com/MediaJel/salesforce-automation/commit/e539535) Fix accountById Salesforce query
 * 💬 Commented on [#3167 SEO Google My Business Reporting (API Integration)](https://github.com/MediaJel/mediajel-gql-service/issues/3167) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Opened [#17 Implement a rollback strategy for Salesforce creations](https://github.com/MediaJel/salesforce-automation/issues/17) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* #️⃣ Opened [#158 Microsoft Ads Plugin showing &#34;No Conversions&#34; for Bing campaigns](https://github.com/MediaJel/mediajel-tracker/issues/158) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#3629 Incomplete Data for Curaleaf ALS and Test Campaigns in the Dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/3629) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
