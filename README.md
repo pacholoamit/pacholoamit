@@ -146,13 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#159 Automate LiquidM Retargeting pixel generation on the universal tag](https://github.com/MediaJel/mediajel-tracker/issues/159) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#3167 SEO Google My Business Reporting (API Integration)](https://github.com/MediaJel/mediajel-gql-service/issues/3167) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#365dca5](https://github.com/MediaJel/salesforce-automation/commit/365dca5) Add additional code for orgs without parents
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#e539535](https://github.com/MediaJel/salesforce-automation/commit/e539535) Fix accountById Salesforce query
-* 💬 Commented on [#3167 SEO Google My Business Reporting (API Integration)](https://github.com/MediaJel/mediajel-gql-service/issues/3167) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#17 Implement a rollback strategy for Salesforce creations](https://github.com/MediaJel/salesforce-automation/issues/17) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Closed [#3186 [Schema Update] Add name in org tags config](https://github.com/MediaJel/mediajel-gql-service/issues/3186) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3184 [Schema Update] Add name in org tags config](https://github.com/MediaJel/mediajel-gql-service/issues/3184) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3641 Phase 3: Implementing Self-Service Tag generator functionality &amp; features](https://github.com/MediaJel/mediajel-dashboard/issues/3641) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
