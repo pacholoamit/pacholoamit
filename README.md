@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#159 Automate LiquidM Retargeting pixel generation on the universal tag](https://github.com/MediaJel/mediajel-tracker/issues/159) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#3167 SEO Google My Business Reporting (API Integration)](https://github.com/MediaJel/mediajel-gql-service/issues/3167) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#3186 [Schema Update] Add name in org tags config](https://github.com/MediaJel/mediajel-gql-service/issues/3186) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3184 [Schema Update] Add name in org tags config](https://github.com/MediaJel/mediajel-gql-service/issues/3184) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3641 Phase 3: Implementing Self-Service Tag generator functionality &amp; features](https://github.com/MediaJel/mediajel-dashboard/issues/3641) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3642 [PASSED ENGR QA] Phase 3: Implementing Self-Service Tag generator functionality &amp; features](https://github.com/MediaJel/mediajel-dashboard/pull/3642) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3642 [For Review] Phase 3: Implementing Self-Service Tag generator functionality &amp; features](https://github.com/MediaJel/mediajel-dashboard/pull/3642) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#3648 Update Self-Service tag generator &#34;Cart Platform&#34; options](https://github.com/MediaJel/mediajel-dashboard/issues/3648) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#3647 Improve Self-service tag generator responsiveness](https://github.com/MediaJel/mediajel-dashboard/issues/3647) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#3642 [For Review] Phase 3: Implementing Self-Service Tag generator functionality &amp; features](https://github.com/MediaJel/mediajel-dashboard/pull/3642) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
