@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold)
 * 🌟 Starred [HydrasDB/hydra](https://github.com/HydrasDB/hydra)
 * 🔍 Reviewed [#3642 [PASSED ENGR QA] Phase 3: Implementing Self-Service Tag generator functionality &amp; features](https://github.com/MediaJel/mediajel-dashboard/pull/3642) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🔍 Reviewed [#3642 [For Review] Phase 3: Implementing Self-Service Tag generator functionality &amp; features](https://github.com/MediaJel/mediajel-dashboard/pull/3642) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#3648 Update Self-Service tag generator &#34;Cart Platform&#34; options](https://github.com/MediaJel/mediajel-dashboard/issues/3648) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#3647 Improve Self-service tag generator responsiveness](https://github.com/MediaJel/mediajel-dashboard/issues/3647) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
