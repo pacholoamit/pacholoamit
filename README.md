@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#18 Implement incoming `Publisher` data decoupling via interfaces](https://github.com/MediaJel/salesforce-automation/issues/18) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 * ⏺️ Created new branch implement-decoupling in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 * 🌟 Starred [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold)
 * 🌟 Starred [HydrasDB/hydra](https://github.com/HydrasDB/hydra)
 * 🔍 Reviewed [#3642 [PASSED ENGR QA] Phase 3: Implementing Self-Service Tag generator functionality &amp; features](https://github.com/MediaJel/mediajel-dashboard/pull/3642) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#3642 [For Review] Phase 3: Implementing Self-Service Tag generator functionality &amp; features](https://github.com/MediaJel/mediajel-dashboard/pull/3642) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
