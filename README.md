@@ -146,11 +146,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#18 Implement incoming `Publisher` data decoupling via interfaces](https://github.com/MediaJel/salesforce-automation/issues/18) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* ⏺️ Created new branch implement-decoupling in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* 🌟 Starred [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold)
-* 🌟 Starred [HydrasDB/hydra](https://github.com/HydrasDB/hydra)
-* 🔍 Reviewed [#3642 [PASSED ENGR QA] Phase 3: Implementing Self-Service Tag generator functionality &amp; features](https://github.com/MediaJel/mediajel-dashboard/pull/3642) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#3591 Create Articles &amp; Documentation for the &#34;Articles&#34; feature contents](https://github.com/MediaJel/mediajel-dashboard/issues/3591) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
+  * GTM Self service tag generator
+* 💬 Commented on [#158 Microsoft Ads Plugin showing &#34;No Conversions&#34; for Bing campaigns](https://github.com/MediaJel/mediajel-tracker/issues/158) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#bd51995](https://github.com/MediaJel/mediajel-tracker/commit/bd51995) Merge branch &#39;staging&#39;
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#13644f3](https://github.com/MediaJel/mediajel-tracker/commit/13644f3) Add additional parameters for Bing
 
 
 ### Stalk me here ❤️
