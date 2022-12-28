@@ -146,14 +146,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3591 Create Articles &amp; Documentation for the &#34;Articles&#34; feature contents](https://github.com/MediaJel/mediajel-dashboard/issues/3591) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
-  * GTM Self service tag generator
-* 💬 Commented on [#158 Microsoft Ads Plugin showing &#34;No Conversions&#34; for Bing campaigns](https://github.com/MediaJel/mediajel-tracker/issues/158) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#bd51995](https://github.com/MediaJel/mediajel-tracker/commit/bd51995) Merge branch &#39;staging&#39;
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#13644f3](https://github.com/MediaJel/mediajel-tracker/commit/13644f3) Add additional parameters for Bing
+  * [#758090a](https://github.com/MediaJel/mediajel-tracker/commit/758090a) modify docs
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#f20514e](https://github.com/MediaJel/mediajel-tracker/commit/f20514e) Rollback jsdoc to 3.6.11 due to taffydb required dependency for better-docs
+  * [#8e073fd](https://github.com/MediaJel/mediajel-tracker/commit/8e073fd) fix typo
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#f20514e](https://github.com/MediaJel/mediajel-tracker/commit/f20514e) Rollback jsdoc to 3.6.11 due to taffydb required dependency for better-docs
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#8e073fd](https://github.com/MediaJel/mediajel-tracker/commit/8e073fd) fix typo
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#7a58dc2](https://github.com/MediaJel/mediajel-tracker/commit/7a58dc2) Generate docs
+  * [#e7e0ed9](https://github.com/MediaJel/mediajel-tracker/commit/e7e0ed9) modify parcel img src
 
 
 ### Stalk me here ❤️
