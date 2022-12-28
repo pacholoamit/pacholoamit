@@ -146,18 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#758090a](https://github.com/MediaJel/mediajel-tracker/commit/758090a) modify docs
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#f20514e](https://github.com/MediaJel/mediajel-tracker/commit/f20514e) Rollback jsdoc to 3.6.11 due to taffydb required dependency for better-docs
-  * [#8e073fd](https://github.com/MediaJel/mediajel-tracker/commit/8e073fd) fix typo
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#f20514e](https://github.com/MediaJel/mediajel-tracker/commit/f20514e) Rollback jsdoc to 3.6.11 due to taffydb required dependency for better-docs
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#8e073fd](https://github.com/MediaJel/mediajel-tracker/commit/8e073fd) fix typo
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#7a58dc2](https://github.com/MediaJel/mediajel-tracker/commit/7a58dc2) Generate docs
-  * [#e7e0ed9](https://github.com/MediaJel/mediajel-tracker/commit/e7e0ed9) modify parcel img src
+* 💬 Commented on [#3629 Incomplete Data for Curaleaf ALS and Test Campaigns in the Dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/3629) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Closed [#17 Implement a rollback strategy for Salesforce creations](https://github.com/MediaJel/salesforce-automation/issues/17) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Closed [#157 Create Email Image Pixels for LeafWire](https://github.com/MediaJel/mediajel-tracker/issues/157) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#3591 Create Self-Service Tag generator Documentation for Articles feature (GTM installation)](https://github.com/MediaJel/mediajel-dashboard/issues/3591) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
