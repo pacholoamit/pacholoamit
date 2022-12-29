@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#3660 Improve &#34;Amplify Default&#34; layout](https://github.com/MediaJel/mediajel-dashboard/issues/3660) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3656 Update Self-Service tag generator &#34;Cart Platform&#34; options](https://github.com/MediaJel/mediajel-dashboard/pull/3656) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#3629 Incomplete Data for Curaleaf ALS and Test Campaigns in the Dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/3629) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 * #️⃣ Closed [#17 Implement a rollback strategy for Salesforce creations](https://github.com/MediaJel/salesforce-automation/issues/17) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* #️⃣ Closed [#157 Create Email Image Pixels for LeafWire](https://github.com/MediaJel/mediajel-tracker/issues/157) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#3591 Create Self-Service Tag generator Documentation for Articles feature (GTM installation)](https://github.com/MediaJel/mediajel-dashboard/issues/3591) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
