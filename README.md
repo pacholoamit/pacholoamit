@@ -146,12 +146,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-tymber-adapter-for-google-ads-bing-ads`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#085f22e](https://github.com/MediaJel/mediajel-tracker/commit/085f22e) add break to switch statement
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#085f22e](https://github.com/MediaJel/mediajel-tracker/commit/085f22e) add break to switch statement
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#4337ebf](https://github.com/MediaJel/mediajel-tracker/commit/4337ebf) Add test workflow
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#4337ebf](https://github.com/MediaJel/mediajel-tracker/commit/4337ebf) Add test workflow
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#1a3dc83](https://github.com/MediaJel/mediajel-tracker/commit/1a3dc83) Merge pull request #163 from MediaJel/create-tymber-adapter-for-google-ads-bing-ads
+
+Create tymber adapter for google ads &amp; bing ads
+  * [#f9019a2](https://github.com/MediaJel/mediajel-tracker/commit/f9019a2) Import Tymber
+  * [#44a9147](https://github.com/MediaJel/mediajel-tracker/commit/44a9147) Add tymber data sources for Bing and Google
   * [#653438b](https://github.com/MediaJel/mediajel-tracker/commit/653438b) Create Tymber Data source
-* ⏺️ Created new branch create-tymber-adapter-for-google-ads-bing-ads in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#162 Create `Tymber` adapter for Google Ads &amp; Bing Ads](https://github.com/MediaJel/mediajel-tracker/issues/162) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🌟 Starred [lensapp/lens](https://github.com/lensapp/lens)
-* #️⃣ Opened [#3660 Improve &#34;Amplify Default&#34; layout](https://github.com/MediaJel/mediajel-dashboard/issues/3660) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
