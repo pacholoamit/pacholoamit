@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#169 Add new snowplow events for previous carts](https://github.com/MediaJel/mediajel-tracker/issues/169) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#3691 Self-service tag generator implement introspection](https://github.com/MediaJel/mediajel-dashboard/issues/3691) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* 💬 Commented on [#162 Create `Tymber` adapter for Google Ads &amp; Bing Ads](https://github.com/MediaJel/mediajel-tracker/issues/162) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 🔍 Reviewed [#3683 Ds debug changing summary](https://github.com/MediaJel/mediajel-dashboard/pull/3683) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#3683 Ds debug changing summary](https://github.com/MediaJel/mediajel-dashboard/pull/3683) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#3683 Ds debug changing summary](https://github.com/MediaJel/mediajel-dashboard/pull/3683) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ⏺️ Created new branch 19-provide-interactable-way-to-enable-disable-data-consumption in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* #️⃣ Opened [#19 Provide Interactable way to enable &amp; disable data consumption](https://github.com/MediaJel/salesforce-automation/issues/19) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 
 
 ### Stalk me here ❤️
