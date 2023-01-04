@@ -146,23 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#3673 Improve &#34;Amplify Default&#34; badge/chip layout within component](https://github.com/MediaJel/mediajel-dashboard/pull/3673) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ⏺️ Created new branch 167-improve-mediajel-tracker-repo-documentation in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#167 Improve mediajel-tracker repo documentation](https://github.com/MediaJel/mediajel-tracker/issues/167) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#3e7bc62](https://github.com/MediaJel/mediajel-tracker/commit/3e7bc62) Hotfix auto-prefixing of Google Ads conversion Id
-* ➡️ Pushed 9 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#3e7bc62](https://github.com/MediaJel/mediajel-tracker/commit/3e7bc62) Hotfix auto-prefixing of Google Ads conversion Id
-  * [#d5f60c9](https://github.com/MediaJel/mediajel-tracker/commit/d5f60c9) Merge branch &#39;staging&#39;
-  * [#a5d501a](https://github.com/MediaJel/mediajel-tracker/commit/a5d501a) Merge branch &#39;staging&#39;
-  * [#44693d5](https://github.com/MediaJel/mediajel-tracker/commit/44693d5) Merge branch &#39;staging&#39;
-  * [#bd51995](https://github.com/MediaJel/mediajel-tracker/commit/bd51995) Merge branch &#39;staging&#39;
-  * [#3da73b9](https://github.com/MediaJel/mediajel-tracker/commit/3da73b9) Merge branch &#39;staging&#39;
-  * [#7162462](https://github.com/MediaJel/mediajel-tracker/commit/7162462) Merge branch &#39;staging&#39;
-  * [#1f507b1](https://github.com/MediaJel/mediajel-tracker/commit/1f507b1) Merge branch &#39;staging&#39;
-  * [#b884228](https://github.com/MediaJel/mediajel-tracker/commit/b884228) Merge pull request #154 from MediaJel/staging
-
-modify docs
+* 🔍 Reviewed [#3683 Ds debug changing summary](https://github.com/MediaJel/mediajel-dashboard/pull/3683) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#3683 Ds debug changing summary](https://github.com/MediaJel/mediajel-dashboard/pull/3683) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3683 Ds debug changing summary](https://github.com/MediaJel/mediajel-dashboard/pull/3683) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ⏺️ Created new branch 19-provide-interactable-way-to-enable-disable-data-consumption in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Opened [#19 Provide Interactable way to enable &amp; disable data consumption](https://github.com/MediaJel/salesforce-automation/issues/19) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 
 
 ### Stalk me here ❤️
