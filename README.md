@@ -146,19 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
+  * [#66a56c0](https://github.com/MediaJel/mediajel-gql-service/commit/66a56c0) Create basic working version
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
+  * [#ecfaacc](https://github.com/MediaJel/mediajel-gql-service/commit/ecfaacc) Implement readMask
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
+  * [#5de0196](https://github.com/MediaJel/mediajel-gql-service/commit/5de0196) Implement createGoogleMyBusinessclient factory
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `15-establish-meaningful-defaults-for-salesforce-microservice-orgs-users-for-display-opportunities`
   * [#74e66f1](https://github.com/MediaJel/salesforce-automation/commit/74e66f1) Add to default config and feature of org
 * ⏺️ Created new branch 15-establish-meaningful-defaults-for-salesforce-microservice-orgs-users-for-display-opportunities in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* #️⃣ Closed [#20 Create way for microservice to update `salesforceId` if `name` already exists](https://github.com/MediaJel/salesforce-automation/issues/20) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* ➡️ Pushed 4 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#ece7459](https://github.com/MediaJel/salesforce-automation/commit/ece7459) Merge pull request #21 from MediaJel/20-create-way-for-microservice-to-update-salesforceid-if-name-already-exists
-
-Create way for microservice to update salesforceid if name already exists
-  * [#20eb0df](https://github.com/MediaJel/salesforce-automation/commit/20eb0df) Add updateOrg to findOrCreateOrg
-  * [#6dfba0a](https://github.com/MediaJel/salesforce-automation/commit/6dfba0a) create updateOrg function
-  * [#bb34d72](https://github.com/MediaJel/salesforce-automation/commit/bb34d72) add UPDATE_ORG mutation
-* 🔃 Merged [#21 Create way for microservice to update salesforceid if name already exists](https://github.com/MediaJel/salesforce-automation/pull/21) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 7 files changed `++916 --5`
 
 
 ### Stalk me here ❤️
