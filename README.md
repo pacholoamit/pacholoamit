@@ -146,15 +146,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#66a56c0](https://github.com/MediaJel/mediajel-gql-service/commit/66a56c0) Create basic working version
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#ecfaacc](https://github.com/MediaJel/mediajel-gql-service/commit/ecfaacc) Implement readMask
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#5de0196](https://github.com/MediaJel/mediajel-gql-service/commit/5de0196) Implement createGoogleMyBusinessclient factory
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `15-establish-meaningful-defaults-for-salesforce-microservice-orgs-users-for-display-opportunities`
-  * [#74e66f1](https://github.com/MediaJel/salesforce-automation/commit/74e66f1) Add to default config and feature of org
-* ⏺️ Created new branch 15-establish-meaningful-defaults-for-salesforce-microservice-orgs-users-for-display-opportunities in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* 🌟 Starred [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
+* 🔃 Opened [#171 Create Greenrush Environment for Plugins](https://github.com/MediaJel/mediajel-tracker/pull/171) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 6 files changed `++95 --1`
+* ⏺️ Created new branch pa-create-greenrush-environment-for-plugins in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#22 Create URL for salesforce microservice to be publicly accessible](https://github.com/MediaJel/salesforce-automation/issues/22) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#37f8f47](https://github.com/MediaJel/mediajel-tracker/commit/37f8f47) hotfix conversionId
 
 
 ### Stalk me here ❤️
