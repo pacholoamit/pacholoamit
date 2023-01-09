@@ -146,13 +146,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
-* 🔃 Opened [#171 Create Greenrush Environment for Plugins](https://github.com/MediaJel/mediajel-tracker/pull/171) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 6 files changed `++95 --1`
-* ⏺️ Created new branch pa-create-greenrush-environment-for-plugins in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#22 Create URL for salesforce microservice to be publicly accessible](https://github.com/MediaJel/salesforce-automation/issues/22) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#37f8f47](https://github.com/MediaJel/mediajel-tracker/commit/37f8f47) hotfix conversionId
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
+  * [#cff49bb](https://github.com/MediaJel/mediajel-gql-service/commit/cff49bb) modify interfaces
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
+  * [#556b177](https://github.com/MediaJel/mediajel-gql-service/commit/556b177) segregate clients&#39;
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
+  * [#ec338d4](https://github.com/MediaJel/mediajel-gql-service/commit/ec338d4) implement more types
+  * [#796e56c](https://github.com/MediaJel/mediajel-gql-service/commit/796e56c) improve types
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
+  * [#cf89646](https://github.com/MediaJel/mediajel-gql-service/commit/cf89646) minor improvements
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
+  * [#030f06d](https://github.com/MediaJel/mediajel-gql-service/commit/030f06d) Implement allMetrics method
 
 
 ### Stalk me here ❤️
