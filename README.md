@@ -147,16 +147,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#cff49bb](https://github.com/MediaJel/mediajel-gql-service/commit/cff49bb) modify interfaces
+  * [#8fb465d](https://github.com/MediaJel/mediajel-gql-service/commit/8fb465d) Add docs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#556b177](https://github.com/MediaJel/mediajel-gql-service/commit/556b177) segregate clients&#39;
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#ec338d4](https://github.com/MediaJel/mediajel-gql-service/commit/ec338d4) implement more types
-  * [#796e56c](https://github.com/MediaJel/mediajel-gql-service/commit/796e56c) improve types
+  * [#d969add](https://github.com/MediaJel/mediajel-gql-service/commit/d969add) fix return
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#cf89646](https://github.com/MediaJel/mediajel-gql-service/commit/cf89646) minor improvements
+  * [#87cdc2c](https://github.com/MediaJel/mediajel-gql-service/commit/87cdc2c) minor changes
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#030f06d](https://github.com/MediaJel/mediajel-gql-service/commit/030f06d) Implement allMetrics method
+  * [#c16f1f6](https://github.com/MediaJel/mediajel-gql-service/commit/c16f1f6) Add Code comments
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
+  * [#44c17f8](https://github.com/MediaJel/mediajel-gql-service/commit/44c17f8) remove unrequired comments
 
 
 ### Stalk me here ❤️
