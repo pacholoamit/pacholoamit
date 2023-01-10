@@ -146,16 +146,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `3731-re-add-feature-to-set-appid-in-self-service-tag-generator`
+  * [#b4175c1](https://github.com/MediaJel/mediajel-dashboard/commit/b4175c1) Enable Self service tag generator to edit the app id
+* ⏺️ Created new branch 3731-re-add-feature-to-set-appid-in-self-service-tag-generator in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#3731 Re-add feature to set &#34;AppId&#34; in self-service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/3731) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
   * [#8fb465d](https://github.com/MediaJel/mediajel-gql-service/commit/8fb465d) Add docs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
   * [#d969add](https://github.com/MediaJel/mediajel-gql-service/commit/d969add) fix return
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#87cdc2c](https://github.com/MediaJel/mediajel-gql-service/commit/87cdc2c) minor changes
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#c16f1f6](https://github.com/MediaJel/mediajel-gql-service/commit/c16f1f6) Add Code comments
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3167-seo-google-my-business-reporting-api-integration`
-  * [#44c17f8](https://github.com/MediaJel/mediajel-gql-service/commit/44c17f8) remove unrequired comments
 
 
 ### Stalk me here ❤️
