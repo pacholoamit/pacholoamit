@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3736 All Tracking Tags Are Gone](https://github.com/MediaJel/mediajel-dashboard/issues/3736) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#3736 All Tracking Tags Are Gone](https://github.com/MediaJel/mediajel-dashboard/issues/3736) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#3736 All Tracking Tags Are Gone](https://github.com/MediaJel/mediajel-dashboard/issues/3736) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#3241 Run mutations to update `tagsMultipleConfig` with `tagsConfig`](https://github.com/MediaJel/mediajel-gql-service/issues/3241) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3736 All Tracking Tags Are Gone](https://github.com/MediaJel/mediajel-dashboard/issues/3736) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#162 Create `Tymber` adapter for Google Ads &amp; Bing Ads](https://github.com/MediaJel/mediajel-tracker/issues/162) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#162 Create `Tymber` adapter for Google Ads &amp; Bing Ads](https://github.com/MediaJel/mediajel-tracker/issues/162) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#3244 Add &#34;Signups&#34; count to self-service tag generator resolver (Graphql resolver)](https://github.com/MediaJel/mediajel-gql-service/issues/3244) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ⏺️ Created new branch 173-make-changes-to-the-universal-tag-so-that-multiple-tags-can-be-loaded-to-a-website-without-issues in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#173 Make Changes to the Universal Tag so that multiple tags can be loaded to a website without issues](https://github.com/MediaJel/mediajel-tracker/issues/173) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
