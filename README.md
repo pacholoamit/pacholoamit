@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#162 Create `Tymber` adapter for Google Ads &amp; Bing Ads](https://github.com/MediaJel/mediajel-tracker/issues/162) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#162 Create `Tymber` adapter for Google Ads &amp; Bing Ads](https://github.com/MediaJel/mediajel-tracker/issues/162) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#3244 Add &#34;Signups&#34; count to self-service tag generator resolver (Graphql resolver)](https://github.com/MediaJel/mediajel-gql-service/issues/3244) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ⏺️ Created new branch 173-make-changes-to-the-universal-tag-so-that-multiple-tags-can-be-loaded-to-a-website-without-issues in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#173 Make Changes to the Universal Tag so that multiple tags can be loaded to a website without issues](https://github.com/MediaJel/mediajel-tracker/issues/173) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#173 Make Changes to the Universal Tag so that multiple tags can be loaded to a website without issues](https://github.com/MediaJel/mediajel-tracker/issues/173) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Closed [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Closed [#172 Fix Herb.Co Woocommerce plugin](https://github.com/MediaJel/mediajel-tracker/issues/172) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 
 
 ### Stalk me here ❤️
