@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#173 Make Changes to the Universal Tag so that multiple tags can be loaded to a website without issues](https://github.com/MediaJel/mediajel-tracker/issues/173) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* #️⃣ Closed [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* #️⃣ Closed [#172 Fix Herb.Co Woocommerce plugin](https://github.com/MediaJel/mediajel-tracker/issues/172) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#15 Establish meaningful &#34;Defaults&#34; for Salesforce Microservice (Orgs &amp; Users) for Display opportunities](https://github.com/MediaJel/salesforce-automation/issues/15) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* 🌟 Starred [warp-tech/warpgate](https://github.com/warp-tech/warpgate)
+* 💬 Commented on [#3766 NxTech Attribution API kickstart](https://github.com/MediaJel/mediajel-dashboard/issues/3766) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#3766 NxTech Attribution API kickstart](https://github.com/MediaJel/mediajel-dashboard/issues/3766) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#24 Implement &#34;Paid Search&#34; and &#34;SEO&#34; Org on microservice](https://github.com/MediaJel/salesforce-automation/issues/24) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Opened [#176 Update Org&#39;s permission depending on Opportunity](https://github.com/MediaJel/mediajel-tracker/issues/176) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
