@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [warp-tech/warpgate](https://github.com/warp-tech/warpgate)
+* 💬 Commented on [#3249 Migrate Foottraffik APIs to Mediajel for GCP shutdown](https://github.com/MediaJel/mediajel-gql-service/issues/3249) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#3766 NxTech Attribution API kickstart](https://github.com/MediaJel/mediajel-dashboard/issues/3766) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#3766 NxTech Attribution API kickstart](https://github.com/MediaJel/mediajel-dashboard/issues/3766) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#24 Implement &#34;Paid Search&#34; and &#34;SEO&#34; Org on microservice](https://github.com/MediaJel/salesforce-automation/issues/24) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* #️⃣ Opened [#176 Update Org&#39;s permission depending on Opportunity](https://github.com/MediaJel/mediajel-tracker/issues/176) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#3167 SEO Google My Business Reporting (API Integration)](https://github.com/MediaJel/mediajel-gql-service/issues/3167) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3167 SEO Google My Business Reporting (API Integration)](https://github.com/MediaJel/mediajel-gql-service/issues/3167) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🌟 Starred [warp-tech/warpgate](https://github.com/warp-tech/warpgate)
 
 
 ### Stalk me here ❤️
