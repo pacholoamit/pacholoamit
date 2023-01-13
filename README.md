@@ -146,11 +146,32 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#3772 Implement Permissions on Articles Feature](https://github.com/MediaJel/mediajel-dashboard/issues/3772) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#3249 Migrate Foottraffik APIs to Mediajel for GCP shutdown](https://github.com/MediaJel/mediajel-gql-service/issues/3249) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3766 NxTech Attribution API kickstart](https://github.com/MediaJel/mediajel-dashboard/issues/3766) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#3167 SEO Google My Business Reporting (API Integration)](https://github.com/MediaJel/mediajel-gql-service/issues/3167) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3167 SEO Google My Business Reporting (API Integration)](https://github.com/MediaJel/mediajel-gql-service/issues/3167) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#e6591cc](https://github.com/MediaJel/mediajel-tracker/commit/e6591cc) Merge pull request #177 from MediaJel/ekc-issue-173
+
+Modify plugin parameter of the universal tag to accept a comma separated list and ensure functionality is preserved
+  * [#b46cf1f](https://github.com/MediaJel/mediajel-tracker/commit/b46cf1f) Added to README documentation
+  * [#ecc1b88](https://github.com/MediaJel/mediajel-tracker/commit/ecc1b88) Implement tagId parameter
+  * [#2e770fa](https://github.com/MediaJel/mediajel-tracker/commit/2e770fa) handle multiple plugin params
+  * [#6ce8386](https://github.com/MediaJel/mediajel-tracker/commit/6ce8386) modify index.html
+* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#e6591cc](https://github.com/MediaJel/mediajel-tracker/commit/e6591cc) Merge pull request #177 from MediaJel/ekc-issue-173
+
+Modify plugin parameter of the universal tag to accept a comma separated list and ensure functionality is preserved
+  * [#b46cf1f](https://github.com/MediaJel/mediajel-tracker/commit/b46cf1f) Added to README documentation
+  * [#ecc1b88](https://github.com/MediaJel/mediajel-tracker/commit/ecc1b88) Implement tagId parameter
+  * [#2e770fa](https://github.com/MediaJel/mediajel-tracker/commit/2e770fa) handle multiple plugin params
+  * [#6ce8386](https://github.com/MediaJel/mediajel-tracker/commit/6ce8386) modify index.html
+* #️⃣ Closed [#173 Modify `plugin` parameter of the universal tag to accept a comma separated list and ensure functionality is preserved](https://github.com/MediaJel/mediajel-tracker/issues/173) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#e6591cc](https://github.com/MediaJel/mediajel-tracker/commit/e6591cc) Merge pull request #177 from MediaJel/ekc-issue-173
+
+Modify plugin parameter of the universal tag to accept a comma separated list and ensure functionality is preserved
+  * [#b46cf1f](https://github.com/MediaJel/mediajel-tracker/commit/b46cf1f) Added to README documentation
+  * [#ecc1b88](https://github.com/MediaJel/mediajel-tracker/commit/ecc1b88) Implement tagId parameter
+  * [#2e770fa](https://github.com/MediaJel/mediajel-tracker/commit/2e770fa) handle multiple plugin params
+* 🔃 Merged [#177 Modify plugin parameter of the universal tag to accept a comma separated list and ensure functionality is preserved](https://github.com/MediaJel/mediajel-tracker/pull/177) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++31 --21`
 
 
 ### Stalk me here ❤️
