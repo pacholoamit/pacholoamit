@@ -146,6 +146,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [samber/lo](https://github.com/samber/lo)
+* 🌟 Starred [benphelps/homepage](https://github.com/benphelps/homepage)
 * ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#e6591cc](https://github.com/MediaJel/mediajel-tracker/commit/e6591cc) Merge pull request #177 from MediaJel/ekc-issue-173
 
@@ -163,15 +165,6 @@ Modify plugin parameter of the universal tag to accept a comma separated list an
   * [#2e770fa](https://github.com/MediaJel/mediajel-tracker/commit/2e770fa) handle multiple plugin params
   * [#6ce8386](https://github.com/MediaJel/mediajel-tracker/commit/6ce8386) modify index.html
 * #️⃣ Closed [#173 Modify `plugin` parameter of the universal tag to accept a comma separated list and ensure functionality is preserved](https://github.com/MediaJel/mediajel-tracker/issues/173) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#e6591cc](https://github.com/MediaJel/mediajel-tracker/commit/e6591cc) Merge pull request #177 from MediaJel/ekc-issue-173
-
-Modify plugin parameter of the universal tag to accept a comma separated list and ensure functionality is preserved
-  * [#b46cf1f](https://github.com/MediaJel/mediajel-tracker/commit/b46cf1f) Added to README documentation
-  * [#ecc1b88](https://github.com/MediaJel/mediajel-tracker/commit/ecc1b88) Implement tagId parameter
-  * [#2e770fa](https://github.com/MediaJel/mediajel-tracker/commit/2e770fa) handle multiple plugin params
-* 🔃 Merged [#177 Modify plugin parameter of the universal tag to accept a comma separated list and ensure functionality is preserved](https://github.com/MediaJel/mediajel-tracker/pull/177) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++31 --21`
 
 
 ### Stalk me here ❤️
