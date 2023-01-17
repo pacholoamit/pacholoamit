@@ -146,25 +146,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [samber/lo](https://github.com/samber/lo)
-* 🌟 Starred [benphelps/homepage](https://github.com/benphelps/homepage)
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#e6591cc](https://github.com/MediaJel/mediajel-tracker/commit/e6591cc) Merge pull request #177 from MediaJel/ekc-issue-173
+* #️⃣ Closed [#3591 Create Self-Service Tag generator Documentation for Articles feature (GTM installation)](https://github.com/MediaJel/mediajel-dashboard/issues/3591) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#3766 NxTech Attribution API kickstart](https://github.com/MediaJel/mediajel-dashboard/issues/3766) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 12 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#45753d7](https://github.com/MediaJel/mediajel-tracker/commit/45753d7) Merge pull request #171 from MediaJel/pa-create-greenrush-environment-for-plugins
 
-Modify plugin parameter of the universal tag to accept a comma separated list and ensure functionality is preserved
-  * [#b46cf1f](https://github.com/MediaJel/mediajel-tracker/commit/b46cf1f) Added to README documentation
-  * [#ecc1b88](https://github.com/MediaJel/mediajel-tracker/commit/ecc1b88) Implement tagId parameter
-  * [#2e770fa](https://github.com/MediaJel/mediajel-tracker/commit/2e770fa) handle multiple plugin params
-  * [#6ce8386](https://github.com/MediaJel/mediajel-tracker/commit/6ce8386) modify index.html
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#e6591cc](https://github.com/MediaJel/mediajel-tracker/commit/e6591cc) Merge pull request #177 from MediaJel/ekc-issue-173
-
-Modify plugin parameter of the universal tag to accept a comma separated list and ensure functionality is preserved
-  * [#b46cf1f](https://github.com/MediaJel/mediajel-tracker/commit/b46cf1f) Added to README documentation
-  * [#ecc1b88](https://github.com/MediaJel/mediajel-tracker/commit/ecc1b88) Implement tagId parameter
-  * [#2e770fa](https://github.com/MediaJel/mediajel-tracker/commit/2e770fa) handle multiple plugin params
-  * [#6ce8386](https://github.com/MediaJel/mediajel-tracker/commit/6ce8386) modify index.html
-* #️⃣ Closed [#173 Modify `plugin` parameter of the universal tag to accept a comma separated list and ensure functionality is preserved](https://github.com/MediaJel/mediajel-tracker/issues/173) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+Apply All Cart adapters for `BingAds` and `GoogleAds` plugin on Mediajel-tracker
+  * [#b34f255](https://github.com/MediaJel/mediajel-tracker/commit/b34f255) Merge branch &#39;develop&#39; into pa-create-greenrush-environment-for-plugins
+  * [#4be524c](https://github.com/MediaJel/mediajel-tracker/commit/4be524c) wefunder setup
+  * [#b1e58eb](https://github.com/MediaJel/mediajel-tracker/commit/b1e58eb) add shopify and woocommerce in bing setup
+  * [#1b3e7b4](https://github.com/MediaJel/mediajel-tracker/commit/1b3e7b4) olla setup
+  * [#9001584](https://github.com/MediaJel/mediajel-tracker/commit/9001584) meadow setup
+  * [#7fe7959](https://github.com/MediaJel/mediajel-tracker/commit/7fe7959) lightspeed setup
+  * [#10df0e1](https://github.com/MediaJel/mediajel-tracker/commit/10df0e1) grassdoor setup
+  * [#ee0b53e](https://github.com/MediaJel/mediajel-tracker/commit/ee0b53e) ecwid setup
+  * [#a0eaf69](https://github.com/MediaJel/mediajel-tracker/commit/a0eaf69) implement goggle and bing to buddi
+  * [#cde04fc](https://github.com/MediaJel/mediajel-tracker/commit/cde04fc) buddi data source
+  * [#025a1f9](https://github.com/MediaJel/mediajel-tracker/commit/025a1f9) Add Greenrush cart
+* #️⃣ Closed [#164 Apply All Cart adapters for `BingAds` and `GoogleAds` plugin on Mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/164) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#164 Apply All Cart adapters for `BingAds` and `GoogleAds` plugin on Mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/164) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
