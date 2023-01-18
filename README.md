@@ -146,14 +146,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#175 Documentation and resources for Kevin&#39;s Welcome emails](https://github.com/MediaJel/mediajel-tracker/issues/175) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#24 Implement &#34;Paid Search&#34; and &#34;SEO&#34; Org on microservice](https://github.com/MediaJel/salesforce-automation/issues/24) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 * 🌟 Starred [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)
 * 🌟 Starred [datafuselabs/databend](https://github.com/datafuselabs/databend)
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
   * [#7e033bf](https://github.com/MediaJel/salesforce-automation/commit/7e033bf) Modify Stream service
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#6e04ae1](https://github.com/MediaJel/salesforce-automation/commit/6e04ae1) basic testing
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#f4a41f5](https://github.com/MediaJel/salesforce-automation/commit/f4a41f5) Create scaffold
 
 
 ### Stalk me here ❤️
