@@ -146,25 +146,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#3591 Create Self-Service Tag generator Documentation for Articles feature (GTM installation)](https://github.com/MediaJel/mediajel-dashboard/issues/3591) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#3766 NxTech Attribution API kickstart](https://github.com/MediaJel/mediajel-dashboard/issues/3766) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 12 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#45753d7](https://github.com/MediaJel/mediajel-tracker/commit/45753d7) Merge pull request #171 from MediaJel/pa-create-greenrush-environment-for-plugins
-
-Apply All Cart adapters for `BingAds` and `GoogleAds` plugin on Mediajel-tracker
-  * [#b34f255](https://github.com/MediaJel/mediajel-tracker/commit/b34f255) Merge branch &#39;develop&#39; into pa-create-greenrush-environment-for-plugins
-  * [#4be524c](https://github.com/MediaJel/mediajel-tracker/commit/4be524c) wefunder setup
-  * [#b1e58eb](https://github.com/MediaJel/mediajel-tracker/commit/b1e58eb) add shopify and woocommerce in bing setup
-  * [#1b3e7b4](https://github.com/MediaJel/mediajel-tracker/commit/1b3e7b4) olla setup
-  * [#9001584](https://github.com/MediaJel/mediajel-tracker/commit/9001584) meadow setup
-  * [#7fe7959](https://github.com/MediaJel/mediajel-tracker/commit/7fe7959) lightspeed setup
-  * [#10df0e1](https://github.com/MediaJel/mediajel-tracker/commit/10df0e1) grassdoor setup
-  * [#ee0b53e](https://github.com/MediaJel/mediajel-tracker/commit/ee0b53e) ecwid setup
-  * [#a0eaf69](https://github.com/MediaJel/mediajel-tracker/commit/a0eaf69) implement goggle and bing to buddi
-  * [#cde04fc](https://github.com/MediaJel/mediajel-tracker/commit/cde04fc) buddi data source
-  * [#025a1f9](https://github.com/MediaJel/mediajel-tracker/commit/025a1f9) Add Greenrush cart
-* #️⃣ Closed [#164 Apply All Cart adapters for `BingAds` and `GoogleAds` plugin on Mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/164) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#164 Apply All Cart adapters for `BingAds` and `GoogleAds` plugin on Mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/164) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
+  * [#6e04ae1](https://github.com/MediaJel/salesforce-automation/commit/6e04ae1) basic testing
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
+  * [#f4a41f5](https://github.com/MediaJel/salesforce-automation/commit/f4a41f5) Create scaffold
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
+  * [#68749ea](https://github.com/MediaJel/salesforce-automation/commit/68749ea) Improve types for OrgCreationEventListener
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
+  * [#6e9e6c7](https://github.com/MediaJel/salesforce-automation/commit/6e9e6c7) Create types,adapters, and utils
+* ⏺️ Created new branch 18-implement-dataprovider-decoupling-via-interfaces in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 
 
 ### Stalk me here ❤️
