@@ -146,15 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#2daafb3](https://github.com/MediaJel/salesforce-automation/commit/2daafb3) remove production default org
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#fdfc301](https://github.com/MediaJel/salesforce-automation/commit/fdfc301) check default org
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#c7457f0](https://github.com/MediaJel/salesforce-automation/commit/c7457f0) log node env
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#77e1077](https://github.com/MediaJel/salesforce-automation/commit/77e1077) Implement graphqlService on Processor
+  * [#ee3c798](https://github.com/MediaJel/salesforce-automation/commit/ee3c798) minor changes
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#1bd3be4](https://github.com/MediaJel/salesforce-automation/commit/1bd3be4) Improve OrgCandidate interface
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#5000b86](https://github.com/MediaJel/salesforce-automation/commit/5000b86) Implement functional processor
-* 🌟 Starred [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#03b658c](https://github.com/MediaJel/salesforce-automation/commit/03b658c) modify DataProducer Types
+  * [#4ff95e6](https://github.com/MediaJel/salesforce-automation/commit/4ff95e6) Remove listen for users
 
 
 ### Stalk me here ❤️
