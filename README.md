@@ -146,6 +146,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
   * [#fb3006a](https://github.com/MediaJel/salesforce-automation/commit/fb3006a) change function names
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
@@ -154,8 +155,6 @@
   * [#1d158c4](https://github.com/MediaJel/salesforce-automation/commit/1d158c4) Improve logging of salesforce query
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
   * [#3c9f201](https://github.com/MediaJel/salesforce-automation/commit/3c9f201) checkpoint
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#48a26c1](https://github.com/MediaJel/salesforce-automation/commit/48a26c1) Remove unrequired code
 
 
 ### Stalk me here ❤️
