@@ -146,15 +146,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#fb3006a](https://github.com/MediaJel/salesforce-automation/commit/fb3006a) change function names
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#6cb8236](https://github.com/MediaJel/salesforce-automation/commit/6cb8236) modify log method
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#1d158c4](https://github.com/MediaJel/salesforce-automation/commit/1d158c4) Improve logging of salesforce query
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#3c9f201](https://github.com/MediaJel/salesforce-automation/commit/3c9f201) checkpoint
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#0104065](https://github.com/MediaJel/mediajel-tracker/commit/0104065) implement square on v1
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#c60c95f](https://github.com/MediaJel/mediajel-tracker/commit/c60c95f) Add Bing Ads Square carts
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#4cd9a1f](https://github.com/MediaJel/mediajel-tracker/commit/4cd9a1f) Add square to google cart
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#59ee08f](https://github.com/MediaJel/mediajel-tracker/commit/59ee08f) Add square data source
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#155b3d9](https://github.com/MediaJel/mediajel-tracker/commit/155b3d9) Add logging
+  * [#7ffef05](https://github.com/MediaJel/mediajel-tracker/commit/7ffef05) Create square adapter for v1
 
 
 ### Stalk me here ❤️
