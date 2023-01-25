@@ -146,40 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#308 Paid Search - Landing Pages](https://github.com/MediaJel/mediajel/issues/308) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#307 Paid Search - Self service integrations](https://github.com/MediaJel/mediajel/issues/307) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#306 Create Integrations Self Service Action items](https://github.com/MediaJel/mediajel/issues/306) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#305 Paid Search Improvement Plan](https://github.com/MediaJel/mediajel/issues/305) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🌟 Starred [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter)
-* ➡️ Pushed 18 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#0104065](https://github.com/MediaJel/mediajel-tracker/commit/0104065) implement square on v1
-  * [#c60c95f](https://github.com/MediaJel/mediajel-tracker/commit/c60c95f) Add Bing Ads Square carts
-  * [#4cd9a1f](https://github.com/MediaJel/mediajel-tracker/commit/4cd9a1f) Add square to google cart
-  * [#59ee08f](https://github.com/MediaJel/mediajel-tracker/commit/59ee08f) Add square data source
-  * [#155b3d9](https://github.com/MediaJel/mediajel-tracker/commit/155b3d9) Add logging
-  * [#7ffef05](https://github.com/MediaJel/mediajel-tracker/commit/7ffef05) Create square adapter for v1
-  * [#45753d7](https://github.com/MediaJel/mediajel-tracker/commit/45753d7) Merge pull request #171 from MediaJel/pa-create-greenrush-environment-for-plugins
-
-Apply All Cart adapters for `BingAds` and `GoogleAds` plugin on Mediajel-tracker
-  * [#b34f255](https://github.com/MediaJel/mediajel-tracker/commit/b34f255) Merge branch &#39;develop&#39; into pa-create-greenrush-environment-for-plugins
-  * [#4be524c](https://github.com/MediaJel/mediajel-tracker/commit/4be524c) wefunder setup
-  * [#b1e58eb](https://github.com/MediaJel/mediajel-tracker/commit/b1e58eb) add shopify and woocommerce in bing setup
-  * [#1b3e7b4](https://github.com/MediaJel/mediajel-tracker/commit/1b3e7b4) olla setup
-  * [#9001584](https://github.com/MediaJel/mediajel-tracker/commit/9001584) meadow setup
-  * [#7fe7959](https://github.com/MediaJel/mediajel-tracker/commit/7fe7959) lightspeed setup
-  * [#10df0e1](https://github.com/MediaJel/mediajel-tracker/commit/10df0e1) grassdoor setup
-  * [#ee0b53e](https://github.com/MediaJel/mediajel-tracker/commit/ee0b53e) ecwid setup
-  * [#a0eaf69](https://github.com/MediaJel/mediajel-tracker/commit/a0eaf69) implement goggle and bing to buddi
-  * [#cde04fc](https://github.com/MediaJel/mediajel-tracker/commit/cde04fc) buddi data source
-  * [#025a1f9](https://github.com/MediaJel/mediajel-tracker/commit/025a1f9) Add Greenrush cart
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `182-create-square-adapter-for-the-universal-tag`
-  * [#0104065](https://github.com/MediaJel/mediajel-tracker/commit/0104065) implement square on v1
-  * [#c60c95f](https://github.com/MediaJel/mediajel-tracker/commit/c60c95f) Add Bing Ads Square carts
-  * [#4cd9a1f](https://github.com/MediaJel/mediajel-tracker/commit/4cd9a1f) Add square to google cart
-  * [#59ee08f](https://github.com/MediaJel/mediajel-tracker/commit/59ee08f) Add square data source
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#0104065](https://github.com/MediaJel/mediajel-tracker/commit/0104065) implement square on v1
-  * [#c60c95f](https://github.com/MediaJel/mediajel-tracker/commit/c60c95f) Add Bing Ads Square carts
-  * [#4cd9a1f](https://github.com/MediaJel/mediajel-tracker/commit/4cd9a1f) Add square to google cart
-  * [#59ee08f](https://github.com/MediaJel/mediajel-tracker/commit/59ee08f) Add square data source
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#0104065](https://github.com/MediaJel/mediajel-tracker/commit/0104065) implement square on v1
 
 
 ### Stalk me here ❤️
