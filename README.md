@@ -146,6 +146,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter)
 * ➡️ Pushed 18 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#0104065](https://github.com/MediaJel/mediajel-tracker/commit/0104065) implement square on v1
   * [#c60c95f](https://github.com/MediaJel/mediajel-tracker/commit/c60c95f) Add Bing Ads Square carts
@@ -179,8 +180,6 @@ Apply All Cart adapters for `BingAds` and `GoogleAds` plugin on Mediajel-tracker
   * [#59ee08f](https://github.com/MediaJel/mediajel-tracker/commit/59ee08f) Add square data source
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#0104065](https://github.com/MediaJel/mediajel-tracker/commit/0104065) implement square on v1
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#c60c95f](https://github.com/MediaJel/mediajel-tracker/commit/c60c95f) Add Bing Ads Square carts
 
 
 ### Stalk me here ❤️
