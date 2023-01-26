@@ -146,11 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#308 Paid Search - Landing Pages](https://github.com/MediaJel/mediajel/issues/308) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#307 Paid Search - Self service integrations](https://github.com/MediaJel/mediajel/issues/307) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#306 Create Integrations Self Service Action items](https://github.com/MediaJel/mediajel/issues/306) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#305 Paid Search Improvement Plan](https://github.com/MediaJel/mediajel/issues/305) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🌟 Starred [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter)
+* 💬 Commented on [#309 Paid Search - Google Analytics support &amp; scope](https://github.com/MediaJel/mediajel/issues/309) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#308 Paid Search - Landing Pages](https://github.com/MediaJel/mediajel/issues/308) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 🌟 Starred [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts)
+* #️⃣ Opened [#310 Display Overview](https://github.com/MediaJel/mediajel/issues/310) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#309 Paid Search - Google Analytics support](https://github.com/MediaJel/mediajel/issues/309) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 ### Stalk me here ❤️
