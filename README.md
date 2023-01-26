@@ -146,14 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
+  * Woocommerce Tag Integration Developer ver1.1
+* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
+  * Woocommerce Tag Integration Developer ver1.1
+* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
+  * Woocommerce Tag Integration Developer ver1.1
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
   * [#99604f7](https://github.com/MediaJel/salesforce-automation/commit/99604f7) Fix type
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
   * [#51abfd4](https://github.com/MediaJel/salesforce-automation/commit/51abfd4) Fix shape of User
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#365a0ba](https://github.com/MediaJel/salesforce-automation/commit/365a0ba) Implement querying of contact
-* 💬 Commented on [#309 Paid Search - Google Analytics support &amp; scope](https://github.com/MediaJel/mediajel/issues/309) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#308 Paid Search - Landing Pages](https://github.com/MediaJel/mediajel/issues/308) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 ### Stalk me here ❤️
