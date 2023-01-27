@@ -146,14 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#312 Landing page - Open source alternative](https://github.com/MediaJel/mediajel/issues/312) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#25 Implement Welcome Email into Salesforce Microservice](https://github.com/MediaJel/salesforce-automation/issues/25) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* #️⃣ Opened [#3880 Dashboard tool tips &amp; quick docs - Paid Search &amp; SEO](https://github.com/MediaJel/mediajel-dashboard/issues/3880) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#3879 Dashboard tool tips &amp; quick docs - Display](https://github.com/MediaJel/mediajel-dashboard/issues/3879) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#3856 Dashboard tool tips &amp; quick docs](https://github.com/MediaJel/mediajel-dashboard/issues/3856) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#3855 Implement Dashboard-first tag integration](https://github.com/MediaJel/mediajel-dashboard/issues/3855) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
-  * Woocommerce Tag Integration Developer ver1.1
-* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
-  * Woocommerce Tag Integration Developer ver1.1
-* 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
-  * Woocommerce Tag Integration Developer ver1.1
 
 
 ### Stalk me here ❤️
