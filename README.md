@@ -146,16 +146,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#3856 Dashboard tool tips &amp; quick docs](https://github.com/MediaJel/mediajel-dashboard/issues/3856) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#3855 Implement Dashboard-first tag integration](https://github.com/MediaJel/mediajel-dashboard/issues/3855) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
   * Woocommerce Tag Integration Developer ver1.1
 * 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
   * Woocommerce Tag Integration Developer ver1.1
 * 📝 Updated 1 wiki page in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/wiki)
   * Woocommerce Tag Integration Developer ver1.1
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#99604f7](https://github.com/MediaJel/salesforce-automation/commit/99604f7) Fix type
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#51abfd4](https://github.com/MediaJel/salesforce-automation/commit/51abfd4) Fix shape of User
 
 
 ### Stalk me here ❤️
