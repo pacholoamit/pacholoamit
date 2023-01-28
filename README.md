@@ -147,6 +147,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
+  * [#5f8ccf7](https://github.com/MediaJel/salesforce-automation/commit/5f8ccf7) Modify structure of OrgCandidates
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
   * [#72d8557](https://github.com/MediaJel/salesforce-automation/commit/72d8557) checkpoint&#34;
 * ➡️ Pushed 1 commit in [MediaJel/landing-page-builder](https://github.com/MediaJel/landing-page-builder) on branch `master`
   * [#f5da7bb](https://github.com/MediaJel/landing-page-builder/commit/f5da7bb) Export html, css, and js
@@ -154,8 +156,6 @@
   * [#2343bfd](https://github.com/MediaJel/landing-page-builder/commit/2343bfd) code cleanup
 * ➡️ Pushed 1 commit in [MediaJel/landing-page-builder](https://github.com/MediaJel/landing-page-builder) on branch `master`
   * [#8e7a67a](https://github.com/MediaJel/landing-page-builder/commit/8e7a67a) Implement more plugins
-* ➡️ Pushed 1 commit in [MediaJel/landing-page-builder](https://github.com/MediaJel/landing-page-builder) on branch `master`
-  * [#53f1496](https://github.com/MediaJel/landing-page-builder/commit/53f1496) Remove unrequired files
 
 
 ### Stalk me here ❤️
