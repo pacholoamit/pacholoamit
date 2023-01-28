@@ -146,11 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#312 Landing page - Open source alternative](https://github.com/MediaJel/mediajel/issues/312) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#25 Implement Welcome Email into Salesforce Microservice](https://github.com/MediaJel/salesforce-automation/issues/25) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* #️⃣ Opened [#3880 Dashboard tool tips &amp; quick docs - Paid Search &amp; SEO](https://github.com/MediaJel/mediajel-dashboard/issues/3880) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#3879 Dashboard tool tips &amp; quick docs - Display](https://github.com/MediaJel/mediajel-dashboard/issues/3879) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#3856 Dashboard tool tips &amp; quick docs](https://github.com/MediaJel/mediajel-dashboard/issues/3856) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [MediaJel/landing-page-builder](https://github.com/MediaJel/landing-page-builder) on branch `master`
+  * [#53f1496](https://github.com/MediaJel/landing-page-builder/commit/53f1496) Remove unrequired files
+* ➡️ Pushed 1 commit in [MediaJel/landing-page-builder](https://github.com/MediaJel/landing-page-builder) on branch `master`
+  * [#184c5d1](https://github.com/MediaJel/landing-page-builder/commit/184c5d1) render component
+* ➡️ Pushed 1 commit in [MediaJel/landing-page-builder](https://github.com/MediaJel/landing-page-builder) on branch `master`
+  * [#a939e7a](https://github.com/MediaJel/landing-page-builder/commit/a939e7a) segregate directories
+* ➡️ Pushed 1 commit in [MediaJel/graphqjs-prototype](https://github.com/MediaJel/graphqjs-prototype) on branch `master`
+  * [#b4250a2](https://github.com/MediaJel/graphqjs-prototype/commit/b4250a2) Add plugins
+* ➡️ Pushed 1 commit in [MediaJel/graphqjs-prototype](https://github.com/MediaJel/graphqjs-prototype) on branch `master`
+  * [#a5e8a7e](https://github.com/MediaJel/graphqjs-prototype/commit/a5e8a7e) Install plugins
 
 
 ### Stalk me here ❤️
