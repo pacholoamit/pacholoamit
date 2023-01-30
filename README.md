@@ -146,14 +146,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-* 🌟 Starred [ahmadnassri/docker-vscode-server](https://github.com/ahmadnassri/docker-vscode-server)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#f2549b2](https://github.com/MediaJel/salesforce-automation/commit/f2549b2) Cleanup processor
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#7197c28](https://github.com/MediaJel/salesforce-automation/commit/7197c28) Modify logging of limiter to ensure remaining objects doesn&#39;t go below 0
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `18-implement-dataprovider-decoupling-via-interfaces`
-  * [#3e165bf](https://github.com/MediaJel/salesforce-automation/commit/3e165bf) Reimplement org limiter
+* #️⃣ Closed [#310 Display Overview](https://github.com/MediaJel/mediajel/issues/310) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#309 Paid Search - Google Analytics support &amp; scope](https://github.com/MediaJel/mediajel/issues/309) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#308 Paid Search - Landing Pages](https://github.com/MediaJel/mediajel/issues/308) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#313 Landing page - Streamlining](https://github.com/MediaJel/mediajel/issues/313) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#1 Research into self-hostable internal landing page builder tool](https://github.com/MediaJel/landing-page-builder/issues/1) in [MediaJel/landing-page-builder](https://github.com/MediaJel/landing-page-builder)
 
 
 ### Stalk me here ❤️
