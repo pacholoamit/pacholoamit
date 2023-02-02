@@ -146,12 +146,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch segregated in [MediaJel/liquidm-report-requestor](https://github.com/MediaJel/liquidm-report-requestor)
+* #️⃣ Opened [#27 Salesforce Microservice SDD](https://github.com/MediaJel/salesforce-automation/issues/27) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 * 💬 Commented on [#3209 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/issues/3209) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#24 Implement &#34;Paid Search&#34; and &#34;SEO&#34; Org on microservice](https://github.com/MediaJel/salesforce-automation/issues/24) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 * ➡️ Pushed 1 commit in [MediaJel/liquidm-report-requestor](https://github.com/MediaJel/liquidm-report-requestor) on branch `master`
   * [#fd39593](https://github.com/MediaJel/liquidm-report-requestor/commit/fd39593) change date
-* #️⃣ Closed [#182 Create Square adapter for the Universal tag](https://github.com/MediaJel/mediajel-tracker/issues/182) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#1 Create Liquid M Script to generate reports from Liquid M API](https://github.com/MediaJel/liquidm-report-requestor/issues/1) in [MediaJel/liquidm-report-requestor](https://github.com/MediaJel/liquidm-report-requestor)
 
 
 ### Stalk me here ❤️
