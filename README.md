@@ -146,19 +146,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#185 Merge develop into staging](https://github.com/MediaJel/mediajel-tracker/pull/185) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 9 files changed `++182 --0`
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#773e442](https://github.com/MediaJel/mediajel-tracker/commit/773e442) Merge pull request #184 from MediaJel/dutchie-plus-environment
-
-[Fore Review] Add dutchie plus cart
-  * [#a3f6838](https://github.com/MediaJel/mediajel-tracker/commit/a3f6838) remove duplicate
-  * [#7e8a393](https://github.com/MediaJel/mediajel-tracker/commit/7e8a393) add dutchie plus to google and bing plugins
-  * [#2eba81f](https://github.com/MediaJel/mediajel-tracker/commit/2eba81f) add dutchie plus cart
-* 🔃 Merged [#184 [Fore Review] Add dutchie plus cart](https://github.com/MediaJel/mediajel-tracker/pull/184) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 9 files changed `++182 --0`
-* 🔍 Reviewed [#184 [Fore Review] Add dutchie plus cart](https://github.com/MediaJel/mediajel-tracker/pull/184) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#184 add dutchie plus cart](https://github.com/MediaJel/mediajel-tracker/pull/184) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔃 Opened [#3353 [SCHEMA CHANGE]  Add signups count to org tags](https://github.com/MediaJel/mediajel-gql-service/pull/3353) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 1 file changed `++1 --0`
+* ⏺️ Created new branch pa-add-signups-count-to-org-tags in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3244-add-signups-count-to-self-service-tag-generator-resolver-graphql-resolver`
+  * [#8110e2a](https://github.com/MediaJel/mediajel-gql-service/commit/8110e2a) Add SQL query
+* ⏺️ Created new branch 3244-add-signups-count-to-self-service-tag-generator-resolver-graphql-resolver in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#3855 Implement Dashboard-first tag integration](https://github.com/MediaJel/mediajel-dashboard/issues/3855) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
