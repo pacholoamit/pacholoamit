@@ -146,11 +146,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [totaljs/flow](https://github.com/totaljs/flow)
-* 🔍 Reviewed [#184 add dutchie plus cart](https://github.com/MediaJel/mediajel-tracker/pull/184) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#183 Create Dutchie-Plus Transactions adapter](https://github.com/MediaJel/mediajel-tracker/issues/183) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ⏺️ Created new branch segregated in [MediaJel/liquidm-report-requestor](https://github.com/MediaJel/liquidm-report-requestor)
-* #️⃣ Opened [#27 Salesforce Microservice SDD](https://github.com/MediaJel/salesforce-automation/issues/27) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* 🔃 Opened [#185 Merge develop into staging](https://github.com/MediaJel/mediajel-tracker/pull/185) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 9 files changed `++182 --0`
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#773e442](https://github.com/MediaJel/mediajel-tracker/commit/773e442) Merge pull request #184 from MediaJel/dutchie-plus-environment
+
+[Fore Review] Add dutchie plus cart
+  * [#a3f6838](https://github.com/MediaJel/mediajel-tracker/commit/a3f6838) remove duplicate
+  * [#7e8a393](https://github.com/MediaJel/mediajel-tracker/commit/7e8a393) add dutchie plus to google and bing plugins
+  * [#2eba81f](https://github.com/MediaJel/mediajel-tracker/commit/2eba81f) add dutchie plus cart
+* 🔃 Merged [#184 [Fore Review] Add dutchie plus cart](https://github.com/MediaJel/mediajel-tracker/pull/184) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 9 files changed `++182 --0`
+* 🔍 Reviewed [#184 [Fore Review] Add dutchie plus cart](https://github.com/MediaJel/mediajel-tracker/pull/184) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#184 add dutchie plus cart](https://github.com/MediaJel/mediajel-tracker/pull/184) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
