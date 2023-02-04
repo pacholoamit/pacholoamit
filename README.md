@@ -146,13 +146,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)
 * 🔃 Opened [#3353 [SCHEMA CHANGE]  Add signups count to org tags](https://github.com/MediaJel/mediajel-gql-service/pull/3353) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
   * 1 file changed `++1 --0`
 * ⏺️ Created new branch pa-add-signups-count-to-org-tags in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3244-add-signups-count-to-self-service-tag-generator-resolver-graphql-resolver`
   * [#8110e2a](https://github.com/MediaJel/mediajel-gql-service/commit/8110e2a) Add SQL query
 * ⏺️ Created new branch 3244-add-signups-count-to-self-service-tag-generator-resolver-graphql-resolver in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#3855 Implement Dashboard-first tag integration](https://github.com/MediaJel/mediajel-dashboard/issues/3855) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
