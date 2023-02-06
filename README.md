@@ -25,6 +25,23 @@
 <table>
   <tr>
     <td rowspan="2" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5NFtsAyS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94xlhw1wcbyjdwfi75le.png" alt="" width="280">
+    </td>
+    <th>
+      <a href="https://dev.to/pacholoamit/use-over-140-amazing-chatgpt-prompts-in-10-minutes-na3">Use over 140+ amazing ChatGPT prompts in 10 minutes 🚀</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      We&#39;re going to be exploring this amazing NodeJS library called chatgpt-prompts. This library allows...
+      <br>
+      <i>Published on 7 Feb 2023</i>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td rowspan="2" width="280">
       <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qq8NOsC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvvesouje29b7h2gw0dm.png" alt="" width="280">
     </td>
     <th>
@@ -146,16 +163,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
+* #️⃣ Opened [#3980 Self Service Tag generator V2 - Design Doc](https://github.com/MediaJel/mediajel-dashboard/issues/3980) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🔃 Opened [#306 Add ChatGPT prompts to Readme](https://github.com/transitive-bullshit/chatgpt-api/pull/306) in [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)
   * 1 file changed `++1 --0`
 * ⏺️ Created new branch readme in [pacholoamit/chatgpt-api](https://github.com/pacholoamit/chatgpt-api)
 * ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
   * [#4f16c59](https://github.com/pacholoamit/chatgpt-prompts/commit/4f16c59) Update README.md
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#291735e](https://github.com/pacholoamit/chatgpt-prompts/commit/291735e) Update README.md
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `release`
-  * [#7579170](https://github.com/pacholoamit/chatgpt-prompts/commit/7579170) increment version
-  * [#39a00e0](https://github.com/pacholoamit/chatgpt-prompts/commit/39a00e0) remove logging
 
 
 ### Stalk me here ❤️
