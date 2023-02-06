@@ -146,16 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-api-prompts](https://github.com/pacholoamit/chatgpt-api-prompts) on branch `main`
-  * [#3ea0bbb](https://github.com/pacholoamit/chatgpt-api-prompts/commit/3ea0bbb) Create prompt factory
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-api-prompts](https://github.com/pacholoamit/chatgpt-api-prompts) on branch `main`
-  * [#8c93751](https://github.com/pacholoamit/chatgpt-api-prompts/commit/8c93751) Create initial version
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-api-prompts](https://github.com/pacholoamit/chatgpt-api-prompts) on branch `main`
-  * [#f2d3b26](https://github.com/pacholoamit/chatgpt-api-prompts/commit/f2d3b26) add dist
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-api-prompts](https://github.com/pacholoamit/chatgpt-api-prompts) on branch `main`
-  * [#806a979](https://github.com/pacholoamit/chatgpt-api-prompts/commit/806a979) update deps
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-api-prompts](https://github.com/pacholoamit/chatgpt-api-prompts) on branch `main`
-  * [#82e1274](https://github.com/pacholoamit/chatgpt-api-prompts/commit/82e1274) modify package.json
+* 🔃 Opened [#306 Add ChatGPT prompts to Readme](https://github.com/transitive-bullshit/chatgpt-api/pull/306) in [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)
+  * 1 file changed `++1 --0`
+* ⏺️ Created new branch readme in [pacholoamit/chatgpt-api](https://github.com/pacholoamit/chatgpt-api)
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#4f16c59](https://github.com/pacholoamit/chatgpt-prompts/commit/4f16c59) Update README.md
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#291735e](https://github.com/pacholoamit/chatgpt-prompts/commit/291735e) Update README.md
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `release`
+  * [#7579170](https://github.com/pacholoamit/chatgpt-prompts/commit/7579170) increment version
+  * [#39a00e0](https://github.com/pacholoamit/chatgpt-prompts/commit/39a00e0) remove logging
 
 
 ### Stalk me here ❤️
