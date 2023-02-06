@@ -146,55 +146,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 23 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#133b028](https://github.com/pacholoamit/pachtop/commit/133b028) increment version to 0.3.3
-  * [#a0c7ced](https://github.com/pacholoamit/pachtop/commit/a0c7ced) removed logger
-  * [#a6040f6](https://github.com/pacholoamit/pachtop/commit/a6040f6) Add log message
-  * [#a01e44b](https://github.com/pacholoamit/pachtop/commit/a01e44b) Add logs to Tauri commands
-  * [#8c05865](https://github.com/pacholoamit/pachtop/commit/8c05865) scaffold logger
-  * [#ec272be](https://github.com/pacholoamit/pachtop/commit/ec272be) Add log4rs
-  * [#4bce87b](https://github.com/pacholoamit/pachtop/commit/4bce87b) minor changes
-  * [#a39e5c7](https://github.com/pacholoamit/pachtop/commit/a39e5c7) Add memoization to Processes
-  * [#96c5d7d](https://github.com/pacholoamit/pachtop/commit/96c5d7d) remove sqlite and update deps
-  * [#9fae07a](https://github.com/pacholoamit/pachtop/commit/9fae07a) Merge pull request #9 from pacholoamit/master
-
-Add dependabot
-  * [#940915f](https://github.com/pacholoamit/pachtop/commit/940915f) Create dependabot.yml
-  * [#f0104e5](https://github.com/pacholoamit/pachtop/commit/f0104e5) return data
-  * [#e786aa6](https://github.com/pacholoamit/pachtop/commit/e786aa6) implement basic version for storing metrics of sysinfo periodically
-  * [#85ebe76](https://github.com/pacholoamit/pachtop/commit/85ebe76) Merge branch &#39;staging&#39;
-  * [#57f808c](https://github.com/pacholoamit/pachtop/commit/57f808c) implement creation of sqlite db at app cache_dir
-  * [#75d257c](https://github.com/pacholoamit/pachtop/commit/75d257c) Refactor and fix state issues
-  * [#89619f8](https://github.com/pacholoamit/pachtop/commit/89619f8) Rename App struct
-  * [#a8b3419](https://github.com/pacholoamit/pachtop/commit/a8b3419) Fix App state issues
-  * [#8e50198](https://github.com/pacholoamit/pachtop/commit/8e50198) Successfully implement Appstate
-  * [#daccfeb](https://github.com/pacholoamit/pachtop/commit/daccfeb) Remove unrequired dependencies and update dependencies
-* 🔃 Merged [#16 Release v0.3.3](https://github.com/pacholoamit/pachtop/pull/16) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 20 files changed `++941 --681`
-* 🔃 Opened [#16 Release v0.3.3](https://github.com/pacholoamit/pachtop/pull/16) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 20 files changed `++941 --681`
-* ➡️ Pushed 14 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#69cbf59](https://github.com/pacholoamit/pachtop/commit/69cbf59) Merge pull request #15 from pacholoamit/staging
-
-Update Master
-  * [#19e198c](https://github.com/pacholoamit/pachtop/commit/19e198c) Merge pull request #14 from pacholoamit/improvements
-
-Improvements
-  * [#133b028](https://github.com/pacholoamit/pachtop/commit/133b028) increment version to 0.3.3
-  * [#a0c7ced](https://github.com/pacholoamit/pachtop/commit/a0c7ced) removed logger
-  * [#a6040f6](https://github.com/pacholoamit/pachtop/commit/a6040f6) Add log message
-  * [#a01e44b](https://github.com/pacholoamit/pachtop/commit/a01e44b) Add logs to Tauri commands
-  * [#8c05865](https://github.com/pacholoamit/pachtop/commit/8c05865) scaffold logger
-  * [#ec272be](https://github.com/pacholoamit/pachtop/commit/ec272be) Add log4rs
-  * [#4bce87b](https://github.com/pacholoamit/pachtop/commit/4bce87b) minor changes
-  * [#a39e5c7](https://github.com/pacholoamit/pachtop/commit/a39e5c7) Add memoization to Processes
-  * [#96c5d7d](https://github.com/pacholoamit/pachtop/commit/96c5d7d) remove sqlite and update deps
-  * [#9fae07a](https://github.com/pacholoamit/pachtop/commit/9fae07a) Merge pull request #9 from pacholoamit/master
-
-Add dependabot
-  * [#f0104e5](https://github.com/pacholoamit/pachtop/commit/f0104e5) return data
-  * [#e786aa6](https://github.com/pacholoamit/pachtop/commit/e786aa6) implement basic version for storing metrics of sysinfo periodically
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-api-prompts](https://github.com/pacholoamit/chatgpt-api-prompts) on branch `main`
+  * [#3ea0bbb](https://github.com/pacholoamit/chatgpt-api-prompts/commit/3ea0bbb) Create prompt factory
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-api-prompts](https://github.com/pacholoamit/chatgpt-api-prompts) on branch `main`
+  * [#8c93751](https://github.com/pacholoamit/chatgpt-api-prompts/commit/8c93751) Create initial version
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-api-prompts](https://github.com/pacholoamit/chatgpt-api-prompts) on branch `main`
+  * [#f2d3b26](https://github.com/pacholoamit/chatgpt-api-prompts/commit/f2d3b26) add dist
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-api-prompts](https://github.com/pacholoamit/chatgpt-api-prompts) on branch `main`
+  * [#806a979](https://github.com/pacholoamit/chatgpt-api-prompts/commit/806a979) update deps
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-api-prompts](https://github.com/pacholoamit/chatgpt-api-prompts) on branch `main`
+  * [#82e1274](https://github.com/pacholoamit/chatgpt-api-prompts/commit/82e1274) modify package.json
 
 
 ### Stalk me here ❤️
