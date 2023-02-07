@@ -163,16 +163,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators`
-  * [#1f1461b](https://github.com/pacholoamit/chatgpt-prompts/commit/1f1461b) Add LifeCoach2
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators`
-  * [#0c57362](https://github.com/pacholoamit/chatgpt-prompts/commit/0c57362) increase prompts
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators`
-  * [#14952d0](https://github.com/pacholoamit/chatgpt-prompts/commit/14952d0) Add uniqueness check
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators`
-  * [#9a1a2b9](https://github.com/pacholoamit/chatgpt-prompts/commit/9a1a2b9) Create generators structure
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators`
-  * [#bb29896](https://github.com/pacholoamit/chatgpt-prompts/commit/bb29896) generate test file
+* 🌟 Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+* 🌟 Starred [apitable/apitable](https://github.com/apitable/apitable)
+* 🌟 Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+* 🌟 Starred [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#92a818f](https://github.com/pacholoamit/chatgpt-prompts/commit/92a818f) Add feature
 
 
 ### Stalk me here ❤️
