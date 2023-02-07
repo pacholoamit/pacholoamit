@@ -163,14 +163,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#e360b60](https://github.com/pacholoamit/chatgpt-prompts/commit/e360b60) Update README.md
-* ➡️ Pushed 1 commit in [pacholoamit/awesome-chatgpt](https://github.com/pacholoamit/awesome-chatgpt) on branch `chatgpt-prompts`
-  * [#774040e](https://github.com/pacholoamit/awesome-chatgpt/commit/774040e) fix layout
-* 🔃 Opened [#57 Add chatgpt-prompts npm library to readme](https://github.com/humanloop/awesome-chatgpt/pull/57) in [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-  * 1 file changed `++14 --11`
-* ⏺️ Created new branch chatgpt-prompts in [pacholoamit/awesome-chatgpt](https://github.com/pacholoamit/awesome-chatgpt)
-* 🍽️ Forked [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) to [pacholoamit/awesome-chatgpt](https://github.com/pacholoamit/awesome-chatgpt)
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators`
+  * [#1f1461b](https://github.com/pacholoamit/chatgpt-prompts/commit/1f1461b) Add LifeCoach2
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators`
+  * [#0c57362](https://github.com/pacholoamit/chatgpt-prompts/commit/0c57362) increase prompts
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators`
+  * [#14952d0](https://github.com/pacholoamit/chatgpt-prompts/commit/14952d0) Add uniqueness check
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators`
+  * [#9a1a2b9](https://github.com/pacholoamit/chatgpt-prompts/commit/9a1a2b9) Create generators structure
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators`
+  * [#bb29896](https://github.com/pacholoamit/chatgpt-prompts/commit/bb29896) generate test file
 
 
 ### Stalk me here ❤️
