@@ -163,12 +163,37 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
-* 🌟 Starred [apitable/apitable](https://github.com/apitable/apitable)
-* 🌟 Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-* 🌟 Starred [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#92a818f](https://github.com/pacholoamit/chatgpt-prompts/commit/92a818f) Add feature
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `3991-add-signups-count-to-self-service-tag-generator-dashboard`
+  * [#bd2a60c](https://github.com/MediaJel/mediajel-dashboard/commit/bd2a60c) add field to resolver
+  * [#036f704](https://github.com/MediaJel/mediajel-dashboard/commit/036f704) Add signups to resolver
+* 🔃 Merged [#190 Merge staging to main](https://github.com/MediaJel/mediajel-tracker/pull/190) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 16 files changed `++81 --23`
+* ➡️ Pushed 14 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#7ec6871](https://github.com/MediaJel/mediajel-tracker/commit/7ec6871) Merge pull request #190 from MediaJel/staging
+
+Merge staging to main
+  * [#044c545](https://github.com/MediaJel/mediajel-tracker/commit/044c545) Merge branch &#39;develop&#39; into staging
+  * [#357488a](https://github.com/MediaJel/mediajel-tracker/commit/357488a) Merge pull request #189 from MediaJel/168-upgrade-to-universal-tag-for-liquid-impressions-collect-all-mobile-data-cell-phone-carrier-etc
+
+168 upgrade to universal tag for liquid impressions collect all mobile data cell phone carrier etc
+  * [#8b624ed](https://github.com/MediaJel/mediajel-tracker/commit/8b624ed) Add to readme
+  * [#353a3dc](https://github.com/MediaJel/mediajel-tracker/commit/353a3dc) Add parameters
+  * [#d08c57a](https://github.com/MediaJel/mediajel-tracker/commit/d08c57a) add macros to types
+  * [#3e496cc](https://github.com/MediaJel/mediajel-tracker/commit/3e496cc) Merge branch &#39;develop&#39; into staging
+  * [#cecd36d](https://github.com/MediaJel/mediajel-tracker/commit/cecd36d) Merge pull request #188 from MediaJel/179-add-xhr-request-intercept-snippet-to-sources
+
+179 add xhr request intercept snippet to sources
+  * [#817bafc](https://github.com/MediaJel/mediajel-tracker/commit/817bafc) Add xhrRequestSource
+  * [#67ac116](https://github.com/MediaJel/mediajel-tracker/commit/67ac116) modify imports
+  * [#eb1b883](https://github.com/MediaJel/mediajel-tracker/commit/eb1b883) Merge branch &#39;develop&#39; into staging
+  * [#7abfe98](https://github.com/MediaJel/mediajel-tracker/commit/7abfe98) Merge pull request #187 from MediaJel/180-add-fetch-intercept-snippet-to-sources
+
+Add Fetch Source
+  * [#74a5bc5](https://github.com/MediaJel/mediajel-tracker/commit/74a5bc5) Add function docs
+  * [#8b7f644](https://github.com/MediaJel/mediajel-tracker/commit/8b7f644) Add Fetch Source
+* 🔃 Opened [#3371 [HOTFIX] Add env vars and tagSignupUpdate](https://github.com/MediaJel/mediajel-gql-service/pull/3371) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 1 file changed `++6 --3`
+* ⏺️ Created new branch pa-hotfix-signups in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
