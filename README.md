@@ -163,13 +163,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
-* #️⃣ Opened [#3980 Self Service Tag generator V2 - Design Doc](https://github.com/MediaJel/mediajel-dashboard/issues/3980) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔃 Opened [#306 Add ChatGPT prompts to Readme](https://github.com/transitive-bullshit/chatgpt-api/pull/306) in [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)
-  * 1 file changed `++1 --0`
-* ⏺️ Created new branch readme in [pacholoamit/chatgpt-api](https://github.com/pacholoamit/chatgpt-api)
 * ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#4f16c59](https://github.com/pacholoamit/chatgpt-prompts/commit/4f16c59) Update README.md
+  * [#e360b60](https://github.com/pacholoamit/chatgpt-prompts/commit/e360b60) Update README.md
+* ➡️ Pushed 1 commit in [pacholoamit/awesome-chatgpt](https://github.com/pacholoamit/awesome-chatgpt) on branch `chatgpt-prompts`
+  * [#774040e](https://github.com/pacholoamit/awesome-chatgpt/commit/774040e) fix layout
+* 🔃 Opened [#57 Add chatgpt-prompts npm library to readme](https://github.com/humanloop/awesome-chatgpt/pull/57) in [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+  * 1 file changed `++14 --11`
+* ⏺️ Created new branch chatgpt-prompts in [pacholoamit/awesome-chatgpt](https://github.com/pacholoamit/awesome-chatgpt)
+* 🍽️ Forked [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) to [pacholoamit/awesome-chatgpt](https://github.com/pacholoamit/awesome-chatgpt)
 
 
 ### Stalk me here ❤️
