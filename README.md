@@ -163,45 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch enable-jsdoc in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#a277a96](https://github.com/pacholoamit/chatgpt-prompts/commit/a277a96) Merge pull request #1 from pacholoamit/dependabot/npm_and_yarn/types/node-18.13.0
-
-Bump @types/node from 18.11.19 to 18.13.0
-  * [#c8de39e](https://github.com/pacholoamit/chatgpt-prompts/commit/c8de39e) Bump @types/node from 18.11.19 to 18.13.0
-
-Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 18.11.19 to 18.13.0.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
-
----
-updated-dependencies:
-- dependency-name: &#34;@types/node&#34;
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#0639907](https://github.com/pacholoamit/chatgpt-prompts/commit/0639907) Merge pull request #2 from pacholoamit/dependabot/npm_and_yarn/chatgpt-4.1.3
-
-Bump chatgpt from 4.1.1 to 4.1.3
-  * [#2e021d3](https://github.com/pacholoamit/chatgpt-prompts/commit/2e021d3) Bump chatgpt from 4.1.1 to 4.1.3
-
-Bumps [chatgpt](https://github.com/transitive-bullshit/chatgpt-api) from 4.1.1 to 4.1.3.
-- [Release notes](https://github.com/transitive-bullshit/chatgpt-api/releases)
-- [Commits](https://github.com/transitive-bullshit/chatgpt-api/compare/v4.1.1...v4.1.3)
-
----
-updated-dependencies:
-- dependency-name: chatgpt
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* 🌟 Starred [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-* 🌟 Starred [huggingface/transformers](https://github.com/huggingface/transformers)
+* #️⃣ Closed [#4013 Add Dutchie Plus to Self-service tag generator &amp; GraphQL schema](https://github.com/MediaJel/mediajel-dashboard/issues/4013) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#4013 Add Dutchie Plus to Self-service tag generator &amp; GraphQL schema](https://github.com/MediaJel/mediajel-dashboard/issues/4013) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#3244 Add &#34;Signups&#34; count to self-service tag generator resolver (Graphql resolver)](https://github.com/MediaJel/mediajel-gql-service/issues/3244) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#179 Add XHR Request intercept snippet to `sources`](https://github.com/MediaJel/mediajel-tracker/issues/179) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#180 Add Fetch intercept snippet to `sources`](https://github.com/MediaJel/mediajel-tracker/issues/180) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
