@@ -163,12 +163,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/mediajel-saas-landing-page](https://github.com/pacholoamit/mediajel-saas-landing-page) on branch `main`
-  * [#8f3513a](https://github.com/pacholoamit/mediajel-saas-landing-page/commit/8f3513a) change heading
-* ⏺️ Created new branch main in [pacholoamit/mediajel-saas-landing-page](https://github.com/pacholoamit/mediajel-saas-landing-page)
-* ⏺️ Created new repository  [pacholoamit/mediajel-saas-landing-page](https://github.com/pacholoamit/mediajel-saas-landing-page)
-* ⏺️ Created new branch master in [pacholoamit/mj-saas-landing-page](https://github.com/pacholoamit/mj-saas-landing-page)
-* ⏺️ Created new repository  [pacholoamit/mj-saas-landing-page](https://github.com/pacholoamit/mj-saas-landing-page)
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `master`
+  * [#6210490](https://github.com/MediaJel/mediajel-website/commit/6210490) Add content
+  * [#c68814f](https://github.com/MediaJel/mediajel-website/commit/c68814f) Add description to basics section
+  * [#e9231ff](https://github.com/MediaJel/mediajel-website/commit/e9231ff) Add contents
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `pa-improvements`
+  * [#6210490](https://github.com/MediaJel/mediajel-website/commit/6210490) Add content
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `pa-improvements`
+  * [#c68814f](https://github.com/MediaJel/mediajel-website/commit/c68814f) Add description to basics section
+* ⏺️ Created new branch pa-improvements in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
+* ⏺️ Created new branch master in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
 
 
 ### Stalk me here ❤️
