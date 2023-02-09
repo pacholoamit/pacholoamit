@@ -163,16 +163,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `master`
-  * [#6210490](https://github.com/MediaJel/mediajel-website/commit/6210490) Add content
-  * [#c68814f](https://github.com/MediaJel/mediajel-website/commit/c68814f) Add description to basics section
-  * [#e9231ff](https://github.com/MediaJel/mediajel-website/commit/e9231ff) Add contents
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `pa-improvements`
-  * [#6210490](https://github.com/MediaJel/mediajel-website/commit/6210490) Add content
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `pa-improvements`
-  * [#c68814f](https://github.com/MediaJel/mediajel-website/commit/c68814f) Add description to basics section
-* ⏺️ Created new branch pa-improvements in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
-* ⏺️ Created new branch master in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
+* 🔃 Opened [#3382 [DOC] Add Code comment to distinguish `Dutchie` and `DutchieJS` cart provider in GQL enums](https://github.com/MediaJel/mediajel-gql-service/pull/3382) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 1 file changed `++2 --2`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `3381-add-comments-for-cartprovider-enum-dutchie-and-dutchiejs`
+  * [#9853f11](https://github.com/MediaJel/mediajel-gql-service/commit/9853f11) add code comments
+* ⏺️ Created new branch 3381-add-comments-for-cartprovider-enum-dutchie-and-dutchiejs in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4015 [For Review] Articles Feature](https://github.com/MediaJel/mediajel-dashboard/pull/4015) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4015 [For Review] Articles Feature](https://github.com/MediaJel/mediajel-dashboard/pull/4015) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 ### Stalk me here ❤️
