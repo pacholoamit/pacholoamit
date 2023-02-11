@@ -163,12 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#4037 Implement docs on self-service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4037) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#315 Standalone CRM Solution - Design Doc](https://github.com/MediaJel/mediajel/issues/315) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#191 Traffic Junky Impression tag](https://github.com/MediaJel/mediajel-tracker/issues/191) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 🔍 Reviewed [#4015 [For Review] Articles Feature](https://github.com/MediaJel/mediajel-dashboard/pull/4015) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Closed [#25 Implement Welcome Email into Salesforce Microservice](https://github.com/MediaJel/CRM-data-onboarding/issues/25) in [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding)
-* #️⃣ Closed [#3880 Dashboard tool tips &amp; quick docs - Paid Search &amp; SEO](https://github.com/MediaJel/mediajel-dashboard/issues/3880) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#3879 Dashboard tool tips &amp; quick docs - Display](https://github.com/MediaJel/mediajel-dashboard/issues/3879) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔃 Opened [#3382 [DOC] Add Code comment to distinguish `Dutchie` and `DutchieJS` cart provider in GQL enums](https://github.com/MediaJel/mediajel-gql-service/pull/3382) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 1 file changed `++2 --2`
 
 
 ### Stalk me here ❤️
