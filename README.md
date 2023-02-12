@@ -163,6 +163,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `release`
+  * [#c5dd4d4](https://github.com/pacholoamit/chatgpt-prompts/commit/c5dd4d4) Merge branch &#39;main&#39; into release
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#31211fe](https://github.com/pacholoamit/chatgpt-prompts/commit/31211fe) revert CI
 * 📦 Released **v1.2.2** of [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
 * ➡️ Pushed 12 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `release`
   * [#01bfd2f](https://github.com/pacholoamit/chatgpt-prompts/commit/01bfd2f) Merge pull request #4 from pacholoamit/main
@@ -213,9 +217,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
   * [#92a818f](https://github.com/pacholoamit/chatgpt-prompts/commit/92a818f) Add feature
 * 🔃 Merged [#4 Release v1.2.2](https://github.com/pacholoamit/chatgpt-prompts/pull/4) in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
   * 13 files changed `++1264 --1507`
-* 🔃 Opened [#4 Release v1.2.2](https://github.com/pacholoamit/chatgpt-prompts/pull/4) in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
-  * 13 files changed `++1264 --1507`
-* ⏺️ Created new tag 1.2.2 in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
 
 
 ### Stalk me here ❤️
