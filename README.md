@@ -163,60 +163,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
+* 🌟 Starred [shiftEscape/console-buddy](https://github.com/shiftEscape/console-buddy)
+* 🌟 Starred [sourcegraph/conc](https://github.com/sourcegraph/conc)
 * ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `release`
   * [#c5dd4d4](https://github.com/pacholoamit/chatgpt-prompts/commit/c5dd4d4) Merge branch &#39;main&#39; into release
 * ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
   * [#31211fe](https://github.com/pacholoamit/chatgpt-prompts/commit/31211fe) revert CI
-* 📦 Released **v1.2.2** of [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
-* ➡️ Pushed 12 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `release`
-  * [#01bfd2f](https://github.com/pacholoamit/chatgpt-prompts/commit/01bfd2f) Merge pull request #4 from pacholoamit/main
-
-Release v1.2.2
-  * [#f5901a7](https://github.com/pacholoamit/chatgpt-prompts/commit/f5901a7) Add package version
-  * [#6c9b12b](https://github.com/pacholoamit/chatgpt-prompts/commit/6c9b12b) Merge pull request #3 from pacholoamit/add-jsdoc
-
-Add JSDoc when hovering over prompts
-  * [#c39f506](https://github.com/pacholoamit/chatgpt-prompts/commit/c39f506) 1.2.2
-  * [#f7ae706](https://github.com/pacholoamit/chatgpt-prompts/commit/f7ae706) Add JSdoc for types
-  * [#0504ac7](https://github.com/pacholoamit/chatgpt-prompts/commit/0504ac7) Add doc for LinuxTerminal
-  * [#a277a96](https://github.com/pacholoamit/chatgpt-prompts/commit/a277a96) Merge pull request #1 from pacholoamit/dependabot/npm_and_yarn/types/node-18.13.0
-
-Bump @types/node from 18.11.19 to 18.13.0
-  * [#0639907](https://github.com/pacholoamit/chatgpt-prompts/commit/0639907) Merge pull request #2 from pacholoamit/dependabot/npm_and_yarn/chatgpt-4.1.3
-
-Bump chatgpt from 4.1.1 to 4.1.3
-  * [#2e021d3](https://github.com/pacholoamit/chatgpt-prompts/commit/2e021d3) Bump chatgpt from 4.1.1 to 4.1.3
-
-Bumps [chatgpt](https://github.com/transitive-bullshit/chatgpt-api) from 4.1.1 to 4.1.3.
-- [Release notes](https://github.com/transitive-bullshit/chatgpt-api/releases)
-- [Commits](https://github.com/transitive-bullshit/chatgpt-api/compare/v4.1.1...v4.1.3)
-
----
-updated-dependencies:
-- dependency-name: chatgpt
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-  * [#c8de39e](https://github.com/pacholoamit/chatgpt-prompts/commit/c8de39e) Bump @types/node from 18.11.19 to 18.13.0
-
-Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 18.11.19 to 18.13.0.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
-
----
-updated-dependencies:
-- dependency-name: &#34;@types/node&#34;
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-  * [#4a95fae](https://github.com/pacholoamit/chatgpt-prompts/commit/4a95fae) Create dependabot.yml
-  * [#92a818f](https://github.com/pacholoamit/chatgpt-prompts/commit/92a818f) Add feature
-* 🔃 Merged [#4 Release v1.2.2](https://github.com/pacholoamit/chatgpt-prompts/pull/4) in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
-  * 13 files changed `++1264 --1507`
 
 
 ### Stalk me here ❤️
