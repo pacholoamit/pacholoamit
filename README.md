@@ -163,11 +163,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [dstotijn/golang-nextjs-portable](https://github.com/dstotijn/golang-nextjs-portable)
-* 🌟 Starred [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs)
-* 🌟 Starred [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application)
-* 🌟 Starred [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
-* 🌟 Starred [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
+  * [#4c36e5c](https://github.com/MediaJel/mediajel-website/commit/4c36e5c) comment out unrequired import
+  * [#35280a2](https://github.com/MediaJel/mediajel-website/commit/35280a2) Add section ownership
+* 🔃 Opened [#11 [DO NOT MERGE] Overhaul](https://github.com/MediaJel/mediajel-website/pull/11) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
+  * 1 file changed `++4 --4`
+* ⏺️ Created new branch website-rollout in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
+* #️⃣ Opened [#10 Replace Default Logos with Mediajel Assets](https://github.com/MediaJel/mediajel-website/issues/10) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
+* #️⃣ Opened [#9 Modify &#34;Official Partners With&#34; section to &#34;Integrations With&#34; section](https://github.com/MediaJel/mediajel-website/issues/9) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
 
 
 ### Stalk me here ❤️
