@@ -163,12 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#3913 [For Review] Quick Docs Component](https://github.com/MediaJel/mediajel-dashboard/pull/3913) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#316 New Aggregate Impressions View - Design Doc](https://github.com/MediaJel/mediajel/issues/316) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🌟 Starred [gothinkster/realworld](https://github.com/gothinkster/realworld)
-* 🌟 Starred [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate)
-* 🔃 Opened [#3390 [FOR REVIEW] Modify text returned in `getbasictagactivity` to include estimate time to completion](https://github.com/MediaJel/mediajel-gql-service/pull/3390) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 1 file changed `++1 --1`
+* 🌟 Starred [dstotijn/golang-nextjs-portable](https://github.com/dstotijn/golang-nextjs-portable)
+* 🌟 Starred [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs)
+* 🌟 Starred [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application)
+* 🌟 Starred [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
+* 🌟 Starred [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)
 
 
 ### Stalk me here ❤️
