@@ -163,15 +163,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#57 Add chatgpt-prompts npm library to readme](https://github.com/humanloop/awesome-chatgpt/pull/57) in [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-  * 1 file changed `++1 --0`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
-  * [#4c36e5c](https://github.com/MediaJel/mediajel-website/commit/4c36e5c) comment out unrequired import
-  * [#35280a2](https://github.com/MediaJel/mediajel-website/commit/35280a2) Add section ownership
-* 🔃 Opened [#11 [DO NOT MERGE] Overhaul](https://github.com/MediaJel/mediajel-website/pull/11) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
-  * 1 file changed `++4 --4`
-* ⏺️ Created new branch website-rollout in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
-* #️⃣ Opened [#10 Replace Default Logos with Mediajel Assets](https://github.com/MediaJel/mediajel-website/issues/10) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
+* 💬 Commented on [#319 Provide guidance on Royce Adaro in integrations](https://github.com/MediaJel/mediajel/issues/319) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#319 Provide guidance on Royce Adaro in integrations](https://github.com/MediaJel/mediajel/issues/319) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#12 Write &#34;Integration&#34; related topics](https://github.com/MediaJel/mediajel-website/issues/12) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
+  * [#2a2d01b](https://github.com/MediaJel/mediajel-website/commit/2a2d01b) Remove sentences
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
+  * [#d7ce925](https://github.com/MediaJel/mediajel-website/commit/d7ce925) Add content to Pach Section
 
 
 ### Stalk me here ❤️
