@@ -163,6 +163,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Closed [#57 Add chatgpt-prompts npm library to readme](https://github.com/humanloop/awesome-chatgpt/pull/57) in [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+  * 1 file changed `++1 --0`
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
   * [#4c36e5c](https://github.com/MediaJel/mediajel-website/commit/4c36e5c) comment out unrequired import
   * [#35280a2](https://github.com/MediaJel/mediajel-website/commit/35280a2) Add section ownership
@@ -170,7 +172,6 @@
   * 1 file changed `++4 --4`
 * ⏺️ Created new branch website-rollout in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
 * #️⃣ Opened [#10 Replace Default Logos with Mediajel Assets](https://github.com/MediaJel/mediajel-website/issues/10) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
-* #️⃣ Opened [#9 Modify &#34;Official Partners With&#34; section to &#34;Integrations With&#34; section](https://github.com/MediaJel/mediajel-website/issues/9) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
 
 
 ### Stalk me here ❤️
