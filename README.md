@@ -163,11 +163,29 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#6031e25](https://github.com/pacholoamit/chatgpt-prompts/commit/6031e25) Merge pull request #7 from pacholoamit/dependabot/npm_and_yarn/csv-6.2.7
+
+Bump csv from 6.2.6 to 6.2.7
+  * [#98e736a](https://github.com/pacholoamit/chatgpt-prompts/commit/98e736a) Bump csv from 6.2.6 to 6.2.7
+
+Bumps [csv](https://github.com/adaltas/node-csv/tree/HEAD/packages/csv) from 6.2.6 to 6.2.7.
+- [Release notes](https://github.com/adaltas/node-csv/releases)
+- [Changelog](https://github.com/adaltas/node-csv/blob/master/packages/csv/CHANGELOG.md)
+- [Commits](https://github.com/adaltas/node-csv/commits/csv@6.2.7/packages/csv)
+
+---
+updated-dependencies:
+- dependency-name: csv
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* 🌟 Starred [google/styleguide](https://github.com/google/styleguide)
 * 🌟 Starred [activepieces/activepieces](https://github.com/activepieces/activepieces)
 * 🔍 Reviewed [#4015 [For Review] Articles Feature](https://github.com/MediaJel/mediajel-dashboard/pull/4015) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#3399 New Integration Docusign](https://github.com/MediaJel/mediajel-gql-service/issues/3399) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#3398 New Integration Quickbooks](https://github.com/MediaJel/mediajel-gql-service/issues/3398) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#3397 New Integration Google Search Console API](https://github.com/MediaJel/mediajel-gql-service/issues/3397) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
