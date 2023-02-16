@@ -163,13 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#319 Provide guidance on Royce Adaro in integrations](https://github.com/MediaJel/mediajel/issues/319) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#319 Provide guidance on Royce Adaro in integrations](https://github.com/MediaJel/mediajel/issues/319) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#12 Write &#34;Integration&#34; related topics](https://github.com/MediaJel/mediajel-website/issues/12) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
-  * [#2a2d01b](https://github.com/MediaJel/mediajel-website/commit/2a2d01b) Remove sentences
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
-  * [#d7ce925](https://github.com/MediaJel/mediajel-website/commit/d7ce925) Add content to Pach Section
+* 🌟 Starred [activepieces/activepieces](https://github.com/activepieces/activepieces)
+* 🔍 Reviewed [#4015 [For Review] Articles Feature](https://github.com/MediaJel/mediajel-dashboard/pull/4015) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#3399 New Integration Docusign](https://github.com/MediaJel/mediajel-gql-service/issues/3399) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#3398 New Integration Quickbooks](https://github.com/MediaJel/mediajel-gql-service/issues/3398) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#3397 New Integration Google Search Console API](https://github.com/MediaJel/mediajel-gql-service/issues/3397) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
