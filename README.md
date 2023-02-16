@@ -163,6 +163,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
+  * [#8eebb4c](https://github.com/MediaJel/mediajel-website/commit/8eebb4c) re-enable codeql
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
+  * [#4f6673b](https://github.com/MediaJel/mediajel-website/commit/4f6673b) Add integrations logos
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
+  * [#6ded616](https://github.com/MediaJel/mediajel-website/commit/6ded616) temporarily disable codeql
 * ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
   * [#6031e25](https://github.com/pacholoamit/chatgpt-prompts/commit/6031e25) Merge pull request #7 from pacholoamit/dependabot/npm_and_yarn/csv-6.2.7
 
@@ -183,9 +189,6 @@ updated-dependencies:
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * 🌟 Starred [google/styleguide](https://github.com/google/styleguide)
-* 🌟 Starred [activepieces/activepieces](https://github.com/activepieces/activepieces)
-* 🔍 Reviewed [#4015 [For Review] Articles Feature](https://github.com/MediaJel/mediajel-dashboard/pull/4015) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#3399 New Integration Docusign](https://github.com/MediaJel/mediajel-gql-service/issues/3399) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
