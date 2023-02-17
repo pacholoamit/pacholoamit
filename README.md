@@ -163,13 +163,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-new-integrations`
-  * [#28c6cc4](https://github.com/MediaJel/mediajel-gql-service/commit/28c6cc4) Create SEMRush client
-  * [#8c52135](https://github.com/MediaJel/mediajel-gql-service/commit/8c52135) Add SEMRush basic scaffold
-* 💬 Commented on [#322 New Integration SEM Rush](https://github.com/MediaJel/mediajel/issues/322) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#322 New Integration SEM Rush](https://github.com/MediaJel/mediajel/issues/322) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ⏺️ Created new branch pa-new-integrations in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4072 Self-service tag generator implement introspection](https://github.com/MediaJel/mediajel-dashboard/pull/4072) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
+  * [#20b2030](https://github.com/MediaJel/mediajel-dashboard/commit/20b2030) checkpoint
+* 💬 Commented on [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-new-integrations`
+  * [#15f4f75](https://github.com/MediaJel/mediajel-gql-service/commit/15f4f75) Change variable name
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-new-integrations`
+  * [#e3f2b91](https://github.com/MediaJel/mediajel-gql-service/commit/e3f2b91) Modify entry functions so that it&#39;s not self-invoking
 
 
 ### Stalk me here ❤️
