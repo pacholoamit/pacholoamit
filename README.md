@@ -163,13 +163,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
-  * [#d651d7a](https://github.com/MediaJel/mediajel-dashboard/commit/d651d7a) modify QuickDocs view to take in children React Nodes instead of content params
-* ⏺️ Created new branch pa-implement-documentation-on-paid-search-features-in-the-dashboard in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
-  * [#1342642](https://github.com/MediaJel/mediajel-website/commit/1342642) Add additional partners
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-new-integrations`
+  * [#28c6cc4](https://github.com/MediaJel/mediajel-gql-service/commit/28c6cc4) Create SEMRush client
+  * [#8c52135](https://github.com/MediaJel/mediajel-gql-service/commit/8c52135) Add SEMRush basic scaffold
+* 💬 Commented on [#322 New Integration SEM Rush](https://github.com/MediaJel/mediajel/issues/322) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#322 New Integration SEM Rush](https://github.com/MediaJel/mediajel/issues/322) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ⏺️ Created new branch pa-new-integrations in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
