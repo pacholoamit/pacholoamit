@@ -163,15 +163,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
   * [#d651d7a](https://github.com/MediaJel/mediajel-dashboard/commit/d651d7a) modify QuickDocs view to take in children React Nodes instead of content params
 * ⏺️ Created new branch pa-implement-documentation-on-paid-search-features-in-the-dashboard in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
   * [#1342642](https://github.com/MediaJel/mediajel-website/commit/1342642) Add additional partners
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
-  * [#8eebb4c](https://github.com/MediaJel/mediajel-website/commit/8eebb4c) re-enable codeql
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `website-rollout`
-  * [#4f6673b](https://github.com/MediaJel/mediajel-website/commit/4f6673b) Add integrations logos
 
 
 ### Stalk me here ❤️
