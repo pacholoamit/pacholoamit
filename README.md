@@ -163,14 +163,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [apache/superset](https://github.com/apache/superset)
 * 🔍 Reviewed [#4072 Self-service tag generator implement introspection](https://github.com/MediaJel/mediajel-dashboard/pull/4072) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
   * [#20b2030](https://github.com/MediaJel/mediajel-dashboard/commit/20b2030) checkpoint
 * 💬 Commented on [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-new-integrations`
   * [#15f4f75](https://github.com/MediaJel/mediajel-gql-service/commit/15f4f75) Change variable name
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-new-integrations`
-  * [#e3f2b91](https://github.com/MediaJel/mediajel-gql-service/commit/e3f2b91) Modify entry functions so that it&#39;s not self-invoking
 
 
 ### Stalk me here ❤️
