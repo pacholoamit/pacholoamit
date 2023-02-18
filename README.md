@@ -163,29 +163,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#d9806ca](https://github.com/pacholoamit/chatgpt-prompts/commit/d9806ca) Merge pull request #8 from pacholoamit/dependabot/npm_and_yarn/chatgpt-4.4.1
-
-Bump chatgpt from 4.1.3 to 4.4.1
-  * [#a2aebd7](https://github.com/pacholoamit/chatgpt-prompts/commit/a2aebd7) Bump chatgpt from 4.1.3 to 4.4.1
-
-Bumps [chatgpt](https://github.com/transitive-bullshit/chatgpt-api) from 4.1.3 to 4.4.1.
-- [Release notes](https://github.com/transitive-bullshit/chatgpt-api/releases)
-- [Commits](https://github.com/transitive-bullshit/chatgpt-api/compare/v4.1.3...v4.4.1)
-
----
-updated-dependencies:
-- dependency-name: chatgpt
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* 🌟 Starred [apache/superset](https://github.com/apache/superset)
-* 🔍 Reviewed [#4072 Self-service tag generator implement introspection](https://github.com/MediaJel/mediajel-dashboard/pull/4072) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
-  * [#20b2030](https://github.com/MediaJel/mediajel-dashboard/commit/20b2030) checkpoint
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators-functionality`
+  * [#53f9289](https://github.com/pacholoamit/chatgpt-prompts/commit/53f9289) Add environment vars to jest &amp; added setTimeout operation
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators-functionality`
+  * [#995bbb2](https://github.com/pacholoamit/chatgpt-prompts/commit/995bbb2) Add technologyTransferer &amp; spokenEnglishTeacherAndImprover prompt
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators-functionality`
+  * [#2867649](https://github.com/pacholoamit/chatgpt-prompts/commit/2867649) BREAKING: no longer require an instance of ChatGPTAPI to be passed in to createChatGPTPrompt and added tests
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators-functionality`
+  * [#3a183d7](https://github.com/pacholoamit/chatgpt-prompts/commit/3a183d7) Remove coverage
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators-functionality`
+  * [#63386f1](https://github.com/pacholoamit/chatgpt-prompts/commit/63386f1) Add coverage to gitignore
+  * [#4b4563a](https://github.com/pacholoamit/chatgpt-prompts/commit/4b4563a) Create basic test
 
 
 ### Stalk me here ❤️
