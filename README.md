@@ -163,13 +163,29 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#d9806ca](https://github.com/pacholoamit/chatgpt-prompts/commit/d9806ca) Merge pull request #8 from pacholoamit/dependabot/npm_and_yarn/chatgpt-4.4.1
+
+Bump chatgpt from 4.1.3 to 4.4.1
+  * [#a2aebd7](https://github.com/pacholoamit/chatgpt-prompts/commit/a2aebd7) Bump chatgpt from 4.1.3 to 4.4.1
+
+Bumps [chatgpt](https://github.com/transitive-bullshit/chatgpt-api) from 4.1.3 to 4.4.1.
+- [Release notes](https://github.com/transitive-bullshit/chatgpt-api/releases)
+- [Commits](https://github.com/transitive-bullshit/chatgpt-api/compare/v4.1.3...v4.4.1)
+
+---
+updated-dependencies:
+- dependency-name: chatgpt
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * 🌟 Starred [apache/superset](https://github.com/apache/superset)
 * 🔍 Reviewed [#4072 Self-service tag generator implement introspection](https://github.com/MediaJel/mediajel-dashboard/pull/4072) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
   * [#20b2030](https://github.com/MediaJel/mediajel-dashboard/commit/20b2030) checkpoint
 * 💬 Commented on [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-new-integrations`
-  * [#15f4f75](https://github.com/MediaJel/mediajel-gql-service/commit/15f4f75) Change variable name
 
 
 ### Stalk me here ❤️
