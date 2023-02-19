@@ -163,17 +163,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators-functionality`
-  * [#53f9289](https://github.com/pacholoamit/chatgpt-prompts/commit/53f9289) Add environment vars to jest &amp; added setTimeout operation
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators-functionality`
-  * [#995bbb2](https://github.com/pacholoamit/chatgpt-prompts/commit/995bbb2) Add technologyTransferer &amp; spokenEnglishTeacherAndImprover prompt
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators-functionality`
-  * [#2867649](https://github.com/pacholoamit/chatgpt-prompts/commit/2867649) BREAKING: no longer require an instance of ChatGPTAPI to be passed in to createChatGPTPrompt and added tests
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators-functionality`
-  * [#3a183d7](https://github.com/pacholoamit/chatgpt-prompts/commit/3a183d7) Remove coverage
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `improve-generators-functionality`
-  * [#63386f1](https://github.com/pacholoamit/chatgpt-prompts/commit/63386f1) Add coverage to gitignore
-  * [#4b4563a](https://github.com/pacholoamit/chatgpt-prompts/commit/4b4563a) Create basic test
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#2f4e667](https://github.com/pacholoamit/chatgpt-prompts/commit/2f4e667) Write type for PromptGenerator
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#29e4a70](https://github.com/pacholoamit/chatgpt-prompts/commit/29e4a70) Cleanup exports of prompts-generator &amp; readme-generator
+* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#f3968ad](https://github.com/pacholoamit/chatgpt-prompts/commit/f3968ad) Cleanup generators
 
 
 ### Stalk me here ❤️
