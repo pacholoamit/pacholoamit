@@ -163,12 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#2f4e667](https://github.com/pacholoamit/chatgpt-prompts/commit/2f4e667) Write type for PromptGenerator
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#29e4a70](https://github.com/pacholoamit/chatgpt-prompts/commit/29e4a70) Cleanup exports of prompts-generator &amp; readme-generator
-* ➡️ Pushed 1 commit in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#f3968ad](https://github.com/pacholoamit/chatgpt-prompts/commit/f3968ad) Cleanup generators
+* 🔍 Reviewed [#3409 [IN PROGRESS] Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3409 Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3409 Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3409 Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3409 Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
