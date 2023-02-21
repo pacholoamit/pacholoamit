@@ -163,11 +163,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#3409 [FOR REVIEW] Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `campaign-status-observer`
+  * [#82ea70c](https://github.com/MediaJel/mediajel-gql-service/commit/82ea70c) Set slack channel to production channel
 * 🔍 Reviewed [#3409 [IN PROGRESS] Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#3409 Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#3409 Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3409 Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#3409 Campaign status observer](https://github.com/MediaJel/mediajel-gql-service/pull/3409) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
