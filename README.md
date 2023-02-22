@@ -163,11 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#168 Upgrade to universal tag for liquid impressions - collect all mobile data - cell phone carrier etc.](https://github.com/MediaJel/mediajel-tracker/issues/168) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#168 Upgrade to universal tag for liquid impressions - collect all mobile data - cell phone carrier etc.](https://github.com/MediaJel/mediajel-tracker/issues/168) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#194 Research on Snowplow GDPR consent mechanisms](https://github.com/MediaJel/mediajel-tracker/issues/194) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Opened [#194 Research on Snowplow GDPR consent mechanisms](https://github.com/MediaJel/mediajel-tracker/issues/194) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Closed [#3108 Add Campaign Status (Live/In Attribution) to transaction observer message](https://github.com/MediaJel/mediajel-gql-service/issues/3108) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#321 Create Presentation for creating Design Docs](https://github.com/MediaJel/mediajel/issues/321) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#168 Upgrade to universal tag for liquid impressions - collect all mobile data - cell phone carrier etc.](https://github.com/MediaJel/mediajel-tracker/issues/168) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
