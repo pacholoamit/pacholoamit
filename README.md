@@ -163,11 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust)
 * 💬 Commented on [#191 Traffic Junky Impression tag](https://github.com/MediaJel/mediajel-tracker/issues/191) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#191 Traffic Junky Impression tag](https://github.com/MediaJel/mediajel-tracker/issues/191) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Reopened [#3108 Add Campaign Status (Live/In Attribution) to transaction observer message](https://github.com/MediaJel/mediajel-gql-service/issues/3108) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#3108 Add Campaign Status (Live/In Attribution) to transaction observer message](https://github.com/MediaJel/mediajel-gql-service/issues/3108) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Reopened [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 ### Stalk me here ❤️
