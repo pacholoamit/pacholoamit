@@ -163,30 +163,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#29 Implement Production Deployment for CRM Data Onboarding repo](https://github.com/MediaJel/CRM-data-onboarding/issues/29) in [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding)
-* #️⃣ Closed [#318 Create &#34;beautified&#34; template of SEMRush report](https://github.com/MediaJel/mediajel/issues/318) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#e645e92](https://github.com/pacholoamit/chatgpt-prompts/commit/e645e92) Merge pull request #14 from pacholoamit/dependabot/npm_and_yarn/axios-1.3.3
+* 🌟 Starred [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#87d3137](https://github.com/MediaJel/mediajel-tracker/commit/87d3137) Merge pull request #195 from MediaJel/ekc-liquidm-segment
 
-Bump axios from 1.3.2 to 1.3.3
-  * [#f966225](https://github.com/pacholoamit/chatgpt-prompts/commit/f966225) Bump axios from 1.3.2 to 1.3.3
-
-Bumps [axios](https://github.com/axios/axios) from 1.3.2 to 1.3.3.
-- [Release notes](https://github.com/axios/axios/releases)
-- [Changelog](https://github.com/axios/axios/blob/v1.x/CHANGELOG.md)
-- [Commits](https://github.com/axios/axios/compare/v1.3.2...v1.3.3)
-
----
-updated-dependencies:
-- dependency-name: axios
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `feat/improve-cache`
-  * [#e04ba8e](https://github.com/pacholoamit/mozart/commit/e04ba8e) Add todo
+[IN PROGRESS] liquid m segment pixel
+  * [#51cd418](https://github.com/MediaJel/mediajel-tracker/commit/51cd418) liquid m segment pixel
+* 🔃 Merged [#195 [IN PROGRESS] liquid m segment pixel](https://github.com/MediaJel/mediajel-tracker/pull/195) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++26 --1`
+* 🔍 Reviewed [#195 [IN PROGRESS] liquid m segment pixel](https://github.com/MediaJel/mediajel-tracker/pull/195) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#168 Upgrade to universal tag for liquid impressions - collect all mobile data - cell phone carrier etc.](https://github.com/MediaJel/mediajel-tracker/issues/168) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
