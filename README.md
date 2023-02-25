@@ -163,18 +163,24 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `feat/improve-cache`
-  * [#fc95e65](https://github.com/pacholoamit/mozart/commit/fc95e65) Update dependencies and error types
-* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `feat/improve-cache`
-  * [#c178e6f](https://github.com/pacholoamit/mozart/commit/c178e6f) Add Makefile
-* 🌟 Starred [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#87d3137](https://github.com/MediaJel/mediajel-tracker/commit/87d3137) Merge pull request #195 from MediaJel/ekc-liquidm-segment
+* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `feat/implement-trait-for-cache`
+  * [#601ceef](https://github.com/pacholoamit/mozart/commit/601ceef) Add `common` module and update dependencies for `Cache` trait and `KeyValue` struct
+* 🔃 Opened [#5 Implement traits for Cache and HashmapCache](https://github.com/pacholoamit/mozart/pull/5) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
+  * 4 files changed `++38 --25`
+* ⏺️ Created new branch feat/implement-trait-for-cache in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
+* ➡️ Pushed 8 commits in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `master`
+  * [#69705b9](https://github.com/pacholoamit/mozart/commit/69705b9) Merge pull request #4 from pacholoamit/feat/improve-cache
 
-[IN PROGRESS] liquid m segment pixel
-  * [#51cd418](https://github.com/MediaJel/mediajel-tracker/commit/51cd418) liquid m segment pixel
-* 🔃 Merged [#195 [IN PROGRESS] liquid m segment pixel](https://github.com/MediaJel/mediajel-tracker/pull/195) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++26 --1`
+Feat/improve cache
+  * [#74a3df2](https://github.com/pacholoamit/mozart/commit/74a3df2) Add dynamic implementation of Cache value
+  * [#fc95e65](https://github.com/pacholoamit/mozart/commit/fc95e65) Update dependencies and error types
+  * [#c178e6f](https://github.com/pacholoamit/mozart/commit/c178e6f) Add Makefile
+  * [#e04ba8e](https://github.com/pacholoamit/mozart/commit/e04ba8e) Add todo
+  * [#87f5808](https://github.com/pacholoamit/mozart/commit/87f5808) Update tests to reflect changes to cache.rs
+  * [#8b5c1e9](https://github.com/pacholoamit/mozart/commit/8b5c1e9) Update tests for cache to use `Ok` instead of `unwrap` and remove unused `CacheKeyNotFound` error
+  * [#cf8f06d](https://github.com/pacholoamit/mozart/commit/cf8f06d) Update cache implementation to improve set and get methods
+* 🔃 Merged [#4 Feat/improve cache](https://github.com/pacholoamit/mozart/pull/4) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
+  * 6 files changed `++82 --60`
 
 
 ### Stalk me here ❤️
