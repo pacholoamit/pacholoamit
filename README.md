@@ -163,39 +163,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#14da7d8](https://github.com/pacholoamit/chatgpt-prompts/commit/14da7d8) Merge pull request #13 from pacholoamit/dependabot/npm_and_yarn/chatgpt-4.7.1
-
-Bump chatgpt from 4.4.1 to 4.7.1
-  * [#670cd6e](https://github.com/pacholoamit/chatgpt-prompts/commit/670cd6e) Merge branch &#39;main&#39; into dependabot/npm_and_yarn/chatgpt-4.7.1
-  * [#7442ef1](https://github.com/pacholoamit/chatgpt-prompts/commit/7442ef1) Bump chatgpt from 4.4.1 to 4.7.1
-
-Bumps [chatgpt](https://github.com/transitive-bullshit/chatgpt-api) from 4.4.1 to 4.7.1.
-- [Release notes](https://github.com/transitive-bullshit/chatgpt-api/releases)
-- [Commits](https://github.com/transitive-bullshit/chatgpt-api/compare/v4.4.1...v4.7.1)
-
----
-updated-dependencies:
-- dependency-name: chatgpt
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 3 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `dependabot/npm_and_yarn/chatgpt-4.7.1`
-  * [#670cd6e](https://github.com/pacholoamit/chatgpt-prompts/commit/670cd6e) Merge branch &#39;main&#39; into dependabot/npm_and_yarn/chatgpt-4.7.1
-* ➡️ Pushed 5 commits in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `master`
-  * [#6a85c32](https://github.com/pacholoamit/mozart/commit/6a85c32) Merge pull request #6 from pacholoamit/feat/add-methods-to-cache
-
-Add Methods to cache
-  * [#dfecc35](https://github.com/pacholoamit/mozart/commit/dfecc35) Refactor tests in hashmap.rs to use module tests
-  * [#ee77a21](https://github.com/pacholoamit/mozart/commit/ee77a21) Add has method to HashMapCache
-  * [#a88f8a2](https://github.com/pacholoamit/mozart/commit/a88f8a2) Add support for get, get_multiple, delete, delete_multiple, and keys methods in HashMapCache
-  * [#343cd2d](https://github.com/pacholoamit/mozart/commit/343cd2d) Add server implementation and setup TcpListener
-* 🔃 Merged [#6 Add Methods to cache](https://github.com/pacholoamit/mozart/pull/6) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
-  * 5 files changed `++100 --26`
+* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `feat/add-tcp`
+  * [#7a01ccd](https://github.com/pacholoamit/mozart/commit/7a01ccd) Add client and server bin files and support for running them
+* ⏺️ Created new branch feat/add-tcp in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
+* 🔃 Closed [#7 Feat/add methods to cache](https://github.com/pacholoamit/mozart/pull/7) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
+  * 5 files changed `++41 --21`
+* 🔃 Opened [#7 Feat/add methods to cache](https://github.com/pacholoamit/mozart/pull/7) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
+  * 5 files changed `++41 --21`
 * ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `feat/add-methods-to-cache`
-  * [#dfecc35](https://github.com/pacholoamit/mozart/commit/dfecc35) Refactor tests in hashmap.rs to use module tests
+  * [#9984a66](https://github.com/pacholoamit/mozart/commit/9984a66) Refactor cache code to use new struct and methods
 
 
 ### Stalk me here ❤️
