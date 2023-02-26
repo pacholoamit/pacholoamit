@@ -163,15 +163,30 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `feat/add-tcp`
+* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `minor/add-grpc-result`
+  * [#208ddd5](https://github.com/pacholoamit/mozart/commit/208ddd5) Cleanup code
+* 🔃 Opened [#9 Create GrpcResult generic type](https://github.com/pacholoamit/mozart/pull/9) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
+  * 1 file changed `++4 --8`
+* ⏺️ Created new branch minor/add-grpc-result in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
+* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `feat/add-grpc`
+  * [#dffae78](https://github.com/pacholoamit/mozart/commit/dffae78) Create GrpcResult generic type
+* ➡️ Pushed 14 commits in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `master`
+  * [#91b134d](https://github.com/pacholoamit/mozart/commit/91b134d) Merge pull request #8 from pacholoamit/feat/add-grpc
+
+feat/add grpc
+  * [#2d42b5b](https://github.com/pacholoamit/mozart/commit/2d42b5b) remove server.rs
+  * [#4843dc3](https://github.com/pacholoamit/mozart/commit/4843dc3) remove dep
+  * [#961a9fe](https://github.com/pacholoamit/mozart/commit/961a9fe) Add repo-token to increase limits
+  * [#c996230](https://github.com/pacholoamit/mozart/commit/c996230) change
+  * [#0eda496](https://github.com/pacholoamit/mozart/commit/0eda496) Use setup-protoc action
+  * [#12eebd9](https://github.com/pacholoamit/mozart/commit/12eebd9) Add step in CI to install protoc
+  * [#18db4e2](https://github.com/pacholoamit/mozart/commit/18db4e2) Update imports for cache client and server
+  * [#0588a57](https://github.com/pacholoamit/mozart/commit/0588a57) Create basic example of gRPC client and server
+  * [#2ea83db](https://github.com/pacholoamit/mozart/commit/2ea83db) Scaffold cache proto &amp; gRPC
   * [#7a01ccd](https://github.com/pacholoamit/mozart/commit/7a01ccd) Add client and server bin files and support for running them
-* ⏺️ Created new branch feat/add-tcp in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
-* 🔃 Closed [#7 Feat/add methods to cache](https://github.com/pacholoamit/mozart/pull/7) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
-  * 5 files changed `++41 --21`
-* 🔃 Opened [#7 Feat/add methods to cache](https://github.com/pacholoamit/mozart/pull/7) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
-  * 5 files changed `++41 --21`
-* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `feat/add-methods-to-cache`
   * [#9984a66](https://github.com/pacholoamit/mozart/commit/9984a66) Refactor cache code to use new struct and methods
+  * [#c41ba61](https://github.com/pacholoamit/mozart/commit/c41ba61) Add HashMapCache and set/get functionality for Cache trait
+  * [#758bac9](https://github.com/pacholoamit/mozart/commit/758bac9) Add Cache::create() method to create a new Cache instance
 
 
 ### Stalk me here ❤️
