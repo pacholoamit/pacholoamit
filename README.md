@@ -163,23 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 6 commits in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `master`
-  * [#30f6fc4](https://github.com/pacholoamit/mozart/commit/30f6fc4) Merge pull request #9 from pacholoamit/minor/add-grpc-result
-
-Create GrpcResult generic type
-  * [#cd76ebb](https://github.com/pacholoamit/mozart/commit/cd76ebb) Add Todo for SharedCache
-  * [#6b397ed](https://github.com/pacholoamit/mozart/commit/6b397ed) Add Debug + Send + Sync + &#39;static traits to CacheLike trait and its HashMapCache implementation
-  * [#f97b66f](https://github.com/pacholoamit/mozart/commit/f97b66f) Checkpoint
-  * [#208ddd5](https://github.com/pacholoamit/mozart/commit/208ddd5) Cleanup code
-  * [#dffae78](https://github.com/pacholoamit/mozart/commit/dffae78) Create GrpcResult generic type
-* 🔃 Merged [#9 Create GrpcResult generic type](https://github.com/pacholoamit/mozart/pull/9) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
-  * 9 files changed `++151 --84`
-* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `minor/add-grpc-result`
-  * [#cd76ebb](https://github.com/pacholoamit/mozart/commit/cd76ebb) Add Todo for SharedCache
-* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `minor/add-grpc-result`
-  * [#6b397ed](https://github.com/pacholoamit/mozart/commit/6b397ed) Add Debug + Send + Sync + &#39;static traits to CacheLike trait and its HashMapCache implementation
-* ➡️ Pushed 1 commit in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `minor/add-grpc-result`
-  * [#f97b66f](https://github.com/pacholoamit/mozart/commit/f97b66f) Checkpoint
+* 💬 Commented on [#159 Construct Liquid M tag dynamically via implementing a `segmentId` parameter](https://github.com/MediaJel/mediajel-tracker/issues/159) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#320 Search for Tableau alternatives](https://github.com/MediaJel/mediajel/issues/320) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#327 Create Canned Emails that goes with Documentation](https://github.com/MediaJel/mediajel/issues/327) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#327 Create Canned Emails that goes with Documentation](https://github.com/MediaJel/mediajel/issues/327) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#326 Make sure UTM parameters are getting persisted](https://github.com/MediaJel/mediajel/issues/326) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 ### Stalk me here ❤️
