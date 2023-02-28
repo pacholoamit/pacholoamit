@@ -163,17 +163,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/mozart](https://github.com/pacholoamit/mozart) on branch `master`
-  * [#f8d7c0d](https://github.com/pacholoamit/mozart/commit/f8d7c0d) Merge pull request #10 from pacholoamit/minor/refactor-arc-mutex-to-shared
-
-Remove unnecessary imports and add ToShared utility module
-  * [#5d2df29](https://github.com/pacholoamit/mozart/commit/5d2df29) Remove unnecessary imports and add ToShared utility module
-* 🔃 Merged [#10 Remove unnecessary imports and add ToShared utility module](https://github.com/pacholoamit/mozart/pull/10) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
-  * 5 files changed `++25 --22`
-* 🔃 Opened [#10 Remove unnecessary imports and add ToShared utility module](https://github.com/pacholoamit/mozart/pull/10) in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
-  * 5 files changed `++25 --22`
-* ⏺️ Created new branch minor/refactor-arc-mutex-to-shared in [pacholoamit/mozart](https://github.com/pacholoamit/mozart)
-* 🌟 Starred [quickwit-oss/chitchat](https://github.com/quickwit-oss/chitchat)
+* #️⃣ Closed [#319 Provide guidance on Royce Adaro in integrations](https://github.com/MediaJel/mediajel/issues/319) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
+  * [#1141f32](https://github.com/MediaJel/mediajel-dashboard/commit/1141f32) Add instructions on self-service tag generator
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
+  * [#575930e](https://github.com/MediaJel/mediajel-dashboard/commit/575930e) Delte quick docs view route
+* 💬 Commented on [#326 Make sure UTM parameters are getting persisted](https://github.com/MediaJel/mediajel/issues/326) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
+  * [#2b9165c](https://github.com/MediaJel/mediajel-dashboard/commit/2b9165c) Add Quick Docs
 
 
 ### Stalk me here ❤️
