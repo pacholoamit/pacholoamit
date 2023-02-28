@@ -163,11 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [tillberg/gut](https://github.com/tillberg/gut)
 * 💬 Commented on [#159 Construct Liquid M tag dynamically via implementing a `segmentId` parameter](https://github.com/MediaJel/mediajel-tracker/issues/159) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Closed [#320 Search for Tableau alternatives](https://github.com/MediaJel/mediajel/issues/320) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#327 Create Canned Emails that goes with Documentation](https://github.com/MediaJel/mediajel/issues/327) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#327 Create Canned Emails that goes with Documentation](https://github.com/MediaJel/mediajel/issues/327) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#326 Make sure UTM parameters are getting persisted](https://github.com/MediaJel/mediajel/issues/326) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 ### Stalk me here ❤️
