@@ -163,14 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#319 Provide guidance on Royce Adaro in integrations](https://github.com/MediaJel/mediajel/issues/319) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
-  * [#1141f32](https://github.com/MediaJel/mediajel-dashboard/commit/1141f32) Add instructions on self-service tag generator
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
-  * [#575930e](https://github.com/MediaJel/mediajel-dashboard/commit/575930e) Delte quick docs view route
-* 💬 Commented on [#326 Make sure UTM parameters are getting persisted](https://github.com/MediaJel/mediajel/issues/326) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
-  * [#2b9165c](https://github.com/MediaJel/mediajel-dashboard/commit/2b9165c) Add Quick Docs
+* 💬 Commented on [#3209 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/issues/3209) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#328 Analyze Bad bucket of Snowplow tracker](https://github.com/MediaJel/mediajel/issues/328) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#193 New ecomm platform &#34;Weave&#34; - integration assessment](https://github.com/MediaJel/mediajel-tracker/issues/193) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
