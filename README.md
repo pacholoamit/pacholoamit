@@ -163,11 +163,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3209 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/issues/3209) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#328 Analyze Bad bucket of Snowplow tracker](https://github.com/MediaJel/mediajel/issues/328) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#193 New ecomm platform &#34;Weave&#34; - integration assessment](https://github.com/MediaJel/mediajel-tracker/issues/193) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#330 Provide support to SMServices on Paid Search (Google Analytics)](https://github.com/MediaJel/mediajel/issues/330) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#332 Advise Ian to include Form fills data from our tag](https://github.com/MediaJel/mediajel/issues/332) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#332 Advise Ian to include Form fills data from our tag](https://github.com/MediaJel/mediajel/issues/332) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#331 Make an SQL query that monitors app ids](https://github.com/MediaJel/mediajel/issues/331) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#159 Construct Liquid M tag dynamically via implementing a `segmentId` parameter](https://github.com/MediaJel/mediajel-tracker/issues/159) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
