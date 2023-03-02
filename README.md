@@ -163,11 +163,28 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#f34c431](https://github.com/pacholoamit/chatgpt-prompts/commit/f34c431) Merge pull request #16 from pacholoamit/dependabot/npm_and_yarn/chatgpt-4.7.2
+
+Bump chatgpt from 4.7.1 to 4.7.2
+  * [#b53755b](https://github.com/pacholoamit/chatgpt-prompts/commit/b53755b) Bump chatgpt from 4.7.1 to 4.7.2
+
+Bumps [chatgpt](https://github.com/transitive-bullshit/chatgpt-api) from 4.7.1 to 4.7.2.
+- [Release notes](https://github.com/transitive-bullshit/chatgpt-api/releases)
+- [Commits](https://github.com/transitive-bullshit/chatgpt-api/compare/v4.7.1...v4.7.2)
+
+---
+updated-dependencies:
+- dependency-name: chatgpt
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * 💬 Commented on [#330 Provide support to SMServices on Paid Search (Google Analytics)](https://github.com/MediaJel/mediajel/issues/330) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#332 Advise Ian to include Form fills data from our tag](https://github.com/MediaJel/mediajel/issues/332) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#332 Advise Ian to include Form fills data from our tag](https://github.com/MediaJel/mediajel/issues/332) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#331 Make an SQL query that monitors app ids](https://github.com/MediaJel/mediajel/issues/331) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#159 Construct Liquid M tag dynamically via implementing a `segmentId` parameter](https://github.com/MediaJel/mediajel-tracker/issues/159) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 ### Stalk me here ❤️
