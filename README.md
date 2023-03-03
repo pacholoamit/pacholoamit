@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3251` commits and made `132` PRs.
+:people_hugging: I contributed to `51` repositories , made `3257` commits and made `132` PRs.
 
 :microphone: My favorite programming languages are:  ``
 
@@ -24,6 +24,21 @@
 ### Find me here 💻</h3>
 
 [<img src='https://ico.now.sh/github/fff' alt='github' height='40'>](https://github.com/pacholoamit) [<img src='https://ico.now.sh/devdotto/fff' alt='dev' height='40'>](https://dev.to/pacholoamit) [<img src='https://ico.now.sh/hashnode/fff' alt='dev' height='40'>](https://blogs.pacholoamit.com/) [<img src='https://ico.now.sh/stackoverflow/fff' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14199991/pacholoamit) [<img src='https://ico.now.sh/youtube/fff' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw) [<img src='https://ico.now.sh/gmail/fff' alt='gmail' height='40'>](pacholoamit.tech@gmail.com) [<img src='https://ico.now.sh/linkedin/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/pacholo-amit/)
+
+### What I've been up to 🤔
+
+**[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#4164 [FOR REVIEW] Add documentation to Paid Search feature &amp; self-service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4164) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#f9ffce5](https://github.com/pacholoamit/pachtop/commit/f9ffce5) Update README.md
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
+  * [#36b7d97](https://github.com/MediaJel/mediajel-dashboard/commit/36b7d97) Revert change on CampaignDetailsChartsController
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
+  * [#a674726](https://github.com/MediaJel/mediajel-dashboard/commit/a674726) minor fix on docs again
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
+  * [#c647604](https://github.com/MediaJel/mediajel-dashboard/commit/c647604) minor fix on docs
+  * [#a1a0770](https://github.com/MediaJel/mediajel-dashboard/commit/a1a0770) Add docs for Retail Id
+
 
 ### My Articles & Youtube tutorials 📚
 
@@ -113,72 +128,6 @@
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td rowspan="2" width="280">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uY7TeJS6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fyztto41h1i0g8pz9iod.png" alt="" width="280">
-    </td>
-    <th>
-      <a href="https://dev.to/pacholoamit/redwoodjs-create-a-full-stack-application-in-minutes-2hff">RedwoodJS - Create a full stack application in minutes</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Isn&#39;t it annoying re-inventing the wheel? Imagine this, you get a new idea for a startup or even just...
-      <br>
-      <i>Published on 11 Apr 2022</i>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td rowspan="2" width="280">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--aWzc0gZ4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/7dyzql56rje6hguci8qt.jpg" alt="" width="280">
-    </td>
-    <th>
-      <a href="https://dev.to/pacholoamit/3-essential-tips-for-front-end-developers-to-get-started-on-the-back-end-4nj4">3 Essential tips for front-end developers to get started on the back-end</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Most developers usually start on the front-end which is understandable, considering that front-end de...
-      <br>
-      <i>Published on 19 Nov 2020</i>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td rowspan="2" width="280">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--N-OGD1f1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/u7nxb6esprhk2zvzd14n.jpg" alt="" width="280">
-    </td>
-    <th>
-      <a href="https://dev.to/pacholoamit/3-essential-management-tips-from-a-senior-software-developer-54de">3 essential management tips from a senior software developer</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      I was a senior software developer of a start-up in the finance sector. I was able to handle and manag...
-      <br>
-      <i>Published on 19 Nov 2020</i>
-    </td>
-  </tr>
-</table>
-
-
-### What I've been up to 🤔
-
-**[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#4164 [FOR REVIEW] Add documentation to Paid Search feature &amp; self-service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4164) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#f9ffce5](https://github.com/pacholoamit/pachtop/commit/f9ffce5) Update README.md
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
-  * [#36b7d97](https://github.com/MediaJel/mediajel-dashboard/commit/36b7d97) Revert change on CampaignDetailsChartsController
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
-  * [#a674726](https://github.com/MediaJel/mediajel-dashboard/commit/a674726) minor fix on docs again
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
-  * [#c647604](https://github.com/MediaJel/mediajel-dashboard/commit/c647604) minor fix on docs
-  * [#a1a0770](https://github.com/MediaJel/mediajel-dashboard/commit/a1a0770) Add docs for Retail Id
 
 
 ### Stalk me here ❤️
