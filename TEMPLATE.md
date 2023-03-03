@@ -25,13 +25,13 @@
 
 [<img src='https://ico.now.sh/github/fff' alt='github' height='40'>](https://github.com/pacholoamit) [<img src='https://ico.now.sh/devdotto/fff' alt='dev' height='40'>](https://dev.to/pacholoamit) [<img src='https://ico.now.sh/hashnode/fff' alt='dev' height='40'>](https://blogs.pacholoamit.com/) [<img src='https://ico.now.sh/stackoverflow/fff' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14199991/pacholoamit) [<img src='https://ico.now.sh/youtube/fff' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw) [<img src='https://ico.now.sh/gmail/fff' alt='gmail' height='40'>](pacholoamit.tech@gmail.com) [<img src='https://ico.now.sh/linkedin/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/pacholo-amit/)
 
-### My Articles & Youtube tutorials 📚
-
-<%- await include(`partials/posts.ejs`) %>
-
 ### What I've been up to 🤔
 
 <%- await include(`partials/activity.ejs`) %>
+
+### My Articles & Youtube tutorials 📚
+
+<%- await include(`partials/posts.ejs`) %>
 
 ### Stalk me here ❤️
 <img src="/assets/metrics-1.svg" height="100%" align="left" width="390" alt="Metrics-1" >

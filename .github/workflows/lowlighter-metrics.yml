@@ -38,8 +38,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           # Lines plugin
-          plugin_lines: yes
-          plugin_lines_sections: repositories, history
+          #plugin_lines: yes
+          #plugin_lines_sections: repositories, history
           # People plugin
           plugin_people: yes
           # Followup plugin
@@ -61,7 +61,7 @@ jobs:
           #plugin_posts_source: dev.to
           #plugin_posts_descriptions: yes
           #plugin_posts_covers: yes
-          #plugin_posts_limit: 30
+          #plugin_posts_limit: 5
           #plugin_posts_user: pacholoamit
           # Achievements plugin
           plugin_achievements: yes
@@ -80,7 +80,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 30
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
-          plugin_wakatime_limit: 0
+          plugin_wakatime_limit: 8
 
       - name: Render Readme Markdown
         uses: lowlighter/metrics@latest
@@ -96,7 +96,7 @@ jobs:
           plugin_posts_source: dev.to
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
-          plugin_posts_limit: 10
+          plugin_posts_limit: 5
           plugin_posts_user: pacholoamit
           # Activity plugin
           plugin_activity: yes
