@@ -17,7 +17,7 @@ jobs:
           output_condition: data-changed
           clean_workflows: all
           config_timezone: Asia/Manila
-          config_order: base.header, base.activity+community, base.repositories, languages, followup, habits, stars, isocalendar, people
+          config_order: base.header, base.activity+community, base.repositories, languages, habits, isocalendar, people
           base: header, activity, community, repositories
           base_indepth: yes,
           repositories_affiliations: owner, collaborator, organization_member
@@ -32,8 +32,6 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: chartist
           plugin_habits_trim: yes
-          # Stars plugin
-          plugin_stars: yes
           # IsoCalendar plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -42,9 +40,7 @@ jobs:
           #plugin_lines_sections: repositories, history
           # People plugin
           plugin_people: yes
-          # Followup plugin
-          plugin_followup: yes
-          plugin_followup_indepth: yes
+          
 
       - name: Metrics 2
         uses: lowlighter/metrics@latest
@@ -54,7 +50,7 @@ jobs:
           config_timezone: Asia/Manila
           output_condition: data-changed
           base: ""
-          config_order: achievements, posts, wakatime, stackoverflow, notable
+          config_order: achievements, posts, wakatime, stackoverflow, notable, stars, followup
           clean_workflows: all
           # Posts plugin
           #plugin_posts: yes
@@ -81,6 +77,11 @@ jobs:
           plugin_wakatime_days: 30
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
           plugin_wakatime_limit: 8
+          # Stars plugin
+          plugin_stars: yes
+          # Followup plugin
+          plugin_followup: yes
+          plugin_followup_indepth: yes
 
       - name: Render Readme Markdown
         uses: lowlighter/metrics@latest
