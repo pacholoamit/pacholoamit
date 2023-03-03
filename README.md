@@ -9,13 +9,10 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `3265` commits and made `132` PRs.
-
-:microphone: My favorite programming languages are:  ``
+:people_hugging: I contributed to `52` repositories , made `3273` commits and made `134` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
-<p>🔭 I'm currently working on <b>Big data and Data engineering </b></p>
-<p>🌱 I’m currently learning <b>DevOps and Server-side development </b> </p>
+<p>🔭 I'm currently working on <b> Distributed systems </b></p>
 <p>📝 I regularly write articles on <b><a href="https://dev.to/pacholoamit">Dev.to</a> and <a href="https://blogs.pacholoamit.com/">Hashnode</a> </b></p>
 <p>💬 Want to know more about me? Visit my  <b><a href="https://www.pacholoamit.com/"> Website</a></p>
 <p> 📫 Reach me at <b>pacholoamit.tech@gmail.com</b></p>
@@ -29,6 +26,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/s3-multithread-download](https://github.com/pacholoamit/s3-multithread-download) on branch `master`
+  * [#a0d04a2](https://github.com/pacholoamit/s3-multithread-download/commit/a0d04a2) Add reports for 7 days
+* ➡️ Pushed 1 commit in [pacholoamit/s3-multithread-download](https://github.com/pacholoamit/s3-multithread-download) on branch `master`
   * [#b670476](https://github.com/pacholoamit/s3-multithread-download/commit/b670476) Fix report
 * ➡️ Pushed 1 commit in [pacholoamit/s3-multithread-download](https://github.com/pacholoamit/s3-multithread-download) on branch `master`
   * [#48740ae](https://github.com/pacholoamit/s3-multithread-download/commit/48740ae) Generate files
@@ -36,10 +35,10 @@
   * [#4d6da45](https://github.com/pacholoamit/s3-multithread-download/commit/4d6da45) Add json
 * ➡️ Pushed 1 commit in [pacholoamit/s3-multithread-download](https://github.com/pacholoamit/s3-multithread-download) on branch `master`
   * [#ff5366d](https://github.com/pacholoamit/s3-multithread-download/commit/ff5366d) Fix formatting
-* ⏺️ Created new branch master in [pacholoamit/s3-multithread-download](https://github.com/pacholoamit/s3-multithread-download)
 
 
-### My Articles & Youtube tutorials 📚
+
+### Recent Articles & Youtube tutorials 📚
 
 **[✒️ Recent posts from dev.to](https://dev.to/pacholoamit)**
 <table>
@@ -93,43 +92,9 @@
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td rowspan="2" width="280">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IPquXxS0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ely97w0jjqa3ko4j4ll0.png" alt="" width="280">
-    </td>
-    <th>
-      <a href="https://dev.to/pacholoamit/create-a-google-chrome-extension-with-reactjs-3one">Create a Google Chrome extension with ReactJS</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Lets Create a Google chrome extension with ReactJS by using the Plasmo framework. The Plasmo...
-      <br>
-      <i>Published on 20 Jun 2022</i>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td rowspan="2" width="280">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0oX0Vl2T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4o36lbm8syfiuij7cd8l.png" alt="" width="280">
-    </td>
-    <th>
-      <a href="https://dev.to/pacholoamit/typescript-terraform-for-beginners-infrastructure-as-code-iac-101h">Typescript &amp; Terraform for beginners - Infrastructure as code (IaC)</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Today I&#39;m going to demonstrate how to spin up AWS Infrastructure using Typescript and Terraform. To...
-      <br>
-      <i>Published on 6 Jun 2022</i>
-    </td>
-  </tr>
-</table>
 
 
 ### Stalk me here ❤️
+
 <img src="/assets/metrics-1.svg" height="100%" align="left" width="390" alt="Metrics-1" >
 <img src="/assets/metrics-2.svg" height="100%" align="right" width="390" alt="Metrics-2">
-
