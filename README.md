@@ -7,8 +7,11 @@
 
 ### 👋 Hello, I'm Pacholo
 
-I joined Github on `21 Aug 2020`.
-I contributed to `51` repositories and made `3249` commits.
+:octocat: I joined Github on `21 Aug 2020`.
+
+:people_hugging: I contributed to `51` repositories , made `3251` commits and made `131` PRs.
+
+:microphone: My favorite programming languages are:  ``
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b>Big data and Data engineering </b></p>
