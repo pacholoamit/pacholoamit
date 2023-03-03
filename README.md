@@ -163,6 +163,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#4164 [FOR REVIEW] Add documentation to Paid Search feature &amp; self-service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4164) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#f9ffce5](https://github.com/pacholoamit/pachtop/commit/f9ffce5) Update README.md
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
   * [#36b7d97](https://github.com/MediaJel/mediajel-dashboard/commit/36b7d97) Revert change on CampaignDetailsChartsController
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
@@ -170,106 +173,6 @@
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
   * [#c647604](https://github.com/MediaJel/mediajel-dashboard/commit/c647604) minor fix on docs
   * [#a1a0770](https://github.com/MediaJel/mediajel-dashboard/commit/a1a0770) Add docs for Retail Id
-* ➡️ Pushed 73 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
-  * [#7e6f20b](https://github.com/MediaJel/mediajel-dashboard/commit/7e6f20b) Fix launch campaign set default accountId to Mediajel
-  * [#4505ff4](https://github.com/MediaJel/mediajel-dashboard/commit/4505ff4) Merge pull request #4109 from MediaJel/develop
-
-Merge dashboard from develop to dojo
-  * [#22a418e](https://github.com/MediaJel/mediajel-dashboard/commit/22a418e) [PASS QA ENG] - Create amplify campaign set mediajel as advertiser id (#4080)
-
-* WIP
-
-* Display amplify campaign if exist and allow edit click through url
-
-* Remove unused states
-
-* Fix unable to create amplify campaign with no default ad group creative
-
-* Include tracking as required fields
-
-* Fix network error invalid property
-
-* Set default audiences first object
-
-* Set default ad group first object
-
-* Fixed tags cart provider mapping
-
-* Create amplify campaign set merdiajel as advertiser id
-  * [#b3f3c0d](https://github.com/MediaJel/mediajel-dashboard/commit/b3f3c0d) [PASS ENG QA] fix start review (#4077)
-
-* fix start review
-
-* added requestor id in amplify
-
-* variable change
-  * [#edecb8f](https://github.com/MediaJel/mediajel-dashboard/commit/edecb8f) Merge pull request #4106 from MediaJel/develop
-
-Merge PRs from develop to dojo
-  * [#c8bbd9f](https://github.com/MediaJel/mediajel-dashboard/commit/c8bbd9f) Merge pull request #4105 from MediaJel/icf-add-disable-dates
-
-[PASS ENGR QA] ICF Added disable on date ranges
-  * [#bd2642c](https://github.com/MediaJel/mediajel-dashboard/commit/bd2642c) Merge pull request #4083 from MediaJel/br/campaign-launcher-fix
-
-[PASS QA ENG] - Fixed CampaignOrderDetailsAttributionTargets requires location id
-  * [#dcba396](https://github.com/MediaJel/mediajel-dashboard/commit/dcba396) [PASS QA ENG] - Br/campaign orderqueue (#4050)
-
-* Status and details tab
-
-* Move LaunchCampaignConfig component initial
-
-* Launcher tab added
-
-* Added empty page placeholder
-  * [#ffd256f](https://github.com/MediaJel/mediajel-dashboard/commit/ffd256f) COMPLETE: Added disable on date ranges
-  * [#06e8505](https://github.com/MediaJel/mediajel-dashboard/commit/06e8505) Fixed CampaignOrderDetailsAttributionTargets requires location id response
-  * [#96ac004](https://github.com/MediaJel/mediajel-dashboard/commit/96ac004) Merge pull request #4068 from MediaJel/develop
-
-[PASS ENGR QA] Articles Feature (#4015)
-  * [#046e5de](https://github.com/MediaJel/mediajel-dashboard/commit/046e5de) [PASS ENGR QA] Articles Feature (#4015)
-
-* WIP
-
-* fix routing
-
-* WIP
-
-* WIP
-
-* WIP
-
-* WIP articles category state
-
-* Finalize mutation and handlers
-
-* Make route private
-
-* fix edit category and remove collapse
-
-* wip
-
-* filter category by user config
-  * [#4e92033](https://github.com/MediaJel/mediajel-dashboard/commit/4e92033) Merge pull request #4067 from MediaJel/develop
-
-FEATURE: Able to export in excel format on Display &gt; Reports page
-  * [#26af317](https://github.com/MediaJel/mediajel-dashboard/commit/26af317) Merge pull request #4008 from MediaJel/vm-excel-reports
-
-[PASS ENGR QA] Able to export in excel format on Display &gt; Reports page
-  * [#bddab1f](https://github.com/MediaJel/mediajel-dashboard/commit/bddab1f) Merge pull request #4060 from MediaJel/develop
-
-Update Dojo from Develop
-  * [#d02ab5d](https://github.com/MediaJel/mediajel-dashboard/commit/d02ab5d) Merge pull request #4049 from MediaJel/develop
-
-Merge features &amp; bug-fixes from develop to dojo
-  * [#6d5c744](https://github.com/MediaJel/mediajel-dashboard/commit/6d5c744) Merge pull request #4048 from MediaJel/develop
-
-FEATURE: Quick Docs Component (#3913)
-  * [#68d5d72](https://github.com/MediaJel/mediajel-dashboard/commit/68d5d72) Merge pull request #4047 from MediaJel/develop
-
-FEATURE: Include docs to self-service tag generator
-  * [#d7198f5](https://github.com/MediaJel/mediajel-dashboard/commit/d7198f5) Able to export in excel format
-  * [#a4c7158](https://github.com/MediaJel/mediajel-dashboard/commit/a4c7158) chanes instances of no data to instead prompt user to refresh page
-* 💬 Commented on [#326 Make sure UTM parameters are getting persisted](https://github.com/MediaJel/mediajel/issues/326) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 ### Stalk me here ❤️
