@@ -80,7 +80,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 30
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
-          plugin_wakatime_limit: 0
+          plugin_wakatime_limit: 8
 
       - name: Render Readme Markdown
         uses: lowlighter/metrics@latest
