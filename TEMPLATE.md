@@ -7,8 +7,11 @@
 
 ### 👋 Hello, I'm Pacholo
 
-I joined Github on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
-I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
+:octocat: I joined Github on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
+
+:people_hugging: I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories , made `{{ COMMITS }}` commits and made `{{ PULL_REQUESTS }}` PRs.
+
+:microphone: My favorite programming languages are:  `{{ LANGUAGES }}`
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b>Big data and Data engineering </b></p>
