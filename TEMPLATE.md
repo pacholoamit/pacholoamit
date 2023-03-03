@@ -27,7 +27,7 @@
 <%- await include(`partials/activity.ejs`) %>
 
 
-### My Articles & Youtube tutorials 📚
+### Recent Articles & Youtube tutorials 📚
 
 <%- await include(`partials/posts.ejs`) %>
 
