@@ -5,7 +5,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,go,rust,nodejs,dart,py,bash,aws,gcp,apollo,prisma,graphql,react,redis,docker,kubernetes,express,nestjs,firebase,flutter,git,github,grafana,linux,materialui,mongodb,mysql,postgres,supabase,heroku,netlify,js,html,css,bootstrap)](https://skillicons.dev)
 
-### About Me 🤗
+### 👋 Hello, I'm Pacholo
+
+I joined Github on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
+I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b>Big data and Data engineering </b></p>
