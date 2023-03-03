@@ -17,7 +17,7 @@ jobs:
           output_condition: data-changed
           clean_workflows: all
           config_timezone: Asia/Manila
-          config_order: base.header, base.activity+community, base.repositories, languages, habits, isocalendar, followup, people
+          config_order: base.header, base.activity+community, base.repositories, languages, habits, followup, isocalendar, people
           base: header, activity, community, repositories
           base_indepth: yes,
           repositories_affiliations: owner, collaborator, organization_member
