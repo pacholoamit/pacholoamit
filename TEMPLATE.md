@@ -11,11 +11,8 @@
 
 :people_hugging: I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories , made `{{ COMMITS }}` commits and made `{{ PULL_REQUESTS }}` PRs.
 
-:microphone: My favorite programming languages are:  `{{ LANGUAGES }}`
-
 <img src="/assets/code.gif" width="390" align="right" />
-<p>🔭 I'm currently working on <b>Big data and Data engineering </b></p>
-<p>🌱 I’m currently learning <b>DevOps and Server-side development </b> </p>
+<p>🔭 I'm currently working on <b> Distributed systems </b></p>
 <p>📝 I regularly write articles on <b><a href="https://dev.to/pacholoamit">Dev.to</a> and <a href="https://blogs.pacholoamit.com/">Hashnode</a> </b></p>
 <p>💬 Want to know more about me? Visit my  <b><a href="https://www.pacholoamit.com/"> Website</a></p>
 <p> 📫 Reach me at <b>pacholoamit.tech@gmail.com</b></p>
@@ -29,11 +26,10 @@
 
 <%- await include(`partials/activity.ejs`) %>
 
-### My Articles & Youtube tutorials 📚
-
-<%- await include(`partials/posts.ejs`) %>
-
 ### Stalk me here ❤️
 <img src="/assets/metrics-1.svg" height="100%" align="left" width="390" alt="Metrics-1" >
 <img src="/assets/metrics-2.svg" height="100%" align="right" width="390" alt="Metrics-2">
 
+### My Articles & Youtube tutorials 📚
+
+<%- await include(`partials/posts.ejs`) %>
