@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3251` commits and made `131` PRs.
+:people_hugging: I contributed to `51` repositories , made `3251` commits and made `132` PRs.
 
 :microphone: My favorite programming languages are:  ``
 
