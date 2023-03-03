@@ -57,12 +57,12 @@ jobs:
           config_order: achievements, posts, wakatime, stackoverflow, notable
           clean_workflows: all
           # Posts plugin
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes
-          plugin_posts_limit: 30
-          plugin_posts_user: pacholoamit
+          #plugin_posts: yes
+          #plugin_posts_source: dev.to
+          #plugin_posts_descriptions: yes
+          #plugin_posts_covers: yes
+          #plugin_posts_limit: 30
+          #plugin_posts_user: pacholoamit
           # Achievements plugin
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -72,9 +72,9 @@ jobs:
           plugin_notable_types: commit, pull_request, issue
           plugin_notable_repositories: yes
           # Stackoverflow plugin
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 14199991
-          plugin_stackoverflow_sections: answers-top, answers-recent
+          #plugin_stackoverflow: yes
+          #plugin_stackoverflow_user: 14199991
+          #plugin_stackoverflow_sections: answers-top, answers-recent
           # Wakatime plugin
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
