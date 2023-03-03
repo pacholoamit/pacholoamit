@@ -38,8 +38,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           # Lines plugin
-          plugin_lines: yes
-          plugin_lines_sections: repositories, history
+          #plugin_lines: yes
+          #plugin_lines_sections: repositories, history
           # People plugin
           plugin_people: yes
           # Followup plugin
