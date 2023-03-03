@@ -25,16 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/s3-multithread-download](https://github.com/pacholoamit/s3-multithread-download) on branch `master`
-  * [#a0d04a2](https://github.com/pacholoamit/s3-multithread-download/commit/a0d04a2) Add reports for 7 days
-* ➡️ Pushed 1 commit in [pacholoamit/s3-multithread-download](https://github.com/pacholoamit/s3-multithread-download) on branch `master`
-  * [#b670476](https://github.com/pacholoamit/s3-multithread-download/commit/b670476) Fix report
-* ➡️ Pushed 1 commit in [pacholoamit/s3-multithread-download](https://github.com/pacholoamit/s3-multithread-download) on branch `master`
-  * [#48740ae](https://github.com/pacholoamit/s3-multithread-download/commit/48740ae) Generate files
-* ➡️ Pushed 1 commit in [pacholoamit/s3-multithread-download](https://github.com/pacholoamit/s3-multithread-download) on branch `master`
-  * [#4d6da45](https://github.com/pacholoamit/s3-multithread-download/commit/4d6da45) Add json
-* ➡️ Pushed 1 commit in [pacholoamit/s3-multithread-download](https://github.com/pacholoamit/s3-multithread-download) on branch `master`
-  * [#ff5366d](https://github.com/pacholoamit/s3-multithread-download/commit/ff5366d) Fix formatting
+* 💬 Commented on [#3440 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/pull/3440) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3440 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/pull/3440) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3440 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/pull/3440) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3440 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/pull/3440) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3440 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/pull/3440) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
