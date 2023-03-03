@@ -17,7 +17,7 @@ jobs:
           output_condition: data-changed
           clean_workflows: all
           config_timezone: Asia/Manila
-          config_order: base.header, base.activity+community, base.repositories, languages, habits, isocalendar, people
+          config_order: base.header, base.activity+community, base.repositories, languages, habits, isocalendar, followup, people
           base: header, activity, community, repositories
           base_indepth: yes,
           repositories_affiliations: owner, collaborator, organization_member
@@ -40,6 +40,9 @@ jobs:
           #plugin_lines_sections: repositories, history
           # People plugin
           plugin_people: yes
+          # Followup plugin
+          plugin_followup: yes
+          plugin_followup_indepth: yes
           
 
       - name: Metrics 2
@@ -50,7 +53,7 @@ jobs:
           config_timezone: Asia/Manila
           output_condition: data-changed
           base: ""
-          config_order: achievements, posts, wakatime, stackoverflow, notable, stars, followup
+          config_order: achievements, posts, wakatime, stackoverflow, notable, stars
           clean_workflows: all
           # Posts plugin
           #plugin_posts: yes
@@ -79,9 +82,7 @@ jobs:
           plugin_wakatime_limit: 8
           # Stars plugin
           plugin_stars: yes
-          # Followup plugin
-          plugin_followup: yes
-          plugin_followup_indepth: yes
+
 
       - name: Render Readme Markdown
         uses: lowlighter/metrics@latest
