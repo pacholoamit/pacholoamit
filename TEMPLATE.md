@@ -26,10 +26,12 @@
 
 <%- await include(`partials/activity.ejs`) %>
 
-### Stalk me here ❤️
-<img src="/assets/metrics-1.svg" height="100%" align="left" width="390" alt="Metrics-1" >
-<img src="/assets/metrics-2.svg" height="100%" align="right" width="390" alt="Metrics-2">
 
 ### My Articles & Youtube tutorials 📚
 
 <%- await include(`partials/posts.ejs`) %>
+
+### Stalk me here ❤️
+
+<img src="/assets/metrics-1.svg" height="100%" align="left" width="390" alt="Metrics-1" >
+<img src="/assets/metrics-2.svg" height="100%" align="right" width="390" alt="Metrics-2">
