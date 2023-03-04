@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `3275` commits and made `134` PRs.
+:people_hugging: I contributed to `52` repositories , made `3275` commits and made `135` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments) on branch `refactor`
+  * [#af2f13f](https://github.com/MediaJel/s3-multithread-download-failed-enrichments/commit/af2f13f) remove deprecated package
+* ➡️ Pushed 1 commit in [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments) on branch `refactor`
+  * [#4585a72](https://github.com/MediaJel/s3-multithread-download-failed-enrichments/commit/4585a72) Add .env.local
+* 🔃 Opened [#1 Refactor code and separate concerns](https://github.com/MediaJel/s3-multithread-download-failed-enrichments/pull/1) in [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments)
+  * 11 files changed `++8056 --60604`
+* ⏺️ Created new branch refactor in [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments)
 * ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
   * [#27decb4](https://github.com/pacholoamit/chatgpt-prompts/commit/27decb4) Merge pull request #18 from pacholoamit/dependabot/npm_and_yarn/types/node-18.14.2
 
@@ -43,11 +50,6 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* 🔍 Reviewed [#3440 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/pull/3440) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments) on branch `master`
-  * [#ab26a6e](https://github.com/MediaJel/s3-multithread-download-failed-enrichments/commit/ab26a6e) Modified reports
-* 💬 Commented on [#3440 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/pull/3440) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3440 Create GraphQL resolver to handle universal tag Liquid M Segment](https://github.com/MediaJel/mediajel-gql-service/pull/3440) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
