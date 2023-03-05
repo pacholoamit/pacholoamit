@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `3302` commits and made `135` PRs.
+:people_hugging: I contributed to `52` repositories , made `3303` commits and made `135` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,32 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#c33a540](https://github.com/pacholoamit/chatgpt-prompts/commit/c33a540) Merge pull request #11 from pacholoamit/dependabot/npm_and_yarn/tsup-6.6.3
+
+Bump tsup from 6.5.0 to 6.6.3
+  * [#c565c79](https://github.com/pacholoamit/chatgpt-prompts/commit/c565c79) Bump tsup from 6.5.0 to 6.6.3
+
+Bumps [tsup](https://github.com/egoist/tsup) from 6.5.0 to 6.6.3.
+- [Release notes](https://github.com/egoist/tsup/releases)
+- [Changelog](https://github.com/egoist/tsup/blob/dev/.releaserc.json)
+- [Commits](https://github.com/egoist/tsup/compare/v6.5.0...v6.6.3)
+
+---
+updated-dependencies:
+- dependency-name: tsup
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* 🌟 Starred [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments)
 * ➡️ Pushed 1 commit in [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments) on branch `master`
   * [#c81019e](https://github.com/MediaJel/s3-multithread-download-failed-enrichments/commit/c81019e) Recompile binaries
 * ➡️ Pushed 1 commit in [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments) on branch `master`
   * [#7f14815](https://github.com/MediaJel/s3-multithread-download-failed-enrichments/commit/7f14815) Add line to models
 * ➡️ Pushed 1 commit in [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments) on branch `master`
   * [#be8e741](https://github.com/MediaJel/s3-multithread-download-failed-enrichments/commit/be8e741) Add logger
-* ➡️ Pushed 1 commit in [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments) on branch `master`
-  * [#ba15f7d](https://github.com/MediaJel/s3-multithread-download-failed-enrichments/commit/ba15f7d) change readme
-* ➡️ Pushed 1 commit in [MediaJel/s3-multithread-download-failed-enrichments](https://github.com/MediaJel/s3-multithread-download-failed-enrichments) on branch `master`
-  * [#c972e9f](https://github.com/MediaJel/s3-multithread-download-failed-enrichments/commit/c972e9f) Remove comma
 
 
 
