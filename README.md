@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3366` commits and made `135` PRs.
+:people_hugging: I contributed to `53` repositories , made `3366` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,24 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#198 Create Mantis ad impression tag](https://github.com/MediaJel/mediajel-tracker/issues/198) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#198 Create Mantis ad impression tag](https://github.com/MediaJel/mediajel-tracker/issues/198) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 7 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#c338f57](https://github.com/MediaJel/mediajel-tracker/commit/c338f57) Merge pull request #197 from MediaJel/develop
-
-Update Staging
-  * [#9b0d224](https://github.com/MediaJel/mediajel-tracker/commit/9b0d224) Add self describing event for mantis
-  * [#c9d2222](https://github.com/MediaJel/mediajel-tracker/commit/c9d2222) Add Mantis impression tracking
-  * [#3a6a248](https://github.com/MediaJel/mediajel-tracker/commit/3a6a248) Modify impression type
-  * [#5aaa169](https://github.com/MediaJel/mediajel-tracker/commit/5aaa169) Add if check to liquidmSegmentPixel
-  * [#87d3137](https://github.com/MediaJel/mediajel-tracker/commit/87d3137) Merge pull request #195 from MediaJel/ekc-liquidm-segment
-
-[IN PROGRESS] liquid m segment pixel
-  * [#51cd418](https://github.com/MediaJel/mediajel-tracker/commit/51cd418) liquid m segment pixel
-* 🔃 Merged [#197 Update Staging](https://github.com/MediaJel/mediajel-tracker/pull/197) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 9 files changed `++80 --10`
-* 🔃 Opened [#197 Update Staging](https://github.com/MediaJel/mediajel-tracker/pull/197) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 9 files changed `++80 --10`
+* 🌟 Starred [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp)
+* 🌟 Starred [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit)
+* 🌟 Starred [moby/moby](https://github.com/moby/moby)
+* 🌟 Starred [gocarina/gocsv](https://github.com/gocarina/gocsv)
+* #️⃣ Opened [#4207 Implement Liquid M segment resolver on dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/4207) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
