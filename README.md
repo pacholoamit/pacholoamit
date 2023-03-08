@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3366` commits and made `136` PRs.
+:people_hugging: I contributed to `53` repositories , made `3370` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [knadh/koanf](https://github.com/knadh/koanf)
-* 🌟 Starred [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp)
-* 🌟 Starred [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit)
-* 🌟 Starred [moby/moby](https://github.com/moby/moby)
-* 🌟 Starred [gocarina/gocsv](https://github.com/gocarina/gocsv)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
+  * [#382f9a1](https://github.com/MediaJel/mediajel-dashboard/commit/382f9a1) Implement channel partner on Paid Search view
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
+  * [#74bdce8](https://github.com/MediaJel/mediajel-dashboard/commit/74bdce8) Implement Channel Partner permission
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
+  * [#60b1ab7](https://github.com/MediaJel/mediajel-dashboard/commit/60b1ab7) Add SEO docs
+* #️⃣ Closed [#3454 Integrate company I/O forms with application](https://github.com/MediaJel/mediajel-gql-service/issues/3454) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#332 Advise Ian to include Form fills data from our tag](https://github.com/MediaJel/mediajel/issues/332) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
