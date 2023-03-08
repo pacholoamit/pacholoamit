@@ -25,14 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver)
+* 🌟 Starred [rust-lang/rust](https://github.com/rust-lang/rust)
+* 🌟 Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
   * [#382f9a1](https://github.com/MediaJel/mediajel-dashboard/commit/382f9a1) Implement channel partner on Paid Search view
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
   * [#74bdce8](https://github.com/MediaJel/mediajel-dashboard/commit/74bdce8) Implement Channel Partner permission
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-documentation-on-paid-search-features-in-the-dashboard`
-  * [#60b1ab7](https://github.com/MediaJel/mediajel-dashboard/commit/60b1ab7) Add SEO docs
-* #️⃣ Closed [#3454 Integrate company I/O forms with application](https://github.com/MediaJel/mediajel-gql-service/issues/3454) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#332 Advise Ian to include Form fills data from our tag](https://github.com/MediaJel/mediajel/issues/332) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
