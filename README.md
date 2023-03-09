@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3373` commits and made `136` PRs.
+:people_hugging: I contributed to `53` repositories , made `3393` commits and made `143` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#339 Research into Improving Google Ads shutdowns](https://github.com/MediaJel/mediajel/issues/339) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#338 Get insight on optimizing publisher choice](https://github.com/MediaJel/mediajel/issues/338) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#335 Integrations tutorial for John Joseph](https://github.com/MediaJel/mediajel/issues/335) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
+  * [#31e3f0c](https://github.com/MediaJel/mediajel-tracker/commit/31e3f0c) Add to v2 init.ts
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
+  * [#2a4ef5c](https://github.com/MediaJel/mediajel-tracker/commit/2a4ef5c) Disable rdnt
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
+  * [#3ebe108](https://github.com/MediaJel/mediajel-tracker/commit/3ebe108) implement absolute imports
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
+  * [#883a612](https://github.com/MediaJel/mediajel-tracker/commit/883a612) remove bundle size CI
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
+  * [#45195a4](https://github.com/MediaJel/mediajel-tracker/commit/45195a4) Add export
 
 
 
