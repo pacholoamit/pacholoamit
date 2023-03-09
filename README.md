@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3393` commits and made `143` PRs.
+:people_hugging: I contributed to `53` repositories , made `3394` commits and made `143` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,15 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#31e3f0c](https://github.com/MediaJel/mediajel-tracker/commit/31e3f0c) Add to v2 init.ts
+  * [#434ea2c](https://github.com/MediaJel/mediajel-tracker/commit/434ea2c) fix imports
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#fcf9400](https://github.com/MediaJel/mediajel-tracker/commit/fcf9400) Create .github/dependabot.yml
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#2a4ef5c](https://github.com/MediaJel/mediajel-tracker/commit/2a4ef5c) Disable rdnt
+  * [#9b5b9ea](https://github.com/MediaJel/mediajel-tracker/commit/9b5b9ea) working version
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#3ebe108](https://github.com/MediaJel/mediajel-tracker/commit/3ebe108) implement absolute imports
+  * [#8674881](https://github.com/MediaJel/mediajel-tracker/commit/8674881) Create tracker standard and legacy version
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#883a612](https://github.com/MediaJel/mediajel-tracker/commit/883a612) remove bundle size CI
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#45195a4](https://github.com/MediaJel/mediajel-tracker/commit/45195a4) Add export
+  * [#072b921](https://github.com/MediaJel/mediajel-tracker/commit/072b921) use ~ instead of @ for absolute imports
 
 
 
