@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3394` commits and made `143` PRs.
+:people_hugging: I contributed to `53` repositories , made `3395` commits and made `143` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,33 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#89e0e80](https://github.com/pacholoamit/chatgpt-prompts/commit/89e0e80) Merge pull request #19 from pacholoamit/dependabot/npm_and_yarn/rimraf-4.3.1
+
+Bump rimraf from 4.1.2 to 4.3.1
+  * [#5d23c7f](https://github.com/pacholoamit/chatgpt-prompts/commit/5d23c7f) Bump rimraf from 4.1.2 to 4.3.1
+
+Bumps [rimraf](https://github.com/isaacs/rimraf) from 4.1.2 to 4.3.1.
+- [Release notes](https://github.com/isaacs/rimraf/releases)
+- [Changelog](https://github.com/isaacs/rimraf/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/isaacs/rimraf/compare/v4.1.2...v4.3.1)
+
+---
+updated-dependencies:
+- dependency-name: rimraf
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#434ea2c](https://github.com/MediaJel/mediajel-tracker/commit/434ea2c) fix imports
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#fcf9400](https://github.com/MediaJel/mediajel-tracker/commit/fcf9400) Create .github/dependabot.yml
+  * [#b2c712b](https://github.com/MediaJel/mediajel-tracker/commit/b2c712b) export { default as trackAddToCart } from &#34;/src/use-cases/track-add-to-cart&#34;;Refactor codebase to support creating a SnowplowTracker based on input version
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#9b5b9ea](https://github.com/MediaJel/mediajel-tracker/commit/9b5b9ea) working version
+  * [#c37081b](https://github.com/MediaJel/mediajel-tracker/commit/c37081b) Add logger
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#8674881](https://github.com/MediaJel/mediajel-tracker/commit/8674881) Create tracker standard and legacy version
+  * [#4ecb9df](https://github.com/MediaJel/mediajel-tracker/commit/4ecb9df) fix types
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#072b921](https://github.com/MediaJel/mediajel-tracker/commit/072b921) use ~ instead of @ for absolute imports
+  * [#e071e4a](https://github.com/MediaJel/mediajel-tracker/commit/e071e4a) Add comments
 
 
 
