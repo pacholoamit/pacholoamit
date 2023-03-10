@@ -25,33 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#89e0e80](https://github.com/pacholoamit/chatgpt-prompts/commit/89e0e80) Merge pull request #19 from pacholoamit/dependabot/npm_and_yarn/rimraf-4.3.1
-
-Bump rimraf from 4.1.2 to 4.3.1
-  * [#5d23c7f](https://github.com/pacholoamit/chatgpt-prompts/commit/5d23c7f) Bump rimraf from 4.1.2 to 4.3.1
-
-Bumps [rimraf](https://github.com/isaacs/rimraf) from 4.1.2 to 4.3.1.
-- [Release notes](https://github.com/isaacs/rimraf/releases)
-- [Changelog](https://github.com/isaacs/rimraf/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/isaacs/rimraf/compare/v4.1.2...v4.3.1)
-
----
-updated-dependencies:
-- dependency-name: rimraf
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#b2c712b](https://github.com/MediaJel/mediajel-tracker/commit/b2c712b) export { default as trackAddToCart } from &#34;/src/use-cases/track-add-to-cart&#34;;Refactor codebase to support creating a SnowplowTracker based on input version
+  * [#733f89c](https://github.com/MediaJel/mediajel-tracker/commit/733f89c) gen docs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#c37081b](https://github.com/MediaJel/mediajel-tracker/commit/c37081b) Add logger
+  * [#a85bd65](https://github.com/MediaJel/mediajel-tracker/commit/a85bd65) remove doc
+* 💬 Commented on [#242 Chore/jsdoc4 update](https://github.com/SoftwareBrothers/better-docs/issues/242) from [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#4ecb9df](https://github.com/MediaJel/mediajel-tracker/commit/4ecb9df) fix types
+  * [#8885223](https://github.com/MediaJel/mediajel-tracker/commit/8885223) gen docs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#e071e4a](https://github.com/MediaJel/mediajel-tracker/commit/e071e4a) Add comments
+  * [#e6f83a9](https://github.com/MediaJel/mediajel-tracker/commit/e6f83a9) Add params
 
 
 
