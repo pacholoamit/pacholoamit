@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3395` commits and made `143` PRs.
+:people_hugging: I contributed to `53` repositories , made `3396` commits and made `143` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,32 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#235a9a6](https://github.com/pacholoamit/chatgpt-prompts/commit/235a9a6) Merge pull request #23 from pacholoamit/dependabot/npm_and_yarn/types/node-18.14.6
+
+Bump @types/node from 18.14.2 to 18.14.6
+  * [#43a73bc](https://github.com/pacholoamit/chatgpt-prompts/commit/43a73bc) Bump @types/node from 18.14.2 to 18.14.6
+
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 18.14.2 to 18.14.6.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@types/node&#34;
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
+  * [#1bce2a9](https://github.com/MediaJel/mediajel-tracker/commit/1bce2a9) Add more docs
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
+  * [#24e6bca](https://github.com/MediaJel/mediajel-tracker/commit/24e6bca) change to docdash
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
   * [#733f89c](https://github.com/MediaJel/mediajel-tracker/commit/733f89c) gen docs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
   * [#a85bd65](https://github.com/MediaJel/mediajel-tracker/commit/a85bd65) remove doc
-* 💬 Commented on [#242 Chore/jsdoc4 update](https://github.com/SoftwareBrothers/better-docs/issues/242) from [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#8885223](https://github.com/MediaJel/mediajel-tracker/commit/8885223) gen docs
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#e6f83a9](https://github.com/MediaJel/mediajel-tracker/commit/e6f83a9) Add params
 
 
 
