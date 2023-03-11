@@ -25,32 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#235a9a6](https://github.com/pacholoamit/chatgpt-prompts/commit/235a9a6) Merge pull request #23 from pacholoamit/dependabot/npm_and_yarn/types/node-18.14.6
-
-Bump @types/node from 18.14.2 to 18.14.6
-  * [#43a73bc](https://github.com/pacholoamit/chatgpt-prompts/commit/43a73bc) Bump @types/node from 18.14.2 to 18.14.6
-
-Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 18.14.2 to 18.14.6.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
-
----
-updated-dependencies:
-- dependency-name: &#34;@types/node&#34;
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#1bce2a9](https://github.com/MediaJel/mediajel-tracker/commit/1bce2a9) Add more docs
+  * [#8252ccf](https://github.com/MediaJel/mediajel-tracker/commit/8252ccf) Add jsdocs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#24e6bca](https://github.com/MediaJel/mediajel-tracker/commit/24e6bca) change to docdash
+  * [#e32b5ae](https://github.com/MediaJel/mediajel-tracker/commit/e32b5ae) Add to docs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#733f89c](https://github.com/MediaJel/mediajel-tracker/commit/733f89c) gen docs
+  * [#2f0285e](https://github.com/MediaJel/mediajel-tracker/commit/2f0285e) fix docs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#a85bd65](https://github.com/MediaJel/mediajel-tracker/commit/a85bd65) remove doc
+  * [#34ee6dd](https://github.com/MediaJel/mediajel-tracker/commit/34ee6dd) Generate docs
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
+  * [#0237974](https://github.com/MediaJel/mediajel-tracker/commit/0237974) Add docs
 
 
 
