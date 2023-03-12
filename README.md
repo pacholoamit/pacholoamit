@@ -26,6 +26,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
+  * [#b26e709](https://github.com/MediaJel/mediajel-tracker/commit/b26e709) Start adding common namespace
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
   * [#81bb96b](https://github.com/MediaJel/mediajel-tracker/commit/81bb96b) gen docs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
   * [#10feb50](https://github.com/MediaJel/mediajel-tracker/commit/10feb50) change dir of docs
@@ -33,8 +35,6 @@
   * [#720ca39](https://github.com/MediaJel/mediajel-tracker/commit/720ca39) Create docs server
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
   * [#8252ccf](https://github.com/MediaJel/mediajel-tracker/commit/8252ccf) Add jsdocs
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#e32b5ae](https://github.com/MediaJel/mediajel-tracker/commit/e32b5ae) Add to docs
 
 
 
