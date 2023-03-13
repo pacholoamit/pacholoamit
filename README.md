@@ -26,15 +26,14 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
+  * [#276ec22](https://github.com/MediaJel/mediajel-tracker/commit/276ec22) fix imports
+* 💬 Commented on [#24 I can&#39;t start this project.](https://github.com/pacholoamit/chatgpt-prompts/issues/24) from [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
   * [#e7fb71b](https://github.com/MediaJel/mediajel-tracker/commit/e7fb71b) migrate types to common
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
   * [#b26e709](https://github.com/MediaJel/mediajel-tracker/commit/b26e709) Start adding common namespace
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
   * [#81bb96b](https://github.com/MediaJel/mediajel-tracker/commit/81bb96b) gen docs
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#10feb50](https://github.com/MediaJel/mediajel-tracker/commit/10feb50) change dir of docs
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#720ca39](https://github.com/MediaJel/mediajel-tracker/commit/720ca39) Create docs server
 
 
 
