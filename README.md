@@ -25,15 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#338 Get insight on optimizing publisher choice](https://github.com/MediaJel/mediajel/issues/338) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#cf16154](https://github.com/MediaJel/mediajel-tracker/commit/cf16154) Scaffold use case
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#d0997c5](https://github.com/MediaJel/mediajel-tracker/commit/d0997c5) Modify trackRecord
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#276ec22](https://github.com/MediaJel/mediajel-tracker/commit/276ec22) fix imports
-* 💬 Commented on [#24 I can&#39;t start this project.](https://github.com/pacholoamit/chatgpt-prompts/issues/24) from [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
-  * [#e7fb71b](https://github.com/MediaJel/mediajel-tracker/commit/e7fb71b) migrate types to common
+  * [#169fce3](https://github.com/MediaJel/mediajel-tracker/commit/169fce3) modify browserlists
+* #️⃣ Closed [#336 Create Snowflake Dashboard from SQL query](https://github.com/MediaJel/mediajel/issues/336) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#36 Debug Salesforce Microservice not creating Orgs](https://github.com/MediaJel/CRM-data-onboarding/issues/36) in [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding)
+* 💬 Commented on [#36 Debug Salesforce Microservice not creating Orgs](https://github.com/MediaJel/CRM-data-onboarding/issues/36) from [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding)
 
 
 
