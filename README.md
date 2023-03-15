@@ -25,12 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [vlang/awesome-v](https://github.com/vlang/awesome-v)
+* 🌟 Starred [vlang/ui](https://github.com/vlang/ui)
+* 🌟 Starred [vlang/v](https://github.com/vlang/v)
 * 💬 Commented on [#338 Get insight on optimizing publisher choice](https://github.com/MediaJel/mediajel/issues/338) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `create-snowplow-tracker`
   * [#169fce3](https://github.com/MediaJel/mediajel-tracker/commit/169fce3) modify browserlists
-* #️⃣ Closed [#336 Create Snowflake Dashboard from SQL query](https://github.com/MediaJel/mediajel/issues/336) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#36 Debug Salesforce Microservice not creating Orgs](https://github.com/MediaJel/CRM-data-onboarding/issues/36) in [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding)
-* 💬 Commented on [#36 Debug Salesforce Microservice not creating Orgs](https://github.com/MediaJel/CRM-data-onboarding/issues/36) from [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding)
 
 
 
