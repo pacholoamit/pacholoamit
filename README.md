@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [snowplow/data-models](https://github.com/snowplow/data-models)
 * 🌟 Starred [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3)
 * 💬 Commented on [#191 Traffic Junky Impression tag](https://github.com/MediaJel/mediajel-tracker/issues/191) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#338 Get insight on optimizing publisher choice](https://github.com/MediaJel/mediajel/issues/338) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#334 Generate Failed Enrichments files and do analysis for failed ad impression enrichments](https://github.com/MediaJel/mediajel/issues/334) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
