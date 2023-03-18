@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3397` commits and made `143` PRs.
+:people_hugging: I contributed to `53` repositories , made `3400` commits and made `143` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,64 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#338 Get insight on optimizing publisher choice](https://github.com/MediaJel/mediajel/issues/338) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🌟 Starred [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-* 🌟 Starred [snowplow/data-models](https://github.com/snowplow/data-models)
-* 🌟 Starred [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3)
-* 💬 Commented on [#191 Traffic Junky Impression tag](https://github.com/MediaJel/mediajel-tracker/issues/191) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🌟 Starred [microsoft/fluentui](https://github.com/microsoft/fluentui)
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#7893bc1](https://github.com/pacholoamit/chatgpt-prompts/commit/7893bc1) Merge pull request #20 from pacholoamit/dependabot/npm_and_yarn/jest-29.5.0
+
+Bump jest from 29.4.3 to 29.5.0
+  * [#c13d786](https://github.com/pacholoamit/chatgpt-prompts/commit/c13d786) Bump jest from 29.4.3 to 29.5.0
+
+Bumps [jest](https://github.com/facebook/jest/tree/HEAD/packages/jest) from 29.4.3 to 29.5.0.
+- [Release notes](https://github.com/facebook/jest/releases)
+- [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/facebook/jest/commits/v29.5.0/packages/jest)
+
+---
+updated-dependencies:
+- dependency-name: jest
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#4f70384](https://github.com/pacholoamit/chatgpt-prompts/commit/4f70384) Merge pull request #26 from pacholoamit/dependabot/npm_and_yarn/csv-6.2.8
+
+Bump csv from 6.2.7 to 6.2.8
+  * [#5e44e25](https://github.com/pacholoamit/chatgpt-prompts/commit/5e44e25) Bump csv from 6.2.7 to 6.2.8
+
+Bumps [csv](https://github.com/adaltas/node-csv/tree/HEAD/packages/csv) from 6.2.7 to 6.2.8.
+- [Release notes](https://github.com/adaltas/node-csv/releases)
+- [Changelog](https://github.com/adaltas/node-csv/blob/master/packages/csv/CHANGELOG.md)
+- [Commits](https://github.com/adaltas/node-csv/commits/csv@6.2.8/packages/csv)
+
+---
+updated-dependencies:
+- dependency-name: csv
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#b426c7c](https://github.com/pacholoamit/chatgpt-prompts/commit/b426c7c) Merge pull request #28 from pacholoamit/dependabot/npm_and_yarn/types/node-18.15.1
+
+Bump @types/node from 18.14.6 to 18.15.1
+  * [#8406516](https://github.com/pacholoamit/chatgpt-prompts/commit/8406516) Bump @types/node from 18.14.6 to 18.15.1
+
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 18.14.6 to 18.15.1.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@types/node&#34;
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* 🔍 Reviewed [#3498 [FOR REVIEW] Add segment name](https://github.com/MediaJel/mediajel-gql-service/pull/3498) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
