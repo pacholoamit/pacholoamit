@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3399` commits and made `142` PRs.
+:people_hugging: I contributed to `53` repositories , made `3354` commits and made `142` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#346 Create weekly firebrand custom reports](https://github.com/MediaJel/mediajel/issues/346) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🌟 Starred [microsoft/fluentui](https://github.com/microsoft/fluentui)
 * ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
   * [#7893bc1](https://github.com/pacholoamit/chatgpt-prompts/commit/7893bc1) Merge pull request #20 from pacholoamit/dependabot/npm_and_yarn/jest-29.5.0
@@ -82,7 +83,6 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* 🔍 Reviewed [#3498 [FOR REVIEW] Add segment name](https://github.com/MediaJel/mediajel-gql-service/pull/3498) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
