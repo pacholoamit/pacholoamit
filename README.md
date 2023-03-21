@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+* 🌟 Starred [microsoft/unilm](https://github.com/microsoft/unilm)
+* 🌟 Starred [hwchase17/langchain](https://github.com/hwchase17/langchain)
 * 🔍 Reviewed [#4272 [FOR REVIEW] remove shopify universal](https://github.com/MediaJel/mediajel-dashboard/pull/4272) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#3506 Create standardized pipeline for Structured events](https://github.com/MediaJel/mediajel-gql-service/issues/3506) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#347 Create Wordpress website for Haven](https://github.com/MediaJel/mediajel/issues/347) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#215 Research on Proteus 420](https://github.com/MediaJel/mediajel-tracker/issues/215) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#3506 Create standardized pipeline for Structured events](https://github.com/MediaJel/mediajel-gql-service/issues/3506) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
