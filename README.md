@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3410` commits and made `143` PRs.
+:people_hugging: I contributed to `51` repositories , made `3410` commits and made `143` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
 * 💬 Commented on [#345 Create SQL for Firebrand custom reports](https://github.com/MediaJel/mediajel/issues/345) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#334 Generate Failed Enrichments files and do analysis for failed ad impression enrichments](https://github.com/MediaJel/mediajel/issues/334) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#198 Create Mantis ad impression tag and check results](https://github.com/MediaJel/mediajel-tracker/issues/198) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#4265 Remove `ShopifyUniversal` option in Tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4265) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#349 Prioritize UA to GA4 migration learnings](https://github.com/MediaJel/mediajel/issues/349) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#348 Migrate Haven from UA to GA4](https://github.com/MediaJel/mediajel/issues/348) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#345 Create SQL for Firebrand custom reports](https://github.com/MediaJel/mediajel/issues/345) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
