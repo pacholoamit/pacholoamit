@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#338 Get insight on optimizing publisher choice](https://github.com/MediaJel/mediajel/issues/338) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#348 Migrate Haven from UA to GA4](https://github.com/MediaJel/mediajel/issues/348) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#348 Migrate Haven from UA to GA4](https://github.com/MediaJel/mediajel/issues/348) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#339 Research into Improving Google Ads shutdowns](https://github.com/MediaJel/mediajel/issues/339) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#339 Research into Improving Google Ads shutdowns](https://github.com/MediaJel/mediajel/issues/339) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🌟 Starred [NvChad/NvChad](https://github.com/NvChad/NvChad)
-* 📦 Released **v3.0.0** of [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
 
 
 
