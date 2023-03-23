@@ -25,6 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4272 [FOR REVIEW] remove shopify universal](https://github.com/MediaJel/mediajel-dashboard/pull/4272) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#3508 [FOR REVIEW] update tag with segment id and segment name](https://github.com/MediaJel/mediajel-gql-service/pull/3508) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#a5086b3](https://github.com/pacholoamit/pachtop/commit/a5086b3) Merge pull request #31 from pacholoamit/dependabot/npm_and_yarn/vite-and-vitejs/plugin-react-4.2.1
 
@@ -88,42 +90,6 @@ updated-dependencies:
 - dependency-name: &#34;@types/react-dom&#34;
   dependency-type: direct:development
   update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#7841b93](https://github.com/pacholoamit/pachtop/commit/7841b93) Merge pull request #30 from pacholoamit/dependabot/npm_and_yarn/tabler/icons-2.11.0
-
-Bump @tabler/icons from 2.7.0 to 2.11.0
-  * [#c5d9a30](https://github.com/pacholoamit/pachtop/commit/c5d9a30) Bump @tabler/icons from 2.7.0 to 2.11.0
-
-Bumps [@tabler/icons](https://github.com/tabler/tabler-icons) from 2.7.0 to 2.11.0.
-- [Release notes](https://github.com/tabler/tabler-icons/releases)
-- [Commits](https://github.com/tabler/tabler-icons/compare/v2.7.0...v2.11.0)
-
----
-updated-dependencies:
-- dependency-name: &#34;@tabler/icons&#34;
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#a7f5f98](https://github.com/pacholoamit/pachtop/commit/a7f5f98) Merge pull request #10 from pacholoamit/dependabot/cargo/src-tauri/bumpalo-3.12.0
-
-Bump bumpalo from 3.11.0 to 3.12.0 in /src-tauri
-  * [#fa26aa6](https://github.com/pacholoamit/pachtop/commit/fa26aa6) Bump bumpalo from 3.11.0 to 3.12.0 in /src-tauri
-
-Bumps [bumpalo](https://github.com/fitzgen/bumpalo) from 3.11.0 to 3.12.0.
-- [Release notes](https://github.com/fitzgen/bumpalo/releases)
-- [Changelog](https://github.com/fitzgen/bumpalo/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/fitzgen/bumpalo/compare/3.11.0...3.12.0)
-
----
-updated-dependencies:
-- dependency-name: bumpalo
-  dependency-type: indirect
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
