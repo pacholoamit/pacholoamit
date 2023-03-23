@@ -25,11 +25,108 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#350 Eaze Raw Data Pull For CO Retail Locations](https://github.com/MediaJel/mediajel/issues/350) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#345 Create SQL for Firebrand custom reports](https://github.com/MediaJel/mediajel/issues/345) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#349 Prioritize UA to GA4 migration learnings](https://github.com/MediaJel/mediajel/issues/349) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#348 Migrate Haven from UA to GA4](https://github.com/MediaJel/mediajel/issues/348) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#3396 Revise DSP_IMPRESSIONS_AND_CLICKS Snowflake View SQL](https://github.com/MediaJel/mediajel-gql-service/issues/3396) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#a5086b3](https://github.com/pacholoamit/pachtop/commit/a5086b3) Merge pull request #31 from pacholoamit/dependabot/npm_and_yarn/vite-and-vitejs/plugin-react-4.2.1
+
+Bump vite and @vitejs/plugin-react
+  * [#23ad713](https://github.com/pacholoamit/pachtop/commit/23ad713) Bump vite and @vitejs/plugin-react
+
+Bumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) and [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/tree/HEAD/packages/plugin-react). These dependencies needed to be updated together.
+
+Updates `vite` from 3.2.5 to 4.2.1
+- [Release notes](https://github.com/vitejs/vite/releases)
+- [Changelog](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+- [Commits](https://github.com/vitejs/vite/commits/v4.2.1/packages/vite)
+
+Updates `@vitejs/plugin-react` from 2.2.0 to 3.1.0
+- [Release notes](https://github.com/vitejs/vite-plugin-react/releases)
+- [Changelog](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/CHANGELOG.md)
+- [Commits](https://github.com/vitejs/vite-plugin-react/commits/plugin-react@3.1.0/packages/plugin-react)
+
+---
+updated-dependencies:
+- dependency-name: vite
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+- dependency-name: &#34;@vitejs/plugin-react&#34;
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#f869993](https://github.com/pacholoamit/pachtop/commit/f869993) Merge pull request #27 from pacholoamit/dependabot/npm_and_yarn/emotion/react-11.10.6
+
+Bump @emotion/react from 11.10.5 to 11.10.6
+  * [#6291315](https://github.com/pacholoamit/pachtop/commit/6291315) Bump @emotion/react from 11.10.5 to 11.10.6
+
+Bumps [@emotion/react](https://github.com/emotion-js/emotion) from 11.10.5 to 11.10.6.
+- [Release notes](https://github.com/emotion-js/emotion/releases)
+- [Changelog](https://github.com/emotion-js/emotion/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/emotion-js/emotion/compare/@emotion/react@11.10.5...@emotion/react@11.10.6)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@emotion/react&#34;
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#bbc7fc9](https://github.com/pacholoamit/pachtop/commit/bbc7fc9) Merge pull request #29 from pacholoamit/dependabot/npm_and_yarn/types/react-dom-18.0.11
+
+Bump @types/react-dom from 18.0.10 to 18.0.11
+  * [#457d979](https://github.com/pacholoamit/pachtop/commit/457d979) Bump @types/react-dom from 18.0.10 to 18.0.11
+
+Bumps [@types/react-dom](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react-dom) from 18.0.10 to 18.0.11.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react-dom)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@types/react-dom&#34;
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#7841b93](https://github.com/pacholoamit/pachtop/commit/7841b93) Merge pull request #30 from pacholoamit/dependabot/npm_and_yarn/tabler/icons-2.11.0
+
+Bump @tabler/icons from 2.7.0 to 2.11.0
+  * [#c5d9a30](https://github.com/pacholoamit/pachtop/commit/c5d9a30) Bump @tabler/icons from 2.7.0 to 2.11.0
+
+Bumps [@tabler/icons](https://github.com/tabler/tabler-icons) from 2.7.0 to 2.11.0.
+- [Release notes](https://github.com/tabler/tabler-icons/releases)
+- [Commits](https://github.com/tabler/tabler-icons/compare/v2.7.0...v2.11.0)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@tabler/icons&#34;
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#a7f5f98](https://github.com/pacholoamit/pachtop/commit/a7f5f98) Merge pull request #10 from pacholoamit/dependabot/cargo/src-tauri/bumpalo-3.12.0
+
+Bump bumpalo from 3.11.0 to 3.12.0 in /src-tauri
+  * [#fa26aa6](https://github.com/pacholoamit/pachtop/commit/fa26aa6) Bump bumpalo from 3.11.0 to 3.12.0 in /src-tauri
+
+Bumps [bumpalo](https://github.com/fitzgen/bumpalo) from 3.11.0 to 3.12.0.
+- [Release notes](https://github.com/fitzgen/bumpalo/releases)
+- [Changelog](https://github.com/fitzgen/bumpalo/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/fitzgen/bumpalo/compare/3.11.0...3.12.0)
+
+---
+updated-dependencies:
+- dependency-name: bumpalo
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 
 
 
