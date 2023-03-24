@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3415` commits and made `144` PRs.
+:people_hugging: I contributed to `51` repositories , made `3415` commits and made `143` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,11 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#827e76f](https://github.com/MediaJel/mediajel-gql-service/commit/827e76f) minor changes
-* ⏺️ Created new branch add-structured-events in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3506 Create standardized pipeline for Structured events](https://github.com/MediaJel/mediajel-gql-service/issues/3506) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#350 Eaze Raw Data Pull For CO Retail Locations](https://github.com/MediaJel/mediajel/issues/350) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🔍 Reviewed [#4272 [FOR REVIEW] remove shopify universal](https://github.com/MediaJel/mediajel-dashboard/pull/4272) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * [#7465eff](https://github.com/MediaJel/mediajel-gql-service/commit/7465eff) add catch
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#fcdfe3e](https://github.com/MediaJel/mediajel-gql-service/commit/fcdfe3e) Add test comments
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#4be61c9](https://github.com/MediaJel/mediajel-gql-service/commit/4be61c9) Add docs
+* 🔃 Opened [#3530 [IN PROGRESS] Add structured events to EventsQueue](https://github.com/MediaJel/mediajel-gql-service/pull/3530) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 2 files changed `++342 --5`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#f4ad11c](https://github.com/MediaJel/mediajel-gql-service/commit/f4ad11c) Add to events queue
 
 
 
