@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3415` commits and made `143` PRs.
+:people_hugging: I contributed to `51` repositories , made `3415` commits and made `144` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,74 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#827e76f](https://github.com/MediaJel/mediajel-gql-service/commit/827e76f) minor changes
+* ⏺️ Created new branch add-structured-events in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3506 Create standardized pipeline for Structured events](https://github.com/MediaJel/mediajel-gql-service/issues/3506) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#350 Eaze Raw Data Pull For CO Retail Locations](https://github.com/MediaJel/mediajel/issues/350) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🔍 Reviewed [#4272 [FOR REVIEW] remove shopify universal](https://github.com/MediaJel/mediajel-dashboard/pull/4272) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#3508 [FOR REVIEW] update tag with segment id and segment name](https://github.com/MediaJel/mediajel-gql-service/pull/3508) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#a5086b3](https://github.com/pacholoamit/pachtop/commit/a5086b3) Merge pull request #31 from pacholoamit/dependabot/npm_and_yarn/vite-and-vitejs/plugin-react-4.2.1
-
-Bump vite and @vitejs/plugin-react
-  * [#23ad713](https://github.com/pacholoamit/pachtop/commit/23ad713) Bump vite and @vitejs/plugin-react
-
-Bumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) and [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/tree/HEAD/packages/plugin-react). These dependencies needed to be updated together.
-
-Updates `vite` from 3.2.5 to 4.2.1
-- [Release notes](https://github.com/vitejs/vite/releases)
-- [Changelog](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
-- [Commits](https://github.com/vitejs/vite/commits/v4.2.1/packages/vite)
-
-Updates `@vitejs/plugin-react` from 2.2.0 to 3.1.0
-- [Release notes](https://github.com/vitejs/vite-plugin-react/releases)
-- [Changelog](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/CHANGELOG.md)
-- [Commits](https://github.com/vitejs/vite-plugin-react/commits/plugin-react@3.1.0/packages/plugin-react)
-
----
-updated-dependencies:
-- dependency-name: vite
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-- dependency-name: &#34;@vitejs/plugin-react&#34;
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#f869993](https://github.com/pacholoamit/pachtop/commit/f869993) Merge pull request #27 from pacholoamit/dependabot/npm_and_yarn/emotion/react-11.10.6
-
-Bump @emotion/react from 11.10.5 to 11.10.6
-  * [#6291315](https://github.com/pacholoamit/pachtop/commit/6291315) Bump @emotion/react from 11.10.5 to 11.10.6
-
-Bumps [@emotion/react](https://github.com/emotion-js/emotion) from 11.10.5 to 11.10.6.
-- [Release notes](https://github.com/emotion-js/emotion/releases)
-- [Changelog](https://github.com/emotion-js/emotion/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/emotion-js/emotion/compare/@emotion/react@11.10.5...@emotion/react@11.10.6)
-
----
-updated-dependencies:
-- dependency-name: &#34;@emotion/react&#34;
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#bbc7fc9](https://github.com/pacholoamit/pachtop/commit/bbc7fc9) Merge pull request #29 from pacholoamit/dependabot/npm_and_yarn/types/react-dom-18.0.11
-
-Bump @types/react-dom from 18.0.10 to 18.0.11
-  * [#457d979](https://github.com/pacholoamit/pachtop/commit/457d979) Bump @types/react-dom from 18.0.10 to 18.0.11
-
-Bumps [@types/react-dom](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react-dom) from 18.0.10 to 18.0.11.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react-dom)
-
----
-updated-dependencies:
-- dependency-name: &#34;@types/react-dom&#34;
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 
 
 
