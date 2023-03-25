@@ -25,14 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)
 * #️⃣ Closed [#24 I can&#39;t start this project.](https://github.com/pacholoamit/chatgpt-prompts/issues/24) in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
 * #️⃣ Opened [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#046d793](https://github.com/MediaJel/mediajel-gql-service/commit/046d793) Add columns
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#ecd18a8](https://github.com/MediaJel/mediajel-gql-service/commit/ecd18a8) Fix fields
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#7465eff](https://github.com/MediaJel/mediajel-gql-service/commit/7465eff) add catch
 
 
 
