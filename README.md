@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3415` commits and made `144` PRs.
+:people_hugging: I contributed to `51` repositories , made `3416` commits and made `144` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,13 +25,30 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#ba4c56e](https://github.com/pacholoamit/chatgpt-prompts/commit/ba4c56e) Merge pull request #34 from pacholoamit/dependabot/npm_and_yarn/tsup-6.7.0
+
+Bump tsup from 6.6.3 to 6.7.0
+  * [#185b65e](https://github.com/pacholoamit/chatgpt-prompts/commit/185b65e) Bump tsup from 6.6.3 to 6.7.0
+
+Bumps [tsup](https://github.com/egoist/tsup) from 6.6.3 to 6.7.0.
+- [Release notes](https://github.com/egoist/tsup/releases)
+- [Changelog](https://github.com/egoist/tsup/blob/dev/.releaserc.json)
+- [Commits](https://github.com/egoist/tsup/compare/v6.6.3...v6.7.0)
+
+---
+updated-dependencies:
+- dependency-name: tsup
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * 🌟 Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)
 * #️⃣ Closed [#24 I can&#39;t start this project.](https://github.com/pacholoamit/chatgpt-prompts/issues/24) in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
 * #️⃣ Opened [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#046d793](https://github.com/MediaJel/mediajel-gql-service/commit/046d793) Add columns
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#ecd18a8](https://github.com/MediaJel/mediajel-gql-service/commit/ecd18a8) Fix fields
 
 
 
