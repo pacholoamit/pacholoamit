@@ -25,6 +25,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#82e2cc4](https://github.com/MediaJel/mediajel-gql-service/commit/82e2cc4) fix types
+  * [#60e9520](https://github.com/MediaJel/mediajel-gql-service/commit/60e9520) Segregate concerns
+  * [#1203ba4](https://github.com/MediaJel/mediajel-gql-service/commit/1203ba4) Restructured code
 * ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
   * [#ba4c56e](https://github.com/pacholoamit/chatgpt-prompts/commit/ba4c56e) Merge pull request #34 from pacholoamit/dependabot/npm_and_yarn/tsup-6.7.0
 
@@ -47,8 +51,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * 🌟 Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)
 * #️⃣ Closed [#24 I can&#39;t start this project.](https://github.com/pacholoamit/chatgpt-prompts/issues/24) in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
 * #️⃣ Opened [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#046d793](https://github.com/MediaJel/mediajel-gql-service/commit/046d793) Add columns
 
 
 
