@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3416` commits and made `142` PRs.
+:people_hugging: I contributed to `51` repositories , made `3417` commits and made `142` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#336e695](https://github.com/MediaJel/mediajel-gql-service/commit/336e695) remove promise.all
+  * [#d4e2995](https://github.com/MediaJel/mediajel-gql-service/commit/d4e2995) Add structured events to refactored events-queue
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#8ccb836](https://github.com/MediaJel/mediajel-gql-service/commit/8ccb836) enforce strict type checking
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#74f4df0](https://github.com/MediaJel/mediajel-gql-service/commit/74f4df0) implement campaign orders queries
 * ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
@@ -34,10 +39,6 @@
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#8393651](https://github.com/MediaJel/mediajel-gql-service/commit/8393651) Remove eventsqueue import
   * [#2ae45c4](https://github.com/MediaJel/mediajel-gql-service/commit/2ae45c4) Add log error
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#52e7cda](https://github.com/MediaJel/mediajel-gql-service/commit/52e7cda) Add process.argv comment
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#73aab31](https://github.com/MediaJel/mediajel-gql-service/commit/73aab31) Add unit tests
 
 
 
