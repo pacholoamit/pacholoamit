@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3417` commits and made `142` PRs.
+:people_hugging: I contributed to `51` repositories , made `3421` commits and made `143` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,20 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#336e695](https://github.com/MediaJel/mediajel-gql-service/commit/336e695) remove promise.all
-  * [#d4e2995](https://github.com/MediaJel/mediajel-gql-service/commit/d4e2995) Add structured events to refactored events-queue
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#8ccb836](https://github.com/MediaJel/mediajel-gql-service/commit/8ccb836) enforce strict type checking
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#74f4df0](https://github.com/MediaJel/mediajel-gql-service/commit/74f4df0) implement campaign orders queries
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#85805d7](https://github.com/MediaJel/mediajel-gql-service/commit/85805d7) modify production script
-  * [#e35ab34](https://github.com/MediaJel/mediajel-gql-service/commit/e35ab34) Fix absolute imports
-  * [#8f3fe5f](https://github.com/MediaJel/mediajel-gql-service/commit/8f3fe5f) Fix Jest absolute imports
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#8393651](https://github.com/MediaJel/mediajel-gql-service/commit/8393651) Remove eventsqueue import
-  * [#2ae45c4](https://github.com/MediaJel/mediajel-gql-service/commit/2ae45c4) Add log error
+* #️⃣ Closed [#218 Deploy `respectDoNotTrack`: false in universal tag repo](https://github.com/MediaJel/mediajel-tracker/issues/218) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#218 Deploy `respectDoNotTrack`: false in universal tag repo](https://github.com/MediaJel/mediajel-tracker/issues/218) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#334 Generate Failed Enrichments files and do analysis for failed ad impression enrichments](https://github.com/MediaJel/mediajel/issues/334) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#3b1ead5](https://github.com/MediaJel/mediajel-tracker/commit/3b1ead5) merge
+  * [#1457bb8](https://github.com/MediaJel/mediajel-tracker/commit/1457bb8) modify respectDoNotTrack
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#1457bb8](https://github.com/MediaJel/mediajel-tracker/commit/1457bb8) modify respectDoNotTrack
 
 
 
