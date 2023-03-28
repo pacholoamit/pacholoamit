@@ -25,42 +25,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#4a08679](https://github.com/MediaJel/mediajel-gql-service/commit/4a08679) Add type for AttributedTransaction
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#655f1fa](https://github.com/MediaJel/mediajel-gql-service/commit/655f1fa) Add snowflake extension tests
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#9dc90cd](https://github.com/MediaJel/mediajel-gql-service/commit/9dc90cd) minor changes
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#20abf9e](https://github.com/MediaJel/mediajel-gql-service/commit/20abf9e) make where clause take in an array
+  * [#e671f1f](https://github.com/MediaJel/mediajel-gql-service/commit/e671f1f) complete sql query builder
 * ➡️ Pushed 4 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#df81a0e](https://github.com/MediaJel/mediajel-gql-service/commit/df81a0e) Improve params handling
   * [#4f6f069](https://github.com/MediaJel/mediajel-gql-service/commit/4f6f069) Created structure for transaction processor
   * [#c8e4787](https://github.com/MediaJel/mediajel-gql-service/commit/c8e4787) remove interfaces
   * [#146aa75](https://github.com/MediaJel/mediajel-gql-service/commit/146aa75) minor refactor
-* ➡️ Pushed 22 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#2113e1a](https://github.com/MediaJel/mediajel-tracker/commit/2113e1a) modify cypress tests
-  * [#3b1ead5](https://github.com/MediaJel/mediajel-tracker/commit/3b1ead5) merge
-  * [#1457bb8](https://github.com/MediaJel/mediajel-tracker/commit/1457bb8) modify respectDoNotTrack
-  * [#fcf9400](https://github.com/MediaJel/mediajel-tracker/commit/fcf9400) Create .github/dependabot.yml
-  * [#be2ac5c](https://github.com/MediaJel/mediajel-tracker/commit/be2ac5c) Merge pull request #207 from MediaJel/develop
-
-Update Staging
-  * [#2df16a3](https://github.com/MediaJel/mediajel-tracker/commit/2df16a3) Merge pull request #206 from MediaJel/refactor-versions
-
-Refactor versions
-  * [#ef8c3ff](https://github.com/MediaJel/mediajel-tracker/commit/ef8c3ff) add comment.md
-  * [#5ebc281](https://github.com/MediaJel/mediajel-tracker/commit/5ebc281) add actions.yml
-  * [#3cf5adf](https://github.com/MediaJel/mediajel-tracker/commit/3cf5adf) Add stats.json
-  * [#d59ad2d](https://github.com/MediaJel/mediajel-tracker/commit/d59ad2d) remove export
-  * [#e024da9](https://github.com/MediaJel/mediajel-tracker/commit/e024da9) re-add checkout
-  * [#cb4816b](https://github.com/MediaJel/mediajel-tracker/commit/cb4816b) modify build-pr step
-  * [#bbd7dc5](https://github.com/MediaJel/mediajel-tracker/commit/bbd7dc5) update npm version
-  * [#e26d800](https://github.com/MediaJel/mediajel-tracker/commit/e26d800) Fix wasm issue
-  * [#a02de0f](https://github.com/MediaJel/mediajel-tracker/commit/a02de0f) modify npm command
-  * [#9f9afab](https://github.com/MediaJel/mediajel-tracker/commit/9f9afab) Add yarn
-  * [#eb57239](https://github.com/MediaJel/mediajel-tracker/commit/eb57239) modify install cmd
-  * [#860bb3f](https://github.com/MediaJel/mediajel-tracker/commit/860bb3f) remove ref
-  * [#845ae44](https://github.com/MediaJel/mediajel-tracker/commit/845ae44) minor change
-  * [#2bd2c2e](https://github.com/MediaJel/mediajel-tracker/commit/2bd2c2e) Add bundle size CI
-* 🔃 Merged [#219 Merge staging to main](https://github.com/MediaJel/mediajel-tracker/pull/219) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 11 files changed `++182 --10`
-* 🔃 Opened [#219 Merge staging to main](https://github.com/MediaJel/mediajel-tracker/pull/219) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 11 files changed `++182 --10`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#1940bc4](https://github.com/MediaJel/mediajel-tracker/commit/1940bc4) modify tests
 
 
 
