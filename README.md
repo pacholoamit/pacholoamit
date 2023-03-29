@@ -25,20 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#4a08679](https://github.com/MediaJel/mediajel-gql-service/commit/4a08679) Add type for AttributedTransaction
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#655f1fa](https://github.com/MediaJel/mediajel-gql-service/commit/655f1fa) Add snowflake extension tests
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#9dc90cd](https://github.com/MediaJel/mediajel-gql-service/commit/9dc90cd) minor changes
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#20abf9e](https://github.com/MediaJel/mediajel-gql-service/commit/20abf9e) make where clause take in an array
-  * [#e671f1f](https://github.com/MediaJel/mediajel-gql-service/commit/e671f1f) complete sql query builder
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#df81a0e](https://github.com/MediaJel/mediajel-gql-service/commit/df81a0e) Improve params handling
-  * [#4f6f069](https://github.com/MediaJel/mediajel-gql-service/commit/4f6f069) Created structure for transaction processor
-  * [#c8e4787](https://github.com/MediaJel/mediajel-gql-service/commit/c8e4787) remove interfaces
-  * [#146aa75](https://github.com/MediaJel/mediajel-gql-service/commit/146aa75) minor refactor
+* 💬 Commented on [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#335 Integrations tutorial for DevOps](https://github.com/MediaJel/mediajel/issues/335) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#324 Wix Pixel Documentation](https://github.com/MediaJel/mediajel/issues/324) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#345 Create SQL for Firebrand custom reports](https://github.com/MediaJel/mediajel/issues/345) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#345 Create SQL for Firebrand custom reports](https://github.com/MediaJel/mediajel/issues/345) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
