@@ -25,11 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#215 Research on Proteus 420](https://github.com/MediaJel/mediajel-tracker/issues/215) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `master`
+  * [#1e88b1f](https://github.com/MediaJel/mediajel-website/commit/1e88b1f) modify article name
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `master`
+  * [#006fcff](https://github.com/MediaJel/mediajel-website/commit/006fcff) Add integrations article
+* ⏺️ Created new branch add-article in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
 * 💬 Commented on [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#335 Integrations tutorial for DevOps](https://github.com/MediaJel/mediajel/issues/335) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#324 Wix Pixel Documentation](https://github.com/MediaJel/mediajel/issues/324) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#345 Create SQL for Firebrand custom reports](https://github.com/MediaJel/mediajel/issues/345) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#345 Create SQL for Firebrand custom reports](https://github.com/MediaJel/mediajel/issues/345) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
