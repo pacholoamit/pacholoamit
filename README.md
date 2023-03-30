@@ -25,13 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#215 Research on Proteus 420](https://github.com/MediaJel/mediajel-tracker/issues/215) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `master`
-  * [#1e88b1f](https://github.com/MediaJel/mediajel-website/commit/1e88b1f) modify article name
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website) on branch `master`
-  * [#006fcff](https://github.com/MediaJel/mediajel-website/commit/006fcff) Add integrations article
-* ⏺️ Created new branch add-article in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
+* 💬 Commented on [#3467 Implement &#34;Signups&#34; in transactions observer](https://github.com/MediaJel/mediajel-gql-service/issues/3467) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#346 Create weekly firebrand custom reports](https://github.com/MediaJel/mediajel/issues/346) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
