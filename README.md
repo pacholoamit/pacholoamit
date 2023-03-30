@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [iglance/iGlance](https://github.com/iglance/iGlance)
 * 🌟 Starred [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd)
 * 🌟 Starred [moovweb/gvm](https://github.com/moovweb/gvm)
 * 💬 Commented on [#3467 Implement &#34;Signups&#34; in transactions observer](https://github.com/MediaJel/mediajel-gql-service/issues/3467) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Closed [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
