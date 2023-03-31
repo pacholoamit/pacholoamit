@@ -26,16 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#5f35be8](https://github.com/MediaJel/mediajel-gql-service/commit/5f35be8) Add debug logs to track attributed transactions query in Snowflake
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#b510cb8](https://github.com/MediaJel/mediajel-gql-service/commit/b510cb8) Complete Get events query
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#1609bf2](https://github.com/MediaJel/mediajel-gql-service/commit/1609bf2) Add skipLibCheck
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#7ed4176](https://github.com/MediaJel/mediajel-gql-service/commit/7ed4176) cleanup
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#4a02bcb](https://github.com/MediaJel/mediajel-gql-service/commit/4a02bcb) Cleanup types
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#0c8cff5](https://github.com/MediaJel/mediajel-gql-service/commit/0c8cff5) Extend bull queue options
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#7533f78](https://github.com/MediaJel/mediajel-gql-service/commit/7533f78) fix tsconfig
-  * [#869c395](https://github.com/MediaJel/mediajel-gql-service/commit/869c395) Remove type reference from Bull
 
 
 
