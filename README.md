@@ -25,11 +25,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [iglance/iGlance](https://github.com/iglance/iGlance)
-* 🌟 Starred [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd)
-* 🌟 Starred [moovweb/gvm](https://github.com/moovweb/gvm)
-* 💬 Commented on [#3467 Implement &#34;Signups&#34; in transactions observer](https://github.com/MediaJel/mediajel-gql-service/issues/3467) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#216 Investigate trending downward transactions tracking](https://github.com/MediaJel/mediajel-tracker/issues/216) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#1609bf2](https://github.com/MediaJel/mediajel-gql-service/commit/1609bf2) Add skipLibCheck
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#7ed4176](https://github.com/MediaJel/mediajel-gql-service/commit/7ed4176) cleanup
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#4a02bcb](https://github.com/MediaJel/mediajel-gql-service/commit/4a02bcb) Cleanup types
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#0c8cff5](https://github.com/MediaJel/mediajel-gql-service/commit/0c8cff5) Extend bull queue options
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#7533f78](https://github.com/MediaJel/mediajel-gql-service/commit/7533f78) fix tsconfig
+  * [#869c395](https://github.com/MediaJel/mediajel-gql-service/commit/869c395) Remove type reference from Bull
 
 
 
