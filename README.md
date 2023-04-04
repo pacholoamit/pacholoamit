@@ -25,6 +25,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#221 Create and host react landing page](https://github.com/MediaJel/mediajel-tracker/issues/221) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#221 Create and host react landing page](https://github.com/MediaJel/mediajel-tracker/issues/221) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#221 Create and host react landing page](https://github.com/MediaJel/mediajel-tracker/issues/221) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#339 Research into Improving Google Ads shutdowns](https://github.com/MediaJel/mediajel/issues/339) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
   * [#94bdb26](https://github.com/pacholoamit/chatgpt-prompts/commit/94bdb26) Merge pull request #37 from pacholoamit/dependabot/npm_and_yarn/types/node-18.15.10
 
@@ -43,14 +47,6 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#5f35be8](https://github.com/MediaJel/mediajel-gql-service/commit/5f35be8) Add debug logs to track attributed transactions query in Snowflake
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#b510cb8](https://github.com/MediaJel/mediajel-gql-service/commit/b510cb8) Complete Get events query
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#1609bf2](https://github.com/MediaJel/mediajel-gql-service/commit/1609bf2) Add skipLibCheck
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#7ed4176](https://github.com/MediaJel/mediajel-gql-service/commit/7ed4176) cleanup
 
 
 
