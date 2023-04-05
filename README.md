@@ -26,15 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#0893ea0](https://github.com/MediaJel/mediajel-gql-service/commit/0893ea0) Improve interfaces
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#f768965](https://github.com/MediaJel/mediajel-gql-service/commit/f768965) remove unrequired imports
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#7f12f50](https://github.com/MediaJel/mediajel-gql-service/commit/7f12f50) fix types on update-liquid-m function
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#9444ce0](https://github.com/MediaJel/mediajel-gql-service/commit/9444ce0) remove artifact
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#fe9a242](https://github.com/MediaJel/mediajel-gql-service/commit/fe9a242) Create types for Liquid M S3 logs
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#74b5cfe](https://github.com/MediaJel/mediajel-gql-service/commit/74b5cfe) add logs
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#f1874df](https://github.com/MediaJel/mediajel-gql-service/commit/f1874df) Add validations
-  * [#f8687d8](https://github.com/MediaJel/mediajel-gql-service/commit/f8687d8) Add minor logging
-* 💬 Commented on [#221 Create and host react landing page](https://github.com/MediaJel/mediajel-tracker/issues/221) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
