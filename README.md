@@ -25,15 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#e5547da](https://github.com/MediaJel/mediajel-gql-service/commit/e5547da) Scaffold error handlers
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#73f0f4f](https://github.com/MediaJel/mediajel-gql-service/commit/73f0f4f) Implement add Creative Url
 * 🌟 Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#0893ea0](https://github.com/MediaJel/mediajel-gql-service/commit/0893ea0) Improve interfaces
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#f768965](https://github.com/MediaJel/mediajel-gql-service/commit/f768965) remove unrequired imports
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#7f12f50](https://github.com/MediaJel/mediajel-gql-service/commit/7f12f50) fix types on update-liquid-m function
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#9444ce0](https://github.com/MediaJel/mediajel-gql-service/commit/9444ce0) remove artifact
 
 
 
