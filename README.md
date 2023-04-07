@@ -25,15 +25,73 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 6 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#463c702](https://github.com/MediaJel/mediajel-gql-service/commit/463c702) change test script
+  * [#5591d08](https://github.com/MediaJel/mediajel-gql-service/commit/5591d08) change column name to select
+  * [#ecdaae4](https://github.com/MediaJel/mediajel-gql-service/commit/ecdaae4) adjust tests
+  * [#f11ac7f](https://github.com/MediaJel/mediajel-gql-service/commit/f11ac7f) cleanup
+  * [#6a304e2](https://github.com/MediaJel/mediajel-gql-service/commit/6a304e2) Cleanup snowflake function
+  * [#b1ac5ad](https://github.com/MediaJel/mediajel-gql-service/commit/b1ac5ad) Improve logs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#e5547da](https://github.com/MediaJel/mediajel-gql-service/commit/e5547da) Scaffold error handlers
+  * [#1275c2b](https://github.com/MediaJel/mediajel-gql-service/commit/1275c2b) fix retail location filter
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#73f0f4f](https://github.com/MediaJel/mediajel-gql-service/commit/73f0f4f) Implement add Creative Url
-* 🌟 Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#0893ea0](https://github.com/MediaJel/mediajel-gql-service/commit/0893ea0) Improve interfaces
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#f768965](https://github.com/MediaJel/mediajel-gql-service/commit/f768965) remove unrequired imports
+  * [#93a8686](https://github.com/MediaJel/mediajel-gql-service/commit/93a8686) disable esmoduleinterop
+* ➡️ Pushed 106 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#2c0b9a1](https://github.com/MediaJel/mediajel-gql-service/commit/2c0b9a1) BUG: Cannot find module /webapp/utils or its corresponding type declarations
+  * [#8a582f9](https://github.com/MediaJel/mediajel-gql-service/commit/8a582f9) Merge pull request #3534 from MediaJel/develop
+
+Merge all Pass eng qa from Develop to dojo
+  * [#f6b5e98](https://github.com/MediaJel/mediajel-gql-service/commit/f6b5e98) COMPLETE: SEO Commerce Backend (#3528)
+
+Co-authored-by: Felix Labayen &lt;felixlabayen@yahoo.com&gt;
+  * [#f938bac](https://github.com/MediaJel/mediajel-gql-service/commit/f938bac) [PASS ENGR QA] Semrush API implementation (#3509)
+
+* API endpoints of backlinks implemented
+
+* Semrush api auth add additional API endpoints
+
+---------
+
+Co-authored-by: Verdel Manzano &lt;verdelmanzano@gmail.com&gt;
+  * [#478fda9](https://github.com/MediaJel/mediajel-gql-service/commit/478fda9) Merge pull request #3507 from MediaJel/icf-commerce-pagination
+
+[PASS ENGR QA] ICF commerce pagination
+  * [#15850e0](https://github.com/MediaJel/mediajel-gql-service/commit/15850e0) Added LIVE_APPROVED campaign status
+  * [#a93ee79](https://github.com/MediaJel/mediajel-gql-service/commit/a93ee79) Added relation between campaig order an campaign history
+  * [#163b987](https://github.com/MediaJel/mediajel-gql-service/commit/163b987) Merged develop
+  * [#10eb1bb](https://github.com/MediaJel/mediajel-gql-service/commit/10eb1bb) Merge pull request #3531 from MediaJel/develop
+
+[SCHEMA UPDATE][FOR REVIEW] Semrush GQL table fix relationship not required (#3526)
+  * [#e793c8f](https://github.com/MediaJel/mediajel-gql-service/commit/e793c8f) [SCHEMA UPDATE][FOR REVIEW] Semrush GQL table fix relationship not required (#3526)
+
+* Semrush table report not required fix
+
+* Forgot to add cascade
+
+* BUG: Specify which field is under 1:1 relation using link:Table directve &amp; always declare id column on a table
+
+* Add generated files into GQL
+
+---------
+
+Co-authored-by: Verdel Manzano &lt;verdelmanzano@gmail.com&gt;
+Co-authored-by: Felix Labayen &lt;felixlabayen@yahoo.com&gt;
+  * [#8391fd6](https://github.com/MediaJel/mediajel-gql-service/commit/8391fd6) Merge pull request #3529 from MediaJel/develop
+
+BUGFIX and Features deployment from Develop to Dojo
+  * [#62e77a4](https://github.com/MediaJel/mediajel-gql-service/commit/62e77a4) Added pending status
+  * [#41274d5](https://github.com/MediaJel/mediajel-gql-service/commit/41274d5) Remove campaign order required field in campaign history
+  * [#92cb19c](https://github.com/MediaJel/mediajel-gql-service/commit/92cb19c) 4168 Added generated files
+  * [#38260b5](https://github.com/MediaJel/mediajel-gql-service/commit/38260b5) 4168 Addded LIVE_PENDING Campaign status
+  * [#2a1621f](https://github.com/MediaJel/mediajel-gql-service/commit/2a1621f) Merged origin develop
+  * [#03cb8c9](https://github.com/MediaJel/mediajel-gql-service/commit/03cb8c9) COMPLETE: Added prisma query for pagination
+  * [#b3a6cbf](https://github.com/MediaJel/mediajel-gql-service/commit/b3a6cbf) Added generated files
+  * [#787b201](https://github.com/MediaJel/mediajel-gql-service/commit/787b201) Merge remote-tracking branch &#39;origin/develop&#39; into br/pcl-update-live-campaign
+  * [#42065a1](https://github.com/MediaJel/mediajel-gql-service/commit/42065a1) Added new creative status
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#5171567](https://github.com/MediaJel/mediajel-gql-service/commit/5171567) monir change
+  * [#06a201d](https://github.com/MediaJel/mediajel-gql-service/commit/06a201d) Modify TransactionseventProcessor arguments
+  * [#c16589c](https://github.com/MediaJel/mediajel-gql-service/commit/c16589c) add optional label to logs
 
 
 
