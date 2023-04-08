@@ -25,18 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#16a0c26](https://github.com/MediaJel/mediajel-gql-service/commit/16a0c26) Add unit tests
-  * [#6d52075](https://github.com/MediaJel/mediajel-gql-service/commit/6d52075) Cleanup transactions ip filter
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#167237f](https://github.com/MediaJel/mediajel-gql-service/commit/167237f) Modify job to enable failures
+  * [#5557f77](https://github.com/MediaJel/mediajel-gql-service/commit/5557f77) Add scaffold for process signups
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#947b03c](https://github.com/MediaJel/mediajel-gql-service/commit/947b03c) Complete transactions events job
+  * [#34abf84](https://github.com/MediaJel/mediajel-gql-service/commit/34abf84) move logs
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#af53244](https://github.com/MediaJel/mediajel-gql-service/commit/af53244) change logger import
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#14f986b](https://github.com/MediaJel/mediajel-gql-service/commit/14f986b) Cleanup logging, cleanup processor functions
-  * [#0437fc6](https://github.com/MediaJel/mediajel-gql-service/commit/0437fc6) move logger to shared folder and modify Bull queue logs
+  * [#3fc71f3](https://github.com/MediaJel/mediajel-gql-service/commit/3fc71f3) Cleanup
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#bd09104](https://github.com/MediaJel/mediajel-gql-service/commit/bd09104) Make types generic
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#882331b](https://github.com/MediaJel/mediajel-gql-service/commit/882331b) Create scaffold for Signup events processor
 
 
 
