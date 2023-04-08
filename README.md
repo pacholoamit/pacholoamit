@@ -26,15 +26,18 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#5557f77](https://github.com/MediaJel/mediajel-gql-service/commit/5557f77) Add scaffold for process signups
+  * [#7fbff39](https://github.com/MediaJel/mediajel-gql-service/commit/7fbff39) uncomment processTransactions&#39;
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#34abf84](https://github.com/MediaJel/mediajel-gql-service/commit/34abf84) move logs
+  * [#f9d233e](https://github.com/MediaJel/mediajel-gql-service/commit/f9d233e) Successfully clone signups
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#80f344b](https://github.com/MediaJel/mediajel-gql-service/commit/80f344b) removed signup artifact
+  * [#0e53535](https://github.com/MediaJel/mediajel-gql-service/commit/0e53535) modify transactions filter
+  * [#a0a0809](https://github.com/MediaJel/mediajel-gql-service/commit/a0a0809) Add todo
+  * [#4f10607](https://github.com/MediaJel/mediajel-gql-service/commit/4f10607) Change retail location filter for signup
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#3fc71f3](https://github.com/MediaJel/mediajel-gql-service/commit/3fc71f3) Cleanup
+  * [#4ead1ed](https://github.com/MediaJel/mediajel-gql-service/commit/4ead1ed) Add XOR type
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#bd09104](https://github.com/MediaJel/mediajel-gql-service/commit/bd09104) Make types generic
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#882331b](https://github.com/MediaJel/mediajel-gql-service/commit/882331b) Create scaffold for Signup events processor
+  * [#9e9dbb6](https://github.com/MediaJel/mediajel-gql-service/commit/9e9dbb6) Complete signups
 
 
 
