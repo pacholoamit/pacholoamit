@@ -25,6 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#16a0c26](https://github.com/MediaJel/mediajel-gql-service/commit/16a0c26) Add unit tests
+  * [#6d52075](https://github.com/MediaJel/mediajel-gql-service/commit/6d52075) Cleanup transactions ip filter
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#167237f](https://github.com/MediaJel/mediajel-gql-service/commit/167237f) Modify job to enable failures
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#947b03c](https://github.com/MediaJel/mediajel-gql-service/commit/947b03c) Complete transactions events job
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
@@ -32,15 +37,6 @@
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#14f986b](https://github.com/MediaJel/mediajel-gql-service/commit/14f986b) Cleanup logging, cleanup processor functions
   * [#0437fc6](https://github.com/MediaJel/mediajel-gql-service/commit/0437fc6) move logger to shared folder and modify Bull queue logs
-* ➡️ Pushed 6 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#463c702](https://github.com/MediaJel/mediajel-gql-service/commit/463c702) change test script
-  * [#5591d08](https://github.com/MediaJel/mediajel-gql-service/commit/5591d08) change column name to select
-  * [#ecdaae4](https://github.com/MediaJel/mediajel-gql-service/commit/ecdaae4) adjust tests
-  * [#f11ac7f](https://github.com/MediaJel/mediajel-gql-service/commit/f11ac7f) cleanup
-  * [#6a304e2](https://github.com/MediaJel/mediajel-gql-service/commit/6a304e2) Cleanup snowflake function
-  * [#b1ac5ad](https://github.com/MediaJel/mediajel-gql-service/commit/b1ac5ad) Improve logs
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#1275c2b](https://github.com/MediaJel/mediajel-gql-service/commit/1275c2b) fix retail location filter
 
 
 
