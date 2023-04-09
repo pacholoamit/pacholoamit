@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `3425` commits and made `143` PRs.
+:people_hugging: I contributed to `49` repositories , made `3425` commits and made `142` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,20 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [mikigal/ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#5f140a4](https://github.com/MediaJel/mediajel-gql-service/commit/5f140a4) Accomodate signups for upload
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#a3356c4](https://github.com/MediaJel/mediajel-gql-service/commit/a3356c4) Fix sql
-  * [#6db1705](https://github.com/MediaJel/mediajel-gql-service/commit/6db1705) Got winston slack logger working
+  * [#2238ca6](https://github.com/MediaJel/mediajel-gql-service/commit/2238ca6) change imports
+  * [#0f2c77e](https://github.com/MediaJel/mediajel-gql-service/commit/0f2c77e) Switch back to sequential
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#7fbff39](https://github.com/MediaJel/mediajel-gql-service/commit/7fbff39) uncomment processTransactions&#39;
+  * [#5b5fa2b](https://github.com/MediaJel/mediajel-gql-service/commit/5b5fa2b) Separation of concerns and extending of base logger
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#f9d233e](https://github.com/MediaJel/mediajel-gql-service/commit/f9d233e) Successfully clone signups
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#80f344b](https://github.com/MediaJel/mediajel-gql-service/commit/80f344b) removed signup artifact
-  * [#0e53535](https://github.com/MediaJel/mediajel-gql-service/commit/0e53535) modify transactions filter
-  * [#a0a0809](https://github.com/MediaJel/mediajel-gql-service/commit/a0a0809) Add todo
-  * [#4f10607](https://github.com/MediaJel/mediajel-gql-service/commit/4f10607) Change retail location filter for signup
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#4ead1ed](https://github.com/MediaJel/mediajel-gql-service/commit/4ead1ed) Add XOR type
+  * [#0296bee](https://github.com/MediaJel/mediajel-gql-service/commit/0296bee) Change log format
 
 
 
