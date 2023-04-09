@@ -25,6 +25,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#a3356c4](https://github.com/MediaJel/mediajel-gql-service/commit/a3356c4) Fix sql
+  * [#6db1705](https://github.com/MediaJel/mediajel-gql-service/commit/6db1705) Got winston slack logger working
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#7fbff39](https://github.com/MediaJel/mediajel-gql-service/commit/7fbff39) uncomment processTransactions&#39;
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
@@ -36,8 +39,6 @@
   * [#4f10607](https://github.com/MediaJel/mediajel-gql-service/commit/4f10607) Change retail location filter for signup
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#4ead1ed](https://github.com/MediaJel/mediajel-gql-service/commit/4ead1ed) Add XOR type
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#9e9dbb6](https://github.com/MediaJel/mediajel-gql-service/commit/9e9dbb6) Complete signups
 
 
 
