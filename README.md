@@ -25,16 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#221 Create and host react landing page](https://github.com/MediaJel/mediajel-tracker/issues/221) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#215 Research on Proteus 420](https://github.com/MediaJel/mediajel-tracker/issues/215) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#214 Universal tag fixes and improvements](https://github.com/MediaJel/mediajel-tracker/issues/214) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#217 Mediajel website signup tracking](https://github.com/MediaJel/mediajel-tracker/issues/217) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#29b93fe](https://github.com/MediaJel/mediajel-gql-service/commit/29b93fe) Add types
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#6af2119](https://github.com/MediaJel/mediajel-gql-service/commit/6af2119) Change name of interfaces to make more sense
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#e1f6a48](https://github.com/MediaJel/mediajel-gql-service/commit/e1f6a48) change folder structure&#39;
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#db8d4b7](https://github.com/MediaJel/mediajel-gql-service/commit/db8d4b7) minor refactor and separation of concerns
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#e46a71f](https://github.com/MediaJel/mediajel-gql-service/commit/e46a71f) Add enabledProcessors
 
 
 
