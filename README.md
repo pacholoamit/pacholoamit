@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `3425` commits and made `142` PRs.
+:people_hugging: I contributed to `50` repositories , made `3431` commits and made `145` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Closed [#223 add res.text &amp; res.json](https://github.com/MediaJel/vwi-service/pull/223) in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service)
+  * 1 file changed `++32 --34`
+* 🔃 Opened [#223 add res.text &amp; res.json](https://github.com/MediaJel/vwi-service/pull/223) in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service)
+  * 1 file changed `++32 --34`
+* ⏺️ Created new branch pach in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service)
 * #️⃣ Closed [#346 Create weekly firebrand custom reports](https://github.com/MediaJel/mediajel/issues/346) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#221 Create and host react landing page](https://github.com/MediaJel/mediajel-tracker/issues/221) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#215 Research on Proteus 420](https://github.com/MediaJel/mediajel-tracker/issues/215) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#214 Universal tag fixes and improvements](https://github.com/MediaJel/mediajel-tracker/issues/214) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#217 Mediajel website signup tracking](https://github.com/MediaJel/mediajel-tracker/issues/217) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
