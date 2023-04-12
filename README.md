@@ -25,13 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#223 add res.text &amp; res.json](https://github.com/MediaJel/vwi-service/pull/223) in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service)
-  * 1 file changed `++32 --34`
-* 🔃 Opened [#223 add res.text &amp; res.json](https://github.com/MediaJel/vwi-service/pull/223) in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service)
-  * 1 file changed `++32 --34`
-* ⏺️ Created new branch pach in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service)
-* #️⃣ Closed [#346 Create weekly firebrand custom reports](https://github.com/MediaJel/mediajel/issues/346) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#221 Create and host react landing page](https://github.com/MediaJel/mediajel-tracker/issues/221) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service) on branch `log-response-body`
+  * [#5656c65](https://github.com/MediaJel/vwi-service/commit/5656c65) fix linting
+* ➡️ Pushed 1 commit in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service) on branch `log-response-body`
+  * [#ce620b7](https://github.com/MediaJel/vwi-service/commit/ce620b7) fix linting
+* ➡️ Pushed 1 commit in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service) on branch `log-response-body`
+  * [#5653d3c](https://github.com/MediaJel/vwi-service/commit/5653d3c) fix linting
+* ➡️ Pushed 1 commit in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service) on branch `log-response-body`
+  * [#eed841b](https://github.com/MediaJel/vwi-service/commit/eed841b) use inspect to replace circular links
+* 🔃 Opened [#228 log response body](https://github.com/MediaJel/vwi-service/pull/228) in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service)
+  * 1 file changed `++2 --0`
 
 
 
