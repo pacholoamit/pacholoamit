@@ -25,16 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Closed [#335 Integrations tutorial for DevOps](https://github.com/MediaJel/mediajel/issues/335) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#349 Prioritize UA to GA4 migration](https://github.com/MediaJel/mediajel/issues/349) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#3343 research pixel for impressions](https://github.com/MediaJel/mediajel-gql-service/issues/3343) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service) on branch `log-response-body`
   * [#5656c65](https://github.com/MediaJel/vwi-service/commit/5656c65) fix linting
 * ➡️ Pushed 1 commit in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service) on branch `log-response-body`
   * [#ce620b7](https://github.com/MediaJel/vwi-service/commit/ce620b7) fix linting
-* ➡️ Pushed 1 commit in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service) on branch `log-response-body`
-  * [#5653d3c](https://github.com/MediaJel/vwi-service/commit/5653d3c) fix linting
-* ➡️ Pushed 1 commit in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service) on branch `log-response-body`
-  * [#eed841b](https://github.com/MediaJel/vwi-service/commit/eed841b) use inspect to replace circular links
-* 🔃 Opened [#228 log response body](https://github.com/MediaJel/vwi-service/pull/228) in [MediaJel/vwi-service](https://github.com/MediaJel/vwi-service)
-  * 1 file changed `++2 --0`
 
 
 
