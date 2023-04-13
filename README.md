@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `3434` commits and made `145` PRs.
+:people_hugging: I contributed to `51` repositories , made `3445` commits and made `146` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,23 +25,34 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+* ➡️ Pushed 7 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#8b311e1](https://github.com/MediaJel/mediajel-tracker/commit/8b311e1) Merge pull request #224 from MediaJel/staging
+
+Merge staging to main
   * [#0fd01a0](https://github.com/MediaJel/mediajel-tracker/commit/0fd01a0) Merge pull request #223 from MediaJel/dispense-cart
 
 update imports
   * [#450a573](https://github.com/MediaJel/mediajel-tracker/commit/450a573) update imports
-* 🔃 Merged [#223 update imports](https://github.com/MediaJel/mediajel-tracker/pull/223) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++3 --3`
-* 🔍 Reviewed [#223 update imports](https://github.com/MediaJel/mediajel-tracker/pull/223) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#2b800b9](https://github.com/MediaJel/mediajel-tracker/commit/2b800b9) Merge pull request #222 from MediaJel/dispense-cart
 
 dispense cart
   * [#709d12c](https://github.com/MediaJel/mediajel-tracker/commit/709d12c) remove .github workflow
   * [#52caf8d](https://github.com/MediaJel/mediajel-tracker/commit/52caf8d) use dispense data source
   * [#e6a1325](https://github.com/MediaJel/mediajel-tracker/commit/e6a1325) dispense cart
-* 🔃 Merged [#222 dispense cart](https://github.com/MediaJel/mediajel-tracker/pull/222) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔃 Merged [#224 Merge staging to main](https://github.com/MediaJel/mediajel-tracker/pull/224) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 10 files changed `++106 --113`
+* 🔃 Opened [#224 Merge staging to main](https://github.com/MediaJel/mediajel-tracker/pull/224) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 10 files changed `++106 --113`
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#2d888d7](https://github.com/MediaJel/mediajel-gql-service/commit/2d888d7) Add exports
+  * [#c3737ef](https://github.com/MediaJel/mediajel-gql-service/commit/c3737ef) export createStructuredEventsProcessor
+  * [#bbf36ab](https://github.com/MediaJel/mediajel-gql-service/commit/bbf36ab) change prefix to bullqueue
+  * [#d29e9f2](https://github.com/MediaJel/mediajel-gql-service/commit/d29e9f2) Scaffold transaction items processor
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#0fd01a0](https://github.com/MediaJel/mediajel-tracker/commit/0fd01a0) Merge pull request #223 from MediaJel/dispense-cart
+
+update imports
+  * [#450a573](https://github.com/MediaJel/mediajel-tracker/commit/450a573) update imports
 
 
 
