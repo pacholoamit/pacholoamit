@@ -25,13 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#3590 [PASS ENGR QA] Setup weekly cleanup for bullqueue to prevent redis flooding](https://github.com/MediaJel/mediajel-gql-service/pull/3590) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3590 [PASS ENGR QA] Setup weekly cleanup for bullqueue to prevent redis flooding](https://github.com/MediaJel/mediajel-gql-service/pull/3590) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3590 [PASS ENGR QA] Setup weekly cleanup for bullqueue to prevent redis flooding](https://github.com/MediaJel/mediajel-gql-service/pull/3590) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#4336 Eaze Raw Data Pull For CO Retail Locations](https://github.com/MediaJel/mediajel-dashboard/issues/4336) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#4336 Eaze Raw Data Pull For CO Retail Locations](https://github.com/MediaJel/mediajel-dashboard/issues/4336) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#1 Fix Env Issue](https://github.com/MediaJel/treact-landing-page/pull/1) in [MediaJel/treact-landing-page](https://github.com/MediaJel/treact-landing-page)
-* ➡️ Pushed 1 commit in [MediaJel/treact-landing-page](https://github.com/MediaJel/treact-landing-page) on branch `master`
-  * [#46a4946](https://github.com/MediaJel/treact-landing-page/commit/46a4946) change version of aws s3 orb
-* ➡️ Pushed 1 commit in [MediaJel/treact-landing-page](https://github.com/MediaJel/treact-landing-page) on branch `master`
-  * [#aea8bd8](https://github.com/MediaJel/treact-landing-page/commit/aea8bd8) remove args
 
 
 
