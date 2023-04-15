@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3452` commits and made `146` PRs.
+:people_hugging: I contributed to `51` repositories , made `3453` commits and made `146` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 4 commits in [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding) on branch `master`
+  * [#c59ab44](https://github.com/MediaJel/CRM-data-onboarding/commit/c59ab44) Merge branch &#39;staging&#39;
+* ➡️ Pushed 1 commit in [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding) on branch `staging`
+  * [#fa3b670](https://github.com/MediaJel/CRM-data-onboarding/commit/fa3b670) cleanup
 * 💬 Commented on [#3590 [PASS ENGR QA] Setup weekly cleanup for bullqueue to prevent redis flooding](https://github.com/MediaJel/mediajel-gql-service/pull/3590) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#3590 [PASS ENGR QA] Setup weekly cleanup for bullqueue to prevent redis flooding](https://github.com/MediaJel/mediajel-gql-service/pull/3590) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#3590 [PASS ENGR QA] Setup weekly cleanup for bullqueue to prevent redis flooding](https://github.com/MediaJel/mediajel-gql-service/pull/3590) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#4336 Eaze Raw Data Pull For CO Retail Locations](https://github.com/MediaJel/mediajel-dashboard/issues/4336) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#4336 Eaze Raw Data Pull For CO Retail Locations](https://github.com/MediaJel/mediajel-dashboard/issues/4336) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
