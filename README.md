@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
 * ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#babfdef](https://github.com/MediaJel/mediajel-tracker/commit/babfdef) Merge pull request #227 from MediaJel/staging
 
@@ -42,8 +43,6 @@ Dutchie plus cart update
 
 Dutchie plus cart update
   * [#5e4e400](https://github.com/MediaJel/mediajel-tracker/commit/5e4e400) dutchie plus cart
-* 🔃 Merged [#226 Dutchie plus cart update](https://github.com/MediaJel/mediajel-tracker/pull/226) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 4 files changed `++28 --34`
 
 
 
