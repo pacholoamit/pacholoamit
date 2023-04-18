@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3454` commits and made `146` PRs.
+:people_hugging: I contributed to `51` repositories , made `3455` commits and made `147` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,13 +25,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch master in [MediaJel/snowplow-pipeline](https://github.com/MediaJel/snowplow-pipeline)
-* ⏺️ Created new repository  [MediaJel/snowplow-pipeline](https://github.com/MediaJel/snowplow-pipeline)
-* ➡️ Pushed 4 commits in [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding) on branch `master`
-  * [#c59ab44](https://github.com/MediaJel/CRM-data-onboarding/commit/c59ab44) Merge branch &#39;staging&#39;
-* ➡️ Pushed 1 commit in [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding) on branch `staging`
-  * [#fa3b670](https://github.com/MediaJel/CRM-data-onboarding/commit/fa3b670) cleanup
-* 💬 Commented on [#3590 [PASS ENGR QA] Setup weekly cleanup for bullqueue to prevent redis flooding](https://github.com/MediaJel/mediajel-gql-service/pull/3590) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#babfdef](https://github.com/MediaJel/mediajel-tracker/commit/babfdef) Merge pull request #227 from MediaJel/staging
+
+Merge &#34;staging&#34; to main
+  * [#2ffaaa5](https://github.com/MediaJel/mediajel-tracker/commit/2ffaaa5) Merge pull request #226 from MediaJel/dutchie-plus
+
+Dutchie plus cart update
+  * [#5e4e400](https://github.com/MediaJel/mediajel-tracker/commit/5e4e400) dutchie plus cart
+* 🔃 Merged [#227 Merge &#34;staging&#34; to main](https://github.com/MediaJel/mediajel-tracker/pull/227) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++28 --34`
+* 🔃 Opened [#227 Merge &#34;staging&#34; to main](https://github.com/MediaJel/mediajel-tracker/pull/227) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++28 --34`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#2ffaaa5](https://github.com/MediaJel/mediajel-tracker/commit/2ffaaa5) Merge pull request #226 from MediaJel/dutchie-plus
+
+Dutchie plus cart update
+  * [#5e4e400](https://github.com/MediaJel/mediajel-tracker/commit/5e4e400) dutchie plus cart
+* 🔃 Merged [#226 Dutchie plus cart update](https://github.com/MediaJel/mediajel-tracker/pull/226) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++28 --34`
 
 
 
