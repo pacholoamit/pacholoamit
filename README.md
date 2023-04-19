@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3455` commits and made `147` PRs.
+:people_hugging: I contributed to `50` repositories , made `3455` commits and made `147` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,24 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#babfdef](https://github.com/MediaJel/mediajel-tracker/commit/babfdef) Merge pull request #227 from MediaJel/staging
-
-Merge &#34;staging&#34; to main
-  * [#2ffaaa5](https://github.com/MediaJel/mediajel-tracker/commit/2ffaaa5) Merge pull request #226 from MediaJel/dutchie-plus
-
-Dutchie plus cart update
-  * [#5e4e400](https://github.com/MediaJel/mediajel-tracker/commit/5e4e400) dutchie plus cart
-* 🔃 Merged [#227 Merge &#34;staging&#34; to main](https://github.com/MediaJel/mediajel-tracker/pull/227) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 4 files changed `++28 --34`
-* 🔃 Opened [#227 Merge &#34;staging&#34; to main](https://github.com/MediaJel/mediajel-tracker/pull/227) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 4 files changed `++28 --34`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#2ffaaa5](https://github.com/MediaJel/mediajel-tracker/commit/2ffaaa5) Merge pull request #226 from MediaJel/dutchie-plus
-
-Dutchie plus cart update
-  * [#5e4e400](https://github.com/MediaJel/mediajel-tracker/commit/5e4e400) dutchie plus cart
+* #️⃣ Opened [#24 NextJS Mediajel.io website](https://github.com/MediaJel/mediajel-website/issues/24) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
+* #️⃣ Closed [#348 Migrate Haven from UA to GA4](https://github.com/MediaJel/mediajel/issues/348) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#215 Research on Proteus 420](https://github.com/MediaJel/mediajel-tracker/issues/215) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#3467 Implement &#34;Signups&#34; in transactions observer](https://github.com/MediaJel/mediajel-gql-service/issues/3467) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#334 Generate Failed Enrichments files and do analysis for failed ad impression enrichments](https://github.com/MediaJel/mediajel/issues/334) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
