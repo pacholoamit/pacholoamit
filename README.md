@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#4408 Improve UX of self-service tag generator by removing &#34;Update&#34; button and doing updates on user interaction](https://github.com/MediaJel/mediajel-dashboard/issues/4408) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🌟 Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)
+* 💬 Commented on [#334 Generate Failed Enrichments files and do analysis for failed ad impression enrichments](https://github.com/MediaJel/mediajel/issues/334) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#24 NextJS Mediajel.io website](https://github.com/MediaJel/mediajel-website/issues/24) in [MediaJel/mediajel-website](https://github.com/MediaJel/mediajel-website)
 * #️⃣ Closed [#348 Migrate Haven from UA to GA4](https://github.com/MediaJel/mediajel/issues/348) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#215 Research on Proteus 420](https://github.com/MediaJel/mediajel-tracker/issues/215) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#3467 Implement &#34;Signups&#34; in transactions observer](https://github.com/MediaJel/mediajel-gql-service/issues/3467) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#334 Generate Failed Enrichments files and do analysis for failed ad impression enrichments](https://github.com/MediaJel/mediajel/issues/334) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
