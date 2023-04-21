@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#4414 Self service tag generator add &#34;install&#34; tag to render instructions depending on selected cart](https://github.com/MediaJel/mediajel-dashboard/issues/4414) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🌟 Starred [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
 * 🌟 Starred [moonrepo/moon](https://github.com/moonrepo/moon)
 * 🌟 Starred [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)
 * #️⃣ Opened [#4408 Improve UX of self-service tag generator by removing &#34;Update&#34; button and doing updates on user interaction](https://github.com/MediaJel/mediajel-dashboard/issues/4408) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)
 
 
 
