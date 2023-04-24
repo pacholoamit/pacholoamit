@@ -25,11 +25,57 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#4414 Self service tag generator add &#34;install&#34; tag to render instructions depending on selected cart](https://github.com/MediaJel/mediajel-dashboard/issues/4414) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-* 🌟 Starred [moonrepo/moon](https://github.com/moonrepo/moon)
-* 🌟 Starred [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)
-* #️⃣ Opened [#4408 Improve UX of self-service tag generator by removing &#34;Update&#34; button and doing updates on user interaction](https://github.com/MediaJel/mediajel-dashboard/issues/4408) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#2c32577](https://github.com/MediaJel/mediajel-gql-service/commit/2c32577) comments
+  * [#e919b93](https://github.com/MediaJel/mediajel-gql-service/commit/e919b93) remove structured events legacy files
+  * [#831d639](https://github.com/MediaJel/mediajel-gql-service/commit/831d639) Create structured events processor
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#8bc43c3](https://github.com/MediaJel/mediajel-gql-service/commit/8bc43c3) refactor transactions &amp; signups
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#88bf522](https://github.com/MediaJel/mediajel-gql-service/commit/88bf522) fix tsc warnings
+* ➡️ Pushed 20 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#b141089](https://github.com/MediaJel/mediajel-gql-service/commit/b141089) merge
+  * [#9ad5cc1](https://github.com/MediaJel/mediajel-gql-service/commit/9ad5cc1) Merge pull request #3611 from MediaJel/jjy-get-event-concurrency
+
+[BUG FIX] Add 2 Concurrency for get events
+  * [#93f72ff](https://github.com/MediaJel/mediajel-gql-service/commit/93f72ff) Add 2 Concurrency for get events
+  * [#8d2a90e](https://github.com/MediaJel/mediajel-gql-service/commit/8d2a90e) Merge pull request #3606 from MediaJel/eb/deploy-schema-changes
+
+[UPDATES] Bug Fix CI pipeline
+  * [#5e7b628](https://github.com/MediaJel/mediajel-gql-service/commit/5e7b628) Update
+  * [#9b2e01f](https://github.com/MediaJel/mediajel-gql-service/commit/9b2e01f) Deploy Schema Updates
+  * [#d6a2654](https://github.com/MediaJel/mediajel-gql-service/commit/d6a2654) Merge pull request #3604 from MediaJel/rm-accomodate-multiple-payment-methods
+
+[SCHEMA][TO BE DEPLOY] RM accommodate multiple payment methods
+  * [#e4f7476](https://github.com/MediaJel/mediajel-gql-service/commit/e4f7476) [SCHEMA] Accommodate Multiple Payment Methods
+  * [#502b9eb](https://github.com/MediaJel/mediajel-gql-service/commit/502b9eb) Merge pull request #3601 from MediaJel/jjy-tapad-swap-table
+
+[BUGFIX] Deploy swap and drop table for tapad automation
+  * [#825a51f](https://github.com/MediaJel/mediajel-gql-service/commit/825a51f) Deploy swap and drop table for tapad automation
+  * [#eac422f](https://github.com/MediaJel/mediajel-gql-service/commit/eac422f) Merge pull request #3599 from MediaJel/jjy-bullqueue-redis-cleanup
+
+Change namespace
+  * [#f5bd937](https://github.com/MediaJel/mediajel-gql-service/commit/f5bd937) Merge branch &#39;develop&#39; into jjy-bullqueue-redis-cleanup
+  * [#77643b8](https://github.com/MediaJel/mediajel-gql-service/commit/77643b8) Fix Error
+  * [#ae279db](https://github.com/MediaJel/mediajel-gql-service/commit/ae279db) [PASS ENGR QA] Setup weekly cleanup for bullqueue to prevent redis flooding (#3590)
+
+* Setup weekly cleanup for bullqueue to prevent redis flooding
+
+* Retain Prefix
+  * [#88e49f0](https://github.com/MediaJel/mediajel-gql-service/commit/88e49f0) Merge pull request #3593 from MediaJel/fbl3-bug/error-404-when-fetching-smart-profiles-url
+
+REFACTOR: Remove console logs used for troubleshooting &amp; uncomment elements of segments array
+  * [#014e8fc](https://github.com/MediaJel/mediajel-gql-service/commit/014e8fc) REFACTOR: Remove console logs used for troubleshooting &amp; uncomment elements of segments array
+  * [#e5574b2](https://github.com/MediaJel/mediajel-gql-service/commit/e5574b2) Retain Prefix
+  * [#09f5956](https://github.com/MediaJel/mediajel-gql-service/commit/09f5956) Merge pull request #3591 from MediaJel/fbl3-bug/error-404-when-fetching-smart-profiles-url
+
+BUG: Error 404 when fetching smart profiles full url
+  * [#916fd15](https://github.com/MediaJel/mediajel-gql-service/commit/916fd15) BUG: Error 404 when fetching smart profiles full url
+  * [#bdf1ce6](https://github.com/MediaJel/mediajel-gql-service/commit/bdf1ce6) Setup weekly cleanup for bullqueue to prevent redis flooding
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#ce14786](https://github.com/MediaJel/mediajel-gql-service/commit/ce14786) add await
+  * [#a50d9af](https://github.com/MediaJel/mediajel-gql-service/commit/a50d9af) removed worker
+  * [#014f2cf](https://github.com/MediaJel/mediajel-gql-service/commit/014f2cf) checkpoint
 
 
 
