@@ -25,14 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#195 Customer API: Reports failed to be downloaded for `/analytics/{campaign_order}/reports/{report_type}` endpoint](https://github.com/MediaJel/customer-api/issues/195) in [MediaJel/customer-api](https://github.com/MediaJel/customer-api)
+* 🔍 Reviewed [#4419 [PASS ENGR QA] hide no cart on both campaign launcher and org config](https://github.com/MediaJel/mediajel-dashboard/pull/4419) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4419 [PASS ENGR QA] hide no cart on both campaign launcher and org config](https://github.com/MediaJel/mediajel-dashboard/pull/4419) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🔃 Opened [#4425 [FOR REVIEW] Basic implementation of selenium](https://github.com/MediaJel/mediajel-dashboard/pull/4425) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
   * 3 files changed `++321 --30`
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-selenium`
   * [#9974683](https://github.com/MediaJel/mediajel-dashboard/commit/9974683) add comment for non-headless
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-selenium`
-  * [#357d2dc](https://github.com/MediaJel/mediajel-dashboard/commit/357d2dc) move e2e deps to dev dependencies
-* ⏺️ Created new branch pa-implement-selenium in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ⏺️ Created new branch master in [pacholoamit/selenium-react](https://github.com/pacholoamit/selenium-react)
 
 
 
