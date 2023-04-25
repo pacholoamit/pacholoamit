@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `3455` commits and made `145` PRs.
+:people_hugging: I contributed to `50` repositories , made `3455` commits and made `146` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,24 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#a2c935c](https://github.com/MediaJel/mediajel-gql-service/commit/a2c935c) checkpoint
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#3bf941a](https://github.com/MediaJel/mediajel-gql-service/commit/3bf941a) return report for worker to be passed to transaction_item
-* ➡️ Pushed 9 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#4f3ecd4](https://github.com/MediaJel/mediajel-gql-service/commit/4f3ecd4) modify tests
-  * [#1766e03](https://github.com/MediaJel/mediajel-gql-service/commit/1766e03) revert jest
-  * [#4509b1a](https://github.com/MediaJel/mediajel-gql-service/commit/4509b1a) upgrade jest version
-  * [#9219cb9](https://github.com/MediaJel/mediajel-gql-service/commit/9219cb9) modify tests
-  * [#1e094d0](https://github.com/MediaJel/mediajel-gql-service/commit/1e094d0) fix tsc warnings
-  * [#c91e227](https://github.com/MediaJel/mediajel-gql-service/commit/c91e227) update @types/jest
-  * [#32c70ee](https://github.com/MediaJel/mediajel-gql-service/commit/32c70ee) Add structured events in worker
-  * [#b5864a7](https://github.com/MediaJel/mediajel-gql-service/commit/b5864a7) Create transactionsItemEventsProcessor boilerplate
-  * [#cdaf9ab](https://github.com/MediaJel/mediajel-gql-service/commit/cdaf9ab) refactor snowflakeExt
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#ab36df9](https://github.com/MediaJel/mediajel-gql-service/commit/ab36df9) Add methods for createWorker
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#12ba741](https://github.com/MediaJel/mediajel-gql-service/commit/12ba741) Add createWorker factory
+* 🔃 Opened [#4425 [FOR REVIEW] Basic implementation of selenium](https://github.com/MediaJel/mediajel-dashboard/pull/4425) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 3 files changed `++321 --30`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-selenium`
+  * [#9974683](https://github.com/MediaJel/mediajel-dashboard/commit/9974683) add comment for non-headless
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-selenium`
+  * [#357d2dc](https://github.com/MediaJel/mediajel-dashboard/commit/357d2dc) move e2e deps to dev dependencies
+* ⏺️ Created new branch pa-implement-selenium in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ⏺️ Created new branch master in [pacholoamit/selenium-react](https://github.com/pacholoamit/selenium-react)
 
 
 
