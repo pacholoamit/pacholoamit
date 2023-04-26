@@ -25,13 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [grishka/NearDrop](https://github.com/grishka/NearDrop)
+* 🌟 Starred [milvus-io/milvus](https://github.com/milvus-io/milvus)
+* 🔍 Reviewed [#4419 [IN DISCUSSION] hide no cart on both campaign launcher and org config](https://github.com/MediaJel/mediajel-dashboard/pull/4419) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#195 Customer API: Reports failed to be downloaded for `/analytics/{campaign_order}/reports/{report_type}` endpoint](https://github.com/MediaJel/customer-api/issues/195) in [MediaJel/customer-api](https://github.com/MediaJel/customer-api)
 * 🔍 Reviewed [#4419 [PASS ENGR QA] hide no cart on both campaign launcher and org config](https://github.com/MediaJel/mediajel-dashboard/pull/4419) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4419 [PASS ENGR QA] hide no cart on both campaign launcher and org config](https://github.com/MediaJel/mediajel-dashboard/pull/4419) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔃 Opened [#4425 [FOR REVIEW] Basic implementation of selenium](https://github.com/MediaJel/mediajel-dashboard/pull/4425) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 3 files changed `++321 --30`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `pa-implement-selenium`
-  * [#9974683](https://github.com/MediaJel/mediajel-dashboard/commit/9974683) add comment for non-headless
 
 
 
