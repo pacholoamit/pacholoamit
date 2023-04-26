@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
-* 🌟 Starred [grishka/NearDrop](https://github.com/grishka/NearDrop)
-* 🌟 Starred [milvus-io/milvus](https://github.com/milvus-io/milvus)
-* 🔍 Reviewed [#4419 [IN DISCUSSION] hide no cart on both campaign launcher and org config](https://github.com/MediaJel/mediajel-dashboard/pull/4419) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#195 Customer API: Reports failed to be downloaded for `/analytics/{campaign_order}/reports/{report_type}` endpoint](https://github.com/MediaJel/customer-api/issues/195) in [MediaJel/customer-api](https://github.com/MediaJel/customer-api)
+* 💬 Commented on [#3506 Get events Dag improvements (Add attributed clicks &amp; attributed structured events)](https://github.com/MediaJel/mediajel-gql-service/issues/3506) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#4437 Create Selenium basic demo in dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/4437) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#228 Bypass Adblocker with our universal tag](https://github.com/MediaJel/mediajel-tracker/issues/228) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#4414 Self service tag generator add &#34;install&#34; tag to render instructions depending on selected cart](https://github.com/MediaJel/mediajel-dashboard/issues/4414) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4430 [ON HOLD] Improve UX self service cart instructions](https://github.com/MediaJel/mediajel-dashboard/pull/4430) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
