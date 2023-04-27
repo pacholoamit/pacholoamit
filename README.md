@@ -25,12 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel](https://github.com/MediaJel/mediajel) on branch `new-cluster-k8s-1-17-17`
+  * [#8c9cba5](https://github.com/MediaJel/mediajel/commit/8c9cba5) revert s3 buckets
 * 🌟 Starred [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel](https://github.com/MediaJel/mediajel) on branch `new-cluster-k8s-1-17-17`
   * [#779e6d5](https://github.com/MediaJel/mediajel/commit/779e6d5) set replica to 1 on snowplow-pipeline pods and use new s3 buckets
 * 💬 Commented on [#3506 Get events Dag improvements (Add attributed clicks &amp; attributed structured events)](https://github.com/MediaJel/mediajel-gql-service/issues/3506) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Opened [#4437 Create Selenium basic demo in dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/4437) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#228 Bypass Adblocker with our universal tag](https://github.com/MediaJel/mediajel-tracker/issues/228) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
