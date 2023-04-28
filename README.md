@@ -26,14 +26,16 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
+  * [#9a67ff6](https://github.com/pacholoamit/jupyter-notebook/commit/9a67ff6) add ignore
+* ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
+  * [#afbbff4](https://github.com/pacholoamit/jupyter-notebook/commit/afbbff4) update requirements.txt
+* ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
+  * [#ad6bfc8](https://github.com/pacholoamit/jupyter-notebook/commit/ad6bfc8) complete langchain notebook
+* ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
   * [#e988c47](https://github.com/pacholoamit/jupyter-notebook/commit/e988c47) update deps
 * ➡️ Pushed 2 commits in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
   * [#62f75d4](https://github.com/pacholoamit/jupyter-notebook/commit/62f75d4) install huggingface hub
   * [#d0642ce](https://github.com/pacholoamit/jupyter-notebook/commit/d0642ce) install langchain
-* ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
-  * [#c9c3c7a](https://github.com/pacholoamit/jupyter-notebook/commit/c9c3c7a) add requirements.txt
-* ⏺️ Created new branch master in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook)
-* ⏺️ Created new repository  [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook)
 
 
 
