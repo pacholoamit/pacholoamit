@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `3455` commits and made `146` PRs.
+:people_hugging: I contributed to `51` repositories , made `3463` commits and made `146` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,13 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel](https://github.com/MediaJel/mediajel) on branch `new-cluster-k8s-1-17-17`
-  * [#8c9cba5](https://github.com/MediaJel/mediajel/commit/8c9cba5) revert s3 buckets
-* 🌟 Starred [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel](https://github.com/MediaJel/mediajel) on branch `new-cluster-k8s-1-17-17`
-  * [#779e6d5](https://github.com/MediaJel/mediajel/commit/779e6d5) set replica to 1 on snowplow-pipeline pods and use new s3 buckets
-* 💬 Commented on [#3506 Get events Dag improvements (Add attributed clicks &amp; attributed structured events)](https://github.com/MediaJel/mediajel-gql-service/issues/3506) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#4437 Create Selenium basic demo in dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/4437) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
+  * [#e988c47](https://github.com/pacholoamit/jupyter-notebook/commit/e988c47) update deps
+* ➡️ Pushed 2 commits in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
+  * [#62f75d4](https://github.com/pacholoamit/jupyter-notebook/commit/62f75d4) install huggingface hub
+  * [#d0642ce](https://github.com/pacholoamit/jupyter-notebook/commit/d0642ce) install langchain
+* ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
+  * [#c9c3c7a](https://github.com/pacholoamit/jupyter-notebook/commit/c9c3c7a) add requirements.txt
+* ⏺️ Created new branch master in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook)
+* ⏺️ Created new repository  [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook)
 
 
 
