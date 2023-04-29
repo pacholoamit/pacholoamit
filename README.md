@@ -25,17 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
-  * [#9a67ff6](https://github.com/pacholoamit/jupyter-notebook/commit/9a67ff6) add ignore
-* ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
-  * [#afbbff4](https://github.com/pacholoamit/jupyter-notebook/commit/afbbff4) update requirements.txt
-* ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
-  * [#ad6bfc8](https://github.com/pacholoamit/jupyter-notebook/commit/ad6bfc8) complete langchain notebook
-* ➡️ Pushed 1 commit in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
-  * [#e988c47](https://github.com/pacholoamit/jupyter-notebook/commit/e988c47) update deps
-* ➡️ Pushed 2 commits in [pacholoamit/jupyter-notebook](https://github.com/pacholoamit/jupyter-notebook) on branch `master`
-  * [#62f75d4](https://github.com/pacholoamit/jupyter-notebook/commit/62f75d4) install huggingface hub
-  * [#d0642ce](https://github.com/pacholoamit/jupyter-notebook/commit/d0642ce) install langchain
+* 🌟 Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#a4f51d7](https://github.com/MediaJel/mediajel-gql-service/commit/a4f51d7) Add error level to slack logger
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#22c2701](https://github.com/MediaJel/mediajel-gql-service/commit/22c2701) make functions synchronous
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#235d24c](https://github.com/MediaJel/mediajel-gql-service/commit/235d24c) complete snowflake-extension &amp; builder tests
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#abb577e](https://github.com/MediaJel/mediajel-gql-service/commit/abb577e) create temporary snowflake-ext util
 
 
 
