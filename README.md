@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3463` commits and made `146` PRs.
+:people_hugging: I contributed to `51` repositories , made `3470` commits and made `147` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#a4f51d7](https://github.com/MediaJel/mediajel-gql-service/commit/a4f51d7) Add error level to slack logger
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#22c2701](https://github.com/MediaJel/mediajel-gql-service/commit/22c2701) make functions synchronous
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#235d24c](https://github.com/MediaJel/mediajel-gql-service/commit/235d24c) complete snowflake-extension &amp; builder tests
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#abb577e](https://github.com/MediaJel/mediajel-gql-service/commit/abb577e) create temporary snowflake-ext util
+* 🌟 Starred [OSSPhilippines/paymongo](https://github.com/OSSPhilippines/paymongo)
+* 📦 Released **v3.1.0** of [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
+* ⏺️ Created new tag 3.1.0 in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
+* ➡️ Pushed 17 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `release`
+  * [#b6b9916](https://github.com/pacholoamit/chatgpt-prompts/commit/b6b9916) Merge branch &#39;main&#39; into release
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#712cba7](https://github.com/pacholoamit/chatgpt-prompts/commit/712cba7) Merge branch &#39;main&#39; into feat/update-to-3.1.0
 
 
 
