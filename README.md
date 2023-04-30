@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3470` commits and made `147` PRs.
+:people_hugging: I contributed to `51` repositories , made `3499` commits and made `147` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,13 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [OSSPhilippines/paymongo](https://github.com/OSSPhilippines/paymongo)
-* 📦 Released **v3.1.0** of [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
-* ⏺️ Created new tag 3.1.0 in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts)
-* ➡️ Pushed 17 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `release`
-  * [#b6b9916](https://github.com/pacholoamit/chatgpt-prompts/commit/b6b9916) Merge branch &#39;main&#39; into release
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#712cba7](https://github.com/pacholoamit/chatgpt-prompts/commit/712cba7) Merge branch &#39;main&#39; into feat/update-to-3.1.0
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#97b61a8](https://github.com/pacholoamit/pachtop/commit/97b61a8) Delete vite configuration file
 
 
 
