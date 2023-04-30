@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [BloopAI/bloop](https://github.com/BloopAI/bloop)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#97b61a8](https://github.com/pacholoamit/pachtop/commit/97b61a8) Delete vite configuration file
 
