@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `3499` commits and made `147` PRs.
+:people_hugging: I contributed to `52` repositories , made `3505` commits and made `145` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,9 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [BloopAI/bloop](https://github.com/BloopAI/bloop)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#97b61a8](https://github.com/pacholoamit/pachtop/commit/97b61a8) Delete vite configuration file
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop-update-server](https://github.com/pacholoamit/pachtop-update-server) on branch `master`
+  * [#cae145d](https://github.com/pacholoamit/pachtop-update-server/commit/cae145d) Add to readme
+* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/add-updater`
+  * [#5452066](https://github.com/pacholoamit/pachtop/commit/5452066) remove update-server
+  * [#b6e0075](https://github.com/pacholoamit/pachtop/commit/b6e0075) change image to pachtop
+  * [#5382d98](https://github.com/pacholoamit/pachtop/commit/5382d98) update context
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release-update-server`
+  * [#5452066](https://github.com/pacholoamit/pachtop/commit/5452066) remove update-server
+* ⏺️ Created new tag 1.0.0 in [pacholoamit/pachtop-update-server](https://github.com/pacholoamit/pachtop-update-server)
 
 
 
