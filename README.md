@@ -25,18 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
+* 🌟 Starred [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
 * ⏺️ Created new tag v2.2.0 in [pacholoamit/pachtop-update-server](https://github.com/pacholoamit/pachtop-update-server)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop-update-server](https://github.com/pacholoamit/pachtop-update-server) on branch `master`
   * [#acc68d2](https://github.com/pacholoamit/pachtop-update-server/commit/acc68d2) Add markdown to text converter
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#a5259b8](https://github.com/pacholoamit/pachtop/commit/a5259b8) remove body from release workflow
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#c167325](https://github.com/pacholoamit/pachtop/commit/c167325) Merge pull request #50 from pacholoamit/fix/improve-release-notes-template
-
-modify release github action
-  * [#fa934ee](https://github.com/pacholoamit/pachtop/commit/fa934ee) modify release github action
-* 🔃 Merged [#50 modify release github action](https://github.com/pacholoamit/pachtop/pull/50) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 1 file changed `++1 --1`
 
 
 
