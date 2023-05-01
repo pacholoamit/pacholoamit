@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `3558` commits and made `148` PRs.
+:people_hugging: I contributed to `52` repositories , made `3564` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,21 +25,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 4 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#6ac2131](https://github.com/pacholoamit/pachtop/commit/6ac2131) Merge pull request #49 from pacholoamit/fix/cpu-usage-undefined
+* ⏺️ Created new tag v2.2.0 in [pacholoamit/pachtop-update-server](https://github.com/pacholoamit/pachtop-update-server)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop-update-server](https://github.com/pacholoamit/pachtop-update-server) on branch `master`
+  * [#acc68d2](https://github.com/pacholoamit/pachtop-update-server/commit/acc68d2) Add markdown to text converter
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#a5259b8](https://github.com/pacholoamit/pachtop/commit/a5259b8) remove body from release workflow
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#c167325](https://github.com/pacholoamit/pachtop/commit/c167325) Merge pull request #50 from pacholoamit/fix/improve-release-notes-template
 
-fix/cpu usage undefined
-  * [#f87e67b](https://github.com/pacholoamit/pachtop/commit/f87e67b) add to changelog
-  * [#450dca9](https://github.com/pacholoamit/pachtop/commit/450dca9) remove debug log
-  * [#bc7dc34](https://github.com/pacholoamit/pachtop/commit/bc7dc34) add fallback value if cpu_usage is a NaN value
-* 🔃 Merged [#49 fix/cpu usage undefined](https://github.com/pacholoamit/pachtop/pull/49) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 2 files changed `++6 --1`
-* 🔃 Opened [#49 fix/cpu usage undefined](https://github.com/pacholoamit/pachtop/pull/49) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 2 files changed `++6 --1`
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/cpu-usage-undefined`
-  * [#f87e67b](https://github.com/pacholoamit/pachtop/commit/f87e67b) add to changelog
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/cpu-usage-undefined`
-  * [#450dca9](https://github.com/pacholoamit/pachtop/commit/450dca9) remove debug log
+modify release github action
+  * [#fa934ee](https://github.com/pacholoamit/pachtop/commit/fa934ee) modify release github action
+* 🔃 Merged [#50 modify release github action](https://github.com/pacholoamit/pachtop/pull/50) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 1 file changed `++1 --1`
 
 
 
