@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `3505` commits and made `145` PRs.
+:people_hugging: I contributed to `52` repositories , made `3558` commits and made `148` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop-update-server](https://github.com/pacholoamit/pachtop-update-server) on branch `master`
-  * [#cae145d](https://github.com/pacholoamit/pachtop-update-server/commit/cae145d) Add to readme
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/add-updater`
-  * [#5452066](https://github.com/pacholoamit/pachtop/commit/5452066) remove update-server
-  * [#b6e0075](https://github.com/pacholoamit/pachtop/commit/b6e0075) change image to pachtop
-  * [#5382d98](https://github.com/pacholoamit/pachtop/commit/5382d98) update context
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release-update-server`
-  * [#5452066](https://github.com/pacholoamit/pachtop/commit/5452066) remove update-server
-* ⏺️ Created new tag 1.0.0 in [pacholoamit/pachtop-update-server](https://github.com/pacholoamit/pachtop-update-server)
+* ➡️ Pushed 4 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#6ac2131](https://github.com/pacholoamit/pachtop/commit/6ac2131) Merge pull request #49 from pacholoamit/fix/cpu-usage-undefined
+
+fix/cpu usage undefined
+  * [#f87e67b](https://github.com/pacholoamit/pachtop/commit/f87e67b) add to changelog
+  * [#450dca9](https://github.com/pacholoamit/pachtop/commit/450dca9) remove debug log
+  * [#bc7dc34](https://github.com/pacholoamit/pachtop/commit/bc7dc34) add fallback value if cpu_usage is a NaN value
+* 🔃 Merged [#49 fix/cpu usage undefined](https://github.com/pacholoamit/pachtop/pull/49) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 2 files changed `++6 --1`
+* 🔃 Opened [#49 fix/cpu usage undefined](https://github.com/pacholoamit/pachtop/pull/49) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 2 files changed `++6 --1`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/cpu-usage-undefined`
+  * [#f87e67b](https://github.com/pacholoamit/pachtop/commit/f87e67b) add to changelog
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/cpu-usage-undefined`
+  * [#450dca9](https://github.com/pacholoamit/pachtop/commit/450dca9) remove debug log
 
 
 
