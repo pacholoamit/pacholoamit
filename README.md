@@ -25,13 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [teletrace/teletrace](https://github.com/teletrace/teletrace)
 * 🌟 Starred [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
 * 🌟 Starred [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
 * ⏺️ Created new tag v2.2.0 in [pacholoamit/pachtop-update-server](https://github.com/pacholoamit/pachtop-update-server)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop-update-server](https://github.com/pacholoamit/pachtop-update-server) on branch `master`
   * [#acc68d2](https://github.com/pacholoamit/pachtop-update-server/commit/acc68d2) Add markdown to text converter
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#a5259b8](https://github.com/pacholoamit/pachtop/commit/a5259b8) remove body from release workflow
 
 
 
