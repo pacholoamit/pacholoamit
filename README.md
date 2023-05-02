@@ -25,11 +25,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [vectordotdev/vector](https://github.com/vectordotdev/vector)
-* 🌟 Starred [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
-* 🌟 Starred [teletrace/teletrace](https://github.com/teletrace/teletrace)
-* 🌟 Starred [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
-* 🌟 Starred [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
+  * [#eff5797](https://github.com/MediaJel/mediajel-gql-service/commit/eff5797) fix package.json
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
+  * [#07b66ff](https://github.com/MediaJel/mediajel-gql-service/commit/07b66ff) reverse generics
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
+  * [#4b5ab03](https://github.com/MediaJel/mediajel-gql-service/commit/4b5ab03) uncomment campaign order ids
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
+  * [#1490bc1](https://github.com/MediaJel/mediajel-gql-service/commit/1490bc1) move to scripts folder
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
+  * [#ac0c4e3](https://github.com/MediaJel/mediajel-gql-service/commit/ac0c4e3) Successfully implemented eaze-reports
+  * [#b25dfee](https://github.com/MediaJel/mediajel-gql-service/commit/b25dfee) implement asyncReduce
 
 
 
