@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `3564` commits and made `149` PRs.
+:people_hugging: I contributed to `52` repositories , made `3564` commits and made `150` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,16 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#eff5797](https://github.com/MediaJel/mediajel-gql-service/commit/eff5797) fix package.json
+  * [#25da67c](https://github.com/MediaJel/mediajel-gql-service/commit/25da67c) Refactor S3 select function to accept input type and update usage
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#07b66ff](https://github.com/MediaJel/mediajel-gql-service/commit/07b66ff) reverse generics
+  * [#b242d58](https://github.com/MediaJel/mediajel-gql-service/commit/b242d58) Refactor getReportForCampaignOrder to use optional chaining
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#4b5ab03](https://github.com/MediaJel/mediajel-gql-service/commit/4b5ab03) uncomment campaign order ids
+  * [#8beab74](https://github.com/MediaJel/mediajel-gql-service/commit/8beab74) Update date range and campaign names for Eaze transactions report
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#1490bc1](https://github.com/MediaJel/mediajel-gql-service/commit/1490bc1) move to scripts folder
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#ac0c4e3](https://github.com/MediaJel/mediajel-gql-service/commit/ac0c4e3) Successfully implemented eaze-reports
-  * [#b25dfee](https://github.com/MediaJel/mediajel-gql-service/commit/b25dfee) implement asyncReduce
+  * [#2dbbcc3](https://github.com/MediaJel/mediajel-gql-service/commit/2dbbcc3) Fix date range filter in getReportForCampaignOrder function
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
+  * [#de49730](https://github.com/MediaJel/mediajel-gql-service/commit/de49730) Refactor eaze-transactions-report script using reportPipe
 
 
 
