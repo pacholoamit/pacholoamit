@@ -25,16 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#25da67c](https://github.com/MediaJel/mediajel-gql-service/commit/25da67c) Refactor S3 select function to accept input type and update usage
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#b242d58](https://github.com/MediaJel/mediajel-gql-service/commit/b242d58) Refactor getReportForCampaignOrder to use optional chaining
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#8beab74](https://github.com/MediaJel/mediajel-gql-service/commit/8beab74) Update date range and campaign names for Eaze transactions report
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#2dbbcc3](https://github.com/MediaJel/mediajel-gql-service/commit/2dbbcc3) Fix date range filter in getReportForCampaignOrder function
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#de49730](https://github.com/MediaJel/mediajel-gql-service/commit/de49730) Refactor eaze-transactions-report script using reportPipe
+* 🌟 Starred [nrwl/nx](https://github.com/nrwl/nx)
+* #️⃣ Opened [#3638 Vireo automation of reports](https://github.com/MediaJel/mediajel-gql-service/issues/3638) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4414 Self service tag generator add &#34;install&#34; tag to render instructions depending on selected cart](https://github.com/MediaJel/mediajel-dashboard/issues/4414) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#366 Update Integrations list from Cortney](https://github.com/MediaJel/mediajel/issues/366) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#4474 Verify if `segmentId` is generated in dojo on universal tag creation](https://github.com/MediaJel/mediajel-dashboard/issues/4474) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
