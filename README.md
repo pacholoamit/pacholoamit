@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [wasmerio/wasmer](https://github.com/wasmerio/wasmer)
 * 🌟 Starred [nrwl/nx](https://github.com/nrwl/nx)
 * #️⃣ Opened [#3638 Vireo automation of reports](https://github.com/MediaJel/mediajel-gql-service/issues/3638) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#4414 Self service tag generator add &#34;install&#34; tag to render instructions depending on selected cart](https://github.com/MediaJel/mediajel-dashboard/issues/4414) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#366 Update Integrations list from Cortney](https://github.com/MediaJel/mediajel/issues/366) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#4474 Verify if `segmentId` is generated in dojo on universal tag creation](https://github.com/MediaJel/mediajel-dashboard/issues/4474) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
