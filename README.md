@@ -25,24 +25,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#f2e48cf](https://github.com/MediaJel/mediajel-gql-service/commit/f2e48cf) remove throttle from tests
+  * [#e8adb91](https://github.com/MediaJel/mediajel-gql-service/commit/e8adb91) modify args test
+  * [#9837e94](https://github.com/MediaJel/mediajel-gql-service/commit/9837e94) docs
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#b840518](https://github.com/MediaJel/mediajel-gql-service/commit/b840518) make worker async
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#3439e74](https://github.com/MediaJel/mediajel-gql-service/commit/3439e74) remove shared folder
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#bb27193](https://github.com/MediaJel/mediajel-tracker/commit/bb27193) Add support for Sticky Leaf cart in Bing and Google Ads
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#bb27193](https://github.com/MediaJel/mediajel-tracker/commit/bb27193) Add support for Sticky Leaf cart in Bing and Google Ads
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#6346cd7](https://github.com/MediaJel/mediajel-tracker/commit/6346cd7) Update expected status code and aid in universal tag test
-  * [#9436fd2](https://github.com/MediaJel/mediajel-tracker/commit/9436fd2) Add example HTML file with Snowplow tracker script
-  * [#fabaa14](https://github.com/MediaJel/mediajel-tracker/commit/fabaa14) Merge pull request #230 from MediaJel/staging
-
-Merge &#34;staging&#34; into main
-  * [#babfdef](https://github.com/MediaJel/mediajel-tracker/commit/babfdef) Merge pull request #227 from MediaJel/staging
-
-Merge &#34;staging&#34; to main
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#6346cd7](https://github.com/MediaJel/mediajel-tracker/commit/6346cd7) Update expected status code and aid in universal tag test
-  * [#9436fd2](https://github.com/MediaJel/mediajel-tracker/commit/9436fd2) Add example HTML file with Snowplow tracker script
 
 
 
