@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3571` commits and made `151` PRs.
+:people_hugging: I contributed to `53` repositories , made `3577` commits and made `151` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,17 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#95fe340](https://github.com/MediaJel/mediajel-gql-service/commit/95fe340) Refactor event-queue with updated args parsing
-* #️⃣ Opened [#3649 Add validation signups observer to evaluate if Signup tracking is enabled](https://github.com/MediaJel/mediajel-gql-service/issues/3649) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#0806055](https://github.com/MediaJel/mediajel-gql-service/commit/0806055) Refactor snowflake signup processor to use filters and queries
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#f2e48cf](https://github.com/MediaJel/mediajel-gql-service/commit/f2e48cf) remove throttle from tests
-  * [#e8adb91](https://github.com/MediaJel/mediajel-gql-service/commit/e8adb91) modify args test
-  * [#9837e94](https://github.com/MediaJel/mediajel-gql-service/commit/9837e94) docs
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#b840518](https://github.com/MediaJel/mediajel-gql-service/commit/b840518) make worker async
+* 🔃 Closed [#4494 [HOTFIX] Fix rendering of Shopify and woocommerce tag](https://github.com/MediaJel/mediajel-dashboard/pull/4494) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 2 files changed `++3 --5`
+* 🔍 Reviewed [#4494 [HOTFIX] Fix rendering of Shopify and woocommerce tag](https://github.com/MediaJel/mediajel-dashboard/pull/4494) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔃 Closed [#4425 [FOR REVIEW] Basic implementation of selenium](https://github.com/MediaJel/mediajel-dashboard/pull/4425) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 3 files changed `++321 --30`
+* ➡️ Pushed 1 commit in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests) on branch `master`
+  * [#f820cae](https://github.com/MediaJel/e2e-tests/commit/f820cae) finally figured out logging in
+* ➡️ Pushed 1 commit in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests) on branch `master`
+  * [#ab586a1](https://github.com/MediaJel/e2e-tests/commit/ab586a1) add creating a tracking tag test
 
 
 
