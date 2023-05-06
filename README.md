@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3577` commits and made `151` PRs.
+:people_hugging: I contributed to `53` repositories , made `3588` commits and made `153` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,24 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#4494 [HOTFIX] Fix rendering of Shopify and woocommerce tag](https://github.com/MediaJel/mediajel-dashboard/pull/4494) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 2 files changed `++3 --5`
-* 🔍 Reviewed [#4494 [HOTFIX] Fix rendering of Shopify and woocommerce tag](https://github.com/MediaJel/mediajel-dashboard/pull/4494) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔃 Closed [#4425 [FOR REVIEW] Basic implementation of selenium](https://github.com/MediaJel/mediajel-dashboard/pull/4425) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 3 files changed `++321 --30`
-* ➡️ Pushed 1 commit in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests) on branch `master`
-  * [#f820cae](https://github.com/MediaJel/e2e-tests/commit/f820cae) finally figured out logging in
-* ➡️ Pushed 1 commit in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests) on branch `master`
-  * [#ab586a1](https://github.com/MediaJel/e2e-tests/commit/ab586a1) add creating a tracking tag test
+* ➡️ Pushed 8 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#2c82da1](https://github.com/pacholoamit/pachtop/commit/2c82da1) Merge pull request #57 from pacholoamit/deps/update-packages
+
+deps/update packages
+  * [#99bde44](https://github.com/pacholoamit/pachtop/commit/99bde44) update packages
+  * [#5eb5e0a](https://github.com/pacholoamit/pachtop/commit/5eb5e0a) update mantine table
+  * [#69e0bab](https://github.com/pacholoamit/pachtop/commit/69e0bab) update chartjs
+  * [#a994f19](https://github.com/pacholoamit/pachtop/commit/a994f19) update react vite plugin
+  * [#544837e](https://github.com/pacholoamit/pachtop/commit/544837e) upgrade mantine
+  * [#191672a](https://github.com/pacholoamit/pachtop/commit/191672a) update to yarn berry
+  * [#e562820](https://github.com/pacholoamit/pachtop/commit/e562820) remove xaxismin
+* 🔃 Merged [#57 deps/update packages](https://github.com/pacholoamit/pachtop/pull/57) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 316 files changed `++4822 --1532`
+* 🔃 Opened [#57 deps/update packages](https://github.com/pacholoamit/pachtop/pull/57) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 316 files changed `++4822 --1532`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `deps/update-packages`
+  * [#99bde44](https://github.com/pacholoamit/pachtop/commit/99bde44) update packages
+* ⏺️ Created new branch deps/update-packages in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 
 
