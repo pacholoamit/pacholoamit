@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `3588` commits and made `153` PRs.
+:people_hugging: I contributed to `54` repositories , made `3591` commits and made `153` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/personal-infrastructure](https://github.com/pacholoamit/personal-infrastructure) on branch `master`
+  * [#7207cd8](https://github.com/pacholoamit/personal-infrastructure/commit/7207cd8) add security group
+* ⏺️ Created new branch master in [pacholoamit/personal-infrastructure](https://github.com/pacholoamit/personal-infrastructure)
+* ⏺️ Created new repository  [pacholoamit/personal-infrastructure](https://github.com/pacholoamit/personal-infrastructure)
+* 🌟 Starred [StarlaneStudios/Surrealist](https://github.com/StarlaneStudios/Surrealist)
 * ➡️ Pushed 8 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#2c82da1](https://github.com/pacholoamit/pachtop/commit/2c82da1) Merge pull request #57 from pacholoamit/deps/update-packages
 
@@ -36,13 +41,6 @@ deps/update packages
   * [#544837e](https://github.com/pacholoamit/pachtop/commit/544837e) upgrade mantine
   * [#191672a](https://github.com/pacholoamit/pachtop/commit/191672a) update to yarn berry
   * [#e562820](https://github.com/pacholoamit/pachtop/commit/e562820) remove xaxismin
-* 🔃 Merged [#57 deps/update packages](https://github.com/pacholoamit/pachtop/pull/57) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 316 files changed `++4822 --1532`
-* 🔃 Opened [#57 deps/update packages](https://github.com/pacholoamit/pachtop/pull/57) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 316 files changed `++4822 --1532`
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `deps/update-packages`
-  * [#99bde44](https://github.com/pacholoamit/pachtop/commit/99bde44) update packages
-* ⏺️ Created new branch deps/update-packages in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 
 
