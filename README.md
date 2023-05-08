@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3593` commits and made `151` PRs.
+:people_hugging: I contributed to `55` repositories , made `3595` commits and made `151` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,13 +25,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin) on branch `master`
-  * [#4b12847](https://github.com/pacholoamit/pachtop-admin/commit/4b12847) add restart args
-* ⏺️ Created new branch master in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin)
-* ⏺️ Created new repository  [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin)
 * ➡️ Pushed 1 commit in [pacholoamit/personal-infrastructure](https://github.com/pacholoamit/personal-infrastructure) on branch `master`
   * [#7207cd8](https://github.com/pacholoamit/personal-infrastructure/commit/7207cd8) add security group
 * ⏺️ Created new branch master in [pacholoamit/personal-infrastructure](https://github.com/pacholoamit/personal-infrastructure)
+* ⏺️ Created new repository  [pacholoamit/personal-infrastructure](https://github.com/pacholoamit/personal-infrastructure)
+* 🌟 Starred [StarlaneStudios/Surrealist](https://github.com/StarlaneStudios/Surrealist)
+* ➡️ Pushed 8 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#2c82da1](https://github.com/pacholoamit/pachtop/commit/2c82da1) Merge pull request #57 from pacholoamit/deps/update-packages
+
+deps/update packages
+  * [#99bde44](https://github.com/pacholoamit/pachtop/commit/99bde44) update packages
+  * [#5eb5e0a](https://github.com/pacholoamit/pachtop/commit/5eb5e0a) update mantine table
+  * [#69e0bab](https://github.com/pacholoamit/pachtop/commit/69e0bab) update chartjs
+  * [#a994f19](https://github.com/pacholoamit/pachtop/commit/a994f19) update react vite plugin
+  * [#544837e](https://github.com/pacholoamit/pachtop/commit/544837e) upgrade mantine
+  * [#191672a](https://github.com/pacholoamit/pachtop/commit/191672a) update to yarn berry
+  * [#e562820](https://github.com/pacholoamit/pachtop/commit/e562820) remove xaxismin
 
 
 
