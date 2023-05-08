@@ -25,13 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4496 [HOTFIX] Shopify cart tag](https://github.com/MediaJel/mediajel-dashboard/pull/4496) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#4496 [HOTFIX] Shopify cart tag](https://github.com/MediaJel/mediajel-dashboard/pull/4496) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4496 [HOTFIX] Shopify cart tag](https://github.com/MediaJel/mediajel-dashboard/pull/4496) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4496 [HOTFIX] Shopify cart tag](https://github.com/MediaJel/mediajel-dashboard/pull/4496) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/add-api`
   * [#52a35f4](https://github.com/pacholoamit/pachtop/commit/52a35f4) add form
-* ⏺️ Created new branch feat/add-api in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 1 commit in [pacholoamit/personal-infrastructure](https://github.com/pacholoamit/personal-infrastructure) on branch `master`
-  * [#7207cd8](https://github.com/pacholoamit/personal-infrastructure/commit/7207cd8) add security group
-* ⏺️ Created new branch master in [pacholoamit/personal-infrastructure](https://github.com/pacholoamit/personal-infrastructure)
-* ⏺️ Created new repository  [pacholoamit/personal-infrastructure](https://github.com/pacholoamit/personal-infrastructure)
 
 
 
