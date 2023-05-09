@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3595` commits and made `151` PRs.
+:people_hugging: I contributed to `55` repositories , made `3600` commits and made `151` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,9 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-failed-enrichments-report-generator](https://github.com/MediaJel/snowplow-failed-enrichments-report-generator) on branch `repurpose-to-manifest-manager-insert`
-  * [#fa36ffe](https://github.com/MediaJel/snowplow-failed-enrichments-report-generator/commit/fa36ffe) changes
-* ⏺️ Created new branch repurpose-to-manifest-manager-insert in [MediaJel/snowplow-failed-enrichments-report-generator](https://github.com/MediaJel/snowplow-failed-enrichments-report-generator)
+* 🌟 Starred [strapi/strapi](https://github.com/strapi/strapi)
+* 🌟 Starred [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 * 🔍 Reviewed [#3651 [HOTFIX] Fix Woocommerce generated tag](https://github.com/MediaJel/mediajel-gql-service/pull/3651) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#4496 [HOTFIX] Shopify cart tag](https://github.com/MediaJel/mediajel-dashboard/pull/4496) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#4496 [HOTFIX] Shopify cart tag](https://github.com/MediaJel/mediajel-dashboard/pull/4496) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
