@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [metabase/metabase](https://github.com/metabase/metabase)
 * 🌟 Starred [strapi/strapi](https://github.com/strapi/strapi)
 * 🌟 Starred [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 * 🔍 Reviewed [#3651 [HOTFIX] Fix Woocommerce generated tag](https://github.com/MediaJel/mediajel-gql-service/pull/3651) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#4496 [HOTFIX] Shopify cart tag](https://github.com/MediaJel/mediajel-dashboard/pull/4496) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#4496 [HOTFIX] Shopify cart tag](https://github.com/MediaJel/mediajel-dashboard/pull/4496) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
