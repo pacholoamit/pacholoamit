@@ -25,11 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/add-api`
+  * [#0ef0854](https://github.com/pacholoamit/pachtop/commit/0ef0854) correctly implement env variables
+  * [#b24d039](https://github.com/pacholoamit/pachtop/commit/b24d039) Add env to gitignore and use env variable for API URL
+  * [#9a6b560](https://github.com/pacholoamit/pachtop/commit/9a6b560) remove console.log
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/add-api`
+  * [#65ce684](https://github.com/pacholoamit/pachtop/commit/65ce684) add user store
 * 🌟 Starred [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
 * 🌟 Starred [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server)
 * 🌟 Starred [metabase/metabase](https://github.com/metabase/metabase)
-* 🌟 Starred [strapi/strapi](https://github.com/strapi/strapi)
-* 🌟 Starred [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 
 
 
