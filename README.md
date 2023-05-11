@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3613` commits and made `152` PRs.
+:people_hugging: I contributed to `55` repositories , made `3618` commits and made `152` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [frappe/frappe](https://github.com/frappe/frappe)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
-  * [#753ff76](https://github.com/pacholoamit/pachtop/commit/753ff76) proof of concept continuation
-* ⏺️ Created new branch feat/high-charts in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
+  * [#f8eebf2](https://github.com/pacholoamit/pachtop/commit/f8eebf2) Merge branch &#39;master&#39; into feat/high-charts
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#df1d9ed](https://github.com/pacholoamit/pachtop/commit/df1d9ed) reneame env to release
+  * [#6202f13](https://github.com/pacholoamit/pachtop/commit/6202f13) minor fix
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#6202f13](https://github.com/pacholoamit/pachtop/commit/6202f13) minor fix
+* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
+  * [#1d1f0e2](https://github.com/pacholoamit/pachtop/commit/1d1f0e2) fix merge conflict
+  * [#373d905](https://github.com/pacholoamit/pachtop/commit/373d905) deploy hotfix for prompt rerendering
+  * [#d387e17](https://github.com/pacholoamit/pachtop/commit/d387e17) increment version
+  * [#3e3540a](https://github.com/pacholoamit/pachtop/commit/3e3540a) add to changelog
+  * [#fd5c9a0](https://github.com/pacholoamit/pachtop/commit/fd5c9a0) modify changelog
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#d6b467f](https://github.com/pacholoamit/pachtop/commit/d6b467f) add API_URL to environment
+  * [#373d905](https://github.com/pacholoamit/pachtop/commit/373d905) deploy hotfix for prompt rerendering
 
 
 
