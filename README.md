@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3602` commits and made `151` PRs.
+:people_hugging: I contributed to `55` repositories , made `3613` commits and made `152` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/add-api`
-  * [#0ef0854](https://github.com/pacholoamit/pachtop/commit/0ef0854) correctly implement env variables
-  * [#b24d039](https://github.com/pacholoamit/pachtop/commit/b24d039) Add env to gitignore and use env variable for API URL
-  * [#9a6b560](https://github.com/pacholoamit/pachtop/commit/9a6b560) remove console.log
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/add-api`
-  * [#65ce684](https://github.com/pacholoamit/pachtop/commit/65ce684) add user store
-* 🌟 Starred [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-* 🌟 Starred [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server)
-* 🌟 Starred [metabase/metabase](https://github.com/metabase/metabase)
+* 🌟 Starred [frappe/frappe](https://github.com/frappe/frappe)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
+  * [#753ff76](https://github.com/pacholoamit/pachtop/commit/753ff76) proof of concept continuation
+* ⏺️ Created new branch feat/high-charts in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#df1d9ed](https://github.com/pacholoamit/pachtop/commit/df1d9ed) reneame env to release
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#d6b467f](https://github.com/pacholoamit/pachtop/commit/d6b467f) add API_URL to environment
 
 
 
