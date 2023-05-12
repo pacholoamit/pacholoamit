@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3618` commits and made `152` PRs.
+:people_hugging: I contributed to `55` repositories , made `3619` commits and made `154` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,20 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
-  * [#f8eebf2](https://github.com/pacholoamit/pachtop/commit/f8eebf2) Merge branch &#39;master&#39; into feat/high-charts
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#6202f13](https://github.com/pacholoamit/pachtop/commit/6202f13) minor fix
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#6202f13](https://github.com/pacholoamit/pachtop/commit/6202f13) minor fix
-* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
-  * [#1d1f0e2](https://github.com/pacholoamit/pachtop/commit/1d1f0e2) fix merge conflict
-  * [#373d905](https://github.com/pacholoamit/pachtop/commit/373d905) deploy hotfix for prompt rerendering
-  * [#d387e17](https://github.com/pacholoamit/pachtop/commit/d387e17) increment version
-  * [#3e3540a](https://github.com/pacholoamit/pachtop/commit/3e3540a) add to changelog
-  * [#fd5c9a0](https://github.com/pacholoamit/pachtop/commit/fd5c9a0) modify changelog
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#373d905](https://github.com/pacholoamit/pachtop/commit/373d905) deploy hotfix for prompt rerendering
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin) on branch `master`
+  * [#4ff981d](https://github.com/pacholoamit/pachtop-admin/commit/4ff981d) modify docker compose analytics yml
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin) on branch `master`
+  * [#7af5ace](https://github.com/pacholoamit/pachtop-admin/commit/7af5ace) add litestream config
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin) on branch `master`
+  * [#776536c](https://github.com/pacholoamit/pachtop-admin/commit/776536c) remove staging
+* ⏺️ Created new branch master in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin)
+* ⏺️ Created new repository  [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin)
 
 
 
