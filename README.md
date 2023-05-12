@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3619` commits and made `154` PRs.
+:people_hugging: I contributed to `55` repositories , made `3622` commits and made `154` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [logto-io/logto](https://github.com/logto-io/logto)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin) on branch `master`
-  * [#4ff981d](https://github.com/pacholoamit/pachtop-admin/commit/4ff981d) modify docker compose analytics yml
+  * [#0720d46](https://github.com/pacholoamit/pachtop-admin/commit/0720d46) create docker compose admin
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin) on branch `master`
-  * [#7af5ace](https://github.com/pacholoamit/pachtop-admin/commit/7af5ace) add litestream config
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin) on branch `master`
-  * [#776536c](https://github.com/pacholoamit/pachtop-admin/commit/776536c) remove staging
-* ⏺️ Created new branch master in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin)
-* ⏺️ Created new repository  [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin)
+  * [#2b07b69](https://github.com/pacholoamit/pachtop-admin/commit/2b07b69) update migrations
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
+  * [#2049763](https://github.com/pacholoamit/pachtop/commit/2049763) create reusable chart without bad side-effects
+  * [#3cd2fca](https://github.com/pacholoamit/pachtop/commit/3cd2fca) Update tooltip xDateFormat to include seconds in memory area chart prototype
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
+  * [#1f4a77d](https://github.com/pacholoamit/pachtop/commit/1f4a77d) Add formatting
 
 
 
