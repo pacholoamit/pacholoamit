@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3622` commits and made `154` PRs.
+:people_hugging: I contributed to `55` repositories , made `3623` commits and made `154` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin) on branch `master`
+  * [#539121e](https://github.com/pacholoamit/pachtop-admin/commit/539121e) create analytics lite configuration
 * 🌟 Starred [logto-io/logto](https://github.com/logto-io/logto)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop-admin](https://github.com/pacholoamit/pachtop-admin) on branch `master`
   * [#0720d46](https://github.com/pacholoamit/pachtop-admin/commit/0720d46) create docker compose admin
@@ -33,8 +35,6 @@
 * ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
   * [#2049763](https://github.com/pacholoamit/pachtop/commit/2049763) create reusable chart without bad side-effects
   * [#3cd2fca](https://github.com/pacholoamit/pachtop/commit/3cd2fca) Update tooltip xDateFormat to include seconds in memory area chart prototype
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
-  * [#1f4a77d](https://github.com/pacholoamit/pachtop/commit/1f4a77d) Add formatting
 
 
 
