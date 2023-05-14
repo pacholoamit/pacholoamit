@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3625` commits and made `154` PRs.
+:people_hugging: I contributed to `55` repositories , made `3664` commits and made `157` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,47 +25,35 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#1f3d9e8](https://github.com/pacholoamit/chatgpt-prompts/commit/1f3d9e8) Merge pull request #50 from pacholoamit/dependabot/npm_and_yarn/axios-1.4.0
-
-Bump axios from 1.3.4 to 1.4.0
-  * [#c3dd051](https://github.com/pacholoamit/chatgpt-prompts/commit/c3dd051) Bump axios from 1.3.4 to 1.4.0
-
-Bumps [axios](https://github.com/axios/axios) from 1.3.4 to 1.4.0.
-- [Release notes](https://github.com/axios/axios/releases)
-- [Changelog](https://github.com/axios/axios/blob/v1.x/CHANGELOG.md)
-- [Commits](https://github.com/axios/axios/compare/v1.3.4...v1.4.0)
-
----
-updated-dependencies:
-- dependency-name: axios
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#a1eeb2b](https://github.com/pacholoamit/chatgpt-prompts/commit/a1eeb2b) Merge pull request #52 from pacholoamit/dependabot/npm_and_yarn/csv-6.2.12
-
-Bump csv from 6.2.8 to 6.2.12
-  * [#7a5e1da](https://github.com/pacholoamit/chatgpt-prompts/commit/7a5e1da) Bump csv from 6.2.8 to 6.2.12
-
-Bumps [csv](https://github.com/adaltas/node-csv/tree/HEAD/packages/csv) from 6.2.8 to 6.2.12.
-- [Changelog](https://github.com/adaltas/node-csv/blob/master/packages/csv/CHANGELOG.md)
-- [Commits](https://github.com/adaltas/node-csv/commits/csv@6.2.12/packages/csv)
-
----
-updated-dependencies:
-- dependency-name: csv
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* 🌟 Starred [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-* 🌟 Starred [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/high-charts`
-  * [#57515f6](https://github.com/pacholoamit/pachtop/commit/57515f6) Use highstock chart
+* ➡️ Pushed 40 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#f5e68b2](https://github.com/pacholoamit/pachtop/commit/f5e68b2) use highcharts for cpu usage
+  * [#e711d6b](https://github.com/pacholoamit/pachtop/commit/e711d6b) remove old memory chartjs chart
+  * [#e4b6bd9](https://github.com/pacholoamit/pachtop/commit/e4b6bd9) imrprove chartjs state
+  * [#fafeb70](https://github.com/pacholoamit/pachtop/commit/fafeb70) add versions analytics
+  * [#2049763](https://github.com/pacholoamit/pachtop/commit/2049763) create reusable chart without bad side-effects
+  * [#3cd2fca](https://github.com/pacholoamit/pachtop/commit/3cd2fca) Update tooltip xDateFormat to include seconds in memory area chart prototype
+  * [#1f4a77d](https://github.com/pacholoamit/pachtop/commit/1f4a77d) Add formatting
+  * [#77b5b3f](https://github.com/pacholoamit/pachtop/commit/77b5b3f) Complete basic highchart
+  * [#89943c7](https://github.com/pacholoamit/pachtop/commit/89943c7) Refactor UserProvider form handling and initial values
+  * [#47f970e](https://github.com/pacholoamit/pachtop/commit/47f970e) Refactor code to update user&#39;s last active time and operating system
+  * [#3510769](https://github.com/pacholoamit/pachtop/commit/3510769) add user activity
+  * [#5e44097](https://github.com/pacholoamit/pachtop/commit/5e44097) fix user issues
+  * [#f8eebf2](https://github.com/pacholoamit/pachtop/commit/f8eebf2) Merge branch &#39;master&#39; into feat/high-charts
+  * [#1d1f0e2](https://github.com/pacholoamit/pachtop/commit/1d1f0e2) fix merge conflict
+  * [#85b0faa](https://github.com/pacholoamit/pachtop/commit/85b0faa) improve charting
+  * [#753ff76](https://github.com/pacholoamit/pachtop/commit/753ff76) proof of concept continuation
+  * [#053dd69](https://github.com/pacholoamit/pachtop/commit/053dd69) basic version of high charts implementation
+  * [#8b4671f](https://github.com/pacholoamit/pachtop/commit/8b4671f) remove zustand
+  * [#d44f0a5](https://github.com/pacholoamit/pachtop/commit/d44f0a5) add zustand
+  * [#41ae308](https://github.com/pacholoamit/pachtop/commit/41ae308) Improve UI performance by reducing renders in 0.3.6-rc
+* 🔃 Merged [#66 Update to 0.3.8](https://github.com/pacholoamit/pachtop/pull/66) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 28 files changed `++464 --412`
+* 🔃 Opened [#66 Update to 0.3.8](https://github.com/pacholoamit/pachtop/pull/66) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 28 files changed `++464 --412`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#32d2308](https://github.com/pacholoamit/pachtop/commit/32d2308) increment version
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#503cfef](https://github.com/pacholoamit/pachtop/commit/503cfef) add to changelog
 
 
 
