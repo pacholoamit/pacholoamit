@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [sindresorhus/file-icon](https://github.com/sindresorhus/file-icon)
 * ➡️ Pushed 40 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
   * [#f5e68b2](https://github.com/pacholoamit/pachtop/commit/f5e68b2) use highcharts for cpu usage
   * [#e711d6b](https://github.com/pacholoamit/pachtop/commit/e711d6b) remove old memory chartjs chart
@@ -52,8 +53,6 @@
   * 28 files changed `++464 --412`
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#32d2308](https://github.com/pacholoamit/pachtop/commit/32d2308) increment version
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#503cfef](https://github.com/pacholoamit/pachtop/commit/503cfef) add to changelog
 
 
 
