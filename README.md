@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3664` commits and made `153` PRs.
+:people_hugging: I contributed to `55` repositories , made `3681` commits and made `156` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,34 +25,39 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [sindresorhus/file-icon](https://github.com/sindresorhus/file-icon)
-* ➡️ Pushed 40 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#f5e68b2](https://github.com/pacholoamit/pachtop/commit/f5e68b2) use highcharts for cpu usage
-  * [#e711d6b](https://github.com/pacholoamit/pachtop/commit/e711d6b) remove old memory chartjs chart
-  * [#e4b6bd9](https://github.com/pacholoamit/pachtop/commit/e4b6bd9) imrprove chartjs state
-  * [#fafeb70](https://github.com/pacholoamit/pachtop/commit/fafeb70) add versions analytics
-  * [#2049763](https://github.com/pacholoamit/pachtop/commit/2049763) create reusable chart without bad side-effects
-  * [#3cd2fca](https://github.com/pacholoamit/pachtop/commit/3cd2fca) Update tooltip xDateFormat to include seconds in memory area chart prototype
-  * [#1f4a77d](https://github.com/pacholoamit/pachtop/commit/1f4a77d) Add formatting
-  * [#77b5b3f](https://github.com/pacholoamit/pachtop/commit/77b5b3f) Complete basic highchart
-  * [#89943c7](https://github.com/pacholoamit/pachtop/commit/89943c7) Refactor UserProvider form handling and initial values
-  * [#47f970e](https://github.com/pacholoamit/pachtop/commit/47f970e) Refactor code to update user&#39;s last active time and operating system
-  * [#3510769](https://github.com/pacholoamit/pachtop/commit/3510769) add user activity
-  * [#5e44097](https://github.com/pacholoamit/pachtop/commit/5e44097) fix user issues
-  * [#f8eebf2](https://github.com/pacholoamit/pachtop/commit/f8eebf2) Merge branch &#39;master&#39; into feat/high-charts
-  * [#1d1f0e2](https://github.com/pacholoamit/pachtop/commit/1d1f0e2) fix merge conflict
-  * [#85b0faa](https://github.com/pacholoamit/pachtop/commit/85b0faa) improve charting
-  * [#753ff76](https://github.com/pacholoamit/pachtop/commit/753ff76) proof of concept continuation
-  * [#053dd69](https://github.com/pacholoamit/pachtop/commit/053dd69) basic version of high charts implementation
-  * [#8b4671f](https://github.com/pacholoamit/pachtop/commit/8b4671f) remove zustand
-  * [#d44f0a5](https://github.com/pacholoamit/pachtop/commit/d44f0a5) add zustand
-  * [#41ae308](https://github.com/pacholoamit/pachtop/commit/41ae308) Improve UI performance by reducing renders in 0.3.6-rc
-* 🔃 Merged [#66 Update to 0.3.8](https://github.com/pacholoamit/pachtop/pull/66) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 28 files changed `++464 --412`
-* 🔃 Opened [#66 Update to 0.3.8](https://github.com/pacholoamit/pachtop/pull/66) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 28 files changed `++464 --412`
+* 🌟 Starred [spacejam/sled](https://github.com/spacejam/sled)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#32d2308](https://github.com/pacholoamit/pachtop/commit/32d2308) increment version
+  * [#023ce56](https://github.com/pacholoamit/pachtop/commit/023ce56) Create FUNDING.yml
+* ➡️ Pushed 17 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#732cc0b](https://github.com/pacholoamit/pachtop/commit/732cc0b) Merge pull request #69 from pacholoamit/master
+
+0.4.0
+  * [#0069043](https://github.com/pacholoamit/pachtop/commit/0069043) remove console log
+  * [#488a082](https://github.com/pacholoamit/pachtop/commit/488a082) Update operating_system field with fallback value
+  * [#de52cc7](https://github.com/pacholoamit/pachtop/commit/de52cc7) fix update user issues
+  * [#aeb8996](https://github.com/pacholoamit/pachtop/commit/aeb8996) Refactor DiskInfo and remove IconFolder import
+  * [#6373887](https://github.com/pacholoamit/pachtop/commit/6373887) increment version
+  * [#817d4e1](https://github.com/pacholoamit/pachtop/commit/817d4e1) Merge pull request #68 from pacholoamit/improvements/improve-disk-ui
+
+improvements/improve disk ui
+  * [#2d6ba28](https://github.com/pacholoamit/pachtop/commit/2d6ba28) Add to changelog
+  * [#cf3763b](https://github.com/pacholoamit/pachtop/commit/cf3763b) Add open directory functionality
+  * [#cbf9e3a](https://github.com/pacholoamit/pachtop/commit/cbf9e3a) add badges to disk ui
+  * [#97cfe77](https://github.com/pacholoamit/pachtop/commit/97cfe77) add to changelog
+  * [#2a5583d](https://github.com/pacholoamit/pachtop/commit/2a5583d) Merge pull request #67 from pacholoamit/feat/auto-start
+
+feat/auto start
+  * [#1fcc005](https://github.com/pacholoamit/pachtop/commit/1fcc005) refactor settings views
+  * [#06695cf](https://github.com/pacholoamit/pachtop/commit/06695cf) add auto start settings
+  * [#792a892](https://github.com/pacholoamit/pachtop/commit/792a892) Add settings ui for startup
+  * [#c4eec48](https://github.com/pacholoamit/pachtop/commit/c4eec48) Add autostart functionality to app
+  * [#6eb8a6a](https://github.com/pacholoamit/pachtop/commit/6eb8a6a) add autostart plugin
+* 🔃 Merged [#69 0.4.0](https://github.com/pacholoamit/pachtop/pull/69) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 28 files changed `++323 --75`
+* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#0069043](https://github.com/pacholoamit/pachtop/commit/0069043) remove console log
+  * [#488a082](https://github.com/pacholoamit/pachtop/commit/488a082) Update operating_system field with fallback value
+  * [#de52cc7](https://github.com/pacholoamit/pachtop/commit/de52cc7) fix update user issues
 
 
 
