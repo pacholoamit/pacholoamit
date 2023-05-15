@@ -25,6 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [tauri-apps/tauri-mobile](https://github.com/tauri-apps/tauri-mobile)
+* 🌟 Starred [Kanaries/Rath](https://github.com/Kanaries/Rath)
 * 🌟 Starred [spacejam/sled](https://github.com/spacejam/sled)
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#023ce56](https://github.com/pacholoamit/pachtop/commit/023ce56) Create FUNDING.yml
@@ -52,12 +54,6 @@ feat/auto start
   * [#792a892](https://github.com/pacholoamit/pachtop/commit/792a892) Add settings ui for startup
   * [#c4eec48](https://github.com/pacholoamit/pachtop/commit/c4eec48) Add autostart functionality to app
   * [#6eb8a6a](https://github.com/pacholoamit/pachtop/commit/6eb8a6a) add autostart plugin
-* 🔃 Merged [#69 0.4.0](https://github.com/pacholoamit/pachtop/pull/69) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 28 files changed `++323 --75`
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#0069043](https://github.com/pacholoamit/pachtop/commit/0069043) remove console log
-  * [#488a082](https://github.com/pacholoamit/pachtop/commit/488a082) Update operating_system field with fallback value
-  * [#de52cc7](https://github.com/pacholoamit/pachtop/commit/de52cc7) fix update user issues
 
 
 
