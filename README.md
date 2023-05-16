@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3682` commits and made `157` PRs.
+:people_hugging: I contributed to `55` repositories , made `3684` commits and made `157` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,66 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#a4baa37](https://github.com/MediaJel/mediajel-gql-service/commit/a4baa37) complete attributed transaction items query
+  * [#04220dd](https://github.com/MediaJel/mediajel-gql-service/commit/04220dd) change queue to named params
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#213fd26](https://github.com/pacholoamit/pachtop/commit/213fd26) Merge pull request #59 from pacholoamit/dependabot/npm_and_yarn/types/react-18.2.6
+
+Bump @types/react from 18.2.5 to 18.2.6
+  * [#1e1fd29](https://github.com/pacholoamit/pachtop/commit/1e1fd29) Bump @types/react from 18.2.5 to 18.2.6
+
+Bumps [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) from 18.2.5 to 18.2.6.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@types/react&#34;
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#32afd2a](https://github.com/pacholoamit/pachtop/commit/32afd2a) Merge pull request #71 from pacholoamit/dependabot/npm_and_yarn/mantine-datatable-2.4.18
+
+Bump mantine-datatable from 2.4.15 to 2.4.18
+  * [#00973ca](https://github.com/pacholoamit/pachtop/commit/00973ca) Bump mantine-datatable from 2.4.15 to 2.4.18
+
+Bumps [mantine-datatable](https://github.com/icflorescu/mantine-datatable) from 2.4.15 to 2.4.18.
+- [Changelog](https://github.com/icflorescu/mantine-datatable/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/icflorescu/mantine-datatable/commits)
+
+---
+updated-dependencies:
+- dependency-name: mantine-datatable
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 122 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#ce3b82e](https://github.com/MediaJel/mediajel-gql-service/commit/ce3b82e) WIP: Filters Adjustment
+  * [#631813a](https://github.com/MediaJel/mediajel-gql-service/commit/631813a) WIP
+  * [#4942783](https://github.com/MediaJel/mediajel-gql-service/commit/4942783) WIP: Performance Improvement
+  * [#504ba8a](https://github.com/MediaJel/mediajel-gql-service/commit/504ba8a) WIP: Finalization
+  * [#7af0cfa](https://github.com/MediaJel/mediajel-gql-service/commit/7af0cfa) WIP: Fixing Dev webapp
+  * [#4d264f4](https://github.com/MediaJel/mediajel-gql-service/commit/4d264f4) MERGE: Fix
+  * [#4847af5](https://github.com/MediaJel/mediajel-gql-service/commit/4847af5) WIP: Optimization
+  * [#e39079e](https://github.com/MediaJel/mediajel-gql-service/commit/e39079e) FIX: Schema
+  * [#afdde86](https://github.com/MediaJel/mediajel-gql-service/commit/afdde86) MERGE: Fix
+  * [#bca65c9](https://github.com/MediaJel/mediajel-gql-service/commit/bca65c9) WIP: Improvement
+  * [#992699b](https://github.com/MediaJel/mediajel-gql-service/commit/992699b) WIP: Commerce New Filters
+  * [#26a78d5](https://github.com/MediaJel/mediajel-gql-service/commit/26a78d5) Merge branch &#39;icf-schema-config&#39; into icf-transactions-filters-adjustment
+  * [#84d92e6](https://github.com/MediaJel/mediajel-gql-service/commit/84d92e6) SCHEMA: Added new attribution
+  * [#3a92afb](https://github.com/MediaJel/mediajel-gql-service/commit/3a92afb) WIP: New Attribution Method
+  * [#097ec0b](https://github.com/MediaJel/mediajel-gql-service/commit/097ec0b) Merge branch &#39;icf-schema-config&#39; into icf-transactions-filters-adjustment
+  * [#fa39937](https://github.com/MediaJel/mediajel-gql-service/commit/fa39937) COMPLETE: Adjustments
+  * [#54f7d52](https://github.com/MediaJel/mediajel-gql-service/commit/54f7d52) COMPLETE: Adjustments
+  * [#9d07259](https://github.com/MediaJel/mediajel-gql-service/commit/9d07259) COMPLETE: Generated Files
+  * [#95349a5](https://github.com/MediaJel/mediajel-gql-service/commit/95349a5) Merge branch &#39;develop&#39; into icf-schema-config
+  * [#466c1a5](https://github.com/MediaJel/mediajel-gql-service/commit/466c1a5) COMPLETE: Schema changes
 * ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#323e131](https://github.com/MediaJel/mediajel-tracker/commit/323e131) Merge pull request #233 from MediaJel/staging
 
@@ -33,17 +93,6 @@ Update &#34;main&#34;
 
 update shopify order number
   * [#f50c9b0](https://github.com/MediaJel/mediajel-tracker/commit/f50c9b0) update shopify order number
-* 🔃 Merged [#233 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/233) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++6 --3`
-* 🔃 Opened [#233 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/233) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++6 --3`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#22b5c62](https://github.com/MediaJel/mediajel-tracker/commit/22b5c62) Merge pull request #232 from MediaJel/shopify-update
-
-update shopify order number
-  * [#f50c9b0](https://github.com/MediaJel/mediajel-tracker/commit/f50c9b0) update shopify order number
-* 🔃 Merged [#232 update shopify order number](https://github.com/MediaJel/mediajel-tracker/pull/232) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++6 --3`
 
 
 
