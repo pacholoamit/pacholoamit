@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#0b9e3c9](https://github.com/MediaJel/mediajel-tracker/commit/0b9e3c9) Merge branch &#39;staging&#39;
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
@@ -35,8 +36,6 @@
 rollback shopify change
   * [#233b086](https://github.com/MediaJel/mediajel-tracker/commit/233b086) rollback shopify change
 * 🔃 Merged [#235 rollback shopify change](https://github.com/MediaJel/mediajel-tracker/pull/235) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 4 files changed `++6 --6`
-* 🔃 Opened [#235 rollback shopify change](https://github.com/MediaJel/mediajel-tracker/pull/235) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 4 files changed `++6 --6`
 
 
