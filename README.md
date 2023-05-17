@@ -25,13 +25,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#32245c8](https://github.com/MediaJel/mediajel-gql-service/commit/32245c8) Refactor basket items processing for transaction items eventThe commit refactors the processing of basket items for transaction items event by moving it to a shared utility file and updating the relevant code to use it. This improves the maintainability and reusability of the code. The commit also removes unused code related to snowflake handling
-* 🔍 Reviewed [#4484 [REQUESTED CHANGES] enhance app id when selecting also select cart](https://github.com/MediaJel/mediajel-dashboard/pull/4484) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4484 [FOR REVIEW] enhance app id when selecting also select cart](https://github.com/MediaJel/mediajel-dashboard/pull/4484) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4484 [FOR REVIEW] enhance app id when selecting also select cart](https://github.com/MediaJel/mediajel-dashboard/pull/4484) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#532cd1f](https://github.com/MediaJel/mediajel-gql-service/commit/532cd1f) add worker file
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#0b9e3c9](https://github.com/MediaJel/mediajel-tracker/commit/0b9e3c9) Merge branch &#39;staging&#39;
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#5d1b930](https://github.com/MediaJel/mediajel-tracker/commit/5d1b930) comment out test
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#4b10ba2](https://github.com/MediaJel/mediajel-tracker/commit/4b10ba2) Merge pull request #235 from MediaJel/staging
+
+rollback shopify change
+  * [#233b086](https://github.com/MediaJel/mediajel-tracker/commit/233b086) rollback shopify change
+* 🔃 Merged [#235 rollback shopify change](https://github.com/MediaJel/mediajel-tracker/pull/235) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++6 --6`
+* 🔃 Opened [#235 rollback shopify change](https://github.com/MediaJel/mediajel-tracker/pull/235) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++6 --6`
 
 
 
