@@ -25,13 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)
+* #️⃣ Opened [#4581 Experiment with updating Dashboard build tool (Vite &amp; SWR)](https://github.com/MediaJel/mediajel-dashboard/issues/4581) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🌟 Starred [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
 * 💬 Commented on [#4414 Self service tag generator add &#34;install&#34; tag to render instructions depending on selected cart](https://github.com/MediaJel/mediajel-dashboard/issues/4414) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#4459 Synchronize Cart Platforms on both Campaign launcher and Self service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4459) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#234 Fixed shopify order id](https://github.com/MediaJel/mediajel-tracker/issues/234) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#7efd910](https://github.com/MediaJel/mediajel-gql-service/commit/7efd910) enable signups
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#e35539f](https://github.com/MediaJel/mediajel-gql-service/commit/e35539f) Refactor logger messages for transaction items processor and worker setup
 
 
 
