@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3688` commits and made `158` PRs.
+:people_hugging: I contributed to `55` repositories , made `3691` commits and made `159` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)
-* #️⃣ Opened [#4581 Experiment with updating Dashboard build tool (Vite &amp; SWR)](https://github.com/MediaJel/mediajel-dashboard/issues/4581) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
-* 💬 Commented on [#4414 Self service tag generator add &#34;install&#34; tag to render instructions depending on selected cart](https://github.com/MediaJel/mediajel-dashboard/issues/4414) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#4459 Synchronize Cart Platforms on both Campaign launcher and Self service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4459) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#3638 Eaze automation of reports](https://github.com/MediaJel/mediajel-gql-service/issues/3638) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#234 Fixed shopify order id](https://github.com/MediaJel/mediajel-tracker/issues/234) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#231 Test Effectiveness of Mediajel tag segment id vs regular segment id](https://github.com/MediaJel/mediajel-tracker/issues/231) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#877ff63](https://github.com/MediaJel/mediajel-tracker/commit/877ff63) Merge pull request #237 from MediaJel/staging
+
+Update &#34;main&#34;
+  * [#738b138](https://github.com/MediaJel/mediajel-tracker/commit/738b138) Merge pull request #236 from MediaJel/shopify
+
+New ID for Shopify
+  * [#af2df99](https://github.com/MediaJel/mediajel-tracker/commit/af2df99) add error handling
+  * [#861b036](https://github.com/MediaJel/mediajel-tracker/commit/861b036) remove double hyphen
+  * [#5a0dcf0](https://github.com/MediaJel/mediajel-tracker/commit/5a0dcf0) new id for shopify
+* 🔃 Merged [#237 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/237) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++8 --6`
 
 
 
