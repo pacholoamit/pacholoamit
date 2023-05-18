@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3686` commits and made `158` PRs.
+:people_hugging: I contributed to `55` repositories , made `3688` commits and made `158` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,18 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#0b9e3c9](https://github.com/MediaJel/mediajel-tracker/commit/0b9e3c9) Merge branch &#39;staging&#39;
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#5d1b930](https://github.com/MediaJel/mediajel-tracker/commit/5d1b930) comment out test
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#4b10ba2](https://github.com/MediaJel/mediajel-tracker/commit/4b10ba2) Merge pull request #235 from MediaJel/staging
-
-rollback shopify change
-  * [#233b086](https://github.com/MediaJel/mediajel-tracker/commit/233b086) rollback shopify change
-* 🔃 Merged [#235 rollback shopify change](https://github.com/MediaJel/mediajel-tracker/pull/235) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 4 files changed `++6 --6`
+* 💬 Commented on [#4414 Self service tag generator add &#34;install&#34; tag to render instructions depending on selected cart](https://github.com/MediaJel/mediajel-dashboard/issues/4414) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#4459 Synchronize Cart Platforms on both Campaign launcher and Self service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4459) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#234 Fixed shopify order id](https://github.com/MediaJel/mediajel-tracker/issues/234) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#7efd910](https://github.com/MediaJel/mediajel-gql-service/commit/7efd910) enable signups
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#e35539f](https://github.com/MediaJel/mediajel-gql-service/commit/e35539f) Refactor logger messages for transaction items processor and worker setup
 
 
 
