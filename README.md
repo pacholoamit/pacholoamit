@@ -25,21 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3638 Eaze automation of reports](https://github.com/MediaJel/mediajel-gql-service/issues/3638) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#234 Fixed shopify order id](https://github.com/MediaJel/mediajel-tracker/issues/234) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#231 Test Effectiveness of Mediajel tag segment id vs regular segment id](https://github.com/MediaJel/mediajel-tracker/issues/231) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#877ff63](https://github.com/MediaJel/mediajel-tracker/commit/877ff63) Merge pull request #237 from MediaJel/staging
-
-Update &#34;main&#34;
-  * [#738b138](https://github.com/MediaJel/mediajel-tracker/commit/738b138) Merge pull request #236 from MediaJel/shopify
-
-New ID for Shopify
-  * [#af2df99](https://github.com/MediaJel/mediajel-tracker/commit/af2df99) add error handling
-  * [#861b036](https://github.com/MediaJel/mediajel-tracker/commit/861b036) remove double hyphen
-  * [#5a0dcf0](https://github.com/MediaJel/mediajel-tracker/commit/5a0dcf0) new id for shopify
-* 🔃 Merged [#237 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/237) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++8 --6`
+* ⏺️ Created new branch feat/migrate-to-vite in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#4458 Hotfix self service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4458) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/issues/3530) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/issues/3530) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
