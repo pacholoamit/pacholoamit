@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `54` repositories , made `3691` commits and made `159` PRs.
+:people_hugging: I contributed to `55` repositories , made `3699` commits and made `156` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch feat/add-data-store in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot)
+* ⏺️ Created new branch master in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot)
+* ⏺️ Created new repository  [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot)
 * ➡️ Pushed 153 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `cart-modal`
   * [#19a19e2](https://github.com/MediaJel/mediajel-dashboard/commit/19a19e2) Bring back the dashboard
   * [#829967a](https://github.com/MediaJel/mediajel-dashboard/commit/829967a) final changes
@@ -68,9 +71,6 @@ Deploy Production-Stage in Master [ 4th Release of 2023]
 Enable Maintenance Mode
   * [#8cc038f](https://github.com/MediaJel/mediajel-dashboard/commit/8cc038f) Enable Maintenance Mode
 * 💬 Commented on [#6 Pachtop uses too many resources so measurement is garbled](https://github.com/pacholoamit/pachtop/issues/6) from [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* #️⃣ Closed [#6 Pachtop uses too many resources so measurement is garbled](https://github.com/pacholoamit/pachtop/issues/6) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* 🔍 Reviewed [#4484 [FOR REVIEW] enhance app id when selecting also select cart](https://github.com/MediaJel/mediajel-dashboard/pull/4484) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#231 Test Effectiveness of Mediajel tag segment id vs regular segment id](https://github.com/MediaJel/mediajel-tracker/issues/231) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
