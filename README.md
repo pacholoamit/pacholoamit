@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3699` commits and made `156` PRs.
+:people_hugging: I contributed to `55` repositories , made `3707` commits and made `156` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,52 +25,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 8 commits in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot) on branch `master`
+  * [#c791ed4](https://github.com/MediaJel/otto-integrations-slackbot/commit/c791ed4) Refactor request dataValues in Slack bot index.ts
+  * [#3f5a506](https://github.com/MediaJel/otto-integrations-slackbot/commit/3f5a506) implement list
+  * [#984db96](https://github.com/MediaJel/otto-integrations-slackbot/commit/984db96) implement edit request
+  * [#de76a80](https://github.com/MediaJel/otto-integrations-slackbot/commit/de76a80) cleanup on views
+  * [#3812cc6](https://github.com/MediaJel/otto-integrations-slackbot/commit/3812cc6) create data store
+  * [#8c9d0e1](https://github.com/MediaJel/otto-integrations-slackbot/commit/8c9d0e1) add prisma
+  * [#0d7fb94](https://github.com/MediaJel/otto-integrations-slackbot/commit/0d7fb94) create callback for integrations
+  * [#c6c78fe](https://github.com/MediaJel/otto-integrations-slackbot/commit/c6c78fe) add ecommerce field
+* ➡️ Pushed 1 commit in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot) on branch `feat/implement-edit`
+  * [#c791ed4](https://github.com/MediaJel/otto-integrations-slackbot/commit/c791ed4) Refactor request dataValues in Slack bot index.ts
+* ➡️ Pushed 1 commit in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot) on branch `feat/implement-edit`
+  * [#3f5a506](https://github.com/MediaJel/otto-integrations-slackbot/commit/3f5a506) implement list
+* ⏺️ Created new branch feat/implement-edit in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot)
 * ⏺️ Created new branch feat/add-data-store in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot)
-* ⏺️ Created new branch master in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot)
-* ⏺️ Created new repository  [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot)
-* ➡️ Pushed 153 commits in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `cart-modal`
-  * [#19a19e2](https://github.com/MediaJel/mediajel-dashboard/commit/19a19e2) Bring back the dashboard
-  * [#829967a](https://github.com/MediaJel/mediajel-dashboard/commit/829967a) final changes
-  * [#b655152](https://github.com/MediaJel/mediajel-dashboard/commit/b655152) Merge pull request #4439 from MediaJel/fbl3-hotfix/technical-difficulty-page
-
-HOTFIX: Bring up technical difficulty page
-  * [#a381af5](https://github.com/MediaJel/mediajel-dashboard/commit/a381af5) HOTFIX: Bring up technical difficulty page
-  * [#ce64ea2](https://github.com/MediaJel/mediajel-dashboard/commit/ce64ea2) Filtering of data by Org
-
-Created a feature to show the selections in the fields (Region Group, Audiences and Ad Group Creatives)
-- to show them by org
-- display the data from their child org
-- MUST not display data from their parent org or any org not under the current org logged in
-- Filter data by name or by org by the typing in the field
-- Fixed issue in Adgroup Media loading
-  * [#72caf42](https://github.com/MediaJel/mediajel-dashboard/commit/72caf42) select all feature creatives org config
-  * [#43d4c58](https://github.com/MediaJel/mediajel-dashboard/commit/43d4c58) to be continued
-  * [#34b0f38](https://github.com/MediaJel/mediajel-dashboard/commit/34b0f38) improve template PR github
-  * [#04135ea](https://github.com/MediaJel/mediajel-dashboard/commit/04135ea) added notes when adding retail location
-  * [#05af97f](https://github.com/MediaJel/mediajel-dashboard/commit/05af97f) hide no cart on both campaign launcher and org config
-  * [#bd44036](https://github.com/MediaJel/mediajel-dashboard/commit/bd44036) Merge pull request #4413 from MediaJel/develop
-
-[PASS ENGR QA] Jbjm fix org config audiences (#4405)
-  * [#22dbc6b](https://github.com/MediaJel/mediajel-dashboard/commit/22dbc6b) COMPLETE: Add Option All Campaigns Table
-  * [#2a4c54b](https://github.com/MediaJel/mediajel-dashboard/commit/2a4c54b) COMPLETE: Fix transaction pagination no such key
-  * [#60f5dea](https://github.com/MediaJel/mediajel-dashboard/commit/60f5dea) Merge pull request #4404 from MediaJel/develop
-
-Update Dojo From Develop
-  * [#cfc057a](https://github.com/MediaJel/mediajel-dashboard/commit/cfc057a) Merge pull request #4369 from MediaJel/production-stage
-
- HOT FIX Deployment from Production stage to Production
-  * [#730f7c2](https://github.com/MediaJel/mediajel-dashboard/commit/730f7c2) Merge pull request #4319 from MediaJel/eb/disabled-maintenance-mode
-
-Disabled Maintenance Mode
-  * [#3431150](https://github.com/MediaJel/mediajel-dashboard/commit/3431150) Disabled Maintenance Mode
-  * [#28fb681](https://github.com/MediaJel/mediajel-dashboard/commit/28fb681) Merge pull request #4318 from MediaJel/production-stage
-
-Deploy Production-Stage in Master [ 4th Release of 2023]
-  * [#9fb2fe0](https://github.com/MediaJel/mediajel-dashboard/commit/9fb2fe0) Merge pull request #4312 from MediaJel/eb/enabled-maintenance
-
-Enable Maintenance Mode
-  * [#8cc038f](https://github.com/MediaJel/mediajel-dashboard/commit/8cc038f) Enable Maintenance Mode
-* 💬 Commented on [#6 Pachtop uses too many resources so measurement is garbled](https://github.com/pacholoamit/pachtop/issues/6) from [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 
 
