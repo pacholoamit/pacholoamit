@@ -25,21 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#319d5a6](https://github.com/MediaJel/mediajel-gql-service/commit/319d5a6) add validation logic for logger
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#9567f64](https://github.com/MediaJel/mediajel-gql-service/commit/9567f64) add log statement
+* ➡️ Pushed 9 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#3affa40](https://github.com/MediaJel/mediajel-gql-service/commit/3affa40) Merge branch &#39;develop&#39; into add-structured-events
+* 🌟 Starred [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton)
 * #️⃣ Opened [#75 FEAT: Consider a plugin system](https://github.com/pacholoamit/pachtop/issues/75) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* 🌟 Starred [nanostores/nanostores](https://github.com/nanostores/nanostores)
-* ➡️ Pushed 8 commits in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot) on branch `master`
-  * [#c791ed4](https://github.com/MediaJel/otto-integrations-slackbot/commit/c791ed4) Refactor request dataValues in Slack bot index.ts
-  * [#3f5a506](https://github.com/MediaJel/otto-integrations-slackbot/commit/3f5a506) implement list
-  * [#984db96](https://github.com/MediaJel/otto-integrations-slackbot/commit/984db96) implement edit request
-  * [#de76a80](https://github.com/MediaJel/otto-integrations-slackbot/commit/de76a80) cleanup on views
-  * [#3812cc6](https://github.com/MediaJel/otto-integrations-slackbot/commit/3812cc6) create data store
-  * [#8c9d0e1](https://github.com/MediaJel/otto-integrations-slackbot/commit/8c9d0e1) add prisma
-  * [#0d7fb94](https://github.com/MediaJel/otto-integrations-slackbot/commit/0d7fb94) create callback for integrations
-  * [#c6c78fe](https://github.com/MediaJel/otto-integrations-slackbot/commit/c6c78fe) add ecommerce field
-* ➡️ Pushed 1 commit in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot) on branch `feat/implement-edit`
-  * [#c791ed4](https://github.com/MediaJel/otto-integrations-slackbot/commit/c791ed4) Refactor request dataValues in Slack bot index.ts
-* ➡️ Pushed 1 commit in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot) on branch `feat/implement-edit`
-  * [#3f5a506](https://github.com/MediaJel/otto-integrations-slackbot/commit/3f5a506) implement list
 
 
 
