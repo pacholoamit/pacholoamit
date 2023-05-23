@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#75 FEAT: Consider a plugin system](https://github.com/pacholoamit/pachtop/issues/75) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 * 🌟 Starred [nanostores/nanostores](https://github.com/nanostores/nanostores)
 * ➡️ Pushed 8 commits in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot) on branch `master`
   * [#c791ed4](https://github.com/MediaJel/otto-integrations-slackbot/commit/c791ed4) Refactor request dataValues in Slack bot index.ts
@@ -39,7 +40,6 @@
   * [#c791ed4](https://github.com/MediaJel/otto-integrations-slackbot/commit/c791ed4) Refactor request dataValues in Slack bot index.ts
 * ➡️ Pushed 1 commit in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot) on branch `feat/implement-edit`
   * [#3f5a506](https://github.com/MediaJel/otto-integrations-slackbot/commit/3f5a506) implement list
-* ⏺️ Created new branch feat/implement-edit in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot)
 
 
 
