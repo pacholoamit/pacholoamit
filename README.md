@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [nanostores/nanostores](https://github.com/nanostores/nanostores)
 * ➡️ Pushed 8 commits in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot) on branch `master`
   * [#c791ed4](https://github.com/MediaJel/otto-integrations-slackbot/commit/c791ed4) Refactor request dataValues in Slack bot index.ts
   * [#3f5a506](https://github.com/MediaJel/otto-integrations-slackbot/commit/3f5a506) implement list
@@ -39,7 +40,6 @@
 * ➡️ Pushed 1 commit in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot) on branch `feat/implement-edit`
   * [#3f5a506](https://github.com/MediaJel/otto-integrations-slackbot/commit/3f5a506) implement list
 * ⏺️ Created new branch feat/implement-edit in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot)
-* ⏺️ Created new branch feat/add-data-store in [MediaJel/otto-integrations-slackbot](https://github.com/MediaJel/otto-integrations-slackbot)
 
 
 
