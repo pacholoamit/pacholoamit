@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3707` commits and made `156` PRs.
+:people_hugging: I contributed to `56` repositories , made `3711` commits and made `156` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#86ade1b](https://github.com/MediaJel/mediajel-gql-service/commit/86ade1b) enable signups as default
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#f5c1647](https://github.com/MediaJel/mediajel-gql-service/commit/f5c1647) segregation of concerns for transaction items
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#319d5a6](https://github.com/MediaJel/mediajel-gql-service/commit/319d5a6) add validation logic for logger
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#9567f64](https://github.com/MediaJel/mediajel-gql-service/commit/9567f64) add log statement
-* ➡️ Pushed 9 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
-  * [#3affa40](https://github.com/MediaJel/mediajel-gql-service/commit/3affa40) Merge branch &#39;develop&#39; into add-structured-events
+* ⏺️ Created new branch master in [MediaJel/langchain-jupyter-notebooks](https://github.com/MediaJel/langchain-jupyter-notebooks)
+* ⏺️ Created new repository  [MediaJel/langchain-jupyter-notebooks](https://github.com/MediaJel/langchain-jupyter-notebooks)
+* #️⃣ Opened [#396 Create Dashboard assistant as user assistant](https://github.com/MediaJel/mediajel/issues/396) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#3649 Add validation signups observer to evaluate if Signup tracking is enabled](https://github.com/MediaJel/mediajel-gql-service/issues/3649) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#238 Shopify Checkout Issue: when an order is unfulfilled, window.Shopify.checkout is undefined](https://github.com/MediaJel/mediajel-tracker/issues/238) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
