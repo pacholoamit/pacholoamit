@@ -26,13 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#86ade1b](https://github.com/MediaJel/mediajel-gql-service/commit/86ade1b) enable signups as default
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
+  * [#f5c1647](https://github.com/MediaJel/mediajel-gql-service/commit/f5c1647) segregation of concerns for transaction items
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#319d5a6](https://github.com/MediaJel/mediajel-gql-service/commit/319d5a6) add validation logic for logger
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#9567f64](https://github.com/MediaJel/mediajel-gql-service/commit/9567f64) add log statement
 * ➡️ Pushed 9 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `add-structured-events`
   * [#3affa40](https://github.com/MediaJel/mediajel-gql-service/commit/3affa40) Merge branch &#39;develop&#39; into add-structured-events
-* 🌟 Starred [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton)
-* #️⃣ Opened [#75 FEAT: Consider a plugin system](https://github.com/pacholoamit/pachtop/issues/75) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 
 
