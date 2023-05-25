@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3714` commits and made `156` PRs.
+:people_hugging: I contributed to `56` repositories , made `3218` commits and made `156` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#4414 Self service tag generator add &#34;install&#34; tag to render instructions depending on selected cart](https://github.com/MediaJel/mediajel-dashboard/issues/4414) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#4459 Synchronize Cart Platforms on both Campaign launcher and Self service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4459) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#1 Create AI Proof of concept for data analysis with langchain](https://github.com/MediaJel/langchain-jupyter-notebooks/issues/1) in [MediaJel/langchain-jupyter-notebooks](https://github.com/MediaJel/langchain-jupyter-notebooks)
-* #️⃣ Opened [#1 Create AI Proof of concept for data analysis with langchain](https://github.com/MediaJel/langchain-jupyter-notebooks/issues/1) in [MediaJel/langchain-jupyter-notebooks](https://github.com/MediaJel/langchain-jupyter-notebooks)
-* ➡️ Pushed 1 commit in [MediaJel/langchain-jupyter-notebooks](https://github.com/MediaJel/langchain-jupyter-notebooks) on branch `master`
-  * [#e72a271](https://github.com/MediaJel/langchain-jupyter-notebooks/commit/e72a271) add note to next steps
+* 💬 Commented on [#4599 [IN PROGRESS] Tag Generator Improvements](https://github.com/MediaJel/mediajel-dashboard/pull/4599) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#4599 [IN PROGRESS] Tag Generator Improvements](https://github.com/MediaJel/mediajel-dashboard/pull/4599) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4599 [IN PROGRESS] Tag Generator Improvements](https://github.com/MediaJel/mediajel-dashboard/pull/4599) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4599 [IN PROGRESS] Tag Generator Improvements](https://github.com/MediaJel/mediajel-dashboard/pull/4599) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🌟 Starred [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 
 
 
