@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3714` commits and made `156` PRs.
+:people_hugging: I contributed to `56` repositories , made `3717` commits and made `156` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,32 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#4599 [IN PROGRESS] Tag Generator Improvements](https://github.com/MediaJel/mediajel-dashboard/pull/4599) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#4599 [IN PROGRESS] Tag Generator Improvements](https://github.com/MediaJel/mediajel-dashboard/pull/4599) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4599 [IN PROGRESS] Tag Generator Improvements](https://github.com/MediaJel/mediajel-dashboard/pull/4599) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4599 [IN PROGRESS] Tag Generator Improvements](https://github.com/MediaJel/mediajel-dashboard/pull/4599) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+* #️⃣ Opened [#397 Research on Walk ins observer](https://github.com/MediaJel/mediajel/issues/397) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 141 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
+  * [#ce3b82e](https://github.com/MediaJel/mediajel-gql-service/commit/ce3b82e) WIP: Filters Adjustment
+  * [#631813a](https://github.com/MediaJel/mediajel-gql-service/commit/631813a) WIP
+  * [#4942783](https://github.com/MediaJel/mediajel-gql-service/commit/4942783) WIP: Performance Improvement
+  * [#504ba8a](https://github.com/MediaJel/mediajel-gql-service/commit/504ba8a) WIP: Finalization
+  * [#7af0cfa](https://github.com/MediaJel/mediajel-gql-service/commit/7af0cfa) WIP: Fixing Dev webapp
+  * [#4d264f4](https://github.com/MediaJel/mediajel-gql-service/commit/4d264f4) MERGE: Fix
+  * [#4847af5](https://github.com/MediaJel/mediajel-gql-service/commit/4847af5) WIP: Optimization
+  * [#e39079e](https://github.com/MediaJel/mediajel-gql-service/commit/e39079e) FIX: Schema
+  * [#afdde86](https://github.com/MediaJel/mediajel-gql-service/commit/afdde86) MERGE: Fix
+  * [#bca65c9](https://github.com/MediaJel/mediajel-gql-service/commit/bca65c9) WIP: Improvement
+  * [#992699b](https://github.com/MediaJel/mediajel-gql-service/commit/992699b) WIP: Commerce New Filters
+  * [#26a78d5](https://github.com/MediaJel/mediajel-gql-service/commit/26a78d5) Merge branch &#39;icf-schema-config&#39; into icf-transactions-filters-adjustment
+  * [#84d92e6](https://github.com/MediaJel/mediajel-gql-service/commit/84d92e6) SCHEMA: Added new attribution
+  * [#3a92afb](https://github.com/MediaJel/mediajel-gql-service/commit/3a92afb) WIP: New Attribution Method
+  * [#097ec0b](https://github.com/MediaJel/mediajel-gql-service/commit/097ec0b) Merge branch &#39;icf-schema-config&#39; into icf-transactions-filters-adjustment
+  * [#fa39937](https://github.com/MediaJel/mediajel-gql-service/commit/fa39937) COMPLETE: Adjustments
+  * [#54f7d52](https://github.com/MediaJel/mediajel-gql-service/commit/54f7d52) COMPLETE: Adjustments
+  * [#9d07259](https://github.com/MediaJel/mediajel-gql-service/commit/9d07259) COMPLETE: Generated Files
+  * [#95349a5](https://github.com/MediaJel/mediajel-gql-service/commit/95349a5) Merge branch &#39;develop&#39; into icf-schema-config
+  * [#466c1a5](https://github.com/MediaJel/mediajel-gql-service/commit/466c1a5) COMPLETE: Schema changes
+* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
+  * [#e5f6536](https://github.com/MediaJel/prompt-engineering-concepts/commit/e5f6536) add question 3
+* #️⃣ Opened [#4 AI: Average bounce rate by pub post click](https://github.com/MediaJel/prompt-engineering-concepts/issues/4) in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts)
+* #️⃣ Opened [#3 AI: Amount of time between impression server and click by pub](https://github.com/MediaJel/prompt-engineering-concepts/issues/3) in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts)
 
 
 
