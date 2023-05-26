@@ -25,6 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#398 Vireo Creative/Geo Reporting - AdHoc Request](https://github.com/MediaJel/mediajel/issues/398) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#398 Vireo Creative/Geo Reporting - AdHoc Request](https://github.com/MediaJel/mediajel/issues/398) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#397 Research on Walk ins observer](https://github.com/MediaJel/mediajel/issues/397) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 141 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
   * [#ce3b82e](https://github.com/MediaJel/mediajel-gql-service/commit/ce3b82e) WIP: Filters Adjustment
@@ -49,8 +51,6 @@
   * [#466c1a5](https://github.com/MediaJel/mediajel-gql-service/commit/466c1a5) COMPLETE: Schema changes
 * ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
   * [#e5f6536](https://github.com/MediaJel/prompt-engineering-concepts/commit/e5f6536) add question 3
-* #️⃣ Opened [#4 AI: Average bounce rate by pub post click](https://github.com/MediaJel/prompt-engineering-concepts/issues/4) in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts)
-* #️⃣ Opened [#3 AI: Amount of time between impression server and click by pub](https://github.com/MediaJel/prompt-engineering-concepts/issues/3) in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts)
 
 
 
