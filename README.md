@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [novuhq/novu](https://github.com/novuhq/novu)
 * 💬 Commented on [#398 Vireo Creative/Geo Reporting - AdHoc Request](https://github.com/MediaJel/mediajel/issues/398) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#398 Vireo Creative/Geo Reporting - AdHoc Request](https://github.com/MediaJel/mediajel/issues/398) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#397 Research on Walk ins observer](https://github.com/MediaJel/mediajel/issues/397) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
@@ -49,8 +50,6 @@
   * [#9d07259](https://github.com/MediaJel/mediajel-gql-service/commit/9d07259) COMPLETE: Generated Files
   * [#95349a5](https://github.com/MediaJel/mediajel-gql-service/commit/95349a5) Merge branch &#39;develop&#39; into icf-schema-config
   * [#466c1a5](https://github.com/MediaJel/mediajel-gql-service/commit/466c1a5) COMPLETE: Schema changes
-* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#e5f6536](https://github.com/MediaJel/prompt-engineering-concepts/commit/e5f6536) add question 3
 
 
 
