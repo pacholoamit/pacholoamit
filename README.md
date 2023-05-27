@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3717` commits and made `156` PRs.
+:people_hugging: I contributed to `56` repositories , made `3719` commits and made `157` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,40 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#57049e8](https://github.com/MediaJel/mediajel-gql-service/commit/57049e8) checkpoint yet again
-  * [#077dd35](https://github.com/MediaJel/mediajel-gql-service/commit/077dd35) checkpoint
-  * [#df6b0c9](https://github.com/MediaJel/mediajel-gql-service/commit/df6b0c9) checkpoint
-* 🌟 Starred [novuhq/novu](https://github.com/novuhq/novu)
-* 💬 Commented on [#398 Vireo Creative/Geo Reporting - AdHoc Request](https://github.com/MediaJel/mediajel/issues/398) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#398 Vireo Creative/Geo Reporting - AdHoc Request](https://github.com/MediaJel/mediajel/issues/398) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#397 Research on Walk ins observer](https://github.com/MediaJel/mediajel/issues/397) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 🔃 Merged [#243 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/243) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 5 files changed `++122 --1`
+* ➡️ Pushed 7 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#3e62b36](https://github.com/MediaJel/mediajel-tracker/commit/3e62b36) Merge pull request #243 from MediaJel/staging
+
+Update &#34;main&#34;
+  * [#44795b5](https://github.com/MediaJel/mediajel-tracker/commit/44795b5) Merge pull request #242 from MediaJel/webjoint
+
+Webjoint
+  * [#4303fea](https://github.com/MediaJel/mediajel-tracker/commit/4303fea) fix conflicts
+  * [#5ec80c9](https://github.com/MediaJel/mediajel-tracker/commit/5ec80c9) add to imports
+  * [#e2a39e5](https://github.com/MediaJel/mediajel-tracker/commit/e2a39e5) item order id
+  * [#2e32825](https://github.com/MediaJel/mediajel-tracker/commit/2e32825) final testing
+  * [#c5f2e05](https://github.com/MediaJel/mediajel-tracker/commit/c5f2e05) webjoint cart
+* 🔃 Opened [#243 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/243) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 5 files changed `++122 --1`
+* ➡️ Pushed 6 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#44795b5](https://github.com/MediaJel/mediajel-tracker/commit/44795b5) Merge pull request #242 from MediaJel/webjoint
+
+Webjoint
+  * [#4303fea](https://github.com/MediaJel/mediajel-tracker/commit/4303fea) fix conflicts
+  * [#5ec80c9](https://github.com/MediaJel/mediajel-tracker/commit/5ec80c9) add to imports
+  * [#e2a39e5](https://github.com/MediaJel/mediajel-tracker/commit/e2a39e5) item order id
+  * [#2e32825](https://github.com/MediaJel/mediajel-tracker/commit/2e32825) final testing
+  * [#c5f2e05](https://github.com/MediaJel/mediajel-tracker/commit/c5f2e05) webjoint cart
+* ➡️ Pushed 6 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
+  * [#44795b5](https://github.com/MediaJel/mediajel-tracker/commit/44795b5) Merge pull request #242 from MediaJel/webjoint
+
+Webjoint
+  * [#4303fea](https://github.com/MediaJel/mediajel-tracker/commit/4303fea) fix conflicts
+  * [#5ec80c9](https://github.com/MediaJel/mediajel-tracker/commit/5ec80c9) add to imports
+  * [#e2a39e5](https://github.com/MediaJel/mediajel-tracker/commit/e2a39e5) item order id
+  * [#2e32825](https://github.com/MediaJel/mediajel-tracker/commit/2e32825) final testing
+  * [#c5f2e05](https://github.com/MediaJel/mediajel-tracker/commit/c5f2e05) webjoint cart
 
 
 
