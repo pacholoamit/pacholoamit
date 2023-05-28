@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3719` commits and made `157` PRs.
+:people_hugging: I contributed to `57` repositories , made `3724` commits and made `155` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,40 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Merged [#243 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/243) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 5 files changed `++122 --1`
-* ➡️ Pushed 7 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#3e62b36](https://github.com/MediaJel/mediajel-tracker/commit/3e62b36) Merge pull request #243 from MediaJel/staging
-
-Update &#34;main&#34;
-  * [#44795b5](https://github.com/MediaJel/mediajel-tracker/commit/44795b5) Merge pull request #242 from MediaJel/webjoint
-
-Webjoint
-  * [#4303fea](https://github.com/MediaJel/mediajel-tracker/commit/4303fea) fix conflicts
-  * [#5ec80c9](https://github.com/MediaJel/mediajel-tracker/commit/5ec80c9) add to imports
-  * [#e2a39e5](https://github.com/MediaJel/mediajel-tracker/commit/e2a39e5) item order id
-  * [#2e32825](https://github.com/MediaJel/mediajel-tracker/commit/2e32825) final testing
-  * [#c5f2e05](https://github.com/MediaJel/mediajel-tracker/commit/c5f2e05) webjoint cart
-* 🔃 Opened [#243 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/243) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 5 files changed `++122 --1`
-* ➡️ Pushed 6 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#44795b5](https://github.com/MediaJel/mediajel-tracker/commit/44795b5) Merge pull request #242 from MediaJel/webjoint
-
-Webjoint
-  * [#4303fea](https://github.com/MediaJel/mediajel-tracker/commit/4303fea) fix conflicts
-  * [#5ec80c9](https://github.com/MediaJel/mediajel-tracker/commit/5ec80c9) add to imports
-  * [#e2a39e5](https://github.com/MediaJel/mediajel-tracker/commit/e2a39e5) item order id
-  * [#2e32825](https://github.com/MediaJel/mediajel-tracker/commit/2e32825) final testing
-  * [#c5f2e05](https://github.com/MediaJel/mediajel-tracker/commit/c5f2e05) webjoint cart
-* ➡️ Pushed 6 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `develop`
-  * [#44795b5](https://github.com/MediaJel/mediajel-tracker/commit/44795b5) Merge pull request #242 from MediaJel/webjoint
-
-Webjoint
-  * [#4303fea](https://github.com/MediaJel/mediajel-tracker/commit/4303fea) fix conflicts
-  * [#5ec80c9](https://github.com/MediaJel/mediajel-tracker/commit/5ec80c9) add to imports
-  * [#e2a39e5](https://github.com/MediaJel/mediajel-tracker/commit/e2a39e5) item order id
-  * [#2e32825](https://github.com/MediaJel/mediajel-tracker/commit/2e32825) final testing
-  * [#c5f2e05](https://github.com/MediaJel/mediajel-tracker/commit/c5f2e05) webjoint cart
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
+  * [#0502342](https://github.com/MediaJel/chatwoot-ai-assistant/commit/0502342) Add Chatwoot credentials to .env file and create message on webhook event
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
+  * [#960e03a](https://github.com/MediaJel/chatwoot-ai-assistant/commit/960e03a) Refactor webhook_handler to accept a Request object
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
+  * [#fe7f480](https://github.com/MediaJel/chatwoot-ai-assistant/commit/fe7f480) serve index.html
+* ⏺️ Created new branch master in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant)
+* ⏺️ Created new repository  [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant)
 
 
 
