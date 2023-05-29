@@ -25,16 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)
+* 🌟 Starred [nuclia/nucliadb](https://github.com/nuclia/nucliadb)
 * ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
   * [#92e0989](https://github.com/MediaJel/chatwoot-ai-assistant/commit/92e0989) Update README.md
 * ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
   * [#5252117](https://github.com/MediaJel/chatwoot-ai-assistant/commit/5252117) Update README.md
 * ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
   * [#ad8c53b](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ad8c53b) Update README.md
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
-  * [#f15d102](https://github.com/MediaJel/chatwoot-ai-assistant/commit/f15d102) add to readme
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
-  * [#188529b](https://github.com/MediaJel/chatwoot-ai-assistant/commit/188529b) improve validation
 
 
 
