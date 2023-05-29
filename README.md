@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3736` commits and made `155` PRs.
+:people_hugging: I contributed to `57` repositories , made `3736` commits and made `156` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)
-* 🌟 Starred [nuclia/nucliadb](https://github.com/nuclia/nucliadb)
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
-  * [#92e0989](https://github.com/MediaJel/chatwoot-ai-assistant/commit/92e0989) Update README.md
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
-  * [#5252117](https://github.com/MediaJel/chatwoot-ai-assistant/commit/5252117) Update README.md
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
-  * [#ad8c53b](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ad8c53b) Update README.md
+* ➡️ Pushed 3 commits in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/refactor`
+  * [#e5e529f](https://github.com/MediaJel/chatwoot-ai-assistant/commit/e5e529f) handle exception for chatwoot send message
+  * [#f684a60](https://github.com/MediaJel/chatwoot-ai-assistant/commit/f684a60) create initial working version
+  * [#51524fc](https://github.com/MediaJel/chatwoot-ai-assistant/commit/51524fc) implement segregation of concerns
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/refactor`
+  * [#965b6a8](https://github.com/MediaJel/chatwoot-ai-assistant/commit/965b6a8) fix linting and add .flake8
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/refactor`
+  * [#1b66316](https://github.com/MediaJel/chatwoot-ai-assistant/commit/1b66316) move workflow to workflows dir
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/refactor`
+  * [#55f6b74](https://github.com/MediaJel/chatwoot-ai-assistant/commit/55f6b74) change workflow trigger
+* 🔃 Opened [#1 FEAT: Refactor to API](https://github.com/MediaJel/chatwoot-ai-assistant/pull/1) in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant)
+  * 28 files changed `++503 --187`
 
 
 
