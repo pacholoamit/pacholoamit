@@ -25,6 +25,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
+  * [#160270b](https://github.com/MediaJel/chatwoot-ai-assistant/commit/160270b) Merge branch &#39;feat/add-tests&#39;
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/add-tests`
+  * [#7d19771](https://github.com/MediaJel/chatwoot-ai-assistant/commit/7d19771) move imports
 * ➡️ Pushed 22 commits in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
   * [#ca3ea8c](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ca3ea8c) set default string for assistant config
   * [#b9636bb](https://github.com/MediaJel/chatwoot-ai-assistant/commit/b9636bb) change type of assistant config
@@ -51,10 +55,6 @@ git push
   * 19 files changed `++195 --13`
 * ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/add-tests`
   * [#ea2e7d5](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ea2e7d5) deactivate tests temporarily
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/add-tests`
-  * [#ca3ea8c](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ca3ea8c) set default string for assistant config
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/add-tests`
-  * [#b9636bb](https://github.com/MediaJel/chatwoot-ai-assistant/commit/b9636bb) change type of assistant config
 
 
 
