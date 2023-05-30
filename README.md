@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3782` commits and made `157` PRs.
+:people_hugging: I contributed to `57` repositories , made `3792` commits and made `159` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,36 +25,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
-  * [#160270b](https://github.com/MediaJel/chatwoot-ai-assistant/commit/160270b) Merge branch &#39;feat/add-tests&#39;
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/add-tests`
-  * [#7d19771](https://github.com/MediaJel/chatwoot-ai-assistant/commit/7d19771) move imports
-* ➡️ Pushed 22 commits in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
-  * [#ca3ea8c](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ca3ea8c) set default string for assistant config
-  * [#b9636bb](https://github.com/MediaJel/chatwoot-ai-assistant/commit/b9636bb) change type of assistant config
-  * [#35c3db3](https://github.com/MediaJel/chatwoot-ai-assistant/commit/35c3db3) add default None type for AssistantConfig&#34;
-git push
-  * [#2e91ecb](https://github.com/MediaJel/chatwoot-ai-assistant/commit/2e91ecb) readd async asgi testclient
-  * [#930347a](https://github.com/MediaJel/chatwoot-ai-assistant/commit/930347a) add httpx for tests to work
-  * [#59476b5](https://github.com/MediaJel/chatwoot-ai-assistant/commit/59476b5) fix tests
-  * [#e6250ed](https://github.com/MediaJel/chatwoot-ai-assistant/commit/e6250ed) remove async-asgi-testclient in favor of fastapi test client
-  * [#dcf8093](https://github.com/MediaJel/chatwoot-ai-assistant/commit/dcf8093) add ignore type for async_asgi_testclient
-  * [#3a76417](https://github.com/MediaJel/chatwoot-ai-assistant/commit/3a76417) add type ignore to supress mypy
-  * [#0b6b52a](https://github.com/MediaJel/chatwoot-ai-assistant/commit/0b6b52a) change default of text
-  * [#4d5221c](https://github.com/MediaJel/chatwoot-ai-assistant/commit/4d5221c) remove dep
-  * [#82a7939](https://github.com/MediaJel/chatwoot-ai-assistant/commit/82a7939) change version types-requests
-  * [#a117a9e](https://github.com/MediaJel/chatwoot-ai-assistant/commit/a117a9e) fix type issues
-  * [#5ce8f16](https://github.com/MediaJel/chatwoot-ai-assistant/commit/5ce8f16) add types-requests package
-  * [#4dbbfef](https://github.com/MediaJel/chatwoot-ai-assistant/commit/4dbbfef) fix mypy
-  * [#ca2868e](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ca2868e) fix type issues
-  * [#a5c8661](https://github.com/MediaJel/chatwoot-ai-assistant/commit/a5c8661) add pytest in ci
-  * [#26ca6d0](https://github.com/MediaJel/chatwoot-ai-assistant/commit/26ca6d0) add passing tests
-  * [#445bc22](https://github.com/MediaJel/chatwoot-ai-assistant/commit/445bc22) add app configs
-  * [#b5b4c62](https://github.com/MediaJel/chatwoot-ai-assistant/commit/b5b4c62) add tests and configs
-* 🔃 Merged [#2 FEAT: Add tests](https://github.com/MediaJel/chatwoot-ai-assistant/pull/2) in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant)
-  * 19 files changed `++195 --13`
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/add-tests`
-  * [#ea2e7d5](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ea2e7d5) deactivate tests temporarily
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
+  * [#9824d53](https://github.com/MediaJel/chatwoot-ai-assistant/commit/9824d53) add logger in service
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#d7dabed](https://github.com/MediaJel/mediajel-tracker/commit/d7dabed) Merge pull request #247 from MediaJel/staging
+
+Update &#34;main&#34;
+  * [#de2ac3d](https://github.com/MediaJel/mediajel-tracker/commit/de2ac3d) Merge pull request #246 from MediaJel/webjoint
+
+fix flooding of transaction
+  * [#1ec42b0](https://github.com/MediaJel/mediajel-tracker/commit/1ec42b0) fix flooding of transaction
+* 🔃 Merged [#247 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/247) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 2 files changed `++12 --2`
+* 🔃 Opened [#247 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/247) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 2 files changed `++12 --2`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#de2ac3d](https://github.com/MediaJel/mediajel-tracker/commit/de2ac3d) Merge pull request #246 from MediaJel/webjoint
+
+fix flooding of transaction
+  * [#1ec42b0](https://github.com/MediaJel/mediajel-tracker/commit/1ec42b0) fix flooding of transaction
 
 
 
