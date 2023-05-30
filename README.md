@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3736` commits and made `156` PRs.
+:people_hugging: I contributed to `57` repositories , made `3782` commits and made `157` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,18 +25,36 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/refactor`
-  * [#e5e529f](https://github.com/MediaJel/chatwoot-ai-assistant/commit/e5e529f) handle exception for chatwoot send message
-  * [#f684a60](https://github.com/MediaJel/chatwoot-ai-assistant/commit/f684a60) create initial working version
-  * [#51524fc](https://github.com/MediaJel/chatwoot-ai-assistant/commit/51524fc) implement segregation of concerns
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/refactor`
-  * [#965b6a8](https://github.com/MediaJel/chatwoot-ai-assistant/commit/965b6a8) fix linting and add .flake8
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/refactor`
-  * [#1b66316](https://github.com/MediaJel/chatwoot-ai-assistant/commit/1b66316) move workflow to workflows dir
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/refactor`
-  * [#55f6b74](https://github.com/MediaJel/chatwoot-ai-assistant/commit/55f6b74) change workflow trigger
-* 🔃 Opened [#1 FEAT: Refactor to API](https://github.com/MediaJel/chatwoot-ai-assistant/pull/1) in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant)
-  * 28 files changed `++503 --187`
+* ➡️ Pushed 22 commits in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
+  * [#ca3ea8c](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ca3ea8c) set default string for assistant config
+  * [#b9636bb](https://github.com/MediaJel/chatwoot-ai-assistant/commit/b9636bb) change type of assistant config
+  * [#35c3db3](https://github.com/MediaJel/chatwoot-ai-assistant/commit/35c3db3) add default None type for AssistantConfig&#34;
+git push
+  * [#2e91ecb](https://github.com/MediaJel/chatwoot-ai-assistant/commit/2e91ecb) readd async asgi testclient
+  * [#930347a](https://github.com/MediaJel/chatwoot-ai-assistant/commit/930347a) add httpx for tests to work
+  * [#59476b5](https://github.com/MediaJel/chatwoot-ai-assistant/commit/59476b5) fix tests
+  * [#e6250ed](https://github.com/MediaJel/chatwoot-ai-assistant/commit/e6250ed) remove async-asgi-testclient in favor of fastapi test client
+  * [#dcf8093](https://github.com/MediaJel/chatwoot-ai-assistant/commit/dcf8093) add ignore type for async_asgi_testclient
+  * [#3a76417](https://github.com/MediaJel/chatwoot-ai-assistant/commit/3a76417) add type ignore to supress mypy
+  * [#0b6b52a](https://github.com/MediaJel/chatwoot-ai-assistant/commit/0b6b52a) change default of text
+  * [#4d5221c](https://github.com/MediaJel/chatwoot-ai-assistant/commit/4d5221c) remove dep
+  * [#82a7939](https://github.com/MediaJel/chatwoot-ai-assistant/commit/82a7939) change version types-requests
+  * [#a117a9e](https://github.com/MediaJel/chatwoot-ai-assistant/commit/a117a9e) fix type issues
+  * [#5ce8f16](https://github.com/MediaJel/chatwoot-ai-assistant/commit/5ce8f16) add types-requests package
+  * [#4dbbfef](https://github.com/MediaJel/chatwoot-ai-assistant/commit/4dbbfef) fix mypy
+  * [#ca2868e](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ca2868e) fix type issues
+  * [#a5c8661](https://github.com/MediaJel/chatwoot-ai-assistant/commit/a5c8661) add pytest in ci
+  * [#26ca6d0](https://github.com/MediaJel/chatwoot-ai-assistant/commit/26ca6d0) add passing tests
+  * [#445bc22](https://github.com/MediaJel/chatwoot-ai-assistant/commit/445bc22) add app configs
+  * [#b5b4c62](https://github.com/MediaJel/chatwoot-ai-assistant/commit/b5b4c62) add tests and configs
+* 🔃 Merged [#2 FEAT: Add tests](https://github.com/MediaJel/chatwoot-ai-assistant/pull/2) in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant)
+  * 19 files changed `++195 --13`
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/add-tests`
+  * [#ea2e7d5](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ea2e7d5) deactivate tests temporarily
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/add-tests`
+  * [#ca3ea8c](https://github.com/MediaJel/chatwoot-ai-assistant/commit/ca3ea8c) set default string for assistant config
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `feat/add-tests`
+  * [#b9636bb](https://github.com/MediaJel/chatwoot-ai-assistant/commit/b9636bb) change type of assistant config
 
 
 
