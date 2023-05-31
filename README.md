@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3794` commits and made `159` PRs.
+:people_hugging: I contributed to `57` repositories , made `3796` commits and made `159` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,30 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [wandb/server](https://github.com/wandb/server)
+* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
+  * [#f4ca999](https://github.com/MediaJel/chatwoot-ai-assistant/commit/f4ca999) use docker compose
+* 🌟 Starred [python-poetry/poetry](https://github.com/python-poetry/poetry)
 * 🌟 Starred [python/mypy](https://github.com/python/mypy)
 * 🌟 Starred [outline/outline](https://github.com/outline/outline)
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
-  * [#8587be8](https://github.com/MediaJel/chatwoot-ai-assistant/commit/8587be8) add comment
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
-  * [#286c980](https://github.com/MediaJel/chatwoot-ai-assistant/commit/286c980) add run args for dev container
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#c72d685](https://github.com/pacholoamit/chatgpt-prompts/commit/c72d685) Merge pull request #54 from pacholoamit/dependabot/npm_and_yarn/chatgpt-5.2.4
-
-Bump chatgpt from 5.2.2 to 5.2.4
-  * [#c86d9e0](https://github.com/pacholoamit/chatgpt-prompts/commit/c86d9e0) Bump chatgpt from 5.2.2 to 5.2.4
-
-Bumps [chatgpt](https://github.com/transitive-bullshit/chatgpt-api) from 5.2.2 to 5.2.4.
-- [Release notes](https://github.com/transitive-bullshit/chatgpt-api/releases)
-- [Commits](https://github.com/transitive-bullshit/chatgpt-api/compare/v5.2.2...v5.2.4)
-
----
-updated-dependencies:
-- dependency-name: chatgpt
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 
 
 
