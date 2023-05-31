@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3796` commits and made `159` PRs.
+:people_hugging: I contributed to `57` repositories , made `3800` commits and made `159` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [wandb/server](https://github.com/wandb/server)
-* ➡️ Pushed 1 commit in [MediaJel/chatwoot-ai-assistant](https://github.com/MediaJel/chatwoot-ai-assistant) on branch `master`
-  * [#f4ca999](https://github.com/MediaJel/chatwoot-ai-assistant/commit/f4ca999) use docker compose
-* 🌟 Starred [python-poetry/poetry](https://github.com/python-poetry/poetry)
-* 🌟 Starred [python/mypy](https://github.com/python/mypy)
-* 🌟 Starred [outline/outline](https://github.com/outline/outline)
+* 🔍 Reviewed [#4599 [FOR QA] Tag Generator Improvements](https://github.com/MediaJel/mediajel-dashboard/pull/4599) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#b04ab27](https://github.com/MediaJel/cerebrum/commit/b04ab27) add zsh plugins
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#3bf3c66](https://github.com/MediaJel/cerebrum/commit/3bf3c66) add zsh plugins
+* 💬 Commented on [#398 Vireo Creative/Geo Reporting - AdHoc Request](https://github.com/MediaJel/mediajel/issues/398) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#228 Bypass Adblocker with our universal tag](https://github.com/MediaJel/mediajel-tracker/issues/228) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
