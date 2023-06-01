@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3800` commits and made `159` PRs.
+:people_hugging: I contributed to `57` repositories , made `3802` commits and made `159` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#0dc2ef7](https://github.com/MediaJel/cerebrum/commit/0dc2ef7) add to devcontainer
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#d8d33df](https://github.com/MediaJel/cerebrum/commit/d8d33df) changes to devcontainer
 * 🌟 Starred [homanp/superagent](https://github.com/homanp/superagent)
 * 🌟 Starred [logspace-ai/langflow](https://github.com/logspace-ai/langflow)
 * 💬 Commented on [#411 QA UA to GA4 integration on the dashboard](https://github.com/MediaJel/mediajel/issues/411) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#412 Research: Migrate from Asana to Odoo for integrations tasks](https://github.com/MediaJel/mediajel/issues/412) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#4640 Proposal on changes for the &#34;Attribution&#34; section of the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/4640) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
