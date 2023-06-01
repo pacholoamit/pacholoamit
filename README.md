@@ -25,13 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#4599 [FOR QA] Tag Generator Improvements](https://github.com/MediaJel/mediajel-dashboard/pull/4599) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#b04ab27](https://github.com/MediaJel/cerebrum/commit/b04ab27) add zsh plugins
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#3bf3c66](https://github.com/MediaJel/cerebrum/commit/3bf3c66) add zsh plugins
-* 💬 Commented on [#398 Vireo Creative/Geo Reporting - AdHoc Request](https://github.com/MediaJel/mediajel/issues/398) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#228 Bypass Adblocker with our universal tag](https://github.com/MediaJel/mediajel-tracker/issues/228) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🌟 Starred [homanp/superagent](https://github.com/homanp/superagent)
+* 🌟 Starred [logspace-ai/langflow](https://github.com/logspace-ai/langflow)
+* 💬 Commented on [#411 QA UA to GA4 integration on the dashboard](https://github.com/MediaJel/mediajel/issues/411) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#412 Research: Migrate from Asana to Odoo for integrations tasks](https://github.com/MediaJel/mediajel/issues/412) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#4640 Proposal on changes for the &#34;Attribution&#34; section of the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/4640) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
