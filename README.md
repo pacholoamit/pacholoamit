@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3807` commits and made `159` PRs.
+:people_hugging: I contributed to `57` repositories , made `3812` commits and made `159` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
+  * [#8e83241](https://github.com/MediaJel/prompt-engineering-concepts/commit/8e83241) add vector store chroma
+* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
+  * [#e726314](https://github.com/MediaJel/prompt-engineering-concepts/commit/e726314) complete basic example
+* ➡️ Pushed 2 commits in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
+  * [#1ae64f5](https://github.com/MediaJel/prompt-engineering-concepts/commit/1ae64f5) implement generation of embeddings and store into Qdrant vector store
+  * [#d3868f9](https://github.com/MediaJel/prompt-engineering-concepts/commit/d3868f9) implement data frame and restructure graphql data
+* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
+  * [#d8a0944](https://github.com/MediaJel/prompt-engineering-concepts/commit/d8a0944) add vector store
 * #️⃣ Opened [#417 Take a look at Snowflake alternative](https://github.com/MediaJel/mediajel/issues/417) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#396 AI: Create Dashboard assistant](https://github.com/MediaJel/mediajel/issues/396) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#c3d6688](https://github.com/MediaJel/cerebrum/commit/c3d6688) Update README.md
-* #️⃣ Closed [#4 AI: Average bounce rate by pub post click](https://github.com/MediaJel/prompt-engineering-concepts/issues/4) in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts)
-* #️⃣ Closed [#2 AI: Create Publisher bidding analysis assistant](https://github.com/MediaJel/prompt-engineering-concepts/issues/2) in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts)
 
 
 
