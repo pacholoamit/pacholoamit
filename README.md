@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3812` commits and made `159` PRs.
+:people_hugging: I contributed to `56` repositories , made `3816` commits and made `159` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch feature/add-signoz in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
+  * [#da20405](https://github.com/MediaJel/mediajel-gql-service/commit/da20405) add campaigns
 * ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#8e83241](https://github.com/MediaJel/prompt-engineering-concepts/commit/8e83241) add vector store chroma
+  * [#4b272c7](https://github.com/MediaJel/prompt-engineering-concepts/commit/4b272c7) set verbose to false
 * ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#e726314](https://github.com/MediaJel/prompt-engineering-concepts/commit/e726314) complete basic example
-* ➡️ Pushed 2 commits in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#1ae64f5](https://github.com/MediaJel/prompt-engineering-concepts/commit/1ae64f5) implement generation of embeddings and store into Qdrant vector store
-  * [#d3868f9](https://github.com/MediaJel/prompt-engineering-concepts/commit/d3868f9) implement data frame and restructure graphql data
+  * [#0c90e83](https://github.com/MediaJel/prompt-engineering-concepts/commit/0c90e83) modify json example
 * ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#d8a0944](https://github.com/MediaJel/prompt-engineering-concepts/commit/d8a0944) add vector store
-* #️⃣ Opened [#417 Take a look at Snowflake alternative](https://github.com/MediaJel/mediajel/issues/417) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+  * [#4dcf1de](https://github.com/MediaJel/prompt-engineering-concepts/commit/4dcf1de) modify example
 
 
 
