@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3802` commits and made `159` PRs.
+:people_hugging: I contributed to `57` repositories , made `3807` commits and made `159` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,13 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#417 Take a look at Snowflake alternative](https://github.com/MediaJel/mediajel/issues/417) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#396 AI: Create Dashboard assistant](https://github.com/MediaJel/mediajel/issues/396) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#0dc2ef7](https://github.com/MediaJel/cerebrum/commit/0dc2ef7) add to devcontainer
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#d8d33df](https://github.com/MediaJel/cerebrum/commit/d8d33df) changes to devcontainer
-* 🌟 Starred [homanp/superagent](https://github.com/homanp/superagent)
-* 🌟 Starred [logspace-ai/langflow](https://github.com/logspace-ai/langflow)
-* 💬 Commented on [#411 QA UA to GA4 integration on the dashboard](https://github.com/MediaJel/mediajel/issues/411) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+  * [#c3d6688](https://github.com/MediaJel/cerebrum/commit/c3d6688) Update README.md
+* #️⃣ Closed [#4 AI: Average bounce rate by pub post click](https://github.com/MediaJel/prompt-engineering-concepts/issues/4) in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts)
+* #️⃣ Closed [#2 AI: Create Publisher bidding analysis assistant](https://github.com/MediaJel/prompt-engineering-concepts/issues/2) in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts)
 
 
 
