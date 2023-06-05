@@ -25,12 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [crablang/crab](https://github.com/crablang/crab)
 * 🌟 Starred [QiuChenly/MyMacsAppCrack](https://github.com/QiuChenly/MyMacsAppCrack)
 * 🌟 Starred [adriannovegil/awesome-observability](https://github.com/adriannovegil/awesome-observability)
 * 🔍 Reviewed [#4655 [HOTFIX] tag generator update button](https://github.com/MediaJel/mediajel-dashboard/pull/4655) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ⏺️ Created new branch feature/add-signoz in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#da20405](https://github.com/MediaJel/mediajel-gql-service/commit/da20405) add campaigns
 
 
 
