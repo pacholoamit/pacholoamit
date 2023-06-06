@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3816` commits and made `156` PRs.
+:people_hugging: I contributed to `57` repositories , made `3817` commits and made `156` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#4679 Make changes to MSA agreeement](https://github.com/MediaJel/mediajel-dashboard/issues/4679) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🌟 Starred [leptos-rs/leptos](https://github.com/leptos-rs/leptos)
+* 💬 Commented on [#418 Create Proof of concept on using S3 as primary storage for database](https://github.com/MediaJel/mediajel/issues/418) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#418 Create Proof of concept on using S3 as primary storage for database](https://github.com/MediaJel/mediajel/issues/418) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#50611 Errors using S3/S3Cluster to read .snappy.parquet files on version 23.4](https://github.com/ClickHouse/ClickHouse/issues/50611) in [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
-* 🌟 Starred [crablang/crab](https://github.com/crablang/crab)
-* 🌟 Starred [QiuChenly/MyMacsAppCrack](https://github.com/QiuChenly/MyMacsAppCrack)
-* 🌟 Starred [adriannovegil/awesome-observability](https://github.com/adriannovegil/awesome-observability)
-* 🔍 Reviewed [#4655 [HOTFIX] tag generator update button](https://github.com/MediaJel/mediajel-dashboard/pull/4655) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
