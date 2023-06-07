@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3817` commits and made `156` PRs.
+:people_hugging: I contributed to `57` repositories , made `3817` commits and made `157` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,26 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#4679 Make changes to MSA agreeement](https://github.com/MediaJel/mediajel-dashboard/issues/4679) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [leptos-rs/leptos](https://github.com/leptos-rs/leptos)
-* 💬 Commented on [#418 Create Proof of concept on using S3 as primary storage for database](https://github.com/MediaJel/mediajel/issues/418) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#418 Create Proof of concept on using S3 as primary storage for database](https://github.com/MediaJel/mediajel/issues/418) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#50611 Errors using S3/S3Cluster to read .snappy.parquet files on version 23.4](https://github.com/ClickHouse/ClickHouse/issues/50611) in [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
+* 🌟 Starred [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#b17647f](https://github.com/MediaJel/mediajel-tracker/commit/b17647f) Merge pull request #250 from MediaJel/staging
+
+Update &#34;main&#34;
+  * [#6fa102d](https://github.com/MediaJel/mediajel-tracker/commit/6fa102d) Merge pull request #249 from MediaJel/update-schema
+
+update version for impression
+  * [#c49c1b0](https://github.com/MediaJel/mediajel-tracker/commit/c49c1b0) update ad impression
+  * [#330d622](https://github.com/MediaJel/mediajel-tracker/commit/330d622) update version for impression
+* 🔃 Merged [#250 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/250) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 5 files changed `++5 --5`
+* 🔃 Opened [#250 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/250) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 5 files changed `++5 --5`
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#6fa102d](https://github.com/MediaJel/mediajel-tracker/commit/6fa102d) Merge pull request #249 from MediaJel/update-schema
+
+update version for impression
+  * [#c49c1b0](https://github.com/MediaJel/mediajel-tracker/commit/c49c1b0) update ad impression
+  * [#330d622](https://github.com/MediaJel/mediajel-tracker/commit/330d622) update version for impression
 
 
 
