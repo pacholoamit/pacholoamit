@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3817` commits and made `157` PRs.
+:people_hugging: I contributed to `57` repositories , made `3838` commits and made `157` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,26 +25,31 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#b17647f](https://github.com/MediaJel/mediajel-tracker/commit/b17647f) Merge pull request #250 from MediaJel/staging
-
-Update &#34;main&#34;
-  * [#6fa102d](https://github.com/MediaJel/mediajel-tracker/commit/6fa102d) Merge pull request #249 from MediaJel/update-schema
-
-update version for impression
-  * [#c49c1b0](https://github.com/MediaJel/mediajel-tracker/commit/c49c1b0) update ad impression
-  * [#330d622](https://github.com/MediaJel/mediajel-tracker/commit/330d622) update version for impression
-* 🔃 Merged [#250 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/250) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 5 files changed `++5 --5`
-* 🔃 Opened [#250 Update &#34;main&#34;](https://github.com/MediaJel/mediajel-tracker/pull/250) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 5 files changed `++5 --5`
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#6fa102d](https://github.com/MediaJel/mediajel-tracker/commit/6fa102d) Merge pull request #249 from MediaJel/update-schema
-
-update version for impression
-  * [#c49c1b0](https://github.com/MediaJel/mediajel-tracker/commit/c49c1b0) update ad impression
-  * [#330d622](https://github.com/MediaJel/mediajel-tracker/commit/330d622) update version for impression
+* ➡️ Pushed 2 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#af1d2ce](https://github.com/MediaJel/cerebrum/commit/af1d2ce) enable tests
+  * [#370b900](https://github.com/MediaJel/cerebrum/commit/370b900) mock webhook api route
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#83e31c5](https://github.com/MediaJel/cerebrum/commit/83e31c5) readd flake8
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#694749d](https://github.com/MediaJel/cerebrum/commit/694749d) remove devcontainers
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#eab5725](https://github.com/MediaJel/cerebrum/commit/eab5725) add to readme
+* ➡️ Pushed 15 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#18b3f69](https://github.com/MediaJel/cerebrum/commit/18b3f69) add to readme
+  * [#1d7a945](https://github.com/MediaJel/cerebrum/commit/1d7a945) minor changes
+  * [#23d9bea](https://github.com/MediaJel/cerebrum/commit/23d9bea) add exec to start prod.sh
+  * [#c98ae8d](https://github.com/MediaJel/cerebrum/commit/c98ae8d) got production working
+  * [#a3e4323](https://github.com/MediaJel/cerebrum/commit/a3e4323) remove dotenv
+  * [#6d6ca72](https://github.com/MediaJel/cerebrum/commit/6d6ca72) add flake8 config
+  * [#a00f25f](https://github.com/MediaJel/cerebrum/commit/a00f25f) add gunicorn
+  * [#5c130ea](https://github.com/MediaJel/cerebrum/commit/5c130ea) remove requirements.txt
+  * [#99319e7](https://github.com/MediaJel/cerebrum/commit/99319e7) add to dockerfile
+  * [#504388c](https://github.com/MediaJel/cerebrum/commit/504388c) rename dir to src
+  * [#11e0906](https://github.com/MediaJel/cerebrum/commit/11e0906) changes
+  * [#151e7a0](https://github.com/MediaJel/cerebrum/commit/151e7a0) fix merge conflict
+  * [#4e78e42](https://github.com/MediaJel/cerebrum/commit/4e78e42) checkpoint
+  * [#0ed3cbd](https://github.com/MediaJel/cerebrum/commit/0ed3cbd) add poetry dot env plugin
+  * [#d253896](https://github.com/MediaJel/cerebrum/commit/d253896) refactor repo for poetry compatibility
 
 
 
