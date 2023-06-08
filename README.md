@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
+* 🌟 Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)
 * 💬 Commented on [#422 Propose the use of Materialized views in snowflake (credits to Clickhouse)](https://github.com/MediaJel/mediajel/issues/422) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#424 Think of an MVP for a recommendation engine](https://github.com/MediaJel/mediajel/issues/424) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#416 Publisher analysis](https://github.com/MediaJel/mediajel/issues/416) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#416 Publisher analysis](https://github.com/MediaJel/mediajel/issues/416) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#4679 Make changes to MSA agreeement](https://github.com/MediaJel/mediajel-dashboard/issues/4679) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
