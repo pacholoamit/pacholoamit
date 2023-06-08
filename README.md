@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3852` commits and made `157` PRs.
+:people_hugging: I contributed to `57` repositories , made `3855` commits and made `157` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,17 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#90b858e](https://github.com/MediaJel/cerebrum/commit/90b858e) readd docker &amp; dev containers
-* ➡️ Pushed 2 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#af1d2ce](https://github.com/MediaJel/cerebrum/commit/af1d2ce) enable tests
-  * [#370b900](https://github.com/MediaJel/cerebrum/commit/370b900) mock webhook api route
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#83e31c5](https://github.com/MediaJel/cerebrum/commit/83e31c5) readd flake8
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#694749d](https://github.com/MediaJel/cerebrum/commit/694749d) remove devcontainers
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#eab5725](https://github.com/MediaJel/cerebrum/commit/eab5725) add to readme
+* 💬 Commented on [#422 Propose the use of Materialized views in snowflake (credits to Clickhouse)](https://github.com/MediaJel/mediajel/issues/422) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#424 Think of an MVP for a recommendation engine](https://github.com/MediaJel/mediajel/issues/424) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#416 Publisher analysis](https://github.com/MediaJel/mediajel/issues/416) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#416 Publisher analysis](https://github.com/MediaJel/mediajel/issues/416) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#4679 Make changes to MSA agreeement](https://github.com/MediaJel/mediajel-dashboard/issues/4679) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
