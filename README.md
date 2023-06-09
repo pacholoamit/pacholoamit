@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3855` commits and made `157` PRs.
+:people_hugging: I contributed to `57` repositories , made `3858` commits and made `158` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#437 LLMs infrastructure proposal](https://github.com/MediaJel/mediajel/issues/437) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#396 AI: Create Dashboard assistant](https://github.com/MediaJel/mediajel/issues/396) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#437 LLMs infrastructure proposal](https://github.com/MediaJel/mediajel/issues/437) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#437 LLMs infrastructure proposal](https://github.com/MediaJel/mediajel/issues/437) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🌟 Starred [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
+* ➡️ Pushed 2 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#4d81b8a](https://github.com/MediaJel/cerebrum/commit/4d81b8a) Merge pull request #3 from MediaJel/feat/add-to-readme-ci
+
+added to readme
+  * [#20161ff](https://github.com/MediaJel/cerebrum/commit/20161ff) added to readme
+* 🔃 Merged [#3 added to readme](https://github.com/MediaJel/cerebrum/pull/3) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+  * 1 file changed `++1 --1`
+* 🔃 Opened [#3 added to readme](https://github.com/MediaJel/cerebrum/pull/3) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+  * 1 file changed `++1 --1`
+* ⏺️ Created new branch feat/add-to-readme-ci in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#0535fcb](https://github.com/MediaJel/cerebrum/commit/0535fcb) added to readme
 
 
 
