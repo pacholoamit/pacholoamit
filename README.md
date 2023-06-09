@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3858` commits and made `158` PRs.
+:people_hugging: I contributed to `57` repositories , made `3858` commits and made `159` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,18 +25,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/add-assistant-route`
+  * [#4ea54a4](https://github.com/MediaJel/cerebrum/commit/4ea54a4) format files
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/add-assistant-route`
+  * [#38486c2](https://github.com/MediaJel/cerebrum/commit/38486c2) apply formatting
+* 🔃 Opened [#4 Create new route for assistant endpoint](https://github.com/MediaJel/cerebrum/pull/4) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+  * 6 files changed `++53 --107`
+* ⏺️ Created new branch feat/add-assistant-route in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
 * ➡️ Pushed 2 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
   * [#4d81b8a](https://github.com/MediaJel/cerebrum/commit/4d81b8a) Merge pull request #3 from MediaJel/feat/add-to-readme-ci
 
 added to readme
   * [#20161ff](https://github.com/MediaJel/cerebrum/commit/20161ff) added to readme
-* 🔃 Merged [#3 added to readme](https://github.com/MediaJel/cerebrum/pull/3) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-  * 1 file changed `++1 --1`
-* 🔃 Opened [#3 added to readme](https://github.com/MediaJel/cerebrum/pull/3) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-  * 1 file changed `++1 --1`
-* ⏺️ Created new branch feat/add-to-readme-ci in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#0535fcb](https://github.com/MediaJel/cerebrum/commit/0535fcb) added to readme
 
 
 
