@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3858` commits and made `159` PRs.
+:people_hugging: I contributed to `57` repositories , made `3871` commits and made `161` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,18 +25,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/add-assistant-route`
-  * [#4ea54a4](https://github.com/MediaJel/cerebrum/commit/4ea54a4) format files
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/add-assistant-route`
-  * [#38486c2](https://github.com/MediaJel/cerebrum/commit/38486c2) apply formatting
-* 🔃 Opened [#4 Create new route for assistant endpoint](https://github.com/MediaJel/cerebrum/pull/4) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-  * 6 files changed `++53 --107`
-* ⏺️ Created new branch feat/add-assistant-route in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-* ➡️ Pushed 2 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#4d81b8a](https://github.com/MediaJel/cerebrum/commit/4d81b8a) Merge pull request #3 from MediaJel/feat/add-to-readme-ci
+* 🔍 Reviewed [#3737 [FOR REVIEW] Jbjm csv parse report](https://github.com/MediaJel/mediajel-gql-service/pull/3737) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#252 FEATURE: Bypass adblocker by changing the post path unknown to browser adblockers](https://github.com/MediaJel/mediajel-tracker/pull/252) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 3 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#2c8c591](https://github.com/MediaJel/cerebrum/commit/2c8c591) Merge pull request #6 from MediaJel/staging
 
-added to readme
-  * [#20161ff](https://github.com/MediaJel/cerebrum/commit/20161ff) added to readme
+Update Master
+  * [#26ae0f2](https://github.com/MediaJel/cerebrum/commit/26ae0f2) Merge pull request #5 from MediaJel/fix/remove-changelog.md
+
+DOC: Remove Changelog.md
+  * [#89a0bae](https://github.com/MediaJel/cerebrum/commit/89a0bae) remove change log.md
+* 🔃 Merged [#6 Update Master](https://github.com/MediaJel/cerebrum/pull/6) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+  * 1 file changed `++0 --5`
+* 🔃 Opened [#6 Update Master](https://github.com/MediaJel/cerebrum/pull/6) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+  * 1 file changed `++0 --5`
 
 
 
