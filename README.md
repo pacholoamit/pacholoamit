@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3871` commits and made `161` PRs.
+:people_hugging: I contributed to `56` repositories , made `3871` commits and made `162` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,28 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch feat/create-core in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-* 🌟 Starred [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB)
-* 🌟 Starred [mlflow/mlflow](https://github.com/mlflow/mlflow)
-* 🔍 Reviewed [#3737 [FOR REVIEW] Jbjm csv parse report](https://github.com/MediaJel/mediajel-gql-service/pull/3737) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#252 FEATURE: Bypass adblocker by changing the post path unknown to browser adblockers](https://github.com/MediaJel/mediajel-tracker/pull/252) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 11 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `staging`
+  * [#3a03f54](https://github.com/MediaJel/cerebrum/commit/3a03f54) Merge pull request #7 from MediaJel/feat/create-core
+
+FEAT: Add Scheduler for periodic generation of embeddings
+  * [#bde32de](https://github.com/MediaJel/cerebrum/commit/bde32de) modify tests structure
+  * [#9ae947a](https://github.com/MediaJel/cerebrum/commit/9ae947a) revert workflow
+  * [#eda07fb](https://github.com/MediaJel/cerebrum/commit/eda07fb) change workflow
+  * [#d5f98d2](https://github.com/MediaJel/cerebrum/commit/d5f98d2) move logger
+  * [#6a99d2c](https://github.com/MediaJel/cerebrum/commit/6a99d2c) remove unrequired imports
+  * [#425e6a8](https://github.com/MediaJel/cerebrum/commit/425e6a8) formatting
+  * [#738f0b2](https://github.com/MediaJel/cerebrum/commit/738f0b2) add note that prod deployment does not work yet
+  * [#ad75e19](https://github.com/MediaJel/cerebrum/commit/ad75e19) add core
+  * [#2992dbb](https://github.com/MediaJel/cerebrum/commit/2992dbb) remove packages
+  * [#3c0828e](https://github.com/MediaJel/cerebrum/commit/3c0828e) add packages
+* 🔃 Merged [#7 FEAT: Add Scheduler for periodic generation of embeddings](https://github.com/MediaJel/cerebrum/pull/7) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+  * 23 files changed `++360 --98`
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/create-core`
+  * [#bde32de](https://github.com/MediaJel/cerebrum/commit/bde32de) modify tests structure
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/create-core`
+  * [#9ae947a](https://github.com/MediaJel/cerebrum/commit/9ae947a) revert workflow
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/create-core`
+  * [#eda07fb](https://github.com/MediaJel/cerebrum/commit/eda07fb) change workflow
 
 
 
