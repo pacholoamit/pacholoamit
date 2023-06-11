@@ -25,18 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch feat/create-core in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
 * 🌟 Starred [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB)
 * 🌟 Starred [mlflow/mlflow](https://github.com/mlflow/mlflow)
 * 🔍 Reviewed [#3737 [FOR REVIEW] Jbjm csv parse report](https://github.com/MediaJel/mediajel-gql-service/pull/3737) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#252 FEATURE: Bypass adblocker by changing the post path unknown to browser adblockers](https://github.com/MediaJel/mediajel-tracker/pull/252) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 3 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#2c8c591](https://github.com/MediaJel/cerebrum/commit/2c8c591) Merge pull request #6 from MediaJel/staging
-
-Update Master
-  * [#26ae0f2](https://github.com/MediaJel/cerebrum/commit/26ae0f2) Merge pull request #5 from MediaJel/fix/remove-changelog.md
-
-DOC: Remove Changelog.md
-  * [#89a0bae](https://github.com/MediaJel/cerebrum/commit/89a0bae) remove change log.md
 
 
 
