@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3871` commits and made `161` PRs.
+:people_hugging: I contributed to `56` repositories , made `3871` commits and made `163` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,27 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#8 refactor/scheduler api routes](https://github.com/MediaJel/cerebrum/pull/8) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-  * 24 files changed `++431 --98`
-* ⏺️ Created new branch refactor/scheduler-api-routes in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-* ➡️ Pushed 11 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `staging`
-  * [#3a03f54](https://github.com/MediaJel/cerebrum/commit/3a03f54) Merge pull request #7 from MediaJel/feat/create-core
-
-FEAT: Add Scheduler for periodic generation of embeddings
-  * [#bde32de](https://github.com/MediaJel/cerebrum/commit/bde32de) modify tests structure
-  * [#9ae947a](https://github.com/MediaJel/cerebrum/commit/9ae947a) revert workflow
-  * [#eda07fb](https://github.com/MediaJel/cerebrum/commit/eda07fb) change workflow
-  * [#d5f98d2](https://github.com/MediaJel/cerebrum/commit/d5f98d2) move logger
-  * [#6a99d2c](https://github.com/MediaJel/cerebrum/commit/6a99d2c) remove unrequired imports
-  * [#425e6a8](https://github.com/MediaJel/cerebrum/commit/425e6a8) formatting
-  * [#738f0b2](https://github.com/MediaJel/cerebrum/commit/738f0b2) add note that prod deployment does not work yet
-  * [#ad75e19](https://github.com/MediaJel/cerebrum/commit/ad75e19) add core
-  * [#2992dbb](https://github.com/MediaJel/cerebrum/commit/2992dbb) remove packages
-  * [#3c0828e](https://github.com/MediaJel/cerebrum/commit/3c0828e) add packages
-* 🔃 Merged [#7 FEAT: Add Scheduler for periodic generation of embeddings](https://github.com/MediaJel/cerebrum/pull/7) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-  * 23 files changed `++360 --98`
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/create-core`
-  * [#bde32de](https://github.com/MediaJel/cerebrum/commit/bde32de) modify tests structure
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/add-task-scheduling-for-data-consumption`
+  * [#7562ecc](https://github.com/MediaJel/cerebrum/commit/7562ecc) cleanup
+* 🔃 Opened [#10 feat/add task scheduling for data consumption](https://github.com/MediaJel/cerebrum/pull/10) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+  * 28 files changed `++1075 --116`
+* ⏺️ Created new branch feat/add-task-scheduling-for-data-consumption in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/add-cron-tasks`
+  * [#4ebd936](https://github.com/MediaJel/cerebrum/commit/4ebd936) modify engine to consume vectorstore
+* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/add-cron-tasks`
+  * [#3f19392](https://github.com/MediaJel/cerebrum/commit/3f19392) install qdrant and modify python required version
 
 
 
