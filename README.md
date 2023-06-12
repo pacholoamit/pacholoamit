@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3895` commits and made `166` PRs.
+:people_hugging: I contributed to `56` repositories , made `3907` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,38 +25,26 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `feat/use-agents-to-consume-multiple-retrieval-qa-chains`
+* 💬 Commented on [#437 LLMs infrastructure proposal](https://github.com/MediaJel/mediajel/issues/437) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 4 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
+  * [#a811feb](https://github.com/MediaJel/cerebrum/commit/a811feb) Merge pull request #14 from MediaJel/staging
+
+Update: Master
+  * [#492308b](https://github.com/MediaJel/cerebrum/commit/492308b) Merge pull request #13 from MediaJel/feat/use-agents-to-consume-multiple-retrieval-qa-chains
+
+FEAT: Use langchain agents to consume multiple retrieval qa chains
   * [#9c9a772](https://github.com/MediaJel/cerebrum/commit/9c9a772) modify prompt
-* 🔃 Opened [#13 FEAT: Use langchain agents to consume multiple retrieval qa chains](https://github.com/MediaJel/cerebrum/pull/13) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-  * 1 file changed `++17 --4`
-* ⏺️ Created new branch feat/use-agents-to-consume-multiple-retrieval-qa-chains in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-* ➡️ Pushed 24 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#4ebd936](https://github.com/MediaJel/cerebrum/commit/4ebd936) modify engine to consume vectorstore
-  * [#3f19392](https://github.com/MediaJel/cerebrum/commit/3f19392) install qdrant and modify python required version
-  * [#d53c007](https://github.com/MediaJel/cerebrum/commit/d53c007) add pandas
-  * [#0be98c8](https://github.com/MediaJel/cerebrum/commit/0be98c8) fix issues with pydantic validations
-  * [#ec12009](https://github.com/MediaJel/cerebrum/commit/ec12009) modify rocketry execution
-  * [#6c3ae49](https://github.com/MediaJel/cerebrum/commit/6c3ae49) Merge pull request #8 from MediaJel/refactor/scheduler-api-routes
+  * [#e358270](https://github.com/MediaJel/cerebrum/commit/e358270) use agents to consume multiple retrieval qa chains
+* 🔃 Merged [#14 Update: Master](https://github.com/MediaJel/cerebrum/pull/14) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+  * 1 file changed `++19 --5`
+* 🔃 Opened [#14 Update: Master](https://github.com/MediaJel/cerebrum/pull/14) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+  * 1 file changed `++19 --5`
+* ➡️ Pushed 3 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `staging`
+  * [#492308b](https://github.com/MediaJel/cerebrum/commit/492308b) Merge pull request #13 from MediaJel/feat/use-agents-to-consume-multiple-retrieval-qa-chains
 
-REFACTOR: scheduler api routes, segregation of concerns to service
-  * [#687f6d4](https://github.com/MediaJel/cerebrum/commit/687f6d4) finally fixed type import
-  * [#be62032](https://github.com/MediaJel/cerebrum/commit/be62032) remove import task from rocketry
-  * [#afcfbbc](https://github.com/MediaJel/cerebrum/commit/afcfbbc) add types
-  * [#3a03f54](https://github.com/MediaJel/cerebrum/commit/3a03f54) Merge pull request #7 from MediaJel/feat/create-core
-
-FEAT: Add Scheduler for periodic generation of embeddings
-  * [#bde32de](https://github.com/MediaJel/cerebrum/commit/bde32de) modify tests structure
-  * [#9ae947a](https://github.com/MediaJel/cerebrum/commit/9ae947a) revert workflow
-  * [#eda07fb](https://github.com/MediaJel/cerebrum/commit/eda07fb) change workflow
-  * [#d5f98d2](https://github.com/MediaJel/cerebrum/commit/d5f98d2) move logger
-  * [#6a99d2c](https://github.com/MediaJel/cerebrum/commit/6a99d2c) remove unrequired imports
-  * [#425e6a8](https://github.com/MediaJel/cerebrum/commit/425e6a8) formatting
-  * [#738f0b2](https://github.com/MediaJel/cerebrum/commit/738f0b2) add note that prod deployment does not work yet
-  * [#ad75e19](https://github.com/MediaJel/cerebrum/commit/ad75e19) add core
-  * [#2992dbb](https://github.com/MediaJel/cerebrum/commit/2992dbb) remove packages
-  * [#3c0828e](https://github.com/MediaJel/cerebrum/commit/3c0828e) add packages
-* 🔃 Merged [#12 Update Master](https://github.com/MediaJel/cerebrum/pull/12) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-  * 30 files changed `++1115 --147`
+FEAT: Use langchain agents to consume multiple retrieval qa chains
+  * [#9c9a772](https://github.com/MediaJel/cerebrum/commit/9c9a772) modify prompt
+  * [#e358270](https://github.com/MediaJel/cerebrum/commit/e358270) use agents to consume multiple retrieval qa chains
 
 
 
