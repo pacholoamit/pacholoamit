@@ -25,26 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#254 BigCommerce cart research](https://github.com/MediaJel/mediajel-tracker/issues/254) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#437 LLMs infrastructure proposal](https://github.com/MediaJel/mediajel/issues/437) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 4 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `master`
-  * [#a811feb](https://github.com/MediaJel/cerebrum/commit/a811feb) Merge pull request #14 from MediaJel/staging
-
-Update: Master
-  * [#492308b](https://github.com/MediaJel/cerebrum/commit/492308b) Merge pull request #13 from MediaJel/feat/use-agents-to-consume-multiple-retrieval-qa-chains
-
-FEAT: Use langchain agents to consume multiple retrieval qa chains
-  * [#9c9a772](https://github.com/MediaJel/cerebrum/commit/9c9a772) modify prompt
-  * [#e358270](https://github.com/MediaJel/cerebrum/commit/e358270) use agents to consume multiple retrieval qa chains
-* 🔃 Merged [#14 Update: Master](https://github.com/MediaJel/cerebrum/pull/14) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-  * 1 file changed `++19 --5`
-* 🔃 Opened [#14 Update: Master](https://github.com/MediaJel/cerebrum/pull/14) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-  * 1 file changed `++19 --5`
-* ➡️ Pushed 3 commits in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum) on branch `staging`
-  * [#492308b](https://github.com/MediaJel/cerebrum/commit/492308b) Merge pull request #13 from MediaJel/feat/use-agents-to-consume-multiple-retrieval-qa-chains
-
-FEAT: Use langchain agents to consume multiple retrieval qa chains
-  * [#9c9a772](https://github.com/MediaJel/cerebrum/commit/9c9a772) modify prompt
-  * [#e358270](https://github.com/MediaJel/cerebrum/commit/e358270) use agents to consume multiple retrieval qa chains
+* 💬 Commented on [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/pull/3530) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/pull/3530) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/pull/3530) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
