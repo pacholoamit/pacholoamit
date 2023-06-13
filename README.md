@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [lm-sys/FastChat](https://github.com/lm-sys/FastChat)
 * #️⃣ Opened [#254 BigCommerce cart research](https://github.com/MediaJel/mediajel-tracker/issues/254) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#437 LLMs infrastructure proposal](https://github.com/MediaJel/mediajel/issues/437) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/pull/3530) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/pull/3530) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/pull/3530) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
