@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3907` commits and made `167` PRs.
+:people_hugging: I contributed to `55` repositories , made `3907` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#3744 Take a look at Failed enrichments in s3](https://github.com/MediaJel/mediajel-gql-service/issues/3744) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🌟 Starred [lm-sys/FastChat](https://github.com/lm-sys/FastChat)
 * #️⃣ Opened [#254 BigCommerce cart research](https://github.com/MediaJel/mediajel-tracker/issues/254) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#437 LLMs infrastructure proposal](https://github.com/MediaJel/mediajel/issues/437) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/pull/3530) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/pull/3530) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
