@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3744 Take a look at new Failed enrichments in s3](https://github.com/MediaJel/mediajel-gql-service/issues/3744) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3530 [FOR REVIEW] Refactor Get Events Job &amp;  Add to Jobs folder](https://github.com/MediaJel/mediajel-gql-service/issues/3530) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#3744 Take a look at Failed enrichments in s3](https://github.com/MediaJel/mediajel-gql-service/issues/3744) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🌟 Starred [lm-sys/FastChat](https://github.com/lm-sys/FastChat)
-* #️⃣ Opened [#254 BigCommerce cart research](https://github.com/MediaJel/mediajel-tracker/issues/254) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🌟 Starred [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
+* 🌟 Starred [pola-rs/polars](https://github.com/pola-rs/polars)
+* 💬 Commented on [#3741 [FOR REVIEW] Walkins observer](https://github.com/MediaJel/mediajel-gql-service/pull/3741) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3741 [FOR REVIEW] Walkins observer](https://github.com/MediaJel/mediajel-gql-service/pull/3741) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3741 [FOR REVIEW] Walkins observer](https://github.com/MediaJel/mediajel-gql-service/pull/3741) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
