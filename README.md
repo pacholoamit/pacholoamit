@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3907` commits and made `167` PRs.
+:people_hugging: I contributed to `55` repositories , made `3910` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
-* 🌟 Starred [pola-rs/polars](https://github.com/pola-rs/polars)
-* 💬 Commented on [#3741 [FOR REVIEW] Walkins observer](https://github.com/MediaJel/mediajel-gql-service/pull/3741) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#3741 [FOR REVIEW] Walkins observer](https://github.com/MediaJel/mediajel-gql-service/pull/3741) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#3741 [FOR REVIEW] Walkins observer](https://github.com/MediaJel/mediajel-gql-service/pull/3741) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#255 Kratom - Tag integrations](https://github.com/MediaJel/mediajel-tracker/issues/255) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 2 commits in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
+  * [#1a53dca](https://github.com/MediaJel/prompt-engineering-concepts/commit/1a53dca) add stuff
+  * [#c404ed4](https://github.com/MediaJel/prompt-engineering-concepts/commit/c404ed4) add training data set
+* #️⃣ Opened [#255 Kratom - Tag integrations](https://github.com/MediaJel/mediajel-tracker/issues/255) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#83 Create new schema for `new_vs_existing` customer (Elemental Wellness &amp; Smoakland)](https://github.com/MediaJel/mj-snowplow-management/issues/83) from [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
+* 💬 Commented on [#83 Create new schema for `new_vs_existing` customer (Elemental Wellness &amp; Smoakland)](https://github.com/MediaJel/mj-snowplow-management/issues/83) from [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
 
 
 
