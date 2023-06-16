@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3911` commits and made `167` PRs.
+:people_hugging: I contributed to `56` repositories , made `3915` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#6e3e55b](https://github.com/MediaJel/prompt-engineering-concepts/commit/6e3e55b) initial version
-* 🔍 Reviewed [#3741 [FOR REVIEW] Walkins observer](https://github.com/MediaJel/mediajel-gql-service/pull/3741) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#d013f6f](https://github.com/MediaJel/mediajel-gql-service/commit/d013f6f) checkpoint
-  * [#7aa405f](https://github.com/MediaJel/mediajel-gql-service/commit/7aa405f) checkpoint
-* 🔍 Reviewed [#84 [FOR REVIEW] New Schema for Advertiser Data](https://github.com/MediaJel/mj-snowplow-management/pull/84) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
-* 💬 Commented on [#437 LLMs infrastructure proposal](https://github.com/MediaJel/mediajel/issues/437) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [pacholoamit/packer-proxmox](https://github.com/pacholoamit/packer-proxmox) on branch `master`
+  * [#c6aaff7](https://github.com/pacholoamit/packer-proxmox/commit/c6aaff7) add checksums
+* ➡️ Pushed 1 commit in [pacholoamit/packer-proxmox](https://github.com/pacholoamit/packer-proxmox) on branch `master`
+  * [#05616a4](https://github.com/pacholoamit/packer-proxmox/commit/05616a4) add ssh data
+* ➡️ Pushed 1 commit in [pacholoamit/packer-proxmox](https://github.com/pacholoamit/packer-proxmox) on branch `master`
+  * [#990ff8d](https://github.com/pacholoamit/packer-proxmox/commit/990ff8d) change dir
+* ⏺️ Created new branch master in [pacholoamit/packer-proxmox](https://github.com/pacholoamit/packer-proxmox)
+* ⏺️ Created new repository  [pacholoamit/packer-proxmox](https://github.com/pacholoamit/packer-proxmox)
 
 
 
