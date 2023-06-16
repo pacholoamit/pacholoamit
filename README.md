@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3910` commits and made `167` PRs.
+:people_hugging: I contributed to `55` repositories , made `3911` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#50611 Errors using S3/S3Cluster to read .snappy.parquet files on version 23.4](https://github.com/ClickHouse/ClickHouse/issues/50611) from [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
 * ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#b2eba00](https://github.com/MediaJel/prompt-engineering-concepts/commit/b2eba00) working version
-* 💬 Commented on [#416 Publisher analysis](https://github.com/MediaJel/mediajel/issues/416) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#255 Kratom - Tag integrations](https://github.com/MediaJel/mediajel-tracker/issues/255) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 2 commits in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#1a53dca](https://github.com/MediaJel/prompt-engineering-concepts/commit/1a53dca) add stuff
-  * [#c404ed4](https://github.com/MediaJel/prompt-engineering-concepts/commit/c404ed4) add training data set
+  * [#6e3e55b](https://github.com/MediaJel/prompt-engineering-concepts/commit/6e3e55b) initial version
+* 🔍 Reviewed [#3741 [FOR REVIEW] Walkins observer](https://github.com/MediaJel/mediajel-gql-service/pull/3741) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
+  * [#d013f6f](https://github.com/MediaJel/mediajel-gql-service/commit/d013f6f) checkpoint
+  * [#7aa405f](https://github.com/MediaJel/mediajel-gql-service/commit/7aa405f) checkpoint
+* 🔍 Reviewed [#84 [FOR REVIEW] New Schema for Advertiser Data](https://github.com/MediaJel/mj-snowplow-management/pull/84) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
+* 💬 Commented on [#437 LLMs infrastructure proposal](https://github.com/MediaJel/mediajel/issues/437) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
