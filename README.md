@@ -25,16 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [labring/sealos](https://github.com/labring/sealos)
+* 🌟 Starred [collabnix/kubetools](https://github.com/collabnix/kubetools)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
   * [#28c28a9](https://github.com/pacholoamit/homelab/commit/28c28a9) changes
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
   * [#281a8b8](https://github.com/pacholoamit/homelab/commit/281a8b8) modify config
 * ➡️ Pushed 1 commit in [pacholoamit/packer-proxmox](https://github.com/pacholoamit/packer-proxmox) on branch `master`
   * [#c6aaff7](https://github.com/pacholoamit/packer-proxmox/commit/c6aaff7) add checksums
-* ➡️ Pushed 1 commit in [pacholoamit/packer-proxmox](https://github.com/pacholoamit/packer-proxmox) on branch `master`
-  * [#05616a4](https://github.com/pacholoamit/packer-proxmox/commit/05616a4) add ssh data
-* ➡️ Pushed 1 commit in [pacholoamit/packer-proxmox](https://github.com/pacholoamit/packer-proxmox) on branch `master`
-  * [#990ff8d](https://github.com/pacholoamit/packer-proxmox/commit/990ff8d) change dir
 
 
 
