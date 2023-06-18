@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3912` commits and made `167` PRs.
+:people_hugging: I contributed to `55` repositories , made `3912` commits and made `166` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
   * [#e665341](https://github.com/pacholoamit/homelab/commit/e665341) change name of vm
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
@@ -32,7 +33,6 @@
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
   * [#dc18d87](https://github.com/pacholoamit/homelab/commit/dc18d87) change dir
 * 🌟 Starred [labring/sealos](https://github.com/labring/sealos)
-* 🌟 Starred [collabnix/kubetools](https://github.com/collabnix/kubetools)
 
 
 
