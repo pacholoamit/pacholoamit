@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3919` commits and made `166` PRs.
+:people_hugging: I contributed to `55` repositories , made `3925` commits and made `166` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,15 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#a31671f](https://github.com/pacholoamit/homelab/commit/a31671f) complete service
+  * [#6f2b9de](https://github.com/pacholoamit/homelab/commit/6f2b9de) remove unrequired comments
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#247a13d](https://github.com/pacholoamit/homelab/commit/247a13d) modify pvc uptime kuma
+  * [#4cc9d21](https://github.com/pacholoamit/homelab/commit/4cc9d21) expose longhorn ui
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#226a8d8](https://github.com/pacholoamit/homelab/commit/226a8d8) add uptime-kuma and modify longhorn
+  * [#edbde78](https://github.com/pacholoamit/homelab/commit/edbde78) apply manifests to cloudflare namespace
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#cc0ccc0](https://github.com/pacholoamit/homelab/commit/cc0ccc0) succesfully expose ui via loadbalancer
+  * [#9a3582d](https://github.com/pacholoamit/homelab/commit/9a3582d) add nginx ingress
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#4d3eb9c](https://github.com/pacholoamit/homelab/commit/4d3eb9c) add deployments
+  * [#fb427ba](https://github.com/pacholoamit/homelab/commit/fb427ba) add nginx ingress
 
 
 
