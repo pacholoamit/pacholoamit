@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3925` commits and made `166` PRs.
+:people_hugging: I contributed to `56` repositories , made `3945` commits and made `166` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,15 +26,14 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#6f2b9de](https://github.com/pacholoamit/homelab/commit/6f2b9de) remove unrequired comments
+  * [#8b004b5](https://github.com/pacholoamit/homelab/commit/8b004b5) add to readme
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#4cc9d21](https://github.com/pacholoamit/homelab/commit/4cc9d21) expose longhorn ui
+  * [#ac3cd99](https://github.com/pacholoamit/homelab/commit/ac3cd99) add descheduler
+* 🌟 Starred [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#edbde78](https://github.com/pacholoamit/homelab/commit/edbde78) apply manifests to cloudflare namespace
+  * [#988d5ac](https://github.com/pacholoamit/homelab/commit/988d5ac) fix database not found error
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#9a3582d](https://github.com/pacholoamit/homelab/commit/9a3582d) add nginx ingress
-* ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#fb427ba](https://github.com/pacholoamit/homelab/commit/fb427ba) add nginx ingress
+  * [#eb84a73](https://github.com/pacholoamit/homelab/commit/eb84a73) add portfolio
 
 
 
