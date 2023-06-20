@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3945` commits and made `166` PRs.
+:people_hugging: I contributed to `56` repositories , made `3957` commits and made `166` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [crossplane/crossplane](https://github.com/crossplane/crossplane)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#8b004b5](https://github.com/pacholoamit/homelab/commit/8b004b5) add to readme
+  * [#d080111](https://github.com/pacholoamit/homelab/commit/d080111) modify configmap
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#ac3cd99](https://github.com/pacholoamit/homelab/commit/ac3cd99) add descheduler
-* 🌟 Starred [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+  * [#2fbddb0](https://github.com/pacholoamit/homelab/commit/2fbddb0) modify configmap
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#988d5ac](https://github.com/pacholoamit/homelab/commit/988d5ac) fix database not found error
+  * [#6ee0014](https://github.com/pacholoamit/homelab/commit/6ee0014) add ns to cfg map
 * ➡️ Pushed 1 commit in [pacholoamit/homelab](https://github.com/pacholoamit/homelab) on branch `master`
-  * [#eb84a73](https://github.com/pacholoamit/homelab/commit/eb84a73) add portfolio
+  * [#0ca4316](https://github.com/pacholoamit/homelab/commit/0ca4316) modify configmap
 
 
 
