@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3959` commits and made `166` PRs.
+:people_hugging: I contributed to `57` repositories , made `3987` commits and made `166` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,26 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#b8fb707](https://github.com/MediaJel/prompt-engineering-concepts/commit/b8fb707) rename ntbk
-* #️⃣ Opened [#4751 Implement EventsTargets as the schema for self service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4751) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 4 commits in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#f9dd466](https://github.com/MediaJel/prompt-engineering-concepts/commit/f9dd466) Merge pull request #7 from MediaJel/forecasting
-
-Added in Forecasting
-  * [#823c75f](https://github.com/MediaJel/prompt-engineering-concepts/commit/823c75f) Finished a prototype reccomendation
-
-Did recommendation through forecasting each category (publishername) then getting the maximum value for each future days with it being the reccomended category (publishername)
-  * [#0e3118d](https://github.com/MediaJel/prompt-engineering-concepts/commit/0e3118d) Added in a way to loop
-  * [#c9d0a65](https://github.com/MediaJel/prompt-engineering-concepts/commit/c9d0a65) Added in Forecasting
-
-Added in ARIMA Forecasting in the Simple Forecasting notebook file.
-Currenty thinking of a way to automate it to provide forecast for all Categories.
-Planning on doing the reccomendation system after forecasting all Categories then using .max() to fidn the best category per day.
-And maybe .min() for the least performing one.
-* 🔃 Merged [#7 Added in Forecasting](https://github.com/MediaJel/prompt-engineering-concepts/pull/7) in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts)
-  * 6 files changed `++22534 --6`
-* 🌟 Starred [crossplane/crossplane](https://github.com/crossplane/crossplane)
+* 🌟 Starred [rancher/k3os](https://github.com/rancher/k3os)
+* 🌟 Starred [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+* 🌟 Starred [cloudflare/helm-charts](https://github.com/cloudflare/helm-charts)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#ae2b38f](https://github.com/pacholoamit/homelab-infra/commit/ae2b38f) added comment
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#2ba8446](https://github.com/pacholoamit/homelab-infra/commit/2ba8446) added comment
 
 
 
