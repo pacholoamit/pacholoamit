@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `3987` commits and made `166` PRs.
+:people_hugging: I contributed to `56` repositories , made `3987` commits and made `166` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch fix/org-structure in [MediaJel/CRM-data-onboarding](https://github.com/MediaJel/CRM-data-onboarding)
 * 🌟 Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 * 🌟 Starred [rancher/k3os](https://github.com/rancher/k3os)
 * 🌟 Starred [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 * 🌟 Starred [cloudflare/helm-charts](https://github.com/cloudflare/helm-charts)
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#ae2b38f](https://github.com/pacholoamit/homelab-infra/commit/ae2b38f) added comment
 
 
 
