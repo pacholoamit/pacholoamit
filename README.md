@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `3908` commits and made `167` PRs.
+:people_hugging: I contributed to `56` repositories , made `4018` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,11 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#6d37903](https://github.com/pacholoamit/homelab-infra/commit/6d37903) add k3s ansible and packer
-* 🌟 Starred [k3s-io/k3s](https://github.com/k3s-io/k3s)
-* 💬 Commented on [#265 Monitor Alerts transactions observer channel daily](https://github.com/MediaJel/mediajel-tracker/issues/265) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#268 Refactor BigCommerce cart to use the dataSource pattern](https://github.com/MediaJel/mediajel-tracker/issues/268) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#466 Add BigCommerce to tag generator](https://github.com/MediaJel/mediajel/issues/466) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+  * [#6aca25a](https://github.com/pacholoamit/homelab-infra/commit/6aca25a) add kube prometeheus stack
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#ad0e8af](https://github.com/pacholoamit/homelab-infra/commit/ad0e8af) Update Helm repository name in release.yaml to &#34;prometheus&#34;.
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#95ad9f9](https://github.com/pacholoamit/homelab-infra/commit/95ad9f9) changes
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#fb75954](https://github.com/pacholoamit/homelab-infra/commit/fb75954) Add Flux sync manifests
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#9be81d9](https://github.com/pacholoamit/homelab-infra/commit/9be81d9) Add Flux v2.0.0-rc.5 component manifests
 
 
 
