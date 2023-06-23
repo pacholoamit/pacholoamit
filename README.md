@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `4021` commits and made `168` PRs.
+:people_hugging: I contributed to `56` repositories , made `4034` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#3785 HOTFIX/Get events can not use absolute imports](https://github.com/MediaJel/mediajel-gql-service/pull/3785) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 1 file changed `++1 --1`
-* ⏺️ Created new branch hotfix/get-events-cannot-use-absolute-imports in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#265 Monitor Alerts transactions observer channel daily](https://github.com/MediaJel/mediajel-tracker/issues/265) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#15 Migrate ARIMA model implementation to python microservice](https://github.com/MediaJel/cerebrum/issues/15) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
-* 💬 Commented on [#424 Think of an MVP for a recommendation engine](https://github.com/MediaJel/mediajel/issues/424) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#e0c2e8c](https://github.com/pacholoamit/homelab-infra/commit/e0c2e8c) add kustomize
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#90f6b25](https://github.com/pacholoamit/homelab-infra/commit/90f6b25) add kustomization
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#54fe121](https://github.com/pacholoamit/homelab-infra/commit/54fe121) Add Flux sync manifests
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#57e82a1](https://github.com/pacholoamit/homelab-infra/commit/57e82a1) Add Flux v2.0.0-rc.5 component manifests
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#e181584](https://github.com/pacholoamit/homelab-infra/commit/e181584) Add Flux sync manifests
 
 
 
