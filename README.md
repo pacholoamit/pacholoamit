@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `4034` commits and made `168` PRs.
+:people_hugging: I contributed to `56` repositories , made `4063` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,15 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#e0c2e8c](https://github.com/pacholoamit/homelab-infra/commit/e0c2e8c) add kustomize
+  * [#af6ba01](https://github.com/pacholoamit/homelab-infra/commit/af6ba01) Add Flux sync manifests
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#90f6b25](https://github.com/pacholoamit/homelab-infra/commit/90f6b25) add kustomization
+  * [#67f29f8](https://github.com/pacholoamit/homelab-infra/commit/67f29f8) Add Flux v2.0.0-rc.5 component manifests
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#54fe121](https://github.com/pacholoamit/homelab-infra/commit/54fe121) Add Flux sync manifests
+  * [#e9d99c2](https://github.com/pacholoamit/homelab-infra/commit/e9d99c2) Add Flux v2.0.0-rc.5 component manifests
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
+  * [#65ba04d](https://github.com/pacholoamit/homelab-infra/commit/65ba04d) Merge branch &#39;master&#39; of https://github.com/pacholoamit/homelab-infra
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#57e82a1](https://github.com/pacholoamit/homelab-infra/commit/57e82a1) Add Flux v2.0.0-rc.5 component manifests
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#e181584](https://github.com/pacholoamit/homelab-infra/commit/e181584) Add Flux sync manifests
+  * [#22c173c](https://github.com/pacholoamit/homelab-infra/commit/22c173c) Add Flux sync manifests
 
 
 
