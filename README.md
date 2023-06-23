@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `4020` commits and made `167` PRs.
+:people_hugging: I contributed to `56` repositories , made `4021` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#191fb48](https://github.com/pacholoamit/homelab-infra/commit/191fb48) modify descheduler values
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#4975ee3](https://github.com/pacholoamit/homelab-infra/commit/4975ee3) modify descheduler
-* 🌟 Starred [zigzap/zap](https://github.com/zigzap/zap)
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#6aca25a](https://github.com/pacholoamit/homelab-infra/commit/6aca25a) add kube prometeheus stack
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#ad0e8af](https://github.com/pacholoamit/homelab-infra/commit/ad0e8af) Update Helm repository name in release.yaml to &#34;prometheus&#34;.
+* 🔃 Opened [#3785 HOTFIX/Get events can not use absolute imports](https://github.com/MediaJel/mediajel-gql-service/pull/3785) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 1 file changed `++1 --1`
+* ⏺️ Created new branch hotfix/get-events-cannot-use-absolute-imports in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#265 Monitor Alerts transactions observer channel daily](https://github.com/MediaJel/mediajel-tracker/issues/265) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#15 Migrate ARIMA model implementation to python microservice](https://github.com/MediaJel/cerebrum/issues/15) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* 💬 Commented on [#424 Think of an MVP for a recommendation engine](https://github.com/MediaJel/mediajel/issues/424) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
