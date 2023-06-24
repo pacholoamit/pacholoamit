@@ -25,15 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3744 Evaluate new failed enrichment logs due to snowplow pipeline upgrade](https://github.com/MediaJel/mediajel-gql-service/issues/3744) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔃 Closed [#3631 [IN PROGRESS] Add script to generate Eaze reports](https://github.com/MediaJel/mediajel-gql-service/pull/3631) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 13 files changed `++153598 --39`
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#af6ba01](https://github.com/pacholoamit/homelab-infra/commit/af6ba01) Add Flux sync manifests
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#67f29f8](https://github.com/pacholoamit/homelab-infra/commit/67f29f8) Add Flux v2.0.0-rc.5 component manifests
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#e9d99c2](https://github.com/pacholoamit/homelab-infra/commit/e9d99c2) Add Flux v2.0.0-rc.5 component manifests
+* 💬 Commented on [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) from [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* 💬 Commented on [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) from [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* 💬 Commented on [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) from [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* 🔍 Reviewed [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* 🔍 Reviewed [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
 
 
 
