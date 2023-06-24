@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `56` repositories , made `4071` commits and made `168` PRs.
+:people_hugging: I contributed to `55` repositories , made `3936` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infra](https://github.com/pacholoamit/homelab-infra) on branch `master`
-  * [#7a9d120](https://github.com/pacholoamit/homelab-infra/commit/7a9d120) add velero
-* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#20a7598](https://github.com/MediaJel/prompt-engineering-concepts/commit/20a7598) remove notebook
-* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#95ebc14](https://github.com/MediaJel/prompt-engineering-concepts/commit/95ebc14) doc
-* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#efd45ba](https://github.com/MediaJel/prompt-engineering-concepts/commit/efd45ba) doc
-* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#d40a2dc](https://github.com/MediaJel/prompt-engineering-concepts/commit/d40a2dc) doc
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#612cf3c](https://github.com/pacholoamit/homelab-infrastructure/commit/612cf3c) Add Flux sync manifests
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#2d81a0a](https://github.com/pacholoamit/homelab-infrastructure/commit/2d81a0a) Add Flux v2.0.0-rc.5 component manifests
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#a1afd46](https://github.com/pacholoamit/homelab-infrastructure/commit/a1afd46) Add Flux v2.0.0-rc.5 component manifests
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#1407eec](https://github.com/pacholoamit/homelab-infrastructure/commit/1407eec) remove schedule
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#aeff44f](https://github.com/pacholoamit/homelab-infrastructure/commit/aeff44f) add dependencies on velero
 
 
 
