@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3969` commits and made `168` PRs.
+:people_hugging: I contributed to `54` repositories , made `3975` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#465 [BUG REPORT] Bug](https://github.com/tandpfun/skill-icons/issues/465) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#05d40e6](https://github.com/pacholoamit/homelab-infrastructure/commit/05d40e6) Add Velero label and backup type parameter to Longhorn snapshot class
+  * [#0195cb4](https://github.com/pacholoamit/homelab-infrastructure/commit/0195cb4) Rename velero.yaml, delete config.yaml, kustomization.yaml, and schedule.yaml, and add default schedule to release.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#a2ed36f](https://github.com/pacholoamit/homelab-infrastructure/commit/a2ed36f) change volume snapshot version
+  * [#b867ada](https://github.com/pacholoamit/homelab-infrastructure/commit/b867ada) re-add config
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#c75f710](https://github.com/pacholoamit/homelab-infrastructure/commit/c75f710) change snapshot controller volume tag
+  * [#978ab25](https://github.com/pacholoamit/homelab-infrastructure/commit/978ab25) fix ns
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#aa9999b](https://github.com/pacholoamit/homelab-infrastructure/commit/aa9999b) Add Flux v2.0.0-rc.5 component manifests
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#bda7953](https://github.com/pacholoamit/homelab-infrastructure/commit/bda7953) Add Flux sync manifests
+  * [#2be5229](https://github.com/pacholoamit/homelab-infrastructure/commit/2be5229) fix yaml
 
 
 
