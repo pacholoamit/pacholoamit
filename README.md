@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `3961` commits and made `168` PRs.
+:people_hugging: I contributed to `55` repositories , made `3969` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,15 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#bf7e05b](https://github.com/pacholoamit/homelab-infrastructure/commit/bf7e05b) add snapshot controller as dep to longhorn
+  * [#05d40e6](https://github.com/pacholoamit/homelab-infrastructure/commit/05d40e6) Add Velero label and backup type parameter to Longhorn snapshot class
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#4ada57e](https://github.com/pacholoamit/homelab-infrastructure/commit/4ada57e) re-enable volume snapshot class
+  * [#a2ed36f](https://github.com/pacholoamit/homelab-infrastructure/commit/a2ed36f) change volume snapshot version
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#7549536](https://github.com/pacholoamit/homelab-infrastructure/commit/7549536) change order of exec
+  * [#c75f710](https://github.com/pacholoamit/homelab-infrastructure/commit/c75f710) change snapshot controller volume tag
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#cb19cd3](https://github.com/pacholoamit/homelab-infrastructure/commit/cb19cd3) add configs
+  * [#aa9999b](https://github.com/pacholoamit/homelab-infrastructure/commit/aa9999b) Add Flux v2.0.0-rc.5 component manifests
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1c5ed25](https://github.com/pacholoamit/homelab-infrastructure/commit/1c5ed25) Add Flux sync manifests
+  * [#bda7953](https://github.com/pacholoamit/homelab-infrastructure/commit/bda7953) Add Flux sync manifests
 
 
 
