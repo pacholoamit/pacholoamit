@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [meshery/meshery](https://github.com/meshery/meshery)
 * #️⃣ Opened [#465 [BUG REPORT] Bug](https://github.com/tandpfun/skill-icons/issues/465) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#0195cb4](https://github.com/pacholoamit/homelab-infrastructure/commit/0195cb4) Rename velero.yaml, delete config.yaml, kustomization.yaml, and schedule.yaml, and add default schedule to release.yaml
@@ -32,8 +33,6 @@
   * [#b867ada](https://github.com/pacholoamit/homelab-infrastructure/commit/b867ada) re-add config
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#978ab25](https://github.com/pacholoamit/homelab-infrastructure/commit/978ab25) fix ns
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#2be5229](https://github.com/pacholoamit/homelab-infrastructure/commit/2be5229) fix yaml
 
 
 
