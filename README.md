@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [shiftEscape/commit-hash-verifier-action](https://github.com/shiftEscape/commit-hash-verifier-action)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#6e57e42](https://github.com/pacholoamit/homelab-infrastructure/commit/6e57e42) fix spell check
 * ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
@@ -33,8 +34,6 @@
   * [#0e3d3fa](https://github.com/pacholoamit/homelab-infrastructure/commit/0e3d3fa) Add Flux sync manifests
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#b42171c](https://github.com/pacholoamit/homelab-infrastructure/commit/b42171c) Add Flux v2.0.0-rc.5 component manifests
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#585fd1a](https://github.com/pacholoamit/homelab-infrastructure/commit/585fd1a) re-enable
 
 
 
