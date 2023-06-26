@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `54` repositories , made `3992` commits and made `167` PRs.
+:people_hugging: I contributed to `54` repositories , made `4004` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,15 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#5fdbe24](https://github.com/pacholoamit/homelab-infrastructure/commit/5fdbe24) Add provider and alert resources to flux alerts
+  * [#6e57e42](https://github.com/pacholoamit/homelab-infrastructure/commit/6e57e42) fix spell check
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#67f1432](https://github.com/pacholoamit/homelab-infrastructure/commit/67f1432) Merge branch &#39;master&#39; of https://github.com/pacholoamit/homelab-infra
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#6b92a60](https://github.com/pacholoamit/homelab-infrastructure/commit/6b92a60) add flux alerts
+  * [#0e3d3fa](https://github.com/pacholoamit/homelab-infrastructure/commit/0e3d3fa) Add Flux sync manifests
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#910bf42](https://github.com/pacholoamit/homelab-infrastructure/commit/910bf42) remove dep for weave
+  * [#b42171c](https://github.com/pacholoamit/homelab-infrastructure/commit/b42171c) Add Flux v2.0.0-rc.5 component manifests
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#ed6bfb1](https://github.com/pacholoamit/homelab-infrastructure/commit/ed6bfb1) change svc
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#a07ede3](https://github.com/pacholoamit/homelab-infrastructure/commit/a07ede3) add readme
+  * [#585fd1a](https://github.com/pacholoamit/homelab-infrastructure/commit/585fd1a) re-enable
 
 
 
