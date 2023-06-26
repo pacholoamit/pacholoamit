@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `54` repositories , made `3975` commits and made `167` PRs.
+:people_hugging: I contributed to `54` repositories , made `3992` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [meshery/meshery](https://github.com/meshery/meshery)
-* #️⃣ Opened [#465 [BUG REPORT] Bug](https://github.com/tandpfun/skill-icons/issues/465) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0195cb4](https://github.com/pacholoamit/homelab-infrastructure/commit/0195cb4) Rename velero.yaml, delete config.yaml, kustomization.yaml, and schedule.yaml, and add default schedule to release.yaml
+  * [#5fdbe24](https://github.com/pacholoamit/homelab-infrastructure/commit/5fdbe24) Add provider and alert resources to flux alerts
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#b867ada](https://github.com/pacholoamit/homelab-infrastructure/commit/b867ada) re-add config
+  * [#6b92a60](https://github.com/pacholoamit/homelab-infrastructure/commit/6b92a60) add flux alerts
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#978ab25](https://github.com/pacholoamit/homelab-infrastructure/commit/978ab25) fix ns
+  * [#910bf42](https://github.com/pacholoamit/homelab-infrastructure/commit/910bf42) remove dep for weave
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#ed6bfb1](https://github.com/pacholoamit/homelab-infrastructure/commit/ed6bfb1) change svc
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#a07ede3](https://github.com/pacholoamit/homelab-infrastructure/commit/a07ede3) add readme
 
 
 
