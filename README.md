@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `54` repositories , made `4004` commits and made `167` PRs.
+:people_hugging: I contributed to `54` repositories , made `4006` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
+  * [#972272f](https://github.com/MediaJel/prompt-engineering-concepts/commit/972272f) segregate notebooks
+* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
+  * [#f32623b](https://github.com/MediaJel/prompt-engineering-concepts/commit/f32623b) add deserializing snowplow example
 * 🌟 Starred [shiftEscape/commit-hash-verifier-action](https://github.com/shiftEscape/commit-hash-verifier-action)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#6e57e42](https://github.com/pacholoamit/homelab-infrastructure/commit/6e57e42) fix spell check
 * ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#67f1432](https://github.com/pacholoamit/homelab-infrastructure/commit/67f1432) Merge branch &#39;master&#39; of https://github.com/pacholoamit/homelab-infra
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0e3d3fa](https://github.com/pacholoamit/homelab-infrastructure/commit/0e3d3fa) Add Flux sync manifests
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#b42171c](https://github.com/pacholoamit/homelab-infrastructure/commit/b42171c) Add Flux v2.0.0-rc.5 component manifests
 
 
 
