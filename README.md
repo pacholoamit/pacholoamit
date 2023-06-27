@@ -25,15 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#3777 [FOR REVIEW] ICF migrate tag generator](https://github.com/MediaJel/mediajel-gql-service/pull/3777) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3777 [FOR REVIEW] ICF migrate tag generator](https://github.com/MediaJel/mediajel-gql-service/pull/3777) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3777 [FOR REVIEW] ICF migrate tag generator](https://github.com/MediaJel/mediajel-gql-service/pull/3777) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
   * [#972272f](https://github.com/MediaJel/prompt-engineering-concepts/commit/972272f) segregate notebooks
 * ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
   * [#f32623b](https://github.com/MediaJel/prompt-engineering-concepts/commit/f32623b) add deserializing snowplow example
-* 🌟 Starred [shiftEscape/commit-hash-verifier-action](https://github.com/shiftEscape/commit-hash-verifier-action)
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#6e57e42](https://github.com/pacholoamit/homelab-infrastructure/commit/6e57e42) fix spell check
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#67f1432](https://github.com/pacholoamit/homelab-infrastructure/commit/67f1432) Merge branch &#39;master&#39; of https://github.com/pacholoamit/homelab-infra
 
 
 
