@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `54` repositories , made `4006` commits and made `167` PRs.
+:people_hugging: I contributed to `55` repositories , made `4009` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,13 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#3777 [FOR REVIEW] ICF migrate tag generator](https://github.com/MediaJel/mediajel-gql-service/pull/3777) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3777 [FOR REVIEW] ICF migrate tag generator](https://github.com/MediaJel/mediajel-gql-service/pull/3777) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#3777 [FOR REVIEW] ICF migrate tag generator](https://github.com/MediaJel/mediajel-gql-service/pull/3777) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#972272f](https://github.com/MediaJel/prompt-engineering-concepts/commit/972272f) segregate notebooks
-* ➡️ Pushed 1 commit in [MediaJel/prompt-engineering-concepts](https://github.com/MediaJel/prompt-engineering-concepts) on branch `master`
-  * [#f32623b](https://github.com/MediaJel/prompt-engineering-concepts/commit/f32623b) add deserializing snowplow example
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#27ae2ce](https://github.com/MediaJel/snowplow-operations/commit/27ae2ce) add notes
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#0322829](https://github.com/MediaJel/snowplow-operations/commit/0322829) remove echo
+* ⏺️ Created new branch master in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
+* ⏺️ Created new repository  [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
+* 🌟 Starred [snowplow/dataflow-runner](https://github.com/snowplow/dataflow-runner)
 
 
 
