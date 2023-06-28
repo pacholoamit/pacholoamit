@@ -25,13 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#27ae2ce](https://github.com/MediaJel/snowplow-operations/commit/27ae2ce) add notes
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#0322829](https://github.com/MediaJel/snowplow-operations/commit/0322829) remove echo
-* ⏺️ Created new branch master in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
-* ⏺️ Created new repository  [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
-* 🌟 Starred [snowplow/dataflow-runner](https://github.com/snowplow/dataflow-runner)
+* 💬 Commented on [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) from [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* 💬 Commented on [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) from [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* 💬 Commented on [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) from [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* 🔍 Reviewed [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+* 🔍 Reviewed [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
 
 
 
