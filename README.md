@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4013` commits and made `167` PRs.
+:people_hugging: I contributed to `55` repositories , made `4014` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,14 +26,11 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#4cf9606](https://github.com/MediaJel/snowplow-operations/commit/4cf9606) change config
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#7004d4d](https://github.com/MediaJel/snowplow-operations/commit/7004d4d) add to readme
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#5426358](https://github.com/MediaJel/snowplow-operations/commit/5426358) change bucketconfig
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#7024e04](https://github.com/MediaJel/snowplow-operations/commit/7024e04) working bootstrap
-* 💬 Commented on [#16 Added in forecasting](https://github.com/MediaJel/cerebrum/pull/16) from [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
+  * [#a12b7c3](https://github.com/MediaJel/snowplow-operations/commit/a12b7c3) docs
+* #️⃣ Opened [#276 Make mediajel tracker support multiple app ids on the same page](https://github.com/MediaJel/mediajel-tracker/issues/276) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#4756 Chatwoot changes](https://github.com/MediaJel/mediajel-dashboard/issues/4756) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#251 Create documentation for Integrations Engineer onboarding in the mediajel-tracker wiki](https://github.com/MediaJel/mediajel-tracker/issues/251) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#416 Publisher analysis](https://github.com/MediaJel/mediajel/issues/416) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
