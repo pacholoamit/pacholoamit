@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4033` commits and made `168` PRs.
+:people_hugging: I contributed to `55` repositories , made `4034` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,13 +26,14 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#bda8aac](https://github.com/MediaJel/snowplow-operations/commit/bda8aac) final changes
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#875cf15](https://github.com/MediaJel/snowplow-operations/commit/875cf15) checkpoint
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#7412f3a](https://github.com/MediaJel/snowplow-operations/commit/7412f3a) add spark
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#57fae15](https://github.com/MediaJel/snowplow-operations/commit/57fae15) checkpoint
 * 🌟 Starred [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-* #️⃣ Opened [#279 Review Wordpress plugin for tags](https://github.com/MediaJel/mediajel-tracker/issues/279) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
