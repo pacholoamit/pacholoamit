@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4030` commits and made `168` PRs.
+:people_hugging: I contributed to `55` repositories , made `4033` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#875cf15](https://github.com/MediaJel/snowplow-operations/commit/875cf15) checkpoint
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#7412f3a](https://github.com/MediaJel/snowplow-operations/commit/7412f3a) add spark
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#57fae15](https://github.com/MediaJel/snowplow-operations/commit/57fae15) checkpoint
 * 🌟 Starred [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
 * #️⃣ Opened [#279 Review Wordpress plugin for tags](https://github.com/MediaJel/mediajel-tracker/issues/279) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#83bda4b](https://github.com/MediaJel/snowplow-operations/commit/83bda4b) changes
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#7615c19](https://github.com/MediaJel/snowplow-operations/commit/7615c19) filter nuid where not uuid
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#8d3c072](https://github.com/MediaJel/snowplow-operations/commit/8d3c072) initial working version
 
 
 
