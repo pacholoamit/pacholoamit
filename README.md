@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4027` commits and made `168` PRs.
+:people_hugging: I contributed to `55` repositories , made `4030` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#e036794](https://github.com/pacholoamit/homelab-infrastructure/commit/e036794) temporarily disable descheduler
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#5a3062e](https://github.com/pacholoamit/homelab-infrastructure/commit/5a3062e) rename to flux-system
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#be3c331](https://github.com/pacholoamit/homelab-infrastructure/commit/be3c331) remove dependency
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#e1b8c16](https://github.com/pacholoamit/homelab-infrastructure/commit/e1b8c16) create dedicated kustomization for prometheus
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d956a69](https://github.com/pacholoamit/homelab-infrastructure/commit/d956a69) cleanup
+* 🌟 Starred [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+* #️⃣ Opened [#279 Review Wordpress plugin for tags](https://github.com/MediaJel/mediajel-tracker/issues/279) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#83bda4b](https://github.com/MediaJel/snowplow-operations/commit/83bda4b) changes
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#7615c19](https://github.com/MediaJel/snowplow-operations/commit/7615c19) filter nuid where not uuid
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#8d3c072](https://github.com/MediaJel/snowplow-operations/commit/8d3c072) initial working version
 
 
 
