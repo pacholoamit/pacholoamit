@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4034` commits and made `168` PRs.
+:people_hugging: I contributed to `55` repositories , made `4040` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,14 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#bda8aac](https://github.com/MediaJel/snowplow-operations/commit/bda8aac) final changes
+  * [#b6a3b7a](https://github.com/MediaJel/snowplow-operations/commit/b6a3b7a) add count of spark cores
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#875cf15](https://github.com/MediaJel/snowplow-operations/commit/875cf15) checkpoint
+  * [#e94ba30](https://github.com/MediaJel/snowplow-operations/commit/e94ba30) final changes
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#7412f3a](https://github.com/MediaJel/snowplow-operations/commit/7412f3a) add spark
+  * [#2c7c21d](https://github.com/MediaJel/snowplow-operations/commit/2c7c21d) remove inputdir
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#57fae15](https://github.com/MediaJel/snowplow-operations/commit/57fae15) checkpoint
-* 🌟 Starred [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * [#b5d709f](https://github.com/MediaJel/snowplow-operations/commit/b5d709f) create spark staging &amp; prod&#34;
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#dad9897](https://github.com/MediaJel/snowplow-operations/commit/dad9897) add docs
 
 
 
