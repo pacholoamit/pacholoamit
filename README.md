@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4040` commits and made `168` PRs.
+:people_hugging: I contributed to `55` repositories , made `4041` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new tag v3.0.0 in [MediaJel/snowplow-failed-enrichments-report-generator](https://github.com/MediaJel/snowplow-failed-enrichments-report-generator)
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-failed-enrichments-report-generator](https://github.com/MediaJel/snowplow-failed-enrichments-report-generator) on branch `master`
+  * [#1ea78a8](https://github.com/MediaJel/snowplow-failed-enrichments-report-generator/commit/1ea78a8) for fixing snowplow
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#b6a3b7a](https://github.com/MediaJel/snowplow-operations/commit/b6a3b7a) add count of spark cores
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#e94ba30](https://github.com/MediaJel/snowplow-operations/commit/e94ba30) final changes
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#2c7c21d](https://github.com/MediaJel/snowplow-operations/commit/2c7c21d) remove inputdir
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#b5d709f](https://github.com/MediaJel/snowplow-operations/commit/b5d709f) create spark staging &amp; prod&#34;
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#dad9897](https://github.com/MediaJel/snowplow-operations/commit/dad9897) add docs
 
 
 
