@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4057` commits and made `166` PRs.
+:people_hugging: I contributed to `55` repositories , made `4059` commits and made `166` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,6 +26,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#deacdf3](https://github.com/MediaJel/snowplow-operations/commit/deacdf3) checkpoint
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#2df3ae6](https://github.com/MediaJel/snowplow-operations/commit/2df3ae6) add production patched
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#b6b11ca](https://github.com/MediaJel/snowplow-operations/commit/b6b11ca) breakthrough: finally able to recover image pixel transactions data
@@ -33,8 +35,6 @@
   * [#f2d5911](https://github.com/MediaJel/snowplow-operations/commit/f2d5911) breakthrough: finally able to recover image pixel transactions data
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#0f1522f](https://github.com/MediaJel/snowplow-operations/commit/0f1522f) change recovery config
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#3a76644](https://github.com/MediaJel/snowplow-operations/commit/3a76644) add docs
 
 
 
