@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4042` commits and made `166` PRs.
+:people_hugging: I contributed to `55` repositories , made `4043` commits and made `166` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch fix/Eaze-querystring-patch-version-2 in [MediaJel/snowplow-event-recovery](https://github.com/MediaJel/snowplow-event-recovery)
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-event-recovery](https://github.com/MediaJel/snowplow-event-recovery) on branch `fix/Eaze-querystring-patch`
+  * [#29aacbb](https://github.com/MediaJel/snowplow-event-recovery/commit/29aacbb) checkpoint
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#00b370e](https://github.com/MediaJel/snowplow-operations/commit/00b370e) create eaze patch
 * ⏺️ Created new branch fix/Eaze-querystring-patch in [MediaJel/snowplow-event-recovery](https://github.com/MediaJel/snowplow-event-recovery)
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#a6c5970](https://github.com/MediaJel/snowplow-operations/commit/a6c5970) checkpoint
-* ⏺️ Created new tag v3.0.0 in [MediaJel/snowplow-failed-enrichments-report-generator](https://github.com/MediaJel/snowplow-failed-enrichments-report-generator)
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-failed-enrichments-report-generator](https://github.com/MediaJel/snowplow-failed-enrichments-report-generator) on branch `master`
-  * [#1ea78a8](https://github.com/MediaJel/snowplow-failed-enrichments-report-generator/commit/1ea78a8) for fixing snowplow
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#b6a3b7a](https://github.com/MediaJel/snowplow-operations/commit/b6a3b7a) add count of spark cores
 
 
 
