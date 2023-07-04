@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#deacdf3](https://github.com/MediaJel/snowplow-operations/commit/deacdf3) checkpoint
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
@@ -33,8 +34,6 @@
   * [#b6b11ca](https://github.com/MediaJel/snowplow-operations/commit/b6b11ca) breakthrough: finally able to recover image pixel transactions data
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#f2d5911](https://github.com/MediaJel/snowplow-operations/commit/f2d5911) breakthrough: finally able to recover image pixel transactions data
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#0f1522f](https://github.com/MediaJel/snowplow-operations/commit/0f1522f) change recovery config
 
 
 
