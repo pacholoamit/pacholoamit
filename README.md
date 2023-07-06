@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4059` commits and made `166` PRs.
+:people_hugging: I contributed to `55` repositories , made `4067` commits and made `166` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#deacdf3](https://github.com/MediaJel/snowplow-operations/commit/deacdf3) checkpoint
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#2df3ae6](https://github.com/MediaJel/snowplow-operations/commit/2df3ae6) add production patched
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#b6b11ca](https://github.com/MediaJel/snowplow-operations/commit/b6b11ca) breakthrough: finally able to recover image pixel transactions data
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#f2d5911](https://github.com/MediaJel/snowplow-operations/commit/f2d5911) breakthrough: finally able to recover image pixel transactions data
+* #️⃣ Opened [#472 Create basic repository for wordpress plugin from previous version](https://github.com/MediaJel/mediajel/issues/472) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#4830 Improvements to the tag generator &amp; campaign launcher](https://github.com/MediaJel/mediajel-dashboard/issues/4830) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#268 Refactor BigCommerce cart to use the dataSource pattern](https://github.com/MediaJel/mediajel-tracker/issues/268) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#1 Eaze data recovery](https://github.com/MediaJel/snowplow-operations/issues/1) in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
+* #️⃣ Opened [#18 Make prediction query parameters dynamic and enumerated](https://github.com/MediaJel/cerebrum/issues/18) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
 
 
 
