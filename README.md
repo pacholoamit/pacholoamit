@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#4830 Improvements to the tag generator &amp; campaign launcher](https://github.com/MediaJel/mediajel-dashboard/issues/4830) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#281 Think of a way to consolidate the updates for Cart platforms in the universal tag](https://github.com/MediaJel/mediajel-tracker/issues/281) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#279 Review Wordpress plugin for tags](https://github.com/MediaJel/mediajel-tracker/issues/279) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#472 Create basic repository for wordpress plugin from previous version](https://github.com/MediaJel/mediajel/issues/472) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#472 Create basic repository for wordpress plugin from previous version](https://github.com/MediaJel/mediajel/issues/472) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#4830 Improvements to the tag generator &amp; campaign launcher](https://github.com/MediaJel/mediajel-dashboard/issues/4830) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#268 Refactor BigCommerce cart to use the dataSource pattern](https://github.com/MediaJel/mediajel-tracker/issues/268) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#1 Eaze data recovery](https://github.com/MediaJel/snowplow-operations/issues/1) in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
-* #️⃣ Opened [#18 Make prediction query parameters dynamic and enumerated](https://github.com/MediaJel/cerebrum/issues/18) in [MediaJel/cerebrum](https://github.com/MediaJel/cerebrum)
 
 
 
