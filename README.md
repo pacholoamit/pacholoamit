@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4802 [PASS QA 1] implement chatwoot to all pages and is only with self service](https://github.com/MediaJel/mediajel-dashboard/pull/4802) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#4830 Improvements to the tag generator &amp; campaign launcher](https://github.com/MediaJel/mediajel-dashboard/issues/4830) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#281 Think of a way to consolidate the updates for Cart platforms in the universal tag](https://github.com/MediaJel/mediajel-tracker/issues/281) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Closed [#279 Review Wordpress plugin for tags](https://github.com/MediaJel/mediajel-tracker/issues/279) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Closed [#472 Create basic repository for wordpress plugin from previous version](https://github.com/MediaJel/mediajel/issues/472) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#472 Create basic repository for wordpress plugin from previous version](https://github.com/MediaJel/mediajel/issues/472) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
