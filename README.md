@@ -25,16 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#465 Research ticket: implement blacklist](https://github.com/MediaJel/mediajel/issues/465) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#3835 Turn Transactions observer into a performance observer](https://github.com/MediaJel/mediajel-gql-service/issues/3835) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
   * [#d294a27](https://github.com/MediaJel/jupyter-notebooks-collection/commit/d294a27) add doc
 * ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
   * [#a5e327f](https://github.com/MediaJel/jupyter-notebooks-collection/commit/a5e327f) add df_fina;
 * ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
   * [#bb2a2d6](https://github.com/MediaJel/jupyter-notebooks-collection/commit/bb2a2d6) add docs
-* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#fe167d9](https://github.com/MediaJel/jupyter-notebooks-collection/commit/fe167d9) uncommented out impressions filter
-* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#527732c](https://github.com/MediaJel/jupyter-notebooks-collection/commit/527732c) cleanup
 
 
 
