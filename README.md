@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4083` commits and made `167` PRs.
+:people_hugging: I contributed to `54` repositories , made `4087` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#465 Research ticket: implement blacklist](https://github.com/MediaJel/mediajel/issues/465) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#3835 Turn Transactions observer into a performance observer](https://github.com/MediaJel/mediajel-gql-service/issues/3835) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#d294a27](https://github.com/MediaJel/jupyter-notebooks-collection/commit/d294a27) add doc
-* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#a5e327f](https://github.com/MediaJel/jupyter-notebooks-collection/commit/a5e327f) add df_fina;
-* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#bb2a2d6](https://github.com/MediaJel/jupyter-notebooks-collection/commit/bb2a2d6) add docs
+* #️⃣ Opened [#21 Return predictions on API request](https://github.com/MediaJel/ai-microservice/issues/21) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* #️⃣ Closed [#276 Make mediajel tracker support multiple app ids on the same page](https://github.com/MediaJel/mediajel-tracker/issues/276) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 4 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `master`
+  * [#2292168](https://github.com/MediaJel/ai-microservice/commit/2292168) Merge branch &#39;staging&#39;
+* ➡️ Pushed 3 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
+  * [#bb91b15](https://github.com/MediaJel/ai-microservice/commit/bb91b15) change default envs
+  * [#94d5d59](https://github.com/MediaJel/ai-microservice/commit/94d5d59) set static chatwoot url
+  * [#d0e6830](https://github.com/MediaJel/ai-microservice/commit/d0e6830) change env
+* ⏺️ Created new branch feat/remove-unrequired-config in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 
 
 
