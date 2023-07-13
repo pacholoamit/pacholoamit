@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `54` repositories , made `4087` commits and made `167` PRs.
+:people_hugging: I contributed to `55` repositories , made `4086` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#21 Return predictions on API request](https://github.com/MediaJel/ai-microservice/issues/21) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* #️⃣ Closed [#276 Make mediajel tracker support multiple app ids on the same page](https://github.com/MediaJel/mediajel-tracker/issues/276) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 4 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `master`
-  * [#2292168](https://github.com/MediaJel/ai-microservice/commit/2292168) Merge branch &#39;staging&#39;
-* ➡️ Pushed 3 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
-  * [#bb91b15](https://github.com/MediaJel/ai-microservice/commit/bb91b15) change default envs
-  * [#94d5d59](https://github.com/MediaJel/ai-microservice/commit/94d5d59) set static chatwoot url
-  * [#d0e6830](https://github.com/MediaJel/ai-microservice/commit/d0e6830) change env
-* ⏺️ Created new branch feat/remove-unrequired-config in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* #️⃣ Opened [#4857 Add feature in the tag generator to support Paid Search &amp; SEO](https://github.com/MediaJel/mediajel-dashboard/issues/4857) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#265 Monitor Alerts transactions observer channel daily](https://github.com/MediaJel/mediajel-tracker/issues/265) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#4829 BASKET ITEMS - Co-marketing campaigns and transaction items](https://github.com/MediaJel/mediajel-dashboard/issues/4829) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#4829 BASKET ITEMS - Co-marketing campaigns and transaction items](https://github.com/MediaJel/mediajel-dashboard/issues/4829) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#3744 Create Snowflake failed enrichment dashboard to monitor failed enrichments](https://github.com/MediaJel/mediajel-gql-service/issues/3744) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
