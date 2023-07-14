@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#4857 Add feature in the tag generator to support Paid Search &amp; SEO](https://github.com/MediaJel/mediajel-dashboard/issues/4857) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#265 Monitor Alerts transactions observer channel daily](https://github.com/MediaJel/mediajel-tracker/issues/265) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#4829 BASKET ITEMS - Co-marketing campaigns and transaction items](https://github.com/MediaJel/mediajel-dashboard/issues/4829) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#4829 BASKET ITEMS - Co-marketing campaigns and transaction items](https://github.com/MediaJel/mediajel-dashboard/issues/4829) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#3744 Create Snowflake failed enrichment dashboard to monitor failed enrichments](https://github.com/MediaJel/mediajel-gql-service/issues/3744) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4802 [PASSED QA 1] implement chatwoot to all pages and is only with self service](https://github.com/MediaJel/mediajel-dashboard/pull/4802) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4802 [PASSED QA 1] implement chatwoot to all pages and is only with self service](https://github.com/MediaJel/mediajel-dashboard/pull/4802) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4802 [IN PROGRESS] implement chatwoot to all pages and is only with self service](https://github.com/MediaJel/mediajel-dashboard/pull/4802) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#487 Get set up with the mediajel-gql-service repo &amp; mediajel-dashboard repo](https://github.com/MediaJel/mediajel/issues/487) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#437 LLMs infrastructure proposal](https://github.com/MediaJel/mediajel/issues/437) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
