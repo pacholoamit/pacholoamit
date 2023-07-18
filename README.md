@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4088` commits and made `167` PRs.
+:people_hugging: I contributed to `55` repositories , made `4089` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#24 Research Open AI functions](https://github.com/MediaJel/ai-microservice/issues/24) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* ➡️ Pushed 1 commit in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests) on branch `master`
+  * [#5e6f30d](https://github.com/MediaJel/e2e-tests/commit/5e6f30d) update deps
 * ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
   * [#4534abc](https://github.com/MediaJel/jupyter-notebooks-collection/commit/4534abc) create block list
 * ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
   * [#d17f8d0](https://github.com/MediaJel/jupyter-notebooks-collection/commit/d17f8d0) create block list
 * ➡️ Pushed 1 commit in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
   * [#b50173c](https://github.com/MediaJel/ai-microservice/commit/b50173c) cleanup
-* 💬 Commented on [#4802 [PASSED QA 1] implement chatwoot to all pages and is only with self service](https://github.com/MediaJel/mediajel-dashboard/pull/4802) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4802 [PASSED QA 1] implement chatwoot to all pages and is only with self service](https://github.com/MediaJel/mediajel-dashboard/pull/4802) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
