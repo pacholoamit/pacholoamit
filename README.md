@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `54` repositories , made `4089` commits and made `167` PRs.
+:people_hugging: I contributed to `54` repositories , made `4089` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,30 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#24 Research Open AI functions](https://github.com/MediaJel/ai-microservice/issues/24) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* ➡️ Pushed 1 commit in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests) on branch `master`
-  * [#5e6f30d](https://github.com/MediaJel/e2e-tests/commit/5e6f30d) update deps
-* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#4534abc](https://github.com/MediaJel/jupyter-notebooks-collection/commit/4534abc) create block list
-* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#d17f8d0](https://github.com/MediaJel/jupyter-notebooks-collection/commit/d17f8d0) create block list
-* ➡️ Pushed 1 commit in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
-  * [#b50173c](https://github.com/MediaJel/ai-microservice/commit/b50173c) cleanup
+* 🔃 Merged [#22 Feat/forecasting](https://github.com/MediaJel/ai-microservice/pull/22) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 12 files changed `++338 --60`
+* ➡️ Pushed 11 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
+  * [#5e0b87f](https://github.com/MediaJel/ai-microservice/commit/5e0b87f) Merge pull request #22 from MediaJel/feat/forecasting
+
+Feat/forecasting
+  * [#7e411b8](https://github.com/MediaJel/ai-microservice/commit/7e411b8) Update README.md
+  * [#29cf85b](https://github.com/MediaJel/ai-microservice/commit/29cf85b) added /forecast api endpoint
+  * [#2fd2938](https://github.com/MediaJel/ai-microservice/commit/2fd2938) added /forecast api endpoint
+  * [#88d21cf](https://github.com/MediaJel/ai-microservice/commit/88d21cf) added /forecast api endpoint
+  * [#6e78e71](https://github.com/MediaJel/ai-microservice/commit/6e78e71) added /forecast api endpoint
+  * [#a235f4f](https://github.com/MediaJel/ai-microservice/commit/a235f4f) added json output
+  * [#7be98e1](https://github.com/MediaJel/ai-microservice/commit/7be98e1) added in dynamic query
+  * [#59af385](https://github.com/MediaJel/ai-microservice/commit/59af385) Update router.py
+  * [#bd7e409](https://github.com/MediaJel/ai-microservice/commit/bd7e409) added in dynamic query
+  * [#1503d38](https://github.com/MediaJel/ai-microservice/commit/1503d38) added in date flexibility
+* 🔍 Reviewed [#3856 Update README.md](https://github.com/MediaJel/mediajel-gql-service/pull/3856) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 2 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
+  * [#2c6669e](https://github.com/MediaJel/ai-microservice/commit/2c6669e) Merge pull request #26 from MediaJel/fix/set-default-root-path
+
+FIX: Temporarily remove root path
+  * [#195ab5f](https://github.com/MediaJel/ai-microservice/commit/195ab5f) remove root-paths temporarily
+* 🔃 Merged [#26 FIX: Temporarily remove root path](https://github.com/MediaJel/ai-microservice/pull/26) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 1 file changed `++6 --5`
 
 
 
