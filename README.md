@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `54` repositories , made `4089` commits and made `168` PRs.
+:people_hugging: I contributed to `55` repositories , made `4089` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3744 Create Snowflake failed enrichment dashboard to monitor failed enrichments](https://github.com/MediaJel/mediajel-gql-service/issues/3744) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#28 Improve security for ai-microservice](https://github.com/MediaJel/ai-microservice/issues/28) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 🔍 Reviewed [#4863 [PASS QA 1] Add multiple select in input filter](https://github.com/MediaJel/mediajel-dashboard/pull/4863) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4863 [PASS QA 1] Add multiple select in input filter](https://github.com/MediaJel/mediajel-dashboard/pull/4863) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4863 [PASS QA 1] Add multiple select in input filter](https://github.com/MediaJel/mediajel-dashboard/pull/4863) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#4857 Add feature in the tag generator to support Paid Search &amp; SEO](https://github.com/MediaJel/mediajel-dashboard/issues/4857) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#68 Equativ user sync API endpoint](https://github.com/MediaJel/cookie-sync-pixel/issues/68) from [MediaJel/cookie-sync-pixel](https://github.com/MediaJel/cookie-sync-pixel)
+* #️⃣ Closed [#487 Get set up with the mediajel-gql-service repo &amp; mediajel-dashboard repo](https://github.com/MediaJel/mediajel/issues/487) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#2 Process Eaze data recovery around the 15th and 30th if pixel is not yet fixed](https://github.com/MediaJel/snowplow-operations/issues/2) in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
+* 💬 Commented on [#4756 Chatwoot deployment to production](https://github.com/MediaJel/mediajel-dashboard/issues/4756) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
