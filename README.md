@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Closed [#21 Return predictions on API request](https://github.com/MediaJel/ai-microservice/issues/21) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* #️⃣ Closed [#18 Make prediction query parameters dynamic and enumerated](https://github.com/MediaJel/ai-microservice/issues/18) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 * 💬 Commented on [#4857 Add feature in the tag generator to support Paid Search &amp; SEO](https://github.com/MediaJel/mediajel-dashboard/issues/4857) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#68 Equativ user sync API endpoint](https://github.com/MediaJel/cookie-sync-pixel/issues/68) from [MediaJel/cookie-sync-pixel](https://github.com/MediaJel/cookie-sync-pixel)
 * #️⃣ Closed [#487 Get set up with the mediajel-gql-service repo &amp; mediajel-dashboard repo](https://github.com/MediaJel/mediajel/issues/487) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#2 Process Eaze data recovery around the 15th and 30th if pixel is not yet fixed](https://github.com/MediaJel/snowplow-operations/issues/2) in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
-* 💬 Commented on [#4756 Chatwoot deployment to production](https://github.com/MediaJel/mediajel-dashboard/issues/4756) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
