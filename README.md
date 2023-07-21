@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#21 Return predictions on API request](https://github.com/MediaJel/ai-microservice/issues/21) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* #️⃣ Closed [#18 Make prediction query parameters dynamic and enumerated](https://github.com/MediaJel/ai-microservice/issues/18) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 💬 Commented on [#4857 Add feature in the tag generator to support Paid Search &amp; SEO](https://github.com/MediaJel/mediajel-dashboard/issues/4857) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#68 Equativ user sync API endpoint](https://github.com/MediaJel/cookie-sync-pixel/issues/68) from [MediaJel/cookie-sync-pixel](https://github.com/MediaJel/cookie-sync-pixel)
-* #️⃣ Closed [#487 Get set up with the mediajel-gql-service repo &amp; mediajel-dashboard repo](https://github.com/MediaJel/mediajel/issues/487) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#30 Take a look at LLM monitoring tools](https://github.com/MediaJel/ai-microservice/issues/30) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* #️⃣ Opened [#29 make changes to ai-microservice](https://github.com/MediaJel/ai-microservice/issues/29) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* 💬 Commented on [#4863 [PASS QA 1] Add multiple select in input filter](https://github.com/MediaJel/mediajel-dashboard/pull/4863) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4863 [PASS QA 1] Add multiple select in input filter](https://github.com/MediaJel/mediajel-dashboard/pull/4863) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4863 [PASS QA 1] Add multiple select in input filter](https://github.com/MediaJel/mediajel-dashboard/pull/4863) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
