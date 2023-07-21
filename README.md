@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `55` repositories , made `4089` commits and made `168` PRs.
+:people_hugging: I contributed to `54` repositories , made `4100` commits and made `170` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,51 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#30 Take a look at LLM monitoring tools](https://github.com/MediaJel/ai-microservice/issues/30) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* #️⃣ Opened [#29 make changes to ai-microservice](https://github.com/MediaJel/ai-microservice/issues/29) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 💬 Commented on [#4863 [PASS QA 1] Add multiple select in input filter](https://github.com/MediaJel/mediajel-dashboard/pull/4863) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4863 [PASS QA 1] Add multiple select in input filter](https://github.com/MediaJel/mediajel-dashboard/pull/4863) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4863 [PASS QA 1] Add multiple select in input filter](https://github.com/MediaJel/mediajel-dashboard/pull/4863) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 28 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `master`
+  * [#5e0b87f](https://github.com/MediaJel/ai-microservice/commit/5e0b87f) Merge pull request #22 from MediaJel/feat/forecasting
+
+Feat/forecasting
+  * [#2c6669e](https://github.com/MediaJel/ai-microservice/commit/2c6669e) Merge pull request #26 from MediaJel/fix/set-default-root-path
+
+FIX: Temporarily remove root path
+  * [#195ab5f](https://github.com/MediaJel/ai-microservice/commit/195ab5f) remove root-paths temporarily
+  * [#7e411b8](https://github.com/MediaJel/ai-microservice/commit/7e411b8) Update README.md
+  * [#ff275a2](https://github.com/MediaJel/ai-microservice/commit/ff275a2) Merge pull request #25 from MediaJel/eb/bug-specify-target
+
+[BUG] Specify the target to avoid unit test issue
+  * [#31f2493](https://github.com/MediaJel/ai-microservice/commit/31f2493) [BUG] Specify the target to avoid unit test issue
+  * [#6af0c31](https://github.com/MediaJel/ai-microservice/commit/6af0c31) Merge pull request #23 from MediaJel/eb/add-deployment-ai-microservice
+
+[ADD] Deployment Pipeline  of AI microservice
+  * [#654d5c7](https://github.com/MediaJel/ai-microservice/commit/654d5c7) [ADD] Deployment Pipeline  of AI microservice
+  * [#b50173c](https://github.com/MediaJel/ai-microservice/commit/b50173c) cleanup
+  * [#999a4a0](https://github.com/MediaJel/ai-microservice/commit/999a4a0) Revert &#34;[ADD] Deployment Pipeline  of AI microservice&#34;
+
+This reverts commit ba5079354d66b495dd39b3974a53c9fb184e0118.
+  * [#ba50793](https://github.com/MediaJel/ai-microservice/commit/ba50793) [ADD] Deployment Pipeline  of AI microservice
+  * [#29cf85b](https://github.com/MediaJel/ai-microservice/commit/29cf85b) added /forecast api endpoint
+  * [#2fd2938](https://github.com/MediaJel/ai-microservice/commit/2fd2938) added /forecast api endpoint
+  * [#88d21cf](https://github.com/MediaJel/ai-microservice/commit/88d21cf) added /forecast api endpoint
+  * [#6e78e71](https://github.com/MediaJel/ai-microservice/commit/6e78e71) added /forecast api endpoint
+  * [#a235f4f](https://github.com/MediaJel/ai-microservice/commit/a235f4f) added json output
+  * [#7be98e1](https://github.com/MediaJel/ai-microservice/commit/7be98e1) added in dynamic query
+  * [#59af385](https://github.com/MediaJel/ai-microservice/commit/59af385) Update router.py
+  * [#bd7e409](https://github.com/MediaJel/ai-microservice/commit/bd7e409) added in dynamic query
+  * [#1503d38](https://github.com/MediaJel/ai-microservice/commit/1503d38) added in date flexibility
+* 🔃 Merged [#33 Update master](https://github.com/MediaJel/ai-microservice/pull/33) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 31 files changed `++754 --180`
+* 🔃 Opened [#33 Update master](https://github.com/MediaJel/ai-microservice/pull/33) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 31 files changed `++754 --180`
+* ➡️ Pushed 5 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
+  * [#aa86693](https://github.com/MediaJel/ai-microservice/commit/aa86693) Merge pull request #31 from MediaJel/feat/add-auth
+
+FEAT: Add auth on API routes
+  * [#6412d0a](https://github.com/MediaJel/ai-microservice/commit/6412d0a) change exception
+  * [#8eb99d4](https://github.com/MediaJel/ai-microservice/commit/8eb99d4) add response
+  * [#aa1205f](https://github.com/MediaJel/ai-microservice/commit/aa1205f) add api key auth to assistant route
+  * [#0638f5a](https://github.com/MediaJel/ai-microservice/commit/0638f5a) create auth module
+* 🔃 Merged [#31 FEAT: Add auth on API routes](https://github.com/MediaJel/ai-microservice/pull/31) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 4 files changed `++27 --2`
 
 
 
