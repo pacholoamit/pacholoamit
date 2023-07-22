@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `54` repositories , made `4100` commits and made `170` PRs.
+:people_hugging: I contributed to `54` repositories , made `4101` commits and made `170` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [whylabs/whylogs](https://github.com/whylabs/whylogs)
+* ➡️ Pushed 3 commits in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
+  * [#540ad78](https://github.com/MediaJel/jupyter-notebooks-collection/commit/540ad78) Merge pull request #10 from MediaJel/ai-forecasting
+
+Ai forecasting
+  * [#45d43a6](https://github.com/MediaJel/jupyter-notebooks-collection/commit/45d43a6) Update 6. OpenAI and LlamaIndex.ipynb
+  * [#43d6372](https://github.com/MediaJel/jupyter-notebooks-collection/commit/43d6372) Added Openai and Llamaindex
+* 🔃 Merged [#10 Ai forecasting](https://github.com/MediaJel/jupyter-notebooks-collection/pull/10) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
+  * 7 files changed `++22272 --36476`
 * ➡️ Pushed 28 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `master`
   * [#5e0b87f](https://github.com/MediaJel/ai-microservice/commit/5e0b87f) Merge pull request #22 from MediaJel/feat/forecasting
 
@@ -58,18 +67,6 @@ This reverts commit ba5079354d66b495dd39b3974a53c9fb184e0118.
   * [#1503d38](https://github.com/MediaJel/ai-microservice/commit/1503d38) added in date flexibility
 * 🔃 Merged [#33 Update master](https://github.com/MediaJel/ai-microservice/pull/33) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
   * 31 files changed `++754 --180`
-* 🔃 Opened [#33 Update master](https://github.com/MediaJel/ai-microservice/pull/33) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-  * 31 files changed `++754 --180`
-* ➡️ Pushed 5 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
-  * [#aa86693](https://github.com/MediaJel/ai-microservice/commit/aa86693) Merge pull request #31 from MediaJel/feat/add-auth
-
-FEAT: Add auth on API routes
-  * [#6412d0a](https://github.com/MediaJel/ai-microservice/commit/6412d0a) change exception
-  * [#8eb99d4](https://github.com/MediaJel/ai-microservice/commit/8eb99d4) add response
-  * [#aa1205f](https://github.com/MediaJel/ai-microservice/commit/aa1205f) add api key auth to assistant route
-  * [#0638f5a](https://github.com/MediaJel/ai-microservice/commit/0638f5a) create auth module
-* 🔃 Merged [#31 FEAT: Add auth on API routes](https://github.com/MediaJel/ai-microservice/pull/31) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-  * 4 files changed `++27 --2`
 
 
 
