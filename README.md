@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `4101` commits and made `169` PRs.
+:people_hugging: I contributed to `52` repositories , made `4101` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4882 [FOR REVIEW] campaign launcher attribution and tag gen enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/4882) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#4882 [FOR REVIEW] campaign launcher attribution and tag gen enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/4882) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🌟 Starred [whylabs/whylogs](https://github.com/whylabs/whylogs)
 * ➡️ Pushed 3 commits in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
   * [#540ad78](https://github.com/MediaJel/jupyter-notebooks-collection/commit/540ad78) Merge pull request #10 from MediaJel/ai-forecasting
@@ -34,39 +36,6 @@ Ai forecasting
   * [#43d6372](https://github.com/MediaJel/jupyter-notebooks-collection/commit/43d6372) Added Openai and Llamaindex
 * 🔃 Merged [#10 Ai forecasting](https://github.com/MediaJel/jupyter-notebooks-collection/pull/10) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
   * 7 files changed `++22272 --36476`
-* ➡️ Pushed 28 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `master`
-  * [#5e0b87f](https://github.com/MediaJel/ai-microservice/commit/5e0b87f) Merge pull request #22 from MediaJel/feat/forecasting
-
-Feat/forecasting
-  * [#2c6669e](https://github.com/MediaJel/ai-microservice/commit/2c6669e) Merge pull request #26 from MediaJel/fix/set-default-root-path
-
-FIX: Temporarily remove root path
-  * [#195ab5f](https://github.com/MediaJel/ai-microservice/commit/195ab5f) remove root-paths temporarily
-  * [#7e411b8](https://github.com/MediaJel/ai-microservice/commit/7e411b8) Update README.md
-  * [#ff275a2](https://github.com/MediaJel/ai-microservice/commit/ff275a2) Merge pull request #25 from MediaJel/eb/bug-specify-target
-
-[BUG] Specify the target to avoid unit test issue
-  * [#31f2493](https://github.com/MediaJel/ai-microservice/commit/31f2493) [BUG] Specify the target to avoid unit test issue
-  * [#6af0c31](https://github.com/MediaJel/ai-microservice/commit/6af0c31) Merge pull request #23 from MediaJel/eb/add-deployment-ai-microservice
-
-[ADD] Deployment Pipeline  of AI microservice
-  * [#654d5c7](https://github.com/MediaJel/ai-microservice/commit/654d5c7) [ADD] Deployment Pipeline  of AI microservice
-  * [#b50173c](https://github.com/MediaJel/ai-microservice/commit/b50173c) cleanup
-  * [#999a4a0](https://github.com/MediaJel/ai-microservice/commit/999a4a0) Revert &#34;[ADD] Deployment Pipeline  of AI microservice&#34;
-
-This reverts commit ba5079354d66b495dd39b3974a53c9fb184e0118.
-  * [#ba50793](https://github.com/MediaJel/ai-microservice/commit/ba50793) [ADD] Deployment Pipeline  of AI microservice
-  * [#29cf85b](https://github.com/MediaJel/ai-microservice/commit/29cf85b) added /forecast api endpoint
-  * [#2fd2938](https://github.com/MediaJel/ai-microservice/commit/2fd2938) added /forecast api endpoint
-  * [#88d21cf](https://github.com/MediaJel/ai-microservice/commit/88d21cf) added /forecast api endpoint
-  * [#6e78e71](https://github.com/MediaJel/ai-microservice/commit/6e78e71) added /forecast api endpoint
-  * [#a235f4f](https://github.com/MediaJel/ai-microservice/commit/a235f4f) added json output
-  * [#7be98e1](https://github.com/MediaJel/ai-microservice/commit/7be98e1) added in dynamic query
-  * [#59af385](https://github.com/MediaJel/ai-microservice/commit/59af385) Update router.py
-  * [#bd7e409](https://github.com/MediaJel/ai-microservice/commit/bd7e409) added in dynamic query
-  * [#1503d38](https://github.com/MediaJel/ai-microservice/commit/1503d38) added in date flexibility
-* 🔃 Merged [#33 Update master](https://github.com/MediaJel/ai-microservice/pull/33) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-  * 31 files changed `++754 --180`
 
 
 
