@@ -25,17 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#3835 Turn Transactions observer into a performance observer](https://github.com/MediaJel/mediajel-gql-service/issues/3835) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#496 Create a list of app ids being shown in failed enrichment dashboard](https://github.com/MediaJel/mediajel/issues/496) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🔍 Reviewed [#4882 [FOR REVIEW] campaign launcher attribution and tag gen enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/4882) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🔍 Reviewed [#4882 [FOR REVIEW] campaign launcher attribution and tag gen enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/4882) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🌟 Starred [whylabs/whylogs](https://github.com/whylabs/whylogs)
-* ➡️ Pushed 3 commits in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#540ad78](https://github.com/MediaJel/jupyter-notebooks-collection/commit/540ad78) Merge pull request #10 from MediaJel/ai-forecasting
-
-Ai forecasting
-  * [#45d43a6](https://github.com/MediaJel/jupyter-notebooks-collection/commit/45d43a6) Update 6. OpenAI and LlamaIndex.ipynb
-  * [#43d6372](https://github.com/MediaJel/jupyter-notebooks-collection/commit/43d6372) Added Openai and Llamaindex
-* 🔃 Merged [#10 Ai forecasting](https://github.com/MediaJel/jupyter-notebooks-collection/pull/10) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
-  * 7 files changed `++22272 --36476`
 
 
 
