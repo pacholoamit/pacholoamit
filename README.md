@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3835 Turn Transactions observer into a performance observer](https://github.com/MediaJel/mediajel-gql-service/issues/3835) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#496 Create a list of app ids being shown in failed enrichment dashboard](https://github.com/MediaJel/mediajel/issues/496) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🔍 Reviewed [#4882 [FOR REVIEW] campaign launcher attribution and tag gen enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/4882) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4882 [FOR REVIEW] campaign launcher attribution and tag gen enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/4882) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [whylabs/whylogs](https://github.com/whylabs/whylogs)
+* 🔍 Reviewed [#285 REFACTOR: Pass Cypress CircleCI test in staging](https://github.com/MediaJel/mediajel-tracker/pull/285) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#283 Bypass adblocker using AWS API Gateway proxy URL for snowplow /sp.js endpoint](https://github.com/MediaJel/mediajel-tracker/pull/283) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#503 Research](https://github.com/MediaJel/mediajel/issues/503) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#92 Improve current attribution algorithm to be more dynamic](https://github.com/MediaJel/jupyter-notebook/issues/92) in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook)
+* #️⃣ Closed [#68 Equativ user sync API endpoint](https://github.com/MediaJel/cookie-sync-pixel/issues/68) in [MediaJel/cookie-sync-pixel](https://github.com/MediaJel/cookie-sync-pixel)
 
 
 
