@@ -25,13 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [apache/skywalking](https://github.com/apache/skywalking)
 * #️⃣ Opened [#286 Allow multiple tags of different configurations to be placed on the same page](https://github.com/MediaJel/mediajel-tracker/issues/286) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * ➡️ Pushed 2 commits in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
   * [#3269383](https://github.com/MediaJel/jupyter-notebooks-collection/commit/3269383) add docs
   * [#eef0311](https://github.com/MediaJel/jupyter-notebooks-collection/commit/eef0311) add step to query graphql server to fetch campaigns
 * 🔍 Reviewed [#285 REFACTOR: Pass Cypress CircleCI test in staging](https://github.com/MediaJel/mediajel-tracker/pull/285) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 🔍 Reviewed [#283 Bypass adblocker using AWS API Gateway proxy URL for snowplow /sp.js endpoint](https://github.com/MediaJel/mediajel-tracker/pull/283) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#503 Research](https://github.com/MediaJel/mediajel/issues/503) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
