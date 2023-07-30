@@ -530,25 +530,25 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,51.912L41,10L72,21.176L103,49.118L134,35.147L165,51.912L196,37.941" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,37.941L165,51.912L134,35.147L103,49.118L72,21.176L41,10L10,51.912Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,49.118L41,10L72,21.176L103,49.118L134,35.147L165,51.912L196,40.735" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,40.735L165,51.912L134,35.147L103,49.118L72,21.176L41,10L10,49.118Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="51.91176470588235" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="10" cy="49.11764705882353" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="21.176470588235297" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="49.11764705882353" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="35.147058823529406" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="51.91176470588235" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="196" cy="37.94117647058823" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="196" cy="40.73529411764706" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="51.91176470588235" fill="rgba(127, 127, 127, .8)">19</text>
+                                    <text transform="translate(10,6)" x="10" y="49.11764705882353" fill="rgba(127, 127, 127, .8)">20</text>
                                     <text transform="translate(10,6)" x="41" y="10" fill="rgba(127, 127, 127, .8)">34</text>
                                     <text transform="translate(10,6)" x="72" y="21.176470588235297" fill="rgba(127, 127, 127, .8)">30</text>
                                     <text transform="translate(10,6)" x="103" y="49.11764705882353" fill="rgba(127, 127, 127, .8)">20</text>
                                     <text transform="translate(10,6)" x="134" y="35.147058823529406" fill="rgba(127, 127, 127, .8)">25</text>
                                     <text transform="translate(10,6)" x="165" y="51.91176470588235" fill="rgba(127, 127, 127, .8)">19</text>
-                                    <text transform="translate(10,6)" x="196" y="37.94117647058823" fill="rgba(127, 127, 127, .8)">24</text>
+                                    <text transform="translate(10,6)" x="196" y="40.73529411764706" fill="rgba(127, 127, 127, .8)">23</text>
                                 </g>
                             </svg>
                         </div>
@@ -558,58 +558,58 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#DA5B0B" d="M0.5,-79.998A80,80,0,1,1,-78.685,14.447L0,0Z">
+                                    <path fill="#DA5B0B" d="M0.5,-79.998A80,80,0,1,1,-78.676,14.493L0,0Z">
                                         <title>Jupyter Notebook
-21.01</title>
+21.00</title>
                                     </path>
-                                    <path fill="#3572A5" d="M-78.859,13.463A80,80,0,0,1,-67.556,-42.851L0,0Z">
+                                    <path fill="#3572A5" d="M-78.851,13.508A80,80,0,0,1,-67.57,-42.829L0,0Z">
                                         <title>Python
 3.41</title>
                                     </path>
-                                    <path fill="#384d54" d="M-67.015,-43.692A80,80,0,0,1,-61.272,-51.437L0,0Z">
+                                    <path fill="#384d54" d="M-67.029,-43.67A80,80,0,0,1,-61.286,-51.42L0,0Z">
                                         <title>Dockerfile
 0.56</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-60.624,-52.199A80,80,0,0,1,-60.286,-52.59L0,0Z">
+                                    <path fill="#3178c6" d="M-60.639,-52.182A80,80,0,0,1,-60.3,-52.573L0,0Z">
                                         <title>TypeScript
 0.03</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-59.623,-53.339A80,80,0,0,1,-58.343,-54.736L0,0Z">
+                                    <path fill="#f1e05a" d="M-59.638,-53.322A80,80,0,0,1,-58.358,-54.72L0,0Z">
                                         <title>JavaScript
 0.11</title>
                                     </path>
-                                    <path fill="#89e051" d="M-57.655,-55.461A80,80,0,0,1,-13.834,-78.795L0,0Z">
+                                    <path fill="#89e051" d="M-57.67,-55.445A80,80,0,0,1,-13.839,-78.794L0,0Z">
                                         <title>Shell
 2.93</title>
                                     </path>
-                                    <path fill="#c22d40" d="M-12.848,-78.961A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#c22d40" d="M-12.853,-78.961A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Scala
 0.72</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(30.652117670805275,25.699176685160694)">
+                                    <text transform="translate(30.659582782045117,25.690270213271845)">
                                         <tspan x="0" y="0em" font-weight="bold">Jupyter Notebook</tspan>
-                                        <tspan x="0" y="1.1em">21.01</tspan>
+                                        <tspan x="0" y="1.1em">21.00</tspan>
                                     </text>
-                                    <text transform="translate(-39.21778389154218,-7.871812157076335)">
+                                    <text transform="translate(-39.22134888458428,-7.854030282200316)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
                                         <tspan x="0" y="1.1em">3.41</tspan>
                                     </text>
-                                    <text transform="translate(-32.13005230198252,-23.825610990525877)">
+                                    <text transform="translate(-32.137311853702414,-23.815817995984897)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(-30.22754383602674,-26.19724400850368)">
+                                    <text transform="translate(-30.2349477665218,-26.188698584612766)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
                                     </text>
-                                    <text transform="translate(-29.493764070230633,-27.020693569365918)">
+                                    <text transform="translate(-29.50125920670623,-27.012510161381353)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-18.800140162150385,-35.30658196262419)">
+                                    <text transform="translate(-18.805916449687874,-35.30350558354452)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                         <tspan x="0" y="1.1em">2.93</tspan>
                                     </text>
-                                    <text transform="translate(-3.3471543643613977,-39.859710958073144)">
+                                    <text transform="translate(-3.3482288404658256,-39.85962071610658)">
                                         <tspan x="0" y="0em" font-weight="bold">Scala</tspan>
                                     </text>
                                 </g>
