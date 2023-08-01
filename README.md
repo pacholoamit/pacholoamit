@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `4104` commits and made `169` PRs.
+:people_hugging: I contributed to `52` repositories , made `4106` commits and made `170` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
 * ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#116bd00](https://github.com/MediaJel/jupyter-notebooks-collection/commit/116bd00) add query to gql for campaign orders adprovider id
-* 🌟 Starred [apache/skywalking](https://github.com/apache/skywalking)
-* #️⃣ Opened [#286 Allow multiple tags of different configurations to be placed on the same page](https://github.com/MediaJel/mediajel-tracker/issues/286) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * [#1937c52](https://github.com/MediaJel/jupyter-notebooks-collection/commit/1937c52) mvp
 * ➡️ Pushed 2 commits in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#3269383](https://github.com/MediaJel/jupyter-notebooks-collection/commit/3269383) add docs
-  * [#eef0311](https://github.com/MediaJel/jupyter-notebooks-collection/commit/eef0311) add step to query graphql server to fetch campaigns
+  * [#0818f21](https://github.com/MediaJel/jupyter-notebooks-collection/commit/0818f21) Merge pull request #11 from MediaJel/ai-forecasting
+
+Added in progress for drops detection
+  * [#2ada075](https://github.com/MediaJel/jupyter-notebooks-collection/commit/2ada075) Added in progress for drops detection
+
+Progress Update for the Drops detection
+Updates for OpenAI and LLamaIndex
+Updates for Langkit
+* 🔃 Merged [#11 Added in progress for drops detection](https://github.com/MediaJel/jupyter-notebooks-collection/pull/11) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
+  * 6 files changed `++35129 --95`
+* 🔃 Opened [#11 Added in progress for drops detection](https://github.com/MediaJel/jupyter-notebooks-collection/pull/11) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
+  * 6 files changed `++35129 --95`
+* 🌟 Starred [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
 
 
 
