@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4927 [FOR REVIEW] [HOTFIX] Jbjm hotfix carts legacy](https://github.com/MediaJel/mediajel-dashboard/pull/4927) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
   * [#1937c52](https://github.com/MediaJel/jupyter-notebooks-collection/commit/1937c52) mvp
 * ➡️ Pushed 2 commits in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
@@ -40,7 +41,6 @@ Updates for Langkit
   * 6 files changed `++35129 --95`
 * 🔃 Opened [#11 Added in progress for drops detection](https://github.com/MediaJel/jupyter-notebooks-collection/pull/11) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
   * 6 files changed `++35129 --95`
-* 🌟 Starred [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
 
 
 
