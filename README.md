@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `4106` commits and made `170` PRs.
+:people_hugging: I contributed to `52` repositories , made `4107` commits and made `171` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
+  * [#8fc88d2](https://github.com/MediaJel/jupyter-notebooks-collection/commit/8fc88d2) deliver on campaign optimizations
 * 🔍 Reviewed [#4927 [FOR REVIEW] [HOTFIX] Jbjm hotfix carts legacy](https://github.com/MediaJel/mediajel-dashboard/pull/4927) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
   * [#1937c52](https://github.com/MediaJel/jupyter-notebooks-collection/commit/1937c52) mvp
@@ -38,8 +40,6 @@ Progress Update for the Drops detection
 Updates for OpenAI and LLamaIndex
 Updates for Langkit
 * 🔃 Merged [#11 Added in progress for drops detection](https://github.com/MediaJel/jupyter-notebooks-collection/pull/11) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
-  * 6 files changed `++35129 --95`
-* 🔃 Opened [#11 Added in progress for drops detection](https://github.com/MediaJel/jupyter-notebooks-collection/pull/11) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
   * 6 files changed `++35129 --95`
 
 
