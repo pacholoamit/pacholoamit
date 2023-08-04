@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `4108` commits and made `171` PRs.
+:people_hugging: I contributed to `52` repositories , made `4111` commits and made `171` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#27bda6c](https://github.com/MediaJel/snowplow-operations/commit/27bda6c) change instance type
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#7a46f1c](https://github.com/MediaJel/snowplow-operations/commit/7a46f1c) change instance type
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#fd1dd72](https://github.com/MediaJel/snowplow-operations/commit/fd1dd72) change instance type
 * #️⃣ Opened [#4945 wordpress plugin next steps](https://github.com/MediaJel/mediajel-dashboard/issues/4945) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#412 Research: Migrate from Asana to Odoo projects for integrations tasks](https://github.com/MediaJel/mediajel/issues/412) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#266 List of Marketplace integrations for our universal tag](https://github.com/MediaJel/mediajel-tracker/issues/266) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#29 make changes to ai-microservice](https://github.com/MediaJel/ai-microservice/issues/29) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 💬 Commented on [#24 Research Open AI functions and llamaindex](https://github.com/MediaJel/ai-microservice/issues/24) from [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 
 
 
