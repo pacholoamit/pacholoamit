@@ -25,14 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#520 Take a look at Shopify Transaction Items to see if Decimal place is the same as Transaction](https://github.com/MediaJel/mediajel/issues/520) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#520 Take a look at Shopify Transaction Items to see if Decimal place is the same as Transaction](https://github.com/MediaJel/mediajel/issues/520) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#3835 Add functionality to campaigns observer to alert in sharp performance decrease](https://github.com/MediaJel/mediajel-gql-service/issues/3835) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3835 Add functionality to campaigns observer to alert in sharp performance decrease](https://github.com/MediaJel/mediajel-gql-service/issues/3835) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
   * [#27bda6c](https://github.com/MediaJel/snowplow-operations/commit/27bda6c) change instance type
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#7a46f1c](https://github.com/MediaJel/snowplow-operations/commit/7a46f1c) change instance type
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#fd1dd72](https://github.com/MediaJel/snowplow-operations/commit/fd1dd72) change instance type
-* #️⃣ Opened [#4945 wordpress plugin next steps](https://github.com/MediaJel/mediajel-dashboard/issues/4945) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#412 Research: Migrate from Asana to Odoo projects for integrations tasks](https://github.com/MediaJel/mediajel/issues/412) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
