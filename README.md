@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `4240` commits and made `170` PRs.
+:people_hugging: I contributed to `51` repositories , made `4241` commits and made `170` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,38 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Merged [#12 Output for Drops Detection](https://github.com/MediaJel/jupyter-notebooks-collection/pull/12) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
+  * 3 files changed `++95699 --988`
+* ➡️ Pushed 18 commits in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
+  * [#133d7c4](https://github.com/MediaJel/jupyter-notebooks-collection/commit/133d7c4) Merge pull request #12 from MediaJel/ai-forecasting
+
+Output for Drops Detection
+  * [#874a9a1](https://github.com/MediaJel/jupyter-notebooks-collection/commit/874a9a1) Merge branch &#39;master&#39; into ai-forecasting
+  * [#5d5b207](https://github.com/MediaJel/jupyter-notebooks-collection/commit/5d5b207) Fixed early end
+
+Fixed the problem where the algorithm early ends if there is 0 data
+  * [#4ea3dee](https://github.com/MediaJel/jupyter-notebooks-collection/commit/4ea3dee) Update .gitignore
+  * [#ca06481](https://github.com/MediaJel/jupyter-notebooks-collection/commit/ca06481) Update .gitignore
+  * [#09e922d](https://github.com/MediaJel/jupyter-notebooks-collection/commit/09e922d) Easy to use output for drops detection
+
+Added at the end
+  * [#cd17805](https://github.com/MediaJel/jupyter-notebooks-collection/commit/cd17805) Output for drops detection
+  * [#0e3bfeb](https://github.com/MediaJel/jupyter-notebooks-collection/commit/0e3bfeb) Output for drops detection
+  * [#17eac14](https://github.com/MediaJel/jupyter-notebooks-collection/commit/17eac14) Output for drops detection
+
+modified the equation to support multiple loops of linear regression
+  * [#7660a4b](https://github.com/MediaJel/jupyter-notebooks-collection/commit/7660a4b) Output for Drops Detection
+  * [#da9cf17](https://github.com/MediaJel/jupyter-notebooks-collection/commit/da9cf17) Output for Drops Detection
+  * [#e401eaf](https://github.com/MediaJel/jupyter-notebooks-collection/commit/e401eaf) Output for Drops Detection
+  * [#2f1e0b5](https://github.com/MediaJel/jupyter-notebooks-collection/commit/2f1e0b5) Update 8. Drops Detection-checkpoint.ipynb
+  * [#fd6cbc0](https://github.com/MediaJel/jupyter-notebooks-collection/commit/fd6cbc0) Update 8. Drops Detection.ipynb
+  * [#8a5c0ef](https://github.com/MediaJel/jupyter-notebooks-collection/commit/8a5c0ef) Changes to Drops Detection
+  * [#c03cb3b](https://github.com/MediaJel/jupyter-notebooks-collection/commit/c03cb3b) Update 8. Drops Detection.ipynb
+  * [#6d125f3](https://github.com/MediaJel/jupyter-notebooks-collection/commit/6d125f3) Update 8. Drops Detection.ipynb
+  * [#b967275](https://github.com/MediaJel/jupyter-notebooks-collection/commit/b967275) added in functions
 * #️⃣ Opened [#532 Campaign Optimizations on the dashboard requirements](https://github.com/MediaJel/mediajel/issues/532) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🔍 Reviewed [#291 [FOR REVIEW] New Tracker URL due to add blocker issue](https://github.com/MediaJel/mediajel-tracker/pull/291) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#520 Take a look at Shopify Transaction Items to see if Decimal place is the same as Transaction](https://github.com/MediaJel/mediajel/issues/520) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#286 Allow multiple tags of different configurations to be placed on the same page](https://github.com/MediaJel/mediajel-tracker/issues/286) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#3835 Add functionality to campaigns observer to alert in sharp performance decrease](https://github.com/MediaJel/mediajel-gql-service/issues/3835) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
