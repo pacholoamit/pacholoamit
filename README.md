@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `4241` commits and made `170` PRs.
+:people_hugging: I contributed to `51` repositories , made `4243` commits and made `170` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Merged [#293 multi tags in one page](https://github.com/MediaJel/mediajel-tracker/pull/293) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 5 files changed `++128 --62`
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#1f22f14](https://github.com/MediaJel/mediajel-tracker/commit/1f22f14) Merge pull request #293 from MediaJel/jbjm-multi-tags-try-v2
+
+multi tags in one page
+  * [#289ce86](https://github.com/MediaJel/mediajel-tracker/commit/289ce86) set sp.js as tracker
+  * [#2acc070](https://github.com/MediaJel/mediajel-tracker/commit/2acc070) multi tags in one page
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `jbjm-multi-tags-try-v2`
+  * [#289ce86](https://github.com/MediaJel/mediajel-tracker/commit/289ce86) set sp.js as tracker
 * 🔃 Merged [#12 Output for Drops Detection](https://github.com/MediaJel/jupyter-notebooks-collection/pull/12) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
   * 3 files changed `++95699 --988`
 * ➡️ Pushed 18 commits in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
@@ -54,9 +64,6 @@ modified the equation to support multiple loops of linear regression
   * [#c03cb3b](https://github.com/MediaJel/jupyter-notebooks-collection/commit/c03cb3b) Update 8. Drops Detection.ipynb
   * [#6d125f3](https://github.com/MediaJel/jupyter-notebooks-collection/commit/6d125f3) Update 8. Drops Detection.ipynb
   * [#b967275](https://github.com/MediaJel/jupyter-notebooks-collection/commit/b967275) added in functions
-* #️⃣ Opened [#532 Campaign Optimizations on the dashboard requirements](https://github.com/MediaJel/mediajel/issues/532) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🔍 Reviewed [#291 [FOR REVIEW] New Tracker URL due to add blocker issue](https://github.com/MediaJel/mediajel-tracker/pull/291) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#520 Take a look at Shopify Transaction Items to see if Decimal place is the same as Transaction](https://github.com/MediaJel/mediajel/issues/520) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
