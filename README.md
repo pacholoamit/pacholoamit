@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch feat/highlight in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🔍 Reviewed [#4882 [FOR REVIEW] campaign launcher attribution and tag gen enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/4882) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#af6e206](https://github.com/MediaJel/mediajel-tracker/commit/af6e206) fix tests
@@ -36,8 +37,6 @@
 multi tags in one page
   * [#289ce86](https://github.com/MediaJel/mediajel-tracker/commit/289ce86) set sp.js as tracker
   * [#2acc070](https://github.com/MediaJel/mediajel-tracker/commit/2acc070) multi tags in one page
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `jbjm-multi-tags-try-v2`
-  * [#289ce86](https://github.com/MediaJel/mediajel-tracker/commit/289ce86) set sp.js as tracker
 
 
 
