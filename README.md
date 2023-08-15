@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `4244` commits and made `168` PRs.
+:people_hugging: I contributed to `49` repositories , made `4244` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,18 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#3947 [HOTFIX] slack channel](https://github.com/MediaJel/mediajel-gql-service/pull/3947) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ⏺️ Created new branch feat/highlight in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🔍 Reviewed [#4882 [FOR REVIEW] campaign launcher attribution and tag gen enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/4882) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#af6e206](https://github.com/MediaJel/mediajel-tracker/commit/af6e206) fix tests
 * 🔃 Merged [#293 multi tags in one page](https://github.com/MediaJel/mediajel-tracker/pull/293) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 5 files changed `++128 --62`
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#1f22f14](https://github.com/MediaJel/mediajel-tracker/commit/1f22f14) Merge pull request #293 from MediaJel/jbjm-multi-tags-try-v2
-
-multi tags in one page
-  * [#289ce86](https://github.com/MediaJel/mediajel-tracker/commit/289ce86) set sp.js as tracker
-  * [#2acc070](https://github.com/MediaJel/mediajel-tracker/commit/2acc070) multi tags in one page
 
 
 
