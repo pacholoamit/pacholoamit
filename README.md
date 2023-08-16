@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#551 Take a look at spike in failed enrichments](https://github.com/MediaJel/mediajel/issues/551) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#412 Research: Migrate from Asana to Odoo projects for integrations tasks](https://github.com/MediaJel/mediajel/issues/412) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 🔍 Reviewed [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#3947 [HOTFIX] slack channel](https://github.com/MediaJel/mediajel-gql-service/pull/3947) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
