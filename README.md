@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#37 AI Microservice requirements](https://github.com/MediaJel/ai-microservice/issues/37) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 * 💬 Commented on [#466 Update Tag generator in the dashboard with the new ecommerce menus on the mediajel tracker](https://github.com/MediaJel/mediajel/issues/466) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#5012 Consolidate logic of determining &#34;friendly name&#34; of Cart Providers in the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/5012) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#532 Campaign Optimizations on the dashboard requirements](https://github.com/MediaJel/mediajel/issues/532) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Closed [#290 Bypass Avast Web shield malware for our tracker](https://github.com/MediaJel/mediajel-tracker/issues/290) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#520 Take a look at Shopify Transaction Items to see if Decimal place is the same as Transaction](https://github.com/MediaJel/mediajel/issues/520) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
