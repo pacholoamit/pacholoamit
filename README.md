@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#551 Take a look at spike in failed enrichments](https://github.com/MediaJel/mediajel/issues/551) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#412 Research: Migrate from Asana to Odoo projects for integrations tasks](https://github.com/MediaJel/mediajel/issues/412) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🔍 Reviewed [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#466 Update Tag generator in the dashboard with the new ecommerce menus on the mediajel tracker](https://github.com/MediaJel/mediajel/issues/466) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#5012 Consolidate logic of determining &#34;friendly name&#34; of Cart Providers in the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/5012) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#532 Campaign Optimizations on the dashboard requirements](https://github.com/MediaJel/mediajel/issues/532) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#290 Bypass Avast Web shield malware for our tracker](https://github.com/MediaJel/mediajel-tracker/issues/290) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#520 Take a look at Shopify Transaction Items to see if Decimal place is the same as Transaction](https://github.com/MediaJel/mediajel/issues/520) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
