@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `4244` commits and made `168` PRs.
+:people_hugging: I contributed to `49` repositories , made `4244` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#37 AI Microservice requirements](https://github.com/MediaJel/ai-microservice/issues/37) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 💬 Commented on [#466 Update Tag generator in the dashboard with the new ecommerce menus on the mediajel tracker](https://github.com/MediaJel/mediajel/issues/466) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#5012 Consolidate logic of determining &#34;friendly name&#34; of Cart Providers in the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/5012) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#532 Campaign Optimizations on the dashboard requirements](https://github.com/MediaJel/mediajel/issues/532) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#290 Bypass Avast Web shield malware for our tracker](https://github.com/MediaJel/mediajel-tracker/issues/290) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `feat/highlight`
+  * [#719b285](https://github.com/MediaJel/mediajel-dashboard/commit/719b285) add if statement to set default environment if none specified
+* 🔃 Opened [#5019 Add Highlight.io Session Replay and error monitoring to dashboard](https://github.com/MediaJel/mediajel-dashboard/pull/5019) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 1 file changed `++20 --0`
+* #️⃣ Opened [#38 Create separate API routes on api-microservice `/docs/internal` and `/docs/public`](https://github.com/MediaJel/ai-microservice/issues/38) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* 🔍 Reviewed [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
