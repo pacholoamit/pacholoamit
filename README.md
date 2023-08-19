@@ -25,13 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* 🔍 Reviewed [#553 [FOR REVIEW] add custom javascript enrichment](https://github.com/MediaJel/mediajel/pull/553) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `feat/highlight`
   * [#719b285](https://github.com/MediaJel/mediajel-dashboard/commit/719b285) add if statement to set default environment if none specified
-* 🔃 Opened [#5019 Add Highlight.io Session Replay and error monitoring to dashboard](https://github.com/MediaJel/mediajel-dashboard/pull/5019) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 1 file changed `++20 --0`
-* #️⃣ Opened [#38 Create separate API routes on api-microservice `/docs/internal` and `/docs/public`](https://github.com/MediaJel/ai-microservice/issues/38) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 🔍 Reviewed [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3946 [FOR REVIEW] ICF schema editorial](https://github.com/MediaJel/mediajel-gql-service/pull/3946) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
