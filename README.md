@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `4246` commits and made `168` PRs.
+:people_hugging: I contributed to `46` repositories , made `4246` commits and made `168` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [jaku/SnapCameraPreservation](https://github.com/jaku/SnapCameraPreservation)
 * 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 * 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 * 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 * 🔍 Reviewed [#553 [FOR REVIEW] add custom javascript enrichment](https://github.com/MediaJel/mediajel/pull/553) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `feat/highlight`
-  * [#719b285](https://github.com/MediaJel/mediajel-dashboard/commit/719b285) add if statement to set default environment if none specified
 
 
 
