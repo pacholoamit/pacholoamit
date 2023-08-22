@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [jaku/SnapCameraPreservation](https://github.com/jaku/SnapCameraPreservation)
-* 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 🔍 Reviewed [#553 [FOR REVIEW] add custom javascript enrichment](https://github.com/MediaJel/mediajel/pull/553) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#558 Self host Highlight.io](https://github.com/MediaJel/mediajel/issues/558) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
