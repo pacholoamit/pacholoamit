@@ -25,11 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management) on branch `staging`
+  * [#e7d2a51](https://github.com/MediaJel/mj-snowplow-management/commit/e7d2a51) Merge pull request #87 from MediaJel/custom-javascript-schema
+
+[FOR REVIEW] add custom javascript schema
+  * [#1a64b4b](https://github.com/MediaJel/mj-snowplow-management/commit/1a64b4b) add custom javascript schema
+* 🔃 Merged [#87 [FOR REVIEW] add custom javascript schema](https://github.com/MediaJel/mj-snowplow-management/pull/87) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
+  * 1 file changed `++12 --0`
 * 💬 Commented on [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 🔍 Reviewed [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#558 Self host Highlight.io](https://github.com/MediaJel/mediajel/issues/558) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
