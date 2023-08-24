@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `4248` commits and made `169` PRs.
+:people_hugging: I contributed to `46` repositories , made `4249` commits and made `170` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#90 Add n3pc manually in sign up schema](https://github.com/MediaJel/mj-snowplow-management/pull/90) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
+  * 1 file changed `++3 --0`
+* ⏺️ Created new branch fix/add-n3pc-manually in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
 * 🔃 Opened [#88 set additional properties to true](https://github.com/MediaJel/mj-snowplow-management/pull/88) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
   * 1 file changed `++1 --1`
 * ⏺️ Created new branch fix/set-addtl-properties-to-true in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
 * 💬 Commented on [#38 Create separate API routes on api-microservice `/docs/internal` and `/docs/public`](https://github.com/MediaJel/ai-microservice/issues/38) from [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 💬 Commented on [#5012 Consolidate logic of determining &#34;friendly name&#34; of Cart Providers in the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/5012) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#520 Take a look at Shopify Transaction Items to see if Decimal place is the same as Transaction](https://github.com/MediaJel/mediajel/issues/520) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
