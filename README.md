@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `4246` commits and made `168` PRs.
+:people_hugging: I contributed to `46` repositories , made `4248` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management) on branch `staging`
-  * [#e7d2a51](https://github.com/MediaJel/mj-snowplow-management/commit/e7d2a51) Merge pull request #87 from MediaJel/custom-javascript-schema
-
-[FOR REVIEW] add custom javascript schema
-  * [#1a64b4b](https://github.com/MediaJel/mj-snowplow-management/commit/1a64b4b) add custom javascript schema
-* 🔃 Merged [#87 [FOR REVIEW] add custom javascript schema](https://github.com/MediaJel/mj-snowplow-management/pull/87) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
-  * 1 file changed `++12 --0`
-* 💬 Commented on [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#318 FOR REVIEW SYNC Main to Staging](https://github.com/MediaJel/mediajel-tracker/pull/318) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔃 Opened [#88 set additional properties to true](https://github.com/MediaJel/mj-snowplow-management/pull/88) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
+  * 1 file changed `++1 --1`
+* ⏺️ Created new branch fix/set-addtl-properties-to-true in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
+* 💬 Commented on [#38 Create separate API routes on api-microservice `/docs/internal` and `/docs/public`](https://github.com/MediaJel/ai-microservice/issues/38) from [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* 💬 Commented on [#5012 Consolidate logic of determining &#34;friendly name&#34; of Cart Providers in the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/5012) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#520 Take a look at Shopify Transaction Items to see if Decimal place is the same as Transaction](https://github.com/MediaJel/mediajel/issues/520) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
