@@ -25,13 +25,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#90 Add n3pc manually in sign up schema](https://github.com/MediaJel/mj-snowplow-management/pull/90) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
-  * 1 file changed `++3 --0`
-* ⏺️ Created new branch fix/add-n3pc-manually in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
-* 🔃 Opened [#88 set additional properties to true](https://github.com/MediaJel/mj-snowplow-management/pull/88) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
-  * 1 file changed `++1 --1`
-* ⏺️ Created new branch fix/set-addtl-properties-to-true in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
-* 💬 Commented on [#38 Create separate API routes on api-microservice `/docs/internal` and `/docs/public`](https://github.com/MediaJel/ai-microservice/issues/38) from [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* ➡️ Pushed 9 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
+  * [#5a6c116](https://github.com/MediaJel/ai-microservice/commit/5a6c116) Merge pull request #36 from MediaJel/feat/detection
+
+Drops Detection Algorithm
+  * [#4b3a1b4](https://github.com/MediaJel/ai-microservice/commit/4b3a1b4) removed /public redirect
+  * [#6737db1](https://github.com/MediaJel/ai-microservice/commit/6737db1) Changes to route, redirect, and description
+  * [#3b54a96](https://github.com/MediaJel/ai-microservice/commit/3b54a96) Changes to route, redirect, and description
+  * [#1069042](https://github.com/MediaJel/ai-microservice/commit/1069042) Seperated endpoints
+  * [#9167d27](https://github.com/MediaJel/ai-microservice/commit/9167d27) Added configs
+  * [#4114cd2](https://github.com/MediaJel/ai-microservice/commit/4114cd2) added in drops detection
+  * [#3f041b3](https://github.com/MediaJel/ai-microservice/commit/3f041b3) poetry added snowflake python connector
+  * [#c6c7c44](https://github.com/MediaJel/ai-microservice/commit/c6c7c44) new branch for drops detection pre-commit test
+* 🔃 Merged [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 14 files changed `++923 --17`
+* 💬 Commented on [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) from [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 
 
 
