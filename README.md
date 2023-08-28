@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `4249` commits and made `168` PRs.
+:people_hugging: I contributed to `45` repositories , made `4252` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#a3092ac](https://github.com/MediaJel/snowplow-operations/commit/a3092ac) complete eaze signup recovery
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#f9d512f](https://github.com/MediaJel/snowplow-operations/commit/f9d512f) add eaze signup recovery
 * ➡️ Pushed 9 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
   * [#5a6c116](https://github.com/MediaJel/ai-microservice/commit/5a6c116) Merge pull request #36 from MediaJel/feat/detection
 
@@ -40,8 +44,6 @@ Drops Detection Algorithm
 * 🔃 Merged [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
   * 14 files changed `++923 --17`
 * 💬 Commented on [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) from [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* 🔍 Reviewed [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 
 
 
