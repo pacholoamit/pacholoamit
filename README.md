@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `4255` commits and made `171` PRs.
+:people_hugging: I contributed to `46` repositories , made `4258` commits and made `171` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `main`
+  * [#3618bac](https://github.com/pacholoamit/fuel-connect/commit/3618bac) change eas project id
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `main`
+  * [#dda5002](https://github.com/pacholoamit/fuel-connect/commit/dda5002) change app
 * ➡️ Pushed 1 commit in [pacholoamit/fuelfinds](https://github.com/pacholoamit/fuelfinds) on branch `main`
   * [#6cabd4c](https://github.com/pacholoamit/fuelfinds/commit/6cabd4c) add app config
 * ⏺️ Created new branch main in [pacholoamit/fuelfinds](https://github.com/pacholoamit/fuelfinds)
 * ⏺️ Created new repository  [pacholoamit/fuelfinds](https://github.com/pacholoamit/fuelfinds)
-* ⏺️ Created new repository  [pacholoamit/fuel-finds](https://github.com/pacholoamit/fuel-finds)
-* 🌟 Starred [tamagui/tamagui](https://github.com/tamagui/tamagui)
 
 
 
