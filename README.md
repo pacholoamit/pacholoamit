@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `4252` commits and made `169` PRs.
+:people_hugging: I contributed to `46` repositories , made `4255` commits and made `171` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,25 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#a3092ac](https://github.com/MediaJel/snowplow-operations/commit/a3092ac) complete eaze signup recovery
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#f9d512f](https://github.com/MediaJel/snowplow-operations/commit/f9d512f) add eaze signup recovery
-* ➡️ Pushed 9 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
-  * [#5a6c116](https://github.com/MediaJel/ai-microservice/commit/5a6c116) Merge pull request #36 from MediaJel/feat/detection
-
-Drops Detection Algorithm
-  * [#4b3a1b4](https://github.com/MediaJel/ai-microservice/commit/4b3a1b4) removed /public redirect
-  * [#6737db1](https://github.com/MediaJel/ai-microservice/commit/6737db1) Changes to route, redirect, and description
-  * [#3b54a96](https://github.com/MediaJel/ai-microservice/commit/3b54a96) Changes to route, redirect, and description
-  * [#1069042](https://github.com/MediaJel/ai-microservice/commit/1069042) Seperated endpoints
-  * [#9167d27](https://github.com/MediaJel/ai-microservice/commit/9167d27) Added configs
-  * [#4114cd2](https://github.com/MediaJel/ai-microservice/commit/4114cd2) added in drops detection
-  * [#3f041b3](https://github.com/MediaJel/ai-microservice/commit/3f041b3) poetry added snowflake python connector
-  * [#c6c7c44](https://github.com/MediaJel/ai-microservice/commit/c6c7c44) new branch for drops detection pre-commit test
-* 🔃 Merged [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-  * 14 files changed `++923 --17`
-* 💬 Commented on [#36 Drops Detection Algorithm](https://github.com/MediaJel/ai-microservice/pull/36) from [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* ➡️ Pushed 1 commit in [pacholoamit/fuelfinds](https://github.com/pacholoamit/fuelfinds) on branch `main`
+  * [#6cabd4c](https://github.com/pacholoamit/fuelfinds/commit/6cabd4c) add app config
+* ⏺️ Created new branch main in [pacholoamit/fuelfinds](https://github.com/pacholoamit/fuelfinds)
+* ⏺️ Created new repository  [pacholoamit/fuelfinds](https://github.com/pacholoamit/fuelfinds)
+* ⏺️ Created new repository  [pacholoamit/fuel-finds](https://github.com/pacholoamit/fuel-finds)
+* 🌟 Starred [tamagui/tamagui](https://github.com/tamagui/tamagui)
 
 
 
