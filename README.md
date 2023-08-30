@@ -25,14 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `main`
-  * [#3618bac](https://github.com/pacholoamit/fuel-connect/commit/3618bac) change eas project id
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `main`
-  * [#dda5002](https://github.com/pacholoamit/fuel-connect/commit/dda5002) change app
-* ➡️ Pushed 1 commit in [pacholoamit/fuelfinds](https://github.com/pacholoamit/fuelfinds) on branch `main`
-  * [#6cabd4c](https://github.com/pacholoamit/fuelfinds/commit/6cabd4c) add app config
-* ⏺️ Created new branch main in [pacholoamit/fuelfinds](https://github.com/pacholoamit/fuelfinds)
-* ⏺️ Created new repository  [pacholoamit/fuelfinds](https://github.com/pacholoamit/fuelfinds)
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `staging`
+  * [#26b0866](https://github.com/pacholoamit/fuel-connect/commit/26b0866) change eas cmd
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `staging`
+  * [#6bdd54c](https://github.com/pacholoamit/fuel-connect/commit/6bdd54c) modify staging-ci
+* ➡️ Pushed 2 commits in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `staging`
+  * [#534e703](https://github.com/pacholoamit/fuel-connect/commit/534e703) modify staging-ci
+  * [#38b36a0](https://github.com/pacholoamit/fuel-connect/commit/38b36a0) modify staging-ci
+* ⏺️ Created new branch staging in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect)
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `feat/add-navigation`
+  * [#529187e](https://github.com/pacholoamit/fuel-connect/commit/529187e) app.json
 
 
 
