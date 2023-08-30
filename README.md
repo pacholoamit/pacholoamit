@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `4258` commits and made `171` PRs.
+:people_hugging: I contributed to `46` repositories , made `4270` commits and made `171` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,15 +26,24 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `staging`
-  * [#26b0866](https://github.com/pacholoamit/fuel-connect/commit/26b0866) change eas cmd
+  * [#95d0d30](https://github.com/pacholoamit/fuel-connect/commit/95d0d30) add notifications
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `main`
+  * [#6dd287a](https://github.com/pacholoamit/fuel-connect/commit/6dd287a) create cross-platform ui component
 * ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `staging`
+  * [#6dd287a](https://github.com/pacholoamit/fuel-connect/commit/6dd287a) create cross-platform ui component
+* ⏺️ Created new branch feat/modify-nav in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect)
+* ➡️ Pushed 11 commits in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `main`
+  * [#8c19800](https://github.com/pacholoamit/fuel-connect/commit/8c19800) add branch
+  * [#26b0866](https://github.com/pacholoamit/fuel-connect/commit/26b0866) change eas cmd
   * [#6bdd54c](https://github.com/pacholoamit/fuel-connect/commit/6bdd54c) modify staging-ci
-* ➡️ Pushed 2 commits in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `staging`
   * [#534e703](https://github.com/pacholoamit/fuel-connect/commit/534e703) modify staging-ci
   * [#38b36a0](https://github.com/pacholoamit/fuel-connect/commit/38b36a0) modify staging-ci
-* ⏺️ Created new branch staging in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect)
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `feat/add-navigation`
+  * [#94bac01](https://github.com/pacholoamit/fuel-connect/commit/94bac01) add to workflow
+  * [#8bb55dd](https://github.com/pacholoamit/fuel-connect/commit/8bb55dd) add CI
   * [#529187e](https://github.com/pacholoamit/fuel-connect/commit/529187e) app.json
+  * [#da2a8c4](https://github.com/pacholoamit/fuel-connect/commit/da2a8c4) add nav pages and icons
+  * [#b538f00](https://github.com/pacholoamit/fuel-connect/commit/b538f00) add navigation
+  * [#2419c52](https://github.com/pacholoamit/fuel-connect/commit/2419c52) scaffold and remove dead code
 
 
 
