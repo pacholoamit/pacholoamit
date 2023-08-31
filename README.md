@@ -25,11 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `staging`
+  * [#1a95ab4](https://github.com/pacholoamit/fuel-connect/commit/1a95ab4) cleanup
+* ➡️ Pushed 2 commits in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect) on branch `staging`
+  * [#f29c872](https://github.com/pacholoamit/fuel-connect/commit/f29c872) add cards
+  * [#233daee](https://github.com/pacholoamit/fuel-connect/commit/233daee) add Card
+* ⏺️ Created new branch feat/add-home in [pacholoamit/fuel-connect](https://github.com/pacholoamit/fuel-connect)
 * #️⃣ Opened [#5092 Configure Sourcemaps in CI for highlight.io for better error details](https://github.com/MediaJel/mediajel-dashboard/issues/5092) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#5087 Fix issue where if app id is selected with shopify cart, that the default cart would be &#34;Shopify Legacy&#34;](https://github.com/MediaJel/mediajel-dashboard/issues/5087) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#5087 Fix issue where if app id is selected with shopify cart, that the default cart would be &#34;Shopify Legacy&#34;](https://github.com/MediaJel/mediajel-dashboard/issues/5087) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#5087 Fix issue where if app id is selected with shopify cart, that the default cart would be &#34;Shopify Legacy&#34;](https://github.com/MediaJel/mediajel-dashboard/issues/5087) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#5075 Associate user in highlight.io](https://github.com/MediaJel/mediajel-dashboard/issues/5075) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
