@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `4270` commits and made `171` PRs.
+:people_hugging: I contributed to `45` repositories , made `4270` commits and made `172` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [marmelab/react-admin](https://github.com/marmelab/react-admin)
-* 💬 Commented on [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔃 Opened [#44 Update Master](https://github.com/MediaJel/ai-microservice/pull/44) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 23 files changed `++1183 --69`
+* ➡️ Pushed 5 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
+  * [#2c9806d](https://github.com/MediaJel/ai-microservice/commit/2c9806d) Merge pull request #43 from MediaJel/feat/detection
+
+Seperated endpoints, math functions / Added logging, new event
+  * [#3dd40f2](https://github.com/MediaJel/ai-microservice/commit/3dd40f2) Seperated math, Added Logging and new event
+  * [#cc8ce1d](https://github.com/MediaJel/ai-microservice/commit/cc8ce1d) bug fix for out of days when checking for drops
+  * [#c3dbb3e](https://github.com/MediaJel/ai-microservice/commit/c3dbb3e) bug fix for out of days when checking for drops
+  * [#91a54c2](https://github.com/MediaJel/ai-microservice/commit/91a54c2) seperated endpoint for alerts
+* 🔃 Merged [#43 Seperated endpoints, math functions / Added logging, new event](https://github.com/MediaJel/ai-microservice/pull/43) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 5 files changed `++296 --122`
+* 🔍 Reviewed [#43 Seperated endpoints, math functions / Added logging, new event](https://github.com/MediaJel/ai-microservice/pull/43) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* #️⃣ Opened [#567 Requirements Gathering on Inhouse Docusign implementation](https://github.com/MediaJel/mediajel/issues/567) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
