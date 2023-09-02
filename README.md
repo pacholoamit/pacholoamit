@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `4270` commits and made `172` PRs.
+:people_hugging: I contributed to `46` repositories , made `4271` commits and made `172` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,6 +25,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch feat/cleanup in [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt)
+* ⏺️ Created new branch main in [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt)
+* ⏺️ Created new repository  [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt)
 * 🔃 Opened [#44 Update Master](https://github.com/MediaJel/ai-microservice/pull/44) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
   * 23 files changed `++1183 --69`
 * ➡️ Pushed 5 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
@@ -35,10 +38,6 @@ Seperated endpoints, math functions / Added logging, new event
   * [#cc8ce1d](https://github.com/MediaJel/ai-microservice/commit/cc8ce1d) bug fix for out of days when checking for drops
   * [#c3dbb3e](https://github.com/MediaJel/ai-microservice/commit/c3dbb3e) bug fix for out of days when checking for drops
   * [#91a54c2](https://github.com/MediaJel/ai-microservice/commit/91a54c2) seperated endpoint for alerts
-* 🔃 Merged [#43 Seperated endpoints, math functions / Added logging, new event](https://github.com/MediaJel/ai-microservice/pull/43) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-  * 5 files changed `++296 --122`
-* 🔍 Reviewed [#43 Seperated endpoints, math functions / Added logging, new event](https://github.com/MediaJel/ai-microservice/pull/43) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* #️⃣ Opened [#567 Requirements Gathering on Inhouse Docusign implementation](https://github.com/MediaJel/mediajel/issues/567) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
