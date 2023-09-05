@@ -25,19 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4002 REFACTOR: Rename file &#34;test.ts&#34; into &#34;run.ts&#34;](https://github.com/MediaJel/mediajel-gql-service/pull/4002) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ⏺️ Created new branch feat/cleanup in [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt)
 * ⏺️ Created new branch main in [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt)
 * ⏺️ Created new repository  [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt)
 * 🔃 Opened [#44 Update Master](https://github.com/MediaJel/ai-microservice/pull/44) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
   * 23 files changed `++1183 --69`
-* ➡️ Pushed 5 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
-  * [#2c9806d](https://github.com/MediaJel/ai-microservice/commit/2c9806d) Merge pull request #43 from MediaJel/feat/detection
-
-Seperated endpoints, math functions / Added logging, new event
-  * [#3dd40f2](https://github.com/MediaJel/ai-microservice/commit/3dd40f2) Seperated math, Added Logging and new event
-  * [#cc8ce1d](https://github.com/MediaJel/ai-microservice/commit/cc8ce1d) bug fix for out of days when checking for drops
-  * [#c3dbb3e](https://github.com/MediaJel/ai-microservice/commit/c3dbb3e) bug fix for out of days when checking for drops
-  * [#91a54c2](https://github.com/MediaJel/ai-microservice/commit/91a54c2) seperated endpoint for alerts
 
 
 
