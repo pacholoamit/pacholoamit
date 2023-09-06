@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `4273` commits and made `169` PRs.
+:people_hugging: I contributed to `46` repositories , made `4278` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,12 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
-  * [#aed064e](https://github.com/pacholoamit/fuel-sure/commit/aed064e) add provider
-* ⏺️ Created new branch master in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-* ⏺️ Created new repository  [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt) on branch `feat/cleanup`
-  * [#b40fd1c](https://github.com/pacholoamit/fuel-connect-mgmt/commit/b40fd1c) checkpoint
-* 💬 Commented on [#491 Test snowplow custom api enrichment together with Equative api in Snowplow Micro](https://github.com/MediaJel/mediajel/issues/491) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+  * [#940ac74](https://github.com/pacholoamit/fuel-sure/commit/940ac74) create admin section
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
+  * [#0eebda5](https://github.com/pacholoamit/fuel-sure/commit/0eebda5) create admin views
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
+  * [#eba45f2](https://github.com/pacholoamit/fuel-sure/commit/eba45f2) cleanup
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
+  * [#535acd8](https://github.com/pacholoamit/fuel-sure/commit/535acd8) cleanup
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
+  * [#a81dc02](https://github.com/pacholoamit/fuel-sure/commit/a81dc02) add provider branches
 
 
 
