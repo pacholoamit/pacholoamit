@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `4271` commits and made `169` PRs.
+:people_hugging: I contributed to `46` repositories , made `4273` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#4002 REFACTOR: Rename file &#34;test.ts&#34; into &#34;run.ts&#34;](https://github.com/MediaJel/mediajel-gql-service/pull/4002) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ⏺️ Created new branch feat/cleanup in [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt)
-* ⏺️ Created new branch main in [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt)
-* ⏺️ Created new repository  [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt)
-* 🔃 Opened [#44 Update Master](https://github.com/MediaJel/ai-microservice/pull/44) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-  * 23 files changed `++1183 --69`
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
+  * [#aed064e](https://github.com/pacholoamit/fuel-sure/commit/aed064e) add provider
+* ⏺️ Created new branch master in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
+* ⏺️ Created new repository  [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-connect-mgmt](https://github.com/pacholoamit/fuel-connect-mgmt) on branch `feat/cleanup`
+  * [#b40fd1c](https://github.com/pacholoamit/fuel-connect-mgmt/commit/b40fd1c) checkpoint
+* 💬 Commented on [#491 Test snowplow custom api enrichment together with Equative api in Snowplow Micro](https://github.com/MediaJel/mediajel/issues/491) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
