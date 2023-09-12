@@ -25,17 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🌟 Starred [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)
 * 🌟 Starred [MartinBlackburn/kill-switch](https://github.com/MartinBlackburn/kill-switch)
-* ➡️ Pushed 5 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
-  * [#8e4e4cd](https://github.com/pacholoamit/fuel-sure/commit/8e4e4cd) add ph
-  * [#71d8ff6](https://github.com/pacholoamit/fuel-sure/commit/71d8ff6) modify CI manifest
-  * [#f4a1c50](https://github.com/pacholoamit/fuel-sure/commit/f4a1c50) modify CI manifest
-  * [#3b85ed4](https://github.com/pacholoamit/fuel-sure/commit/3b85ed4) modify CI manifest
-  * [#4acae70](https://github.com/pacholoamit/fuel-sure/commit/4acae70) create deployments
-* ⏺️ Created new branch feat/add-signup-fields in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
-  * [#8e4e4cd](https://github.com/pacholoamit/fuel-sure/commit/8e4e4cd) add ph
 
 
 
