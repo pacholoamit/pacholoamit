@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch eaze-signup in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🌟 Starred [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)
-* 🌟 Starred [MartinBlackburn/kill-switch](https://github.com/MartinBlackburn/kill-switch)
 
 
 
