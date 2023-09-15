@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `4284` commits and made `168` PRs.
+:people_hugging: I contributed to `46` repositories , made `4285` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#92 add signup schema v3.0](https://github.com/MediaJel/mj-snowplow-management/pull/92) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
+  * 1 file changed `++51 --0`
+* ⏺️ Created new branch feat/add-signup-schema in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
 * 💬 Commented on [#5102 Improve ThirdParty tag generation workflow](https://github.com/MediaJel/mediajel-dashboard/issues/5102) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#5012 Consolidate logic of determining &#34;friendly name&#34; of Cart Providers in the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/5012) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#5087 Fix issue where if app id is selected with shopify cart, that the default cart would be &#34;Shopify Legacy&#34;](https://github.com/MediaJel/mediajel-dashboard/issues/5087) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#286 Allow multiple tags of different configurations to be placed on the same page](https://github.com/MediaJel/mediajel-tracker/issues/286) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#4368 Add Checkmark if &#34;pageview&#34; , &#34;signup&#34;, and &#34;transaction&#34; is not 0 on app id in self-service tag generator](https://github.com/MediaJel/mediajel-dashboard/issues/4368) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
