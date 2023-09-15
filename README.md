@@ -25,12 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 * 🔃 Opened [#92 add signup schema v3.0](https://github.com/MediaJel/mj-snowplow-management/pull/92) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
   * 1 file changed `++51 --0`
 * ⏺️ Created new branch feat/add-signup-schema in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
 * 💬 Commented on [#5102 Improve ThirdParty tag generation workflow](https://github.com/MediaJel/mediajel-dashboard/issues/5102) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#5012 Consolidate logic of determining &#34;friendly name&#34; of Cart Providers in the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/5012) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#5087 Fix issue where if app id is selected with shopify cart, that the default cart would be &#34;Shopify Legacy&#34;](https://github.com/MediaJel/mediajel-dashboard/issues/5087) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
