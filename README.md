@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `4285` commits and made `169` PRs.
+:people_hugging: I contributed to `44` repositories , made `4285` commits and made `170` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-* 🔃 Opened [#92 add signup schema v3.0](https://github.com/MediaJel/mj-snowplow-management/pull/92) in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
-  * 1 file changed `++51 --0`
-* ⏺️ Created new branch feat/add-signup-schema in [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
-* 💬 Commented on [#5102 Improve ThirdParty tag generation workflow](https://github.com/MediaJel/mediajel-dashboard/issues/5102) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#5012 Consolidate logic of determining &#34;friendly name&#34; of Cart Providers in the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/5012) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/customize-provider-branch`
+  * [#4ad66c1](https://github.com/pacholoamit/fuel-sure/commit/4ad66c1) remove useGetProvinces
+* 🔃 Opened [#1 Feat/customize provider branch](https://github.com/pacholoamit/fuel-sure/pull/1) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
+  * 16 files changed `++973 --174`
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/customize-provider-branch`
+  * [#7587456](https://github.com/pacholoamit/fuel-sure/commit/7587456) changes
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/customize-provider-branch`
+  * [#997530c](https://github.com/pacholoamit/fuel-sure/commit/997530c) add error handling
+* ➡️ Pushed 2 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/customize-provider-branch`
+  * [#35728d8](https://github.com/pacholoamit/fuel-sure/commit/35728d8) modify redirect
+  * [#a6df4eb](https://github.com/pacholoamit/fuel-sure/commit/a6df4eb) create user
 
 
 
