@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch feat/implement-user-creation in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
 * ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/customize-provider-branch`
   * [#4ad66c1](https://github.com/pacholoamit/fuel-sure/commit/4ad66c1) remove useGetProvinces
 * 🔃 Opened [#1 Feat/customize provider branch](https://github.com/pacholoamit/fuel-sure/pull/1) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
@@ -33,9 +34,6 @@
   * [#7587456](https://github.com/pacholoamit/fuel-sure/commit/7587456) changes
 * ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/customize-provider-branch`
   * [#997530c](https://github.com/pacholoamit/fuel-sure/commit/997530c) add error handling
-* ➡️ Pushed 2 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/customize-provider-branch`
-  * [#35728d8](https://github.com/pacholoamit/fuel-sure/commit/35728d8) modify redirect
-  * [#a6df4eb](https://github.com/pacholoamit/fuel-sure/commit/a6df4eb) create user
 
 
 
