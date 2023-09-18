@@ -25,15 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
+* ➡️ Pushed 3 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/implement-user-creation`
+  * [#7174308](https://github.com/pacholoamit/fuel-sure/commit/7174308) add redirect
+  * [#d2d254d](https://github.com/pacholoamit/fuel-sure/commit/d2d254d) change employee_id to label
+  * [#2a470d4](https://github.com/pacholoamit/fuel-sure/commit/2a470d4) implement password approach
 * ⏺️ Created new branch feat/implement-user-creation in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
 * ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/customize-provider-branch`
   * [#4ad66c1](https://github.com/pacholoamit/fuel-sure/commit/4ad66c1) remove useGetProvinces
 * 🔃 Opened [#1 Feat/customize provider branch](https://github.com/pacholoamit/fuel-sure/pull/1) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
   * 16 files changed `++973 --174`
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/customize-provider-branch`
-  * [#7587456](https://github.com/pacholoamit/fuel-sure/commit/7587456) changes
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/customize-provider-branch`
-  * [#997530c](https://github.com/pacholoamit/fuel-sure/commit/997530c) add error handling
 
 
 
