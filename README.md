@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#4047 [FOR REVIEW] ICF Remove dupes on basket items](https://github.com/MediaJel/mediajel-gql-service/pull/4047) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4047 [FOR REVIEW] ICF Remove dupes on basket items](https://github.com/MediaJel/mediajel-gql-service/pull/4047) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4047 [FOR REVIEW] ICF Remove dupes on basket items](https://github.com/MediaJel/mediajel-gql-service/pull/4047) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#5230 Shopify tag side-effects on Campaign launcher](https://github.com/MediaJel/mediajel-dashboard/issues/5230) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#338 Investigate possible Shopify duplicate transaction item values](https://github.com/MediaJel/mediajel-tracker/issues/338) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#47 LLM eco system research](https://github.com/MediaJel/ai-microservice/issues/47) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* #️⃣ Opened [#5233 Paid Search / SEO integration automated via OAuth2.0](https://github.com/MediaJel/mediajel-dashboard/issues/5233) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#338 Investigate possible Shopify duplicate transaction item values](https://github.com/MediaJel/mediajel-tracker/issues/338) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#5230 Shopify tag side-effects on Campaign launcher](https://github.com/MediaJel/mediajel-dashboard/issues/5230) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#46 Research on how to implement functionality similar to HighChartGPT](https://github.com/MediaJel/ai-microservice/issues/46) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 
 
 
