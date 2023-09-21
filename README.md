@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4289` commits and made `170` PRs.
+:people_hugging: I contributed to `44` repositories , made `4295` commits and made `171` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,24 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#47 LLM eco system research](https://github.com/MediaJel/ai-microservice/issues/47) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* #️⃣ Opened [#5233 Paid Search / SEO integration automated via OAuth2.0](https://github.com/MediaJel/mediajel-dashboard/issues/5233) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#338 Investigate possible Shopify duplicate transaction item values](https://github.com/MediaJel/mediajel-tracker/issues/338) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#5230 Shopify tag side-effects on Campaign launcher](https://github.com/MediaJel/mediajel-dashboard/issues/5230) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#46 Research on how to implement functionality similar to HighChartGPT](https://github.com/MediaJel/ai-microservice/issues/46) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* ➡️ Pushed 7 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
+  * [#c8c0783](https://github.com/MediaJel/ai-microservice/commit/c8c0783) Merge pull request #48 from MediaJel/feat/implement-production-deployment
+
+feat/implement production deployment
+  * [#eaa8126](https://github.com/MediaJel/ai-microservice/commit/eaa8126) chore: Update Dockerfile for staging environment
+  * [#19b9f85](https://github.com/MediaJel/ai-microservice/commit/19b9f85) chore: Update Dockerfile and start-dev.sh scripts
+  * [#86027be](https://github.com/MediaJel/ai-microservice/commit/86027be) chore: Update README.md with instructions for creating .env files
+  * [#b9ddce0](https://github.com/MediaJel/ai-microservice/commit/b9ddce0) chore: Update start-prod.sh and gunicorn_conf.py
+  * [#aa71b86](https://github.com/MediaJel/ai-microservice/commit/aa71b86) chore: set .env.staging location for start-dev script
+  * [#fb45eb7](https://github.com/MediaJel/ai-microservice/commit/fb45eb7) Increase the number of workers to 4 in main.py
+* 🔃 Merged [#48 feat/implement production deployment](https://github.com/MediaJel/ai-microservice/pull/48) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 8 files changed `++33 --38`
+* ➡️ Pushed 2 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `feat/implement-production-deployment`
+  * [#eaa8126](https://github.com/MediaJel/ai-microservice/commit/eaa8126) chore: Update Dockerfile for staging environment
+  * [#19b9f85](https://github.com/MediaJel/ai-microservice/commit/19b9f85) chore: Update Dockerfile and start-dev.sh scripts
+* 🔃 Opened [#48 feat/implement production deployment](https://github.com/MediaJel/ai-microservice/pull/48) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 7 files changed `++11 --19`
+* ⏺️ Created new branch feat/implement-production-deployment in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 
 
 
