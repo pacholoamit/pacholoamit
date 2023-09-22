@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#5082 socket hang up](https://github.com/MediaJel/mediajel-dashboard/issues/5082) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 7 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
   * [#c8c0783](https://github.com/MediaJel/ai-microservice/commit/c8c0783) Merge pull request #48 from MediaJel/feat/implement-production-deployment
 
@@ -42,7 +43,6 @@ feat/implement production deployment
   * [#19b9f85](https://github.com/MediaJel/ai-microservice/commit/19b9f85) chore: Update Dockerfile and start-dev.sh scripts
 * 🔃 Opened [#48 feat/implement production deployment](https://github.com/MediaJel/ai-microservice/pull/48) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
   * 7 files changed `++11 --19`
-* ⏺️ Created new branch feat/implement-production-deployment in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 
 
 
