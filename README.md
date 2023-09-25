@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4295` commits and made `169` PRs.
+:people_hugging: I contributed to `44` repositories , made `4298` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,22 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/implement-user-creation`
-  * [#75fd851](https://github.com/pacholoamit/fuel-sure/commit/75fd851) refactor: Remove unused code and comments
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/implement-user-creation`
-  * [#275decc](https://github.com/pacholoamit/fuel-sure/commit/275decc) update deps
-* 🌟 Starred [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders)
-* 💬 Commented on [#5082 socket hang up](https://github.com/MediaJel/mediajel-dashboard/issues/5082) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 7 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
-  * [#c8c0783](https://github.com/MediaJel/ai-microservice/commit/c8c0783) Merge pull request #48 from MediaJel/feat/implement-production-deployment
-
-feat/implement production deployment
-  * [#eaa8126](https://github.com/MediaJel/ai-microservice/commit/eaa8126) chore: Update Dockerfile for staging environment
-  * [#19b9f85](https://github.com/MediaJel/ai-microservice/commit/19b9f85) chore: Update Dockerfile and start-dev.sh scripts
-  * [#86027be](https://github.com/MediaJel/ai-microservice/commit/86027be) chore: Update README.md with instructions for creating .env files
-  * [#b9ddce0](https://github.com/MediaJel/ai-microservice/commit/b9ddce0) chore: Update start-prod.sh and gunicorn_conf.py
-  * [#aa71b86](https://github.com/MediaJel/ai-microservice/commit/aa71b86) chore: set .env.staging location for start-dev script
-  * [#fb45eb7](https://github.com/MediaJel/ai-microservice/commit/fb45eb7) Increase the number of workers to 4 in main.py
+* 🔍 Reviewed [#4057 [Schema change] Add TAG TYPE to EVENTS TARGET object](https://github.com/MediaJel/mediajel-gql-service/pull/4057) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3835 Add functionality to campaigns observer to alert in sharp performance decrease](https://github.com/MediaJel/mediajel-gql-service/issues/3835) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4029 [FOR REVIEW] Campaign Observer - Anomaly Detection](https://github.com/MediaJel/mediajel-gql-service/pull/4029) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4029 [FOR REVIEW] Campaign Observer - Anomaly Detection](https://github.com/MediaJel/mediajel-gql-service/pull/4029) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4029 [FOR REVIEW] Campaign Observer - Anomaly Detection](https://github.com/MediaJel/mediajel-gql-service/pull/4029) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
