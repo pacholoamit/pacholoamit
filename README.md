@@ -25,6 +25,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/implement-user-creation`
+  * [#75fd851](https://github.com/pacholoamit/fuel-sure/commit/75fd851) refactor: Remove unused code and comments
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/implement-user-creation`
+  * [#275decc](https://github.com/pacholoamit/fuel-sure/commit/275decc) update deps
 * 🌟 Starred [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders)
 * 💬 Commented on [#5082 socket hang up](https://github.com/MediaJel/mediajel-dashboard/issues/5082) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 7 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
@@ -37,11 +41,6 @@ feat/implement production deployment
   * [#b9ddce0](https://github.com/MediaJel/ai-microservice/commit/b9ddce0) chore: Update start-prod.sh and gunicorn_conf.py
   * [#aa71b86](https://github.com/MediaJel/ai-microservice/commit/aa71b86) chore: set .env.staging location for start-dev script
   * [#fb45eb7](https://github.com/MediaJel/ai-microservice/commit/fb45eb7) Increase the number of workers to 4 in main.py
-* 🔃 Merged [#48 feat/implement production deployment](https://github.com/MediaJel/ai-microservice/pull/48) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-  * 8 files changed `++33 --38`
-* ➡️ Pushed 2 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `feat/implement-production-deployment`
-  * [#eaa8126](https://github.com/MediaJel/ai-microservice/commit/eaa8126) chore: Update Dockerfile for staging environment
-  * [#19b9f85](https://github.com/MediaJel/ai-microservice/commit/19b9f85) chore: Update Dockerfile and start-dev.sh scripts
 
 
 
