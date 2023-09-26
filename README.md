@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4030 [FOR REVIEW] Jbjm cart resolver](https://github.com/MediaJel/mediajel-gql-service/pull/4030) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🌟 Starred [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)
+* 🌟 Starred [axios/axios](https://github.com/axios/axios)
+* 🌟 Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
 * 🔍 Reviewed [#5251 [FOR REVIEW] Configure configmap for highlight.io](https://github.com/MediaJel/mediajel-dashboard/pull/5251) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#4057 [Schema change] Add TAG TYPE to EVENTS TARGET object](https://github.com/MediaJel/mediajel-gql-service/pull/4057) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3835 Add functionality to campaigns observer to alert in sharp performance decrease](https://github.com/MediaJel/mediajel-gql-service/issues/3835) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#4029 [FOR REVIEW] Campaign Observer - Anomaly Detection](https://github.com/MediaJel/mediajel-gql-service/pull/4029) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4029 [FOR REVIEW] Campaign Observer - Anomaly Detection](https://github.com/MediaJel/mediajel-gql-service/pull/4029) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
