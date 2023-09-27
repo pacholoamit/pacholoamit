@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4340` commits and made `169` PRs.
+:people_hugging: I contributed to `44` repositories , made `4341` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
+  * [#5b9ccd3](https://github.com/MediaJel/jupyter-notebooks-collection/commit/5b9ccd3) changes
+* 🔍 Reviewed [#4062 HOTFIX for google ads api upgrade](https://github.com/MediaJel/mediajel-gql-service/pull/4062) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#4030 [FOR REVIEW] Jbjm cart resolver](https://github.com/MediaJel/mediajel-gql-service/pull/4030) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🌟 Starred [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)
 * 🌟 Starred [axios/axios](https://github.com/axios/axios)
-* 🌟 Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
-* 🔍 Reviewed [#5251 [FOR REVIEW] Configure configmap for highlight.io](https://github.com/MediaJel/mediajel-dashboard/pull/5251) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
