@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4341` commits and made `169` PRs.
+:people_hugging: I contributed to `44` repositories , made `4342` commits and made `170` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,53 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#5b9ccd3](https://github.com/MediaJel/jupyter-notebooks-collection/commit/5b9ccd3) changes
-* 🔍 Reviewed [#4062 HOTFIX for google ads api upgrade](https://github.com/MediaJel/mediajel-gql-service/pull/4062) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4030 [FOR REVIEW] Jbjm cart resolver](https://github.com/MediaJel/mediajel-gql-service/pull/4030) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🌟 Starred [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua)
-* 🌟 Starred [axios/axios](https://github.com/axios/axios)
+* ➡️ Pushed 7 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#276484a](https://github.com/pacholoamit/pachtop/commit/276484a) Merge pull request #107 from pacholoamit/master
+
+Update Release
+  * [#b17dfe5](https://github.com/pacholoamit/pachtop/commit/b17dfe5) add mdx
+  * [#213fd26](https://github.com/pacholoamit/pachtop/commit/213fd26) Merge pull request #59 from pacholoamit/dependabot/npm_and_yarn/types/react-18.2.6
+
+Bump @types/react from 18.2.5 to 18.2.6
+  * [#32afd2a](https://github.com/pacholoamit/pachtop/commit/32afd2a) Merge pull request #71 from pacholoamit/dependabot/npm_and_yarn/mantine-datatable-2.4.18
+
+Bump mantine-datatable from 2.4.15 to 2.4.18
+  * [#00973ca](https://github.com/pacholoamit/pachtop/commit/00973ca) Bump mantine-datatable from 2.4.15 to 2.4.18
+
+Bumps [mantine-datatable](https://github.com/icflorescu/mantine-datatable) from 2.4.15 to 2.4.18.
+- [Changelog](https://github.com/icflorescu/mantine-datatable/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/icflorescu/mantine-datatable/commits)
+
+---
+updated-dependencies:
+- dependency-name: mantine-datatable
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+  * [#023ce56](https://github.com/pacholoamit/pachtop/commit/023ce56) Create FUNDING.yml
+  * [#1e1fd29](https://github.com/pacholoamit/pachtop/commit/1e1fd29) Bump @types/react from 18.2.5 to 18.2.6
+
+Bumps [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) from 18.2.5 to 18.2.6.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@types/react&#34;
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* 🔃 Merged [#107 Update Release](https://github.com/pacholoamit/pachtop/pull/107) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 128 files changed `++1262 --17`
+* 🔃 Opened [#107 Update Release](https://github.com/pacholoamit/pachtop/pull/107) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 128 files changed `++1262 --17`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#b17dfe5](https://github.com/pacholoamit/pachtop/commit/b17dfe5) add mdx
+* ⏺️ Created new branch feat/add-about in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 
 
