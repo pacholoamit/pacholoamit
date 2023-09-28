@@ -25,6 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [makepad/makepad](https://github.com/makepad/makepad)
+* 🌟 Starred [datahub-project/datahub](https://github.com/datahub-project/datahub)
 * ➡️ Pushed 7 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
   * [#276484a](https://github.com/pacholoamit/pachtop/commit/276484a) Merge pull request #107 from pacholoamit/master
 
@@ -69,9 +71,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
   * 128 files changed `++1262 --17`
 * 🔃 Opened [#107 Update Release](https://github.com/pacholoamit/pachtop/pull/107) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
   * 128 files changed `++1262 --17`
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#b17dfe5](https://github.com/pacholoamit/pachtop/commit/b17dfe5) add mdx
-* ⏺️ Created new branch feat/add-about in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 
 
