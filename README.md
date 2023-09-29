@@ -25,51 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#5309 Upgrade React version to support native highlight.io module](https://github.com/MediaJel/mediajel-dashboard/issues/5309) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#5199 Removed Thirdparty environment parameter, resized the preview image, …](https://github.com/MediaJel/mediajel-dashboard/pull/5199) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#5199 Removed Thirdparty environment parameter, resized the preview image, …](https://github.com/MediaJel/mediajel-dashboard/pull/5199) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#5199 Removed Thirdparty environment parameter, resized the preview image, …](https://github.com/MediaJel/mediajel-dashboard/pull/5199) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#574 Create documentation for snowflake auto ingestion](https://github.com/MediaJel/mediajel/issues/574) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🌟 Starred [makepad/makepad](https://github.com/makepad/makepad)
-* 🌟 Starred [datahub-project/datahub](https://github.com/datahub-project/datahub)
-* ➡️ Pushed 7 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#276484a](https://github.com/pacholoamit/pachtop/commit/276484a) Merge pull request #107 from pacholoamit/master
-
-Update Release
-  * [#b17dfe5](https://github.com/pacholoamit/pachtop/commit/b17dfe5) add mdx
-  * [#213fd26](https://github.com/pacholoamit/pachtop/commit/213fd26) Merge pull request #59 from pacholoamit/dependabot/npm_and_yarn/types/react-18.2.6
-
-Bump @types/react from 18.2.5 to 18.2.6
-  * [#32afd2a](https://github.com/pacholoamit/pachtop/commit/32afd2a) Merge pull request #71 from pacholoamit/dependabot/npm_and_yarn/mantine-datatable-2.4.18
-
-Bump mantine-datatable from 2.4.15 to 2.4.18
-  * [#00973ca](https://github.com/pacholoamit/pachtop/commit/00973ca) Bump mantine-datatable from 2.4.15 to 2.4.18
-
-Bumps [mantine-datatable](https://github.com/icflorescu/mantine-datatable) from 2.4.15 to 2.4.18.
-- [Changelog](https://github.com/icflorescu/mantine-datatable/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/icflorescu/mantine-datatable/commits)
-
----
-updated-dependencies:
-- dependency-name: mantine-datatable
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-  * [#023ce56](https://github.com/pacholoamit/pachtop/commit/023ce56) Create FUNDING.yml
-  * [#1e1fd29](https://github.com/pacholoamit/pachtop/commit/1e1fd29) Bump @types/react from 18.2.5 to 18.2.6
-
-Bumps [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) from 18.2.5 to 18.2.6.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
-
----
-updated-dependencies:
-- dependency-name: &#34;@types/react&#34;
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* 🔃 Merged [#107 Update Release](https://github.com/pacholoamit/pachtop/pull/107) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 128 files changed `++1262 --17`
 
 
 
