@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#574 Create documentation for snowflake auto ingestion](https://github.com/MediaJel/mediajel/issues/574) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🌟 Starred [makepad/makepad](https://github.com/makepad/makepad)
 * 🌟 Starred [datahub-project/datahub](https://github.com/datahub-project/datahub)
 * ➡️ Pushed 7 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
@@ -68,8 +69,6 @@ updated-dependencies:
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * 🔃 Merged [#107 Update Release](https://github.com/pacholoamit/pachtop/pull/107) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 128 files changed `++1262 --17`
-* 🔃 Opened [#107 Update Release](https://github.com/pacholoamit/pachtop/pull/107) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
   * 128 files changed `++1262 --17`
 
 
