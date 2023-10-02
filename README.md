@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#15 Ad Hoc Campaign optimizations](https://github.com/MediaJel/jupyter-notebooks-collection/issues/15) from [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
+* #️⃣ Opened [#15 Campaign optimizations](https://github.com/MediaJel/jupyter-notebooks-collection/issues/15) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
 * #️⃣ Opened [#5309 Upgrade React version to support native highlight.io module](https://github.com/MediaJel/mediajel-dashboard/issues/5309) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#5199 Removed Thirdparty environment parameter, resized the preview image, …](https://github.com/MediaJel/mediajel-dashboard/pull/5199) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🔍 Reviewed [#5199 Removed Thirdparty environment parameter, resized the preview image, …](https://github.com/MediaJel/mediajel-dashboard/pull/5199) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#5199 Removed Thirdparty environment parameter, resized the preview image, …](https://github.com/MediaJel/mediajel-dashboard/pull/5199) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#574 Create documentation for snowflake auto ingestion](https://github.com/MediaJel/mediajel/issues/574) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
