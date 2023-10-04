@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4343` commits and made `163` PRs.
+:people_hugging: I contributed to `44` repositories , made `4344` commits and made `164` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#4083 Hotfix: Fix aws cognito identity throttle](https://github.com/MediaJel/mediajel-gql-service/pull/4083) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 1 file changed `++5 --26`
+* ⏺️ Created new branch hotfix/auth in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#15 Ad Hoc Campaign optimizations](https://github.com/MediaJel/jupyter-notebooks-collection/issues/15) from [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
 * #️⃣ Opened [#15 Campaign optimizations](https://github.com/MediaJel/jupyter-notebooks-collection/issues/15) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
 * #️⃣ Opened [#5309 Upgrade React version to support native highlight.io module](https://github.com/MediaJel/mediajel-dashboard/issues/5309) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#5199 Removed Thirdparty environment parameter, resized the preview image, …](https://github.com/MediaJel/mediajel-dashboard/pull/5199) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#5199 Removed Thirdparty environment parameter, resized the preview image, …](https://github.com/MediaJel/mediajel-dashboard/pull/5199) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
