@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4344` commits and made `165` PRs.
+:people_hugging: I contributed to `44` repositories , made `4344` commits and made `166` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/fix-subscription`
+  * [#2186f1f](https://github.com/MediaJel/mediajel-gql-service/commit/2186f1f) remove langchain
+* 🔃 Opened [#4099 feat/fix subscription](https://github.com/MediaJel/mediajel-gql-service/pull/4099) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 10 files changed `++88 --3`
+* ⏺️ Created new branch feat/fix-subscription in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
   * [#ff816e4](https://github.com/MediaJel/mediajel-gql-service/commit/ff816e4) rename script
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
   * [#1b95550](https://github.com/MediaJel/mediajel-gql-service/commit/1b95550) fix script
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#e31efdd](https://github.com/MediaJel/mediajel-gql-service/commit/e31efdd) add script
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#49175a8](https://github.com/MediaJel/mediajel-gql-service/commit/49175a8) re-add df
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
-  * [#3caaa86](https://github.com/MediaJel/mediajel-gql-service/commit/3caaa86) remove df import
 
 
 
