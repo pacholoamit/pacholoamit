@@ -25,12 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#580 Research into dynamic tables in snowflake](https://github.com/MediaJel/mediajel/issues/580) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#3835 Add functionality to campaigns observer to alert in sharp performance decrease](https://github.com/MediaJel/mediajel-gql-service/issues/3835) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4102 HOTFIX Increase Production Memery Limit](https://github.com/MediaJel/mediajel-gql-service/pull/4102) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔃 Opened [#5345 Add highlight.io integration via npm packages](https://github.com/MediaJel/mediajel-dashboard/pull/5345) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 5 files changed `++44 --34`
 
 
 
