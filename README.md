@@ -25,11 +25,36 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#580 Research into dynamic tables in snowflake](https://github.com/MediaJel/mediajel/issues/580) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#3835 Add functionality to campaigns observer to alert in sharp performance decrease](https://github.com/MediaJel/mediajel-gql-service/issues/3835) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4102 HOTFIX Increase Production Memery Limit](https://github.com/MediaJel/mediajel-gql-service/pull/4102) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 3 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/improve-user`
+  * [#f7da4e5](https://github.com/pacholoamit/fuel-sure/commit/f7da4e5) feat: add supabase client utility
+  * [#88f5ea1](https://github.com/pacholoamit/fuel-sure/commit/88f5ea1) refactor: Remove unused utility and update import
+  * [#bde0b1c](https://github.com/pacholoamit/fuel-sure/commit/bde0b1c) add refine dev tools
+* ⏺️ Created new branch feat/improve-user in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
+* 🔃 Merged [#1 Feat/customize provider branch](https://github.com/pacholoamit/fuel-sure/pull/1) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
+  * 15 files changed `++969 --174`
+* ➡️ Pushed 21 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
+  * [#75fd851](https://github.com/pacholoamit/fuel-sure/commit/75fd851) refactor: Remove unused code and comments
+  * [#275decc](https://github.com/pacholoamit/fuel-sure/commit/275decc) update deps
+  * [#7174308](https://github.com/pacholoamit/fuel-sure/commit/7174308) add redirect
+  * [#d2d254d](https://github.com/pacholoamit/fuel-sure/commit/d2d254d) change employee_id to label
+  * [#2a470d4](https://github.com/pacholoamit/fuel-sure/commit/2a470d4) implement password approach
+  * [#39076f7](https://github.com/pacholoamit/fuel-sure/commit/39076f7) succesfullly create user
+  * [#98c7751](https://github.com/pacholoamit/fuel-sure/commit/98c7751) add user creation flow
+  * [#4ad66c1](https://github.com/pacholoamit/fuel-sure/commit/4ad66c1) remove useGetProvinces
+  * [#7587456](https://github.com/pacholoamit/fuel-sure/commit/7587456) changes
+  * [#997530c](https://github.com/pacholoamit/fuel-sure/commit/997530c) add error handling
+  * [#35728d8](https://github.com/pacholoamit/fuel-sure/commit/35728d8) modify redirect
+  * [#a6df4eb](https://github.com/pacholoamit/fuel-sure/commit/a6df4eb) create user
+  * [#67667b0](https://github.com/pacholoamit/fuel-sure/commit/67667b0) add custom create user
+  * [#ddd8540](https://github.com/pacholoamit/fuel-sure/commit/ddd8540) add mantine dates
+  * [#9ee4bc5](https://github.com/pacholoamit/fuel-sure/commit/9ee4bc5) modify users list
+  * [#4d6ffda](https://github.com/pacholoamit/fuel-sure/commit/4d6ffda) add i18
+  * [#19731fd](https://github.com/pacholoamit/fuel-sure/commit/19731fd) add i18
+  * [#d12fb0f](https://github.com/pacholoamit/fuel-sure/commit/d12fb0f) add user module
+  * [#a0974b7](https://github.com/pacholoamit/fuel-sure/commit/a0974b7) add fields
+  * [#b14d93f](https://github.com/pacholoamit/fuel-sure/commit/b14d93f) modify provider branches
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/implement-user-creation`
+  * [#caa30fa](https://github.com/pacholoamit/fuel-sure/commit/caa30fa) remove router push
 
 
 
