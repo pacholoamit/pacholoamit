@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4344` commits and made `167` PRs.
+:people_hugging: I contributed to `44` repositories , made `4388` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,24 +25,40 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 7 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
-  * [#5b57dad](https://github.com/pacholoamit/fuel-sure/commit/5b57dad) Merge pull request #3 from pacholoamit/feat/improve-user
+* ➡️ Pushed 44 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
+  * [#7174308](https://github.com/pacholoamit/fuel-sure/commit/7174308) add redirect
+  * [#d2d254d](https://github.com/pacholoamit/fuel-sure/commit/d2d254d) change employee_id to label
+  * [#2a470d4](https://github.com/pacholoamit/fuel-sure/commit/2a470d4) implement password approach
+  * [#39076f7](https://github.com/pacholoamit/fuel-sure/commit/39076f7) succesfullly create user
+  * [#98c7751](https://github.com/pacholoamit/fuel-sure/commit/98c7751) add user creation flow
+  * [#4ad66c1](https://github.com/pacholoamit/fuel-sure/commit/4ad66c1) remove useGetProvinces
+  * [#7587456](https://github.com/pacholoamit/fuel-sure/commit/7587456) changes
+  * [#997530c](https://github.com/pacholoamit/fuel-sure/commit/997530c) add error handling
+  * [#35728d8](https://github.com/pacholoamit/fuel-sure/commit/35728d8) modify redirect
+  * [#a6df4eb](https://github.com/pacholoamit/fuel-sure/commit/a6df4eb) create user
+  * [#67667b0](https://github.com/pacholoamit/fuel-sure/commit/67667b0) add custom create user
+  * [#ddd8540](https://github.com/pacholoamit/fuel-sure/commit/ddd8540) add mantine dates
+  * [#9ee4bc5](https://github.com/pacholoamit/fuel-sure/commit/9ee4bc5) modify users list
+  * [#4d6ffda](https://github.com/pacholoamit/fuel-sure/commit/4d6ffda) add i18
+  * [#19731fd](https://github.com/pacholoamit/fuel-sure/commit/19731fd) add i18
+  * [#d12fb0f](https://github.com/pacholoamit/fuel-sure/commit/d12fb0f) add user module
+  * [#a0974b7](https://github.com/pacholoamit/fuel-sure/commit/a0974b7) add fields
+  * [#b14d93f](https://github.com/pacholoamit/fuel-sure/commit/b14d93f) modify provider branches
+  * [#be22ce3](https://github.com/pacholoamit/fuel-sure/commit/be22ce3) add fields
+  * [#dbb001b](https://github.com/pacholoamit/fuel-sure/commit/dbb001b) update deps
+* 🔃 Merged [#5 update staging](https://github.com/pacholoamit/fuel-sure/pull/5) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
+  * 19 files changed `++2205 --268`
+* 🔃 Opened [#5 update staging](https://github.com/pacholoamit/fuel-sure/pull/5) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
+  * 19 files changed `++2205 --268`
+* ➡️ Pushed 4 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
+  * [#5eda010](https://github.com/pacholoamit/fuel-sure/commit/5eda010) Merge pull request #4 from pacholoamit/feat/improve-user
 
-feat/add edit user
-  * [#434a090](https://github.com/pacholoamit/fuel-sure/commit/434a090) feat(users): add label input field in user edit form
-  * [#ab9e4a8](https://github.com/pacholoamit/fuel-sure/commit/ab9e4a8) feat: Add replacePhoto functionality
-  * [#b5ff947](https://github.com/pacholoamit/fuel-sure/commit/b5ff947) feat: Add user edit page with form and image upload
-  * [#ea727d4](https://github.com/pacholoamit/fuel-sure/commit/ea727d4) refactor: remove unnecessary code
-  * [#8cec65d](https://github.com/pacholoamit/fuel-sure/commit/8cec65d) refactor: optimize imports and update supabase-client configuration
-  * [#edddb43](https://github.com/pacholoamit/fuel-sure/commit/edddb43) improvements
-* 🔃 Merged [#3 feat/add edit user](https://github.com/pacholoamit/fuel-sure/pull/3) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-  * 10 files changed `++842 --468`
-* 🔃 Opened [#3 feat/add edit user](https://github.com/pacholoamit/fuel-sure/pull/3) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-  * 10 files changed `++842 --468`
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/improve-user`
-  * [#434a090](https://github.com/pacholoamit/fuel-sure/commit/434a090) feat(users): add label input field in user edit form
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/improve-user`
-  * [#ab9e4a8](https://github.com/pacholoamit/fuel-sure/commit/ab9e4a8) feat: Add replacePhoto functionality
+feat/complete-user-mvp
+  * [#833ca82](https://github.com/pacholoamit/fuel-sure/commit/833ca82) feat: add auth callback API handler
+  * [#ef9a402](https://github.com/pacholoamit/fuel-sure/commit/ef9a402) refactor: Improve image loading performance
+  * [#6d1979f](https://github.com/pacholoamit/fuel-sure/commit/6d1979f) refactor: Remove unnecessary code and console.log statement
+* 🔃 Merged [#4 feat/complete-user-mvp](https://github.com/pacholoamit/fuel-sure/pull/4) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
+  * 4 files changed `++154 --39`
 
 
 
