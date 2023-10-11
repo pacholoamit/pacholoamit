@@ -25,12 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#581 Create documentation on Statara data loading](https://github.com/MediaJel/mediajel/issues/581) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#2b76270](https://github.com/MediaJel/mediajel-tracker/commit/2b76270) feat(v1,v2): Remove tapadCookieSyncPixel() function
 * 💬 Commented on [#580 Research into dynamic tables in snowflake](https://github.com/MediaJel/mediajel/issues/580) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#580 Research into dynamic tables in snowflake](https://github.com/MediaJel/mediajel/issues/580) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
