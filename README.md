@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4389` commits and made `169` PRs.
+:people_hugging: I contributed to `44` repositories , made `4390` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#581 Create documentation on Statara data loading](https://github.com/MediaJel/mediajel/issues/581) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#2b76270](https://github.com/MediaJel/mediajel-tracker/commit/2b76270) feat(v1,v2): Remove tapadCookieSyncPixel() function
-* 💬 Commented on [#580 Research into dynamic tables in snowflake](https://github.com/MediaJel/mediajel/issues/580) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4090 Investigate discrepancy on transactions with impressions table building vs get-events job](https://github.com/MediaJel/mediajel-gql-service/issues/4090) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4945 wordpress plugin next steps](https://github.com/MediaJel/mediajel-dashboard/issues/4945) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#101 Automate ad-hoc campaign optimizations via slackbot](https://github.com/MediaJel/jupyter-notebook/issues/101) in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook)
+* #️⃣ Closed [#15 Ad Hoc Campaign optimizations](https://github.com/MediaJel/jupyter-notebooks-collection/issues/15) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
+* 💬 Commented on [#15 Ad Hoc Campaign optimizations](https://github.com/MediaJel/jupyter-notebooks-collection/issues/15) from [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
 
 
 
