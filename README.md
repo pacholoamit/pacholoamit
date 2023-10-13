@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4124 [HOTFIX] Increase Prisma Memory](https://github.com/MediaJel/mediajel-gql-service/pull/4124) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#5364 [FOR REVIEW] RM Fix isTrafficker Permission in Step 3](https://github.com/MediaJel/mediajel-dashboard/pull/5364) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#4090 Investigate discrepancy on transactions with impressions table building vs get-events job](https://github.com/MediaJel/mediajel-gql-service/issues/4090) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#4945 wordpress plugin next steps](https://github.com/MediaJel/mediajel-dashboard/issues/4945) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#101 Automate ad-hoc campaign optimizations via slackbot](https://github.com/MediaJel/jupyter-notebook/issues/101) in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook)
-* #️⃣ Closed [#15 Ad Hoc Campaign optimizations](https://github.com/MediaJel/jupyter-notebooks-collection/issues/15) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
-* 💬 Commented on [#15 Ad Hoc Campaign optimizations](https://github.com/MediaJel/jupyter-notebooks-collection/issues/15) from [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
 
 
 
