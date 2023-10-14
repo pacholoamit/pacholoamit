@@ -25,12 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Closed [#4072 Check Centro Display Report](https://github.com/MediaJel/mediajel-gql-service/issues/4072) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#e83f7f4](https://github.com/MediaJel/mediajel-tracker/commit/e83f7f4) feat(imports): Add logging for Shopify tracker
 * #️⃣ Opened [#582 Create a snowflake dashboard detailing amount of transactions per day per cart](https://github.com/MediaJel/mediajel/issues/582) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🔍 Reviewed [#4124 [HOTFIX] Increase Prisma Memory](https://github.com/MediaJel/mediajel-gql-service/pull/4124) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#5364 [FOR REVIEW] RM Fix isTrafficker Permission in Step 3](https://github.com/MediaJel/mediajel-dashboard/pull/5364) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#4090 Investigate discrepancy on transactions with impressions table building vs get-events job](https://github.com/MediaJel/mediajel-gql-service/issues/4090) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
