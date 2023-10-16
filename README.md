@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4390` commits and made `168` PRs.
+:people_hugging: I contributed to `44` repositories , made `4390` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#4072 Check Centro Display Report](https://github.com/MediaJel/mediajel-gql-service/issues/4072) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#e83f7f4](https://github.com/MediaJel/mediajel-tracker/commit/e83f7f4) feat(imports): Add logging for Shopify tracker
-* #️⃣ Opened [#582 Create a snowflake dashboard detailing amount of transactions per day per cart](https://github.com/MediaJel/mediajel/issues/582) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🔍 Reviewed [#4124 [HOTFIX] Increase Prisma Memory](https://github.com/MediaJel/mediajel-gql-service/pull/4124) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#5364 [FOR REVIEW] RM Fix isTrafficker Permission in Step 3](https://github.com/MediaJel/mediajel-dashboard/pull/5364) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#7afabb1](https://github.com/MediaJel/mediajel-gql-service/commit/7afabb1) refactor: refactor createOpenAiClient and createMemoryConversationMemory functions
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#def4789](https://github.com/MediaJel/mediajel-gql-service/commit/def4789) add modular conversation memory
+  * [#6d10295](https://github.com/MediaJel/mediajel-gql-service/commit/6d10295) add modular conversation memory
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#91e780d](https://github.com/MediaJel/mediajel-gql-service/commit/91e780d) add openai module
+* 🔃 Opened [#4133 Add OpenAI integration](https://github.com/MediaJel/mediajel-gql-service/pull/4133) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 6 files changed `++118 --0`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#9d6c45c](https://github.com/MediaJel/mediajel-gql-service/commit/9d6c45c) add conversational memory
 
 
 
