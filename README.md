@@ -25,17 +25,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#7afabb1](https://github.com/MediaJel/mediajel-gql-service/commit/7afabb1) refactor: refactor createOpenAiClient and createMemoryConversationMemory functions
+* #️⃣ Opened [#5379 Take a look at Adjust Partner connect](https://github.com/MediaJel/mediajel-dashboard/issues/5379) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#def4789](https://github.com/MediaJel/mediajel-gql-service/commit/def4789) add modular conversation memory
-  * [#6d10295](https://github.com/MediaJel/mediajel-gql-service/commit/6d10295) add modular conversation memory
+  * [#372bcc1](https://github.com/MediaJel/mediajel-gql-service/commit/372bcc1) chore: update user1 and user2 identifiers
+  * [#5366256](https://github.com/MediaJel/mediajel-gql-service/commit/5366256) chore: Remove debug log statements
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#32bb0d9](https://github.com/MediaJel/mediajel-gql-service/commit/32bb0d9) refactor(store): rename ConversationMemory to ConversationStore in LLM code diff
+  * [#621ea9c](https://github.com/MediaJel/mediajel-gql-service/commit/621ea9c) chore(llm): refactor createLLMClient options
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#91e780d](https://github.com/MediaJel/mediajel-gql-service/commit/91e780d) add openai module
-* 🔃 Opened [#4133 Add OpenAI integration](https://github.com/MediaJel/mediajel-gql-service/pull/4133) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 6 files changed `++118 --0`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#9d6c45c](https://github.com/MediaJel/mediajel-gql-service/commit/9d6c45c) add conversational memory
+  * [#88ebb20](https://github.com/MediaJel/mediajel-gql-service/commit/88ebb20) fix: Update function parameter types
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#1a1992c](https://github.com/MediaJel/mediajel-gql-service/commit/1a1992c) chore: Add debug option to conversation memory
+  * [#6befa06](https://github.com/MediaJel/mediajel-gql-service/commit/6befa06) refactor(openai): simplify initialPrompt creation
 
 
 
