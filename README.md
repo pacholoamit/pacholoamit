@@ -25,18 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#5379 Take a look at Adjust Partner connect](https://github.com/MediaJel/mediajel-dashboard/issues/5379) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#372bcc1](https://github.com/MediaJel/mediajel-gql-service/commit/372bcc1) chore: update user1 and user2 identifiers
-  * [#5366256](https://github.com/MediaJel/mediajel-gql-service/commit/5366256) chore: Remove debug log statements
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#32bb0d9](https://github.com/MediaJel/mediajel-gql-service/commit/32bb0d9) refactor(store): rename ConversationMemory to ConversationStore in LLM code diff
-  * [#621ea9c](https://github.com/MediaJel/mediajel-gql-service/commit/621ea9c) chore(llm): refactor createLLMClient options
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#88ebb20](https://github.com/MediaJel/mediajel-gql-service/commit/88ebb20) fix: Update function parameter types
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#1a1992c](https://github.com/MediaJel/mediajel-gql-service/commit/1a1992c) chore: Add debug option to conversation memory
-  * [#6befa06](https://github.com/MediaJel/mediajel-gql-service/commit/6befa06) refactor(openai): simplify initialPrompt creation
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `eaze-reports`
+  * [#3f874ed](https://github.com/MediaJel/mediajel-gql-service/commit/3f874ed) fix(utils): fix inputType default value in getFromS3Select
+* 🔍 Reviewed [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
