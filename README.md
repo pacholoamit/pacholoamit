@@ -25,6 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#5624edd](https://github.com/MediaJel/mediajel-gql-service/commit/5624edd) add fields to subscription
 * ➡️ Pushed 4 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
   * [#6379d01](https://github.com/MediaJel/mediajel-gql-service/commit/6379d01) feat: expose graphql resolver
   * [#63f7deb](https://github.com/MediaJel/mediajel-gql-service/commit/63f7deb) feat: Add chat subscription feature
@@ -34,8 +36,6 @@
 * 🔍 Reviewed [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#2e452be](https://github.com/MediaJel/mediajel-tracker/commit/2e452be) chore: remove unnecessary code and console.log statements
-* ➡️ Pushed 2 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
-  * [#606f963](https://github.com/pacholoamit/fuel-sure/commit/606f963) Merge branch &#39;staging&#39;
 
 
 
