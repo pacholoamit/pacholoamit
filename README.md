@@ -25,16 +25,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#6379d01](https://github.com/MediaJel/mediajel-gql-service/commit/6379d01) feat: expose graphql resolver
+  * [#63f7deb](https://github.com/MediaJel/mediajel-gql-service/commit/63f7deb) feat: Add chat subscription feature
+  * [#aa200a9](https://github.com/MediaJel/mediajel-gql-service/commit/aa200a9) style: update debug flag value to false and add llm subscription
+  * [#f412545](https://github.com/MediaJel/mediajel-gql-service/commit/f412545) fix: Remove unnecessary variable assignment
+* 💬 Commented on [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#2e452be](https://github.com/MediaJel/mediajel-tracker/commit/2e452be) chore: remove unnecessary code and console.log statements
 * ➡️ Pushed 2 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
   * [#606f963](https://github.com/pacholoamit/fuel-sure/commit/606f963) Merge branch &#39;staging&#39;
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
-  * [#bb90c7f](https://github.com/pacholoamit/fuel-sure/commit/bb90c7f) fix: Fix duplicate code in ProviderBranchList component
-* ➡️ Pushed 2 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
-  * [#cbe27d6](https://github.com/pacholoamit/fuel-sure/commit/cbe27d6) Merge branch &#39;staging&#39;
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
-  * [#12f192d](https://github.com/pacholoamit/fuel-sure/commit/12f192d) fix: created by not rendering
 
 
 
