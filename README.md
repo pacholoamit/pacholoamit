@@ -25,17 +25,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#5624edd](https://github.com/MediaJel/mediajel-gql-service/commit/5624edd) add fields to subscription
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#6379d01](https://github.com/MediaJel/mediajel-gql-service/commit/6379d01) feat: expose graphql resolver
-  * [#63f7deb](https://github.com/MediaJel/mediajel-gql-service/commit/63f7deb) feat: Add chat subscription feature
-  * [#aa200a9](https://github.com/MediaJel/mediajel-gql-service/commit/aa200a9) style: update debug flag value to false and add llm subscription
-  * [#f412545](https://github.com/MediaJel/mediajel-gql-service/commit/f412545) fix: Remove unnecessary variable assignment
-* 💬 Commented on [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4093 [FOR REVIEW] Eaze/Greendragon report generation script](https://github.com/MediaJel/mediajel-gql-service/pull/4093) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#2e452be](https://github.com/MediaJel/mediajel-tracker/commit/2e452be) chore: remove unnecessary code and console.log statements
+* #️⃣ Opened [#587 Research into mdx as documentation for dashboard](https://github.com/MediaJel/mediajel/issues/587) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#586 Create snowflake dashboard for tracking active users in the dashboard](https://github.com/MediaJel/mediajel/issues/586) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#635a8c2](https://github.com/MediaJel/mediajel-gql-service/commit/635a8c2) style(chat.ts): Change debug value to false
+  * [#7338740](https://github.com/MediaJel/mediajel-gql-service/commit/7338740) fix(client): handle error when streaming with OpenAI
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#0f2385f](https://github.com/MediaJel/mediajel-gql-service/commit/0f2385f) fix: Fix import statements in counter and llm subscription resolvers
+  * [#2343811](https://github.com/MediaJel/mediajel-gql-service/commit/2343811) feat(subscriptions): Add types for subscription resolvers
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#b976856](https://github.com/MediaJel/mediajel-gql-service/commit/b976856) feat: Update chat and campaign subscriptions
+  * [#7b5418b](https://github.com/MediaJel/mediajel-gql-service/commit/7b5418b) feat: Add counter subscription
 
 
 
