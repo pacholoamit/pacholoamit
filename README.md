@@ -25,17 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/add-branch-pumps`
+  * [#14426c0](https://github.com/pacholoamit/fuel-sure/commit/14426c0) feat: Add QR code to branch pumps
+* ⏺️ Created new branch feat/add-branch-pumps in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
 * #️⃣ Opened [#587 Research into mdx as documentation for dashboard](https://github.com/MediaJel/mediajel/issues/587) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#586 Create snowflake dashboard for tracking active users in the dashboard](https://github.com/MediaJel/mediajel/issues/586) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
   * [#635a8c2](https://github.com/MediaJel/mediajel-gql-service/commit/635a8c2) style(chat.ts): Change debug value to false
   * [#7338740](https://github.com/MediaJel/mediajel-gql-service/commit/7338740) fix(client): handle error when streaming with OpenAI
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#0f2385f](https://github.com/MediaJel/mediajel-gql-service/commit/0f2385f) fix: Fix import statements in counter and llm subscription resolvers
-  * [#2343811](https://github.com/MediaJel/mediajel-gql-service/commit/2343811) feat(subscriptions): Add types for subscription resolvers
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#b976856](https://github.com/MediaJel/mediajel-gql-service/commit/b976856) feat: Update chat and campaign subscriptions
-  * [#7b5418b](https://github.com/MediaJel/mediajel-gql-service/commit/7b5418b) feat: Add counter subscription
 
 
 
