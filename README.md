@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch refactor/polish-provider-branch in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
 * ➡️ Pushed 12 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
   * [#bed83c0](https://github.com/pacholoamit/fuel-sure/commit/bed83c0) Merge pull request #6 from pacholoamit/feat/add-branch-pumps
 
@@ -46,9 +47,6 @@ feat/add branch pumps
   * 14 files changed `++708 --23`
 * ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/add-branch-pumps`
   * [#f6dc439](https://github.com/pacholoamit/fuel-sure/commit/f6dc439) complete edit page
-* ➡️ Pushed 2 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/add-branch-pumps`
-  * [#89cac0f](https://github.com/pacholoamit/fuel-sure/commit/89cac0f) fix: Fix displaying user name in BranchPumpShow
-  * [#0a54ac5](https://github.com/pacholoamit/fuel-sure/commit/0a54ac5) fix(supabase-client): enable session persistence
 
 
 
