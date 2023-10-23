@@ -25,6 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#7eeb3e9](https://github.com/MediaJel/mediajel-gql-service/commit/7eeb3e9) fix(chat): Adds assistant response to store
 * ⏺️ Created new branch refactor/polish-provider-branch in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
 * ➡️ Pushed 12 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
   * [#bed83c0](https://github.com/pacholoamit/fuel-sure/commit/bed83c0) Merge pull request #6 from pacholoamit/feat/add-branch-pumps
@@ -45,8 +47,6 @@ feat/add branch pumps
   * 14 files changed `++708 --23`
 * 🔃 Opened [#6 feat/add branch pumps](https://github.com/pacholoamit/fuel-sure/pull/6) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
   * 14 files changed `++708 --23`
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/add-branch-pumps`
-  * [#f6dc439](https://github.com/pacholoamit/fuel-sure/commit/f6dc439) complete edit page
 
 
 
