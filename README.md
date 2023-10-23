@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4396` commits and made `166` PRs.
+:people_hugging: I contributed to `44` repositories , made `4396` commits and made `167` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,30 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/add-branch-pumps`
+* ➡️ Pushed 12 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
+  * [#bed83c0](https://github.com/pacholoamit/fuel-sure/commit/bed83c0) Merge pull request #6 from pacholoamit/feat/add-branch-pumps
+
+feat/add branch pumps
+  * [#f6dc439](https://github.com/pacholoamit/fuel-sure/commit/f6dc439) complete edit page
+  * [#89cac0f](https://github.com/pacholoamit/fuel-sure/commit/89cac0f) fix: Fix displaying user name in BranchPumpShow
+  * [#0a54ac5](https://github.com/pacholoamit/fuel-sure/commit/0a54ac5) fix(supabase-client): enable session persistence
+  * [#eaddb19](https://github.com/pacholoamit/fuel-sure/commit/eaddb19) fix: set form loading to false when registration fails
+  * [#741863e](https://github.com/pacholoamit/fuel-sure/commit/741863e) feat(branch-pumps/create): add form for creating branch pumps
+  * [#09d203e](https://github.com/pacholoamit/fuel-sure/commit/09d203e) style(pages/branch-pumps/show): optimize QR code rendering
+  * [#2978af4](https://github.com/pacholoamit/fuel-sure/commit/2978af4) refactor(pages): remove fieldTransformer in create and edit pages
   * [#14426c0](https://github.com/pacholoamit/fuel-sure/commit/14426c0) feat: Add QR code to branch pumps
-* ⏺️ Created new branch feat/add-branch-pumps in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-* #️⃣ Opened [#587 Research into mdx as documentation for dashboard](https://github.com/MediaJel/mediajel/issues/587) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#586 Create snowflake dashboard for tracking active users in the dashboard](https://github.com/MediaJel/mediajel/issues/586) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#635a8c2](https://github.com/MediaJel/mediajel-gql-service/commit/635a8c2) style(chat.ts): Change debug value to false
-  * [#7338740](https://github.com/MediaJel/mediajel-gql-service/commit/7338740) fix(client): handle error when streaming with OpenAI
+  * [#b3226b0](https://github.com/pacholoamit/fuel-sure/commit/b3226b0) feat: Add BranchPumpList component
+  * [#364b512](https://github.com/pacholoamit/fuel-sure/commit/364b512) feat: Add branch-pumps feature
+  * [#1e66eb1](https://github.com/pacholoamit/fuel-sure/commit/1e66eb1) feat: Add titles for user and branch pump actions
+* 🔃 Merged [#6 feat/add branch pumps](https://github.com/pacholoamit/fuel-sure/pull/6) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
+  * 14 files changed `++708 --23`
+* 🔃 Opened [#6 feat/add branch pumps](https://github.com/pacholoamit/fuel-sure/pull/6) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
+  * 14 files changed `++708 --23`
+* ➡️ Pushed 1 commit in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/add-branch-pumps`
+  * [#f6dc439](https://github.com/pacholoamit/fuel-sure/commit/f6dc439) complete edit page
+* ➡️ Pushed 2 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `feat/add-branch-pumps`
+  * [#89cac0f](https://github.com/pacholoamit/fuel-sure/commit/89cac0f) fix: Fix displaying user name in BranchPumpShow
+  * [#0a54ac5](https://github.com/pacholoamit/fuel-sure/commit/0a54ac5) fix(supabase-client): enable session persistence
 
 
 
