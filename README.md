@@ -26,19 +26,17 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#05947ca](https://github.com/MediaJel/mediajel-gql-service/commit/05947ca) fix(store): retrieve and add messages with correct types
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#ba16af6](https://github.com/MediaJel/mediajel-gql-service/commit/ba16af6) feat(send-chat-message): add support for returning message ID
-  * [#a4c5c6f](https://github.com/MediaJel/mediajel-gql-service/commit/a4c5c6f) feat: add id and from fields to SendChatMessageMutationReturnValue
-  * [#8953e61](https://github.com/MediaJel/mediajel-gql-service/commit/8953e61) refactor: Simplify chat subscription input parameters
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#f00e7dc](https://github.com/MediaJel/mediajel-gql-service/commit/f00e7dc) fix: Remove unnecessary debug log statements
-  * [#87696de](https://github.com/MediaJel/mediajel-gql-service/commit/87696de) feat(send-chat-message): Add streaming functionality to sendChatMessage
-  * [#4d403a4](https://github.com/MediaJel/mediajel-gql-service/commit/4d403a4) feat(llm): add sendChatMessage mutation
+  * [#5508700](https://github.com/MediaJel/mediajel-gql-service/commit/5508700) fix: Fix error message concatenation
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#ad43458](https://github.com/MediaJel/mediajel-gql-service/commit/ad43458) feat: Add sendChatMessage mutation and llm-client utility
+  * [#f518103](https://github.com/MediaJel/mediajel-gql-service/commit/f518103) fix: Failed to retrieve messages from store
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#ba0a9ac](https://github.com/MediaJel/mediajel-gql-service/commit/ba0a9ac) chore(subscriptions/llm/chat): Remove console.log statements
+  * [#d9f47a6](https://github.com/MediaJel/mediajel-gql-service/commit/d9f47a6) refactor(chat): Simplify chat function and stream function
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#0522279](https://github.com/MediaJel/mediajel-gql-service/commit/0522279) refactor: Simplify logger creation
+  * [#847a6c9](https://github.com/MediaJel/mediajel-gql-service/commit/847a6c9) refactor: Simplify logger configuration
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#7e169c5](https://github.com/MediaJel/mediajel-gql-service/commit/7e169c5) chore: Update log messages in chat.ts
+  * [#c76b718](https://github.com/MediaJel/mediajel-gql-service/commit/c76b718) refactor: Remove unnecessary code and update debug setting
 
 
 
