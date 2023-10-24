@@ -26,27 +26,19 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#7eeb3e9](https://github.com/MediaJel/mediajel-gql-service/commit/7eeb3e9) fix(chat): Adds assistant response to store
-* ⏺️ Created new branch refactor/polish-provider-branch in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-* ➡️ Pushed 12 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
-  * [#bed83c0](https://github.com/pacholoamit/fuel-sure/commit/bed83c0) Merge pull request #6 from pacholoamit/feat/add-branch-pumps
-
-feat/add branch pumps
-  * [#f6dc439](https://github.com/pacholoamit/fuel-sure/commit/f6dc439) complete edit page
-  * [#89cac0f](https://github.com/pacholoamit/fuel-sure/commit/89cac0f) fix: Fix displaying user name in BranchPumpShow
-  * [#0a54ac5](https://github.com/pacholoamit/fuel-sure/commit/0a54ac5) fix(supabase-client): enable session persistence
-  * [#eaddb19](https://github.com/pacholoamit/fuel-sure/commit/eaddb19) fix: set form loading to false when registration fails
-  * [#741863e](https://github.com/pacholoamit/fuel-sure/commit/741863e) feat(branch-pumps/create): add form for creating branch pumps
-  * [#09d203e](https://github.com/pacholoamit/fuel-sure/commit/09d203e) style(pages/branch-pumps/show): optimize QR code rendering
-  * [#2978af4](https://github.com/pacholoamit/fuel-sure/commit/2978af4) refactor(pages): remove fieldTransformer in create and edit pages
-  * [#14426c0](https://github.com/pacholoamit/fuel-sure/commit/14426c0) feat: Add QR code to branch pumps
-  * [#b3226b0](https://github.com/pacholoamit/fuel-sure/commit/b3226b0) feat: Add BranchPumpList component
-  * [#364b512](https://github.com/pacholoamit/fuel-sure/commit/364b512) feat: Add branch-pumps feature
-  * [#1e66eb1](https://github.com/pacholoamit/fuel-sure/commit/1e66eb1) feat: Add titles for user and branch pump actions
-* 🔃 Merged [#6 feat/add branch pumps](https://github.com/pacholoamit/fuel-sure/pull/6) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-  * 14 files changed `++708 --23`
-* 🔃 Opened [#6 feat/add branch pumps](https://github.com/pacholoamit/fuel-sure/pull/6) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-  * 14 files changed `++708 --23`
+  * [#05947ca](https://github.com/MediaJel/mediajel-gql-service/commit/05947ca) fix(store): retrieve and add messages with correct types
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#ba16af6](https://github.com/MediaJel/mediajel-gql-service/commit/ba16af6) feat(send-chat-message): add support for returning message ID
+  * [#a4c5c6f](https://github.com/MediaJel/mediajel-gql-service/commit/a4c5c6f) feat: add id and from fields to SendChatMessageMutationReturnValue
+  * [#8953e61](https://github.com/MediaJel/mediajel-gql-service/commit/8953e61) refactor: Simplify chat subscription input parameters
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#f00e7dc](https://github.com/MediaJel/mediajel-gql-service/commit/f00e7dc) fix: Remove unnecessary debug log statements
+  * [#87696de](https://github.com/MediaJel/mediajel-gql-service/commit/87696de) feat(send-chat-message): Add streaming functionality to sendChatMessage
+  * [#4d403a4](https://github.com/MediaJel/mediajel-gql-service/commit/4d403a4) feat(llm): add sendChatMessage mutation
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#ad43458](https://github.com/MediaJel/mediajel-gql-service/commit/ad43458) feat: Add sendChatMessage mutation and llm-client utility
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
+  * [#ba0a9ac](https://github.com/MediaJel/mediajel-gql-service/commit/ba0a9ac) chore(subscriptions/llm/chat): Remove console.log statements
 
 
 
