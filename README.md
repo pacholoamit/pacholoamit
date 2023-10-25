@@ -25,13 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#16 Campaign optimizations adjustment](https://github.com/MediaJel/jupyter-notebooks-collection/issues/16) from [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
-* #️⃣ Opened [#16 Campaign optimizations adjustment](https://github.com/MediaJel/jupyter-notebooks-collection/issues/16) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
-* #️⃣ Opened [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#15bf399](https://github.com/MediaJel/mediajel-gql-service/commit/15bf399) fix(send-chat-message): Fix error handling and create conversation
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#570cb0a](https://github.com/MediaJel/mediajel-gql-service/commit/570cb0a) fix: Update conversation stream to log response asynchronously
 
 
 
