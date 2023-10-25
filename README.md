@@ -25,18 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#16 Campaign optimizations adjustment](https://github.com/MediaJel/jupyter-notebooks-collection/issues/16) from [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
+* #️⃣ Opened [#16 Campaign optimizations adjustment](https://github.com/MediaJel/jupyter-notebooks-collection/issues/16) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
+* #️⃣ Opened [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#5508700](https://github.com/MediaJel/mediajel-gql-service/commit/5508700) fix: Fix error message concatenation
+  * [#15bf399](https://github.com/MediaJel/mediajel-gql-service/commit/15bf399) fix(send-chat-message): Fix error handling and create conversation
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#f518103](https://github.com/MediaJel/mediajel-gql-service/commit/f518103) fix: Failed to retrieve messages from store
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#d9f47a6](https://github.com/MediaJel/mediajel-gql-service/commit/d9f47a6) refactor(chat): Simplify chat function and stream function
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#0522279](https://github.com/MediaJel/mediajel-gql-service/commit/0522279) refactor: Simplify logger creation
-  * [#847a6c9](https://github.com/MediaJel/mediajel-gql-service/commit/847a6c9) refactor: Simplify logger configuration
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-llm`
-  * [#7e169c5](https://github.com/MediaJel/mediajel-gql-service/commit/7e169c5) chore: Update log messages in chat.ts
-  * [#c76b718](https://github.com/MediaJel/mediajel-gql-service/commit/c76b718) refactor: Remove unnecessary code and update debug setting
+  * [#570cb0a](https://github.com/MediaJel/mediajel-gql-service/commit/570cb0a) fix: Update conversation stream to log response asynchronously
 
 
 
