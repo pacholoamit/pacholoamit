@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#5439 [Campaign Luncher] Ecomm Attribution Platform incorrectly changing](https://github.com/MediaJel/mediajel-dashboard/issues/5439) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#346 Add sources logging to mediajel-tracker by default](https://github.com/MediaJel/mediajel-tracker/issues/346) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#587 Research into mdx as documentation for dashboard](https://github.com/MediaJel/mediajel/issues/587) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Closed [#567 Requirements Gathering on Inhouse Docusign implementation](https://github.com/MediaJel/mediajel/issues/567) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#532 Campaign Optimizations on the dashboard requirements](https://github.com/MediaJel/mediajel/issues/532) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#582 Create a snowflake dashboard detailing amount of transactions per day per cart](https://github.com/MediaJel/mediajel/issues/582) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
