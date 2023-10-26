@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#16 Campaign optimizations adjustment](https://github.com/MediaJel/jupyter-notebooks-collection/issues/16) from [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
+* #️⃣ Opened [#346 Add sources logging to mediajel-tracker by default](https://github.com/MediaJel/mediajel-tracker/issues/346) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#587 Research into mdx as documentation for dashboard](https://github.com/MediaJel/mediajel/issues/587) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#567 Requirements Gathering on Inhouse Docusign implementation](https://github.com/MediaJel/mediajel/issues/567) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#532 Campaign Optimizations on the dashboard requirements](https://github.com/MediaJel/mediajel/issues/532) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#582 Create a snowflake dashboard detailing amount of transactions per day per cart](https://github.com/MediaJel/mediajel/issues/582) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
