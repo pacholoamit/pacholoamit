@@ -25,46 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/issues/345) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 19 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `master`
-  * [#46a412e](https://github.com/pacholoamit/fuel-sure/commit/46a412e) Merge pull request #8 from pacholoamit/staging
-
-staging
-  * [#566994d](https://github.com/pacholoamit/fuel-sure/commit/566994d) Merge pull request #7 from pacholoamit/refactor/polish-provider-branch
-
-refactor/polish provider branch
-  * [#79de4a9](https://github.com/pacholoamit/fuel-sure/commit/79de4a9) feat(pages): add ProviderBranchShow component
-  * [#89fdbee](https://github.com/pacholoamit/fuel-sure/commit/89fdbee) feat: Add date picker to ProviderBranchEdit form
-  * [#b1991c6](https://github.com/pacholoamit/fuel-sure/commit/b1991c6) refactor: Add useOne hook and display full name in created_by field
-  * [#f0fb7e1](https://github.com/pacholoamit/fuel-sure/commit/f0fb7e1) refactor: Remove unnecessary code and update form inputs
-  * [#025090d](https://github.com/pacholoamit/fuel-sure/commit/025090d) feat: Add usePhilippinesLocations hook
-  * [#bed83c0](https://github.com/pacholoamit/fuel-sure/commit/bed83c0) Merge pull request #6 from pacholoamit/feat/add-branch-pumps
-
-feat/add branch pumps
-  * [#f6dc439](https://github.com/pacholoamit/fuel-sure/commit/f6dc439) complete edit page
-  * [#89cac0f](https://github.com/pacholoamit/fuel-sure/commit/89cac0f) fix: Fix displaying user name in BranchPumpShow
-  * [#0a54ac5](https://github.com/pacholoamit/fuel-sure/commit/0a54ac5) fix(supabase-client): enable session persistence
-  * [#eaddb19](https://github.com/pacholoamit/fuel-sure/commit/eaddb19) fix: set form loading to false when registration fails
-  * [#741863e](https://github.com/pacholoamit/fuel-sure/commit/741863e) feat(branch-pumps/create): add form for creating branch pumps
-  * [#09d203e](https://github.com/pacholoamit/fuel-sure/commit/09d203e) style(pages/branch-pumps/show): optimize QR code rendering
-  * [#2978af4](https://github.com/pacholoamit/fuel-sure/commit/2978af4) refactor(pages): remove fieldTransformer in create and edit pages
-  * [#14426c0](https://github.com/pacholoamit/fuel-sure/commit/14426c0) feat: Add QR code to branch pumps
-  * [#b3226b0](https://github.com/pacholoamit/fuel-sure/commit/b3226b0) feat: Add BranchPumpList component
-  * [#364b512](https://github.com/pacholoamit/fuel-sure/commit/364b512) feat: Add branch-pumps feature
-  * [#1e66eb1](https://github.com/pacholoamit/fuel-sure/commit/1e66eb1) feat: Add titles for user and branch pump actions
-* 🔃 Merged [#8 staging](https://github.com/pacholoamit/fuel-sure/pull/8) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-  * 18 files changed `++1006 --50`
-* 🔃 Opened [#8 staging](https://github.com/pacholoamit/fuel-sure/pull/8) in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure)
-  * 18 files changed `++1006 --50`
-* ➡️ Pushed 6 commits in [pacholoamit/fuel-sure](https://github.com/pacholoamit/fuel-sure) on branch `staging`
-  * [#566994d](https://github.com/pacholoamit/fuel-sure/commit/566994d) Merge pull request #7 from pacholoamit/refactor/polish-provider-branch
-
-refactor/polish provider branch
-  * [#79de4a9](https://github.com/pacholoamit/fuel-sure/commit/79de4a9) feat(pages): add ProviderBranchShow component
-  * [#89fdbee](https://github.com/pacholoamit/fuel-sure/commit/89fdbee) feat: Add date picker to ProviderBranchEdit form
-  * [#b1991c6](https://github.com/pacholoamit/fuel-sure/commit/b1991c6) refactor: Add useOne hook and display full name in created_by field
-  * [#f0fb7e1](https://github.com/pacholoamit/fuel-sure/commit/f0fb7e1) refactor: Remove unnecessary code and update form inputs
-  * [#025090d](https://github.com/pacholoamit/fuel-sure/commit/025090d) feat: Add usePhilippinesLocations hook
+* #️⃣ Opened [#591 Add Chart/Info in snowflake dashboard of Overall impressions](https://github.com/MediaJel/mediajel/issues/591) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 🔍 Reviewed [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
