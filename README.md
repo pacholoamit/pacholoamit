@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4415` commits and made `168` PRs.
+:people_hugging: I contributed to `44` repositories , made `4415` commits and made `169` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#4194 fix/counter subscription](https://github.com/MediaJel/mediajel-gql-service/pull/4194) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 2 files changed `++1 --2`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `fix/counter-subscription`
+  * [#8df7d9a](https://github.com/MediaJel/mediajel-gql-service/commit/8df7d9a) refactor: Remove debug logging statement
+* ⏺️ Created new branch fix/counter-subscription in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Opened [#591 Add Chart/Info in snowflake dashboard of Overall impressions](https://github.com/MediaJel/mediajel/issues/591) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🔍 Reviewed [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#3989 [FOR REVIEW] Jbjm campaign optimize display campaign blocklist job](https://github.com/MediaJel/mediajel-gql-service/pull/3989) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
