@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4416` commits and made `170` PRs.
+:people_hugging: I contributed to `43` repositories , made `4425` commits and made `171` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#345 magento version one staging](https://github.com/MediaJel/mediajel-tracker/pull/345) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔃 Opened [#5457 HOTFIX: Update BASKETITEMS_CART mapping](https://github.com/MediaJel/mediajel-dashboard/pull/5457) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 1 file changed `++1 --0`
-* ⏺️ Created new branch hotfix/enable-cart-for-basket-items in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#350 Improvements into snowplow multiple tag configuration](https://github.com/MediaJel/mediajel-tracker/issues/350) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#594 Investigate network errors in dashboard for stability](https://github.com/MediaJel/mediajel/issues/594) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#396 AI: Create Dashboard assistant](https://github.com/MediaJel/mediajel/issues/396) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#37 AI Microservice V1 Design Doc](https://github.com/MediaJel/ai-microservice/issues/37) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#4c6e9af](https://github.com/MediaJel/mediajel-tracker/commit/4c6e9af) chore(public): remove duplicate Google Tag Manager script
+  * [#e1962d3](https://github.com/MediaJel/mediajel-tracker/commit/e1962d3) set dynamic tracker namespace
 
 
 
