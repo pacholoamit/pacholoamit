@@ -25,13 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#350 Improvements into snowplow multiple tag configuration](https://github.com/MediaJel/mediajel-tracker/issues/350) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#594 Investigate network errors in dashboard for stability](https://github.com/MediaJel/mediajel/issues/594) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#396 AI: Create Dashboard assistant](https://github.com/MediaJel/mediajel/issues/396) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#37 AI Microservice V1 Design Doc](https://github.com/MediaJel/ai-microservice/issues/37) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#4c6e9af](https://github.com/MediaJel/mediajel-tracker/commit/4c6e9af) chore(public): remove duplicate Google Tag Manager script
-  * [#e1962d3](https://github.com/MediaJel/mediajel-tracker/commit/e1962d3) set dynamic tracker namespace
+* 💬 Commented on [#5439 [Campaign Luncher] Ecomm Attribution Platform incorrectly changing](https://github.com/MediaJel/mediajel-dashboard/issues/5439) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#593 Add Magento adapter to Dashboard](https://github.com/MediaJel/mediajel/issues/593) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#581 Create documentation on Statara data loading](https://github.com/MediaJel/mediajel/issues/581) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#4090 Investigate discrepancy on transactions with impressions table building vs get-events job](https://github.com/MediaJel/mediajel-gql-service/issues/4090) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
