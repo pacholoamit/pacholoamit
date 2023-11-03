@@ -25,11 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Closed [#5118 [IN PROGRESS] Tag generator paid search](https://github.com/MediaJel/mediajel-dashboard/pull/5118) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 14 files changed `++19344 --19030`
 * 💬 Commented on [#5439 [Campaign Luncher] Ecomm Attribution Platform incorrectly changing](https://github.com/MediaJel/mediajel-dashboard/issues/5439) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#593 Add Magento adapter to Dashboard](https://github.com/MediaJel/mediajel/issues/593) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Closed [#581 Create documentation on Statara data loading](https://github.com/MediaJel/mediajel/issues/581) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#4090 Investigate discrepancy on transactions with impressions table building vs get-events job](https://github.com/MediaJel/mediajel-gql-service/issues/4090) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
