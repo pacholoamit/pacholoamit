@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `4428` commits and made `171` PRs.
+:people_hugging: I contributed to `43` repositories , made `4439` commits and made `172` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,36 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#5118 [IN PROGRESS] Tag generator paid search](https://github.com/MediaJel/mediajel-dashboard/pull/5118) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 14 files changed `++19344 --19030`
-* 💬 Commented on [#5439 [Campaign Luncher] Ecomm Attribution Platform incorrectly changing](https://github.com/MediaJel/mediajel-dashboard/issues/5439) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#593 Add Magento adapter to Dashboard](https://github.com/MediaJel/mediajel/issues/593) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#581 Create documentation on Statara data loading](https://github.com/MediaJel/mediajel/issues/581) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#591 Add Chart/Info in snowflake dashboard of Overall impressions](https://github.com/MediaJel/mediajel/issues/591) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 9 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `master`
+  * [#ea7b3de](https://github.com/MediaJel/ai-microservice/commit/ea7b3de) Merge pull request #51 from MediaJel/staging
+
+Staging
+  * [#976af00](https://github.com/MediaJel/ai-microservice/commit/976af00) Merge pull request #50 from MediaJel/feat/polling
+
+Feat/polling update
+  * [#7c57bda](https://github.com/MediaJel/ai-microservice/commit/7c57bda) Added in the security AUTH
+  * [#49a6d29](https://github.com/MediaJel/ai-microservice/commit/49a6d29) fixed schema and premature data delete problem
+  * [#ab6a5ac](https://github.com/MediaJel/ai-microservice/commit/ab6a5ac) Update for the polling
+  * [#d3c48f1](https://github.com/MediaJel/ai-microservice/commit/d3c48f1) Prototype Polling on the Report Test
+  * [#d1896d6](https://github.com/MediaJel/ai-microservice/commit/d1896d6) added prototype storage
+  * [#5ce2b9f](https://github.com/MediaJel/ai-microservice/commit/5ce2b9f) added prototype storage
+  * [#033fe4c](https://github.com/MediaJel/ai-microservice/commit/033fe4c) report polling structure
+* 🔃 Merged [#51 Staging](https://github.com/MediaJel/ai-microservice/pull/51) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 6 files changed `++204 --25`
+* 🔃 Opened [#51 Staging](https://github.com/MediaJel/ai-microservice/pull/51) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 6 files changed `++204 --25`
+* ➡️ Pushed 8 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
+  * [#976af00](https://github.com/MediaJel/ai-microservice/commit/976af00) Merge pull request #50 from MediaJel/feat/polling
+
+Feat/polling update
+  * [#7c57bda](https://github.com/MediaJel/ai-microservice/commit/7c57bda) Added in the security AUTH
+  * [#49a6d29](https://github.com/MediaJel/ai-microservice/commit/49a6d29) fixed schema and premature data delete problem
+  * [#ab6a5ac](https://github.com/MediaJel/ai-microservice/commit/ab6a5ac) Update for the polling
+  * [#d3c48f1](https://github.com/MediaJel/ai-microservice/commit/d3c48f1) Prototype Polling on the Report Test
+  * [#d1896d6](https://github.com/MediaJel/ai-microservice/commit/d1896d6) added prototype storage
+  * [#5ce2b9f](https://github.com/MediaJel/ai-microservice/commit/5ce2b9f) added prototype storage
+  * [#033fe4c](https://github.com/MediaJel/ai-microservice/commit/033fe4c) report polling structure
 
 
 
