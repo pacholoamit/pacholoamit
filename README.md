@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4029 [FOR REVIEW] Campaign Observer - Anomaly Detection](https://github.com/MediaJel/mediajel-gql-service/pull/4029) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#591 Add Chart/Info in snowflake dashboard of Overall impressions](https://github.com/MediaJel/mediajel/issues/591) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 9 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `master`
   * [#ea7b3de](https://github.com/MediaJel/ai-microservice/commit/ea7b3de) Merge pull request #51 from MediaJel/staging
@@ -44,17 +45,6 @@ Feat/polling update
   * 6 files changed `++204 --25`
 * 🔃 Opened [#51 Staging](https://github.com/MediaJel/ai-microservice/pull/51) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
   * 6 files changed `++204 --25`
-* ➡️ Pushed 8 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `staging`
-  * [#976af00](https://github.com/MediaJel/ai-microservice/commit/976af00) Merge pull request #50 from MediaJel/feat/polling
-
-Feat/polling update
-  * [#7c57bda](https://github.com/MediaJel/ai-microservice/commit/7c57bda) Added in the security AUTH
-  * [#49a6d29](https://github.com/MediaJel/ai-microservice/commit/49a6d29) fixed schema and premature data delete problem
-  * [#ab6a5ac](https://github.com/MediaJel/ai-microservice/commit/ab6a5ac) Update for the polling
-  * [#d3c48f1](https://github.com/MediaJel/ai-microservice/commit/d3c48f1) Prototype Polling on the Report Test
-  * [#d1896d6](https://github.com/MediaJel/ai-microservice/commit/d1896d6) added prototype storage
-  * [#5ce2b9f](https://github.com/MediaJel/ai-microservice/commit/5ce2b9f) added prototype storage
-  * [#033fe4c](https://github.com/MediaJel/ai-microservice/commit/033fe4c) report polling structure
 
 
 
