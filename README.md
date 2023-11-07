@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#599 Snowflake additional charts (Request by jake)](https://github.com/MediaJel/mediajel/issues/599) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#598 Create chart on determining number of clients using universal tag vs legacy tags](https://github.com/MediaJel/mediajel/issues/598) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🔃 Opened [#4210 hotfix/get events undefined impressions table](https://github.com/MediaJel/mediajel-gql-service/pull/4210) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
   * 2 files changed `++6 --0`
@@ -33,7 +34,6 @@
   * [#eca9fde](https://github.com/MediaJel/mediajel-gql-service/commit/eca9fde) add default statement that fixes &#34;undefined&#34; table for sign ups
 * 🔃 Opened [#4209 Hotfix: Fix &#34;undefined&#34; ad impressions view from base-events attribution query](https://github.com/MediaJel/mediajel-gql-service/pull/4209) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
   * 1 file changed `++3 --0`
-* ⏺️ Created new branch hotfix/get-events-undefined-impressions-table in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
