@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `4442` commits and made `174` PRs.
+:people_hugging: I contributed to `44` repositories , made `4444` commits and made `175` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch master in [pacholoamit/fuel-sure-management](https://github.com/pacholoamit/fuel-sure-management)
+* ⏺️ Created new repository  [pacholoamit/fuel-sure-management](https://github.com/pacholoamit/fuel-sure-management)
+* 🔃 Opened [#5506 Hotfix: Improve graphql network error logs &amp; implement retry-link](https://github.com/MediaJel/mediajel-dashboard/pull/5506) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 3 files changed `++139 --23`
+* ⏺️ Created new branch hotfix/improve-logs-and-add-retry-link in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#4217 Investigate Shopify-legacy bug (again)](https://github.com/MediaJel/mediajel-gql-service/issues/4217) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#599 Snowflake additional charts (Request by jake)](https://github.com/MediaJel/mediajel/issues/599) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#598 Create chart on determining number of clients using universal tag vs legacy tags](https://github.com/MediaJel/mediajel/issues/598) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🔃 Opened [#4210 hotfix/get events undefined impressions table](https://github.com/MediaJel/mediajel-gql-service/pull/4210) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 2 files changed `++6 --0`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `hotfix/get-events-undefined-impressions-table`
-  * [#7f41851](https://github.com/MediaJel/mediajel-gql-service/commit/7f41851) add default statement that fixes &#34;undefined&#34; table for page views as kpi
-  * [#eca9fde](https://github.com/MediaJel/mediajel-gql-service/commit/eca9fde) add default statement that fixes &#34;undefined&#34; table for sign ups
 
 
 
