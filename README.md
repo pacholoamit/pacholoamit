@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4446` commits and made `175` PRs.
+:people_hugging: I contributed to `44` repositories , made `4446` commits and made `176` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `hotfix/update-apollo-retry-link`
+  * [#36fd0d3](https://github.com/MediaJel/mediajel-dashboard/commit/36fd0d3) remove pkg in yarn.lock
+* 🔃 Opened [#5515 Chore: use existing apollo-link-retry package](https://github.com/MediaJel/mediajel-dashboard/pull/5515) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 2 files changed `++1 --2`
+* ⏺️ Created new branch hotfix/update-apollo-retry-link in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ⏺️ Created new branch master in [pacholoamit/fuel-sure-management](https://github.com/pacholoamit/fuel-sure-management)
 * ⏺️ Created new repository  [pacholoamit/fuel-sure-management](https://github.com/pacholoamit/fuel-sure-management)
-* 🔃 Opened [#5506 Hotfix: Improve graphql network error logs &amp; implement retry-link](https://github.com/MediaJel/mediajel-dashboard/pull/5506) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 3 files changed `++139 --23`
-* ⏺️ Created new branch hotfix/improve-logs-and-add-retry-link in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#4217 Investigate Shopify-legacy bug (again)](https://github.com/MediaJel/mediajel-gql-service/issues/4217) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
