@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `4446` commits and made `176` PRs.
+:people_hugging: I contributed to `43` repositories , made `4477` commits and made `176` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,13 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `hotfix/update-apollo-retry-link`
-  * [#36fd0d3](https://github.com/MediaJel/mediajel-dashboard/commit/36fd0d3) remove pkg in yarn.lock
-* 🔃 Opened [#5515 Chore: use existing apollo-link-retry package](https://github.com/MediaJel/mediajel-dashboard/pull/5515) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 2 files changed `++1 --2`
-* ⏺️ Created new branch hotfix/update-apollo-retry-link in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ⏺️ Created new branch master in [pacholoamit/fuel-sure-management](https://github.com/pacholoamit/fuel-sure-management)
-* ⏺️ Created new repository  [pacholoamit/fuel-sure-management](https://github.com/pacholoamit/fuel-sure-management)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#857c496](https://github.com/pacholoamit/homelab-infrastructure/commit/857c496) refactor: rename vaultwarden deployment name
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#05ff0b9](https://github.com/pacholoamit/homelab-infrastructure/commit/05ff0b9) chore: Make password into a secret
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#71acaf1](https://github.com/pacholoamit/homelab-infrastructure/commit/71acaf1) chore: Update release.yaml with new services
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#41f6986](https://github.com/pacholoamit/homelab-infrastructure/commit/41f6986) feat: add Longhorn provider details to settings
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#76a2267](https://github.com/pacholoamit/homelab-infrastructure/commit/76a2267) feat(openmeteo): Add openmeteo weather widget
 
 
 
