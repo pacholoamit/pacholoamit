@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `4477` commits and made `176` PRs.
+:people_hugging: I contributed to `43` repositories , made `4493` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,15 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#857c496](https://github.com/pacholoamit/homelab-infrastructure/commit/857c496) refactor: rename vaultwarden deployment name
+  * [#40cee0f](https://github.com/pacholoamit/homelab-infrastructure/commit/40cee0f) feat: Remove Vikunja application and related resources
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#05ff0b9](https://github.com/pacholoamit/homelab-infrastructure/commit/05ff0b9) chore: Make password into a secret
+  * [#6e4bc04](https://github.com/pacholoamit/homelab-infrastructure/commit/6e4bc04) feat: Add Focalboard to release.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#71acaf1](https://github.com/pacholoamit/homelab-infrastructure/commit/71acaf1) chore: Update release.yaml with new services
+  * [#f41bdcb](https://github.com/pacholoamit/homelab-infrastructure/commit/f41bdcb) style: Remove unused environment variable and update targetPort
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#41f6986](https://github.com/pacholoamit/homelab-infrastructure/commit/41f6986) feat: add Longhorn provider details to settings
+  * [#d97d0ce](https://github.com/pacholoamit/homelab-infrastructure/commit/d97d0ce) chore: Remove commented out code in focalboard.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#76a2267](https://github.com/pacholoamit/homelab-infrastructure/commit/76a2267) feat(openmeteo): Add openmeteo weather widget
+  * [#3c79a50](https://github.com/pacholoamit/homelab-infrastructure/commit/3c79a50) chore: update focalboard.yaml
 
 
 
