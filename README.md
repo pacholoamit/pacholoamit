@@ -25,6 +25,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#353 ActBlue integrations](https://github.com/MediaJel/mediajel-tracker/issues/353) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#40cee0f](https://github.com/pacholoamit/homelab-infrastructure/commit/40cee0f) feat: Remove Vikunja application and related resources
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
@@ -33,8 +34,6 @@
   * [#f41bdcb](https://github.com/pacholoamit/homelab-infrastructure/commit/f41bdcb) style: Remove unused environment variable and update targetPort
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#d97d0ce](https://github.com/pacholoamit/homelab-infrastructure/commit/d97d0ce) chore: Remove commented out code in focalboard.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#3c79a50](https://github.com/pacholoamit/homelab-infrastructure/commit/3c79a50) chore: update focalboard.yaml
 
 
 
