@@ -25,6 +25,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Reopened [#46 Research on how to render React components via LLM (OpenAI)](https://github.com/MediaJel/ai-microservice/issues/46) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+* #️⃣ Closed [#46 Research on how to render React components via LLM (OpenAI)](https://github.com/MediaJel/ai-microservice/issues/46) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
 * #️⃣ Closed [#580 Research into dynamic tables in snowflake](https://github.com/MediaJel/mediajel/issues/580) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🔍 Reviewed [#4234 [HOTFIX] Campaign Observer fix](https://github.com/MediaJel/mediajel-gql-service/pull/4234) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 7 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `master`
@@ -42,10 +44,6 @@ Removed logic from the router.py and migrated to service.py
 Moved the memory dictionary to memory.py
   * [#c91599a](https://github.com/MediaJel/ai-microservice/commit/c91599a) Snowflake connection validation
   * [#8272bae](https://github.com/MediaJel/ai-microservice/commit/8272bae) Removed test polling endpoint
-* 🔃 Merged [#53 Staging](https://github.com/MediaJel/ai-microservice/pull/53) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-  * 9 files changed `++201 --209`
-* 🔃 Opened [#53 Staging](https://github.com/MediaJel/ai-microservice/pull/53) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-  * 9 files changed `++201 --209`
 
 
 
