@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `4494` commits and made `174` PRs.
+:people_hugging: I contributed to `42` repositories , made `4496` commits and made `175` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,15 +25,27 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#353 ActBlue integrations](https://github.com/MediaJel/mediajel-tracker/issues/353) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#40cee0f](https://github.com/pacholoamit/homelab-infrastructure/commit/40cee0f) feat: Remove Vikunja application and related resources
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#6e4bc04](https://github.com/pacholoamit/homelab-infrastructure/commit/6e4bc04) feat: Add Focalboard to release.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f41bdcb](https://github.com/pacholoamit/homelab-infrastructure/commit/f41bdcb) style: Remove unused environment variable and update targetPort
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d97d0ce](https://github.com/pacholoamit/homelab-infrastructure/commit/d97d0ce) chore: Remove commented out code in focalboard.yaml
+* #️⃣ Closed [#580 Research into dynamic tables in snowflake](https://github.com/MediaJel/mediajel/issues/580) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 🔍 Reviewed [#4234 [HOTFIX] Campaign Observer fix](https://github.com/MediaJel/mediajel-gql-service/pull/4234) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 7 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `master`
+  * [#b93dfe3](https://github.com/MediaJel/ai-microservice/commit/b93dfe3) Merge pull request #53 from MediaJel/staging
+
+Staging
+  * [#4e196bc](https://github.com/MediaJel/ai-microservice/commit/4e196bc) Merge pull request #52 from MediaJel/feat/polling
+
+SQL Query Fix
+  * [#29011ab](https://github.com/MediaJel/ai-microservice/commit/29011ab) Alerts id and schema fix
+  * [#21c7ea9](https://github.com/MediaJel/ai-microservice/commit/21c7ea9) Made the multiple app id query feature
+  * [#9848f10](https://github.com/MediaJel/ai-microservice/commit/9848f10) Improved memory and service
+
+Removed logic from the router.py and migrated to service.py
+Moved the memory dictionary to memory.py
+  * [#c91599a](https://github.com/MediaJel/ai-microservice/commit/c91599a) Snowflake connection validation
+  * [#8272bae](https://github.com/MediaJel/ai-microservice/commit/8272bae) Removed test polling endpoint
+* 🔃 Merged [#53 Staging](https://github.com/MediaJel/ai-microservice/pull/53) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 9 files changed `++201 --209`
+* 🔃 Opened [#53 Staging](https://github.com/MediaJel/ai-microservice/pull/53) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
+  * 9 files changed `++201 --209`
 
 
 
