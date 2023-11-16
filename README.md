@@ -25,11 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [slint-ui/slint](https://github.com/slint-ui/slint)
 * #️⃣ Closed [#598 Create snowflake chart on determining number of clients using universal tag vs legacy tags](https://github.com/MediaJel/mediajel/issues/598) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Opened [#4240 Research into optimizing get-events SQL query](https://github.com/MediaJel/mediajel-gql-service/issues/4240) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Closed [#4090 Investigate discrepancy on transactions with impressions table building vs get-events job](https://github.com/MediaJel/mediajel-gql-service/issues/4090) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#4090 Investigate discrepancy on transactions with impressions table building vs get-events job](https://github.com/MediaJel/mediajel-gql-service/issues/4090) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
