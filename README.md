@@ -25,25 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Reopened [#46 Research on how to render React components via LLM (OpenAI)](https://github.com/MediaJel/ai-microservice/issues/46) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* #️⃣ Closed [#46 Research on how to render React components via LLM (OpenAI)](https://github.com/MediaJel/ai-microservice/issues/46) in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice)
-* #️⃣ Closed [#580 Research into dynamic tables in snowflake](https://github.com/MediaJel/mediajel/issues/580) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🔍 Reviewed [#4234 [HOTFIX] Campaign Observer fix](https://github.com/MediaJel/mediajel-gql-service/pull/4234) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 7 commits in [MediaJel/ai-microservice](https://github.com/MediaJel/ai-microservice) on branch `master`
-  * [#b93dfe3](https://github.com/MediaJel/ai-microservice/commit/b93dfe3) Merge pull request #53 from MediaJel/staging
-
-Staging
-  * [#4e196bc](https://github.com/MediaJel/ai-microservice/commit/4e196bc) Merge pull request #52 from MediaJel/feat/polling
-
-SQL Query Fix
-  * [#29011ab](https://github.com/MediaJel/ai-microservice/commit/29011ab) Alerts id and schema fix
-  * [#21c7ea9](https://github.com/MediaJel/ai-microservice/commit/21c7ea9) Made the multiple app id query feature
-  * [#9848f10](https://github.com/MediaJel/ai-microservice/commit/9848f10) Improved memory and service
-
-Removed logic from the router.py and migrated to service.py
-Moved the memory dictionary to memory.py
-  * [#c91599a](https://github.com/MediaJel/ai-microservice/commit/c91599a) Snowflake connection validation
-  * [#8272bae](https://github.com/MediaJel/ai-microservice/commit/8272bae) Removed test polling endpoint
+* #️⃣ Closed [#598 Create snowflake chart on determining number of clients using universal tag vs legacy tags](https://github.com/MediaJel/mediajel/issues/598) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#4240 Research into optimizing get-events SQL query](https://github.com/MediaJel/mediajel-gql-service/issues/4240) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#4090 Investigate discrepancy on transactions with impressions table building vs get-events job](https://github.com/MediaJel/mediajel-gql-service/issues/4090) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4090 Investigate discrepancy on transactions with impressions table building vs get-events job](https://github.com/MediaJel/mediajel-gql-service/issues/4090) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
