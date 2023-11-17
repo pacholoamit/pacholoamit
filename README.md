@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `4496` commits and made `175` PRs.
+:people_hugging: I contributed to `43` repositories , made `4496` commits and made `175` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-serverless](https://github.com/MediaJel/mediajel-serverless) on branch `setup-environment`
+  * [#9590f84](https://github.com/MediaJel/mediajel-serverless/commit/9590f84) chore: Update deployment scripts
+* ⏺️ Created new branch setup-environment in [MediaJel/mediajel-serverless](https://github.com/MediaJel/mediajel-serverless)
+* ⏺️ Created new branch master in [MediaJel/mediajel-serverless](https://github.com/MediaJel/mediajel-serverless)
+* ⏺️ Created new repository  [MediaJel/mediajel-serverless](https://github.com/MediaJel/mediajel-serverless)
 * 🌟 Starred [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)
-* 🔍 Reviewed [#5532 [FOR REVIEW] HOT FIX generated docs shopify](https://github.com/MediaJel/mediajel-dashboard/pull/5532) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [slint-ui/slint](https://github.com/slint-ui/slint)
-* #️⃣ Closed [#598 Create snowflake chart on determining number of clients using universal tag vs legacy tags](https://github.com/MediaJel/mediajel/issues/598) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
