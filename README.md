@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `4496` commits and made `175` PRs.
+:people_hugging: I contributed to `43` repositories , made `4503` commits and made `175` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,12 +25,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-serverless](https://github.com/MediaJel/mediajel-serverless) on branch `setup-environment`
-  * [#9590f84](https://github.com/MediaJel/mediajel-serverless/commit/9590f84) chore: Update deployment scripts
-* ⏺️ Created new branch setup-environment in [MediaJel/mediajel-serverless](https://github.com/MediaJel/mediajel-serverless)
-* ⏺️ Created new branch master in [MediaJel/mediajel-serverless](https://github.com/MediaJel/mediajel-serverless)
-* ⏺️ Created new repository  [MediaJel/mediajel-serverless](https://github.com/MediaJel/mediajel-serverless)
-* 🌟 Starred [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#a7a8539](https://github.com/MediaJel/serverless-functions/commit/a7a8539) chore: Update dependencies and configure dotenv plugin
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#a72adf6](https://github.com/MediaJel/serverless-functions/commit/a72adf6) feat: Add environment variables to loader.ts and serverless.yml
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#ae3db60](https://github.com/MediaJel/serverless-functions/commit/ae3db60) chore: Add serverless-compose.yml, update loader.ts and serverless.yml
+* #️⃣ Opened [#613 Implement Sign up tracking mediajel.com](https://github.com/MediaJel/mediajel/issues/613) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#612 Create enrichment to block unwanted app_ids](https://github.com/MediaJel/mediajel/issues/612) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
