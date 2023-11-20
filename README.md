@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `4503` commits and made `174` PRs.
+:people_hugging: I contributed to `43` repositories , made `4509` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,14 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4246 [HOTFIX] Campaign Observer rise fix](https://github.com/MediaJel/mediajel-gql-service/pull/4246) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#a7a8539](https://github.com/MediaJel/serverless-functions/commit/a7a8539) chore: Update dependencies and configure dotenv plugin
+  * [#7e70860](https://github.com/MediaJel/serverless-functions/commit/7e70860) fix(loader): fix environment variable names
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#c6ad557](https://github.com/MediaJel/mediajel-tracker/commit/c6ad557) add test=true app ids
 * ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#a72adf6](https://github.com/MediaJel/serverless-functions/commit/a72adf6) feat: Add environment variables to loader.ts and serverless.yml
+  * [#feb0fbc](https://github.com/MediaJel/serverless-functions/commit/feb0fbc) fix: Update AWS credentials in .env.example and serverless.yml
 * ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#ae3db60](https://github.com/MediaJel/serverless-functions/commit/ae3db60) chore: Add serverless-compose.yml, update loader.ts and serverless.yml
-* #️⃣ Opened [#613 Implement Sign up tracking mediajel.com](https://github.com/MediaJel/mediajel/issues/613) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#612 Create enrichment to block unwanted app_ids](https://github.com/MediaJel/mediajel/issues/612) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+  * [#0df0093](https://github.com/MediaJel/serverless-functions/commit/0df0093) chore: Update file names and remove unused configuration
 
 
 
