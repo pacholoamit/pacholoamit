@@ -25,15 +25,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#616 Create Liquid M snowpipe to replace manifest manager](https://github.com/MediaJel/mediajel/issues/616) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#612 Create enrichment to block unwanted app_ids](https://github.com/MediaJel/mediajel/issues/612) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#599 Snowflake additional charts (Request by jake)](https://github.com/MediaJel/mediajel/issues/599) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#599 Snowflake additional charts (Request by jake)](https://github.com/MediaJel/mediajel/issues/599) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🔍 Reviewed [#4246 [HOTFIX] Campaign Observer rise fix](https://github.com/MediaJel/mediajel-gql-service/pull/4246) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#7e70860](https://github.com/MediaJel/serverless-functions/commit/7e70860) fix(loader): fix environment variable names
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#c6ad557](https://github.com/MediaJel/mediajel-tracker/commit/c6ad557) add test=true app ids
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#feb0fbc](https://github.com/MediaJel/serverless-functions/commit/feb0fbc) fix: Update AWS credentials in .env.example and serverless.yml
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#0df0093](https://github.com/MediaJel/serverless-functions/commit/0df0093) chore: Update file names and remove unused configuration
 
 
 
