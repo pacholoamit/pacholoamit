@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `4541` commits and made `174` PRs.
+:people_hugging: I contributed to `43` repositories , made `4622` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#173309f](https://github.com/pacholoamit/homelab-infrastructure/commit/173309f) chore: update homepage.yaml file
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#54d6042](https://github.com/pacholoamit/homelab-infrastructure/commit/54d6042) fix: Fix age key generation and usage
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f14074b](https://github.com/pacholoamit/homelab-infrastructure/commit/f14074b) add cm
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#fd9ee27](https://github.com/pacholoamit/homelab-infrastructure/commit/fd9ee27) refactor: Simplify file names and update secret reference name
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#faaaeb1](https://github.com/pacholoamit/homelab-infrastructure/commit/faaaeb1) style: remove commented out code
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#3250c2f](https://github.com/MediaJel/serverless-functions/commit/3250c2f) chore(broadcast): remove commented out code
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#e7fa9f6](https://github.com/MediaJel/serverless-functions/commit/e7fa9f6) chore: Add instructions for logging functions
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#7e6267a](https://github.com/MediaJel/serverless-functions/commit/7e6267a) refactor(serverless.yml): remove unused code
+  * [#50b0d18](https://github.com/MediaJel/serverless-functions/commit/50b0d18) feat: Update handler for s3-events-broadcaster function
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#599bc97](https://github.com/MediaJel/serverless-functions/commit/599bc97) feat: Add AWS Lambda function for broadcasting S3 events to SQS and SNS
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#47216ef](https://github.com/MediaJel/serverless-functions/commit/47216ef) refactor: Update serverless.yml and add broadcast.ts
 
 
 
