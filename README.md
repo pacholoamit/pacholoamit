@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `4509` commits and made `174` PRs.
+:people_hugging: I contributed to `43` repositories , made `4541` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,11 +25,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#616 Create Liquid M snowpipe to replace manifest manager](https://github.com/MediaJel/mediajel/issues/616) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#612 Create enrichment to block unwanted app_ids](https://github.com/MediaJel/mediajel/issues/612) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#599 Snowflake additional charts (Request by jake)](https://github.com/MediaJel/mediajel/issues/599) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#599 Snowflake additional charts (Request by jake)](https://github.com/MediaJel/mediajel/issues/599) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🔍 Reviewed [#4246 [HOTFIX] Campaign Observer rise fix](https://github.com/MediaJel/mediajel-gql-service/pull/4246) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#173309f](https://github.com/pacholoamit/homelab-infrastructure/commit/173309f) chore: update homepage.yaml file
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#54d6042](https://github.com/pacholoamit/homelab-infrastructure/commit/54d6042) fix: Fix age key generation and usage
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#f14074b](https://github.com/pacholoamit/homelab-infrastructure/commit/f14074b) add cm
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#fd9ee27](https://github.com/pacholoamit/homelab-infrastructure/commit/fd9ee27) refactor: Simplify file names and update secret reference name
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#faaaeb1](https://github.com/pacholoamit/homelab-infrastructure/commit/faaaeb1) style: remove commented out code
 
 
 
