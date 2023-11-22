@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `4632` commits and made `174` PRs.
+:people_hugging: I contributed to `44` repositories , made `4632` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -25,16 +25,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#c224a13](https://github.com/MediaJel/serverless-functions/commit/c224a13) chore: Update README.md
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#a43157a](https://github.com/MediaJel/serverless-functions/commit/a43157a) feat: add staging environment script
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#385ef1d](https://github.com/MediaJel/serverless-functions/commit/385ef1d) Update README.md
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#b580da7](https://github.com/MediaJel/serverless-functions/commit/b580da7) chore: Update serverless development scripts
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#1cb5123](https://github.com/MediaJel/serverless-functions/commit/1cb5123) refactor: fix typo in handler function name
+* ➡️ Pushed 1 commit in [pacholoamit/developer-portfolio](https://github.com/pacholoamit/developer-portfolio) on branch `master`
+  * [#97a6dea](https://github.com/pacholoamit/developer-portfolio/commit/97a6dea) refactor: Update skills title in portfolio.js
+* ➡️ Pushed 2 commits in [pacholoamit/developer-portfolio](https://github.com/pacholoamit/developer-portfolio) on branch `master`
+  * [#f1a7842](https://github.com/pacholoamit/developer-portfolio/commit/f1a7842) feat: Add Dev.to and Hashnode social media links
+  * [#f13ae49](https://github.com/pacholoamit/developer-portfolio/commit/f13ae49) chore: Update portfolio information and links
+* ➡️ Pushed 1 commit in [pacholoamit/developer-portfolio](https://github.com/pacholoamit/developer-portfolio) on branch `master`
+  * [#be49b4d](https://github.com/pacholoamit/developer-portfolio/commit/be49b4d) generate oss
+* 🍽️ Forked [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) to [pacholoamit/developer-portfolio](https://github.com/pacholoamit/developer-portfolio)
+* ⏺️ Created new branch master in [pacholoamit/developer-portfolio](https://github.com/pacholoamit/developer-portfolio)
 
 
 
