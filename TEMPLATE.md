@@ -1,5 +1,10 @@
 [![MasterHead](./assets/header-one.png)](https://github.com/pacholoamit)
-![Github snake svg](https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake.svg" />
+</picture>
+<!-- ![Github snake svg](https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-contribution-grid-snake.svg) -->
 
 <h3 align="left">Languages and Tools</h3>
 
