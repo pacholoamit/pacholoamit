@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4799` commits and made `174` PRs.
+:people_hugging: I contributed to `44` repositories , made `4800` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,12 +26,13 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#f401928](https://github.com/pacholoamit/homelab-infrastructure/commit/f401928) chore: Update kustomization.yaml and release.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#31ed3e4](https://github.com/pacholoamit/homelab-infrastructure/commit/31ed3e4) feat: Add Reactive Resume helm chart and templates
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#7621c61](https://github.com/pacholoamit/homelab-infrastructure/commit/7621c61) refactor: Remove unused WordPress deployment file
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#d6959ba](https://github.com/pacholoamit/homelab-infrastructure/commit/d6959ba) chore: Comment out unnecessary code in release.yaml
-* 🌟 Starred [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
 * 🌟 Starred [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
 
 
