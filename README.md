@@ -9,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4695` commits and made `174` PRs.
+:people_hugging: I contributed to `44` repositories , made `4749` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -26,15 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#46060b7](https://github.com/pacholoamit/homelab-infrastructure/commit/46060b7) regenerate configmap for homepage
+  * [#7e3e22e](https://github.com/pacholoamit/homelab-infrastructure/commit/7e3e22e) feat: add persistent storage to Mariadb deployment
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#bf98f3c](https://github.com/pacholoamit/homelab-infrastructure/commit/bf98f3c) regenerate configmap for homepage
+  * [#4e96be0](https://github.com/pacholoamit/homelab-infrastructure/commit/4e96be0) refactor: Update mariadb.yaml configuration
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#815fcb3](https://github.com/pacholoamit/homelab-infrastructure/commit/815fcb3) regenerate configmap for homepage
+  * [#c8dc2a2](https://github.com/pacholoamit/homelab-infrastructure/commit/c8dc2a2) refactor: update mariadb.yaml configuration
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#c9c8a0f](https://github.com/pacholoamit/homelab-infrastructure/commit/c9c8a0f) chore(service.yaml): add ping endpoint for Longhorn
+  * [#5adb1f4](https://github.com/pacholoamit/homelab-infrastructure/commit/5adb1f4) feat: Add PVC for MariaDB
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#24a74cc](https://github.com/pacholoamit/homelab-infrastructure/commit/24a74cc) regenerate configmap for homepage
+  * [#55fed6a](https://github.com/pacholoamit/homelab-infrastructure/commit/55fed6a) style: remove commented out code
 
 
 
