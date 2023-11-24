@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4837` commits and made `174` PRs.
+:people_hugging: I contributed to `44` repositories , made `4263` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,6 +31,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#3e68d3a](https://github.com/pacholoamit/homelab-infrastructure/commit/3e68d3a) chore: Update wordpress.yaml file
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#eb92b81](https://github.com/pacholoamit/homelab-infrastructure/commit/eb92b81) style: remove commented out code in wordpress.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#55149f2](https://github.com/pacholoamit/homelab-infrastructure/commit/55149f2) chore: update secret and deployment names
@@ -38,8 +40,6 @@
   * [#48330f8](https://github.com/pacholoamit/homelab-infrastructure/commit/48330f8) fix(deployment): Fix secretKeyRef name for WORDPRESS_DB_PASSWORD
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#b32ea1b](https://github.com/pacholoamit/homelab-infrastructure/commit/b32ea1b) style: remove commented out code
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#5e1c41d](https://github.com/pacholoamit/homelab-infrastructure/commit/5e1c41d) style: remove commented code in wordpress.yaml
 
 
 
