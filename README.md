@@ -1,5 +1,10 @@
 [![MasterHead](./assets/header-one.png)](https://github.com/pacholoamit)
-![Github snake svg](https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake.svg" />
+</picture>
+<!-- ![Github snake svg](https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-contribution-grid-snake.svg) -->
 
 <h3 align="left">Languages and Tools</h3>
 
@@ -9,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4835` commits and made `174` PRs.
+:people_hugging: I contributed to `44` repositories , made `4837` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
