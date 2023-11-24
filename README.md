@@ -1,10 +1,5 @@
 [![MasterHead](./assets/header-one.png)](https://github.com/pacholoamit)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake.svg" />
-</picture>
-<!-- ![Github snake svg](https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-contribution-grid-snake.svg) -->
+![Github snake svg](https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-contribution-grid-snake.svg)
 
 <h3 align="left">Languages and Tools</h3>
 
@@ -14,7 +9,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4800` commits and made `174` PRs.
+:people_hugging: I contributed to `44` repositories , made `4831` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,14 +26,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f401928](https://github.com/pacholoamit/homelab-infrastructure/commit/f401928) chore: Update kustomization.yaml and release.yaml
+  * [#eb92b81](https://github.com/pacholoamit/homelab-infrastructure/commit/eb92b81) style: remove commented out code in wordpress.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#31ed3e4](https://github.com/pacholoamit/homelab-infrastructure/commit/31ed3e4) feat: Add Reactive Resume helm chart and templates
+  * [#55149f2](https://github.com/pacholoamit/homelab-infrastructure/commit/55149f2) chore: update secret and deployment names
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#7621c61](https://github.com/pacholoamit/homelab-infrastructure/commit/7621c61) refactor: Remove unused WordPress deployment file
+  * [#48330f8](https://github.com/pacholoamit/homelab-infrastructure/commit/48330f8) fix(deployment): Fix secretKeyRef name for WORDPRESS_DB_PASSWORD
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d6959ba](https://github.com/pacholoamit/homelab-infrastructure/commit/d6959ba) chore: Comment out unnecessary code in release.yaml
-* 🌟 Starred [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
+  * [#b32ea1b](https://github.com/pacholoamit/homelab-infrastructure/commit/b32ea1b) style: remove commented out code
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#5e1c41d](https://github.com/pacholoamit/homelab-infrastructure/commit/5e1c41d) style: remove commented code in wordpress.yaml
 
 
 
