@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `4263` commits and made `174` PRs.
+:people_hugging: I contributed to `45` repositories , made `4853` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,15 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#3e68d3a](https://github.com/pacholoamit/homelab-infrastructure/commit/3e68d3a) chore: Update wordpress.yaml file
+  * [#f4224d8](https://github.com/pacholoamit/homelab-infrastructure/commit/f4224d8) regenerate configmap for homepage
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#eb92b81](https://github.com/pacholoamit/homelab-infrastructure/commit/eb92b81) style: remove commented out code in wordpress.yaml
+  * [#0a80377](https://github.com/pacholoamit/homelab-infrastructure/commit/0a80377) style: Remove unnecessary quotes on line 28
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#55149f2](https://github.com/pacholoamit/homelab-infrastructure/commit/55149f2) chore: update secret and deployment names
+  * [#35198be](https://github.com/pacholoamit/homelab-infrastructure/commit/35198be) regenerate configmap for homepage
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#48330f8](https://github.com/pacholoamit/homelab-infrastructure/commit/48330f8) fix(deployment): Fix secretKeyRef name for WORDPRESS_DB_PASSWORD
+  * [#60d8e51](https://github.com/pacholoamit/homelab-infrastructure/commit/60d8e51) add developer portfolio and plausible
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#b32ea1b](https://github.com/pacholoamit/homelab-infrastructure/commit/b32ea1b) style: remove commented out code
+  * [#e549a4a](https://github.com/pacholoamit/homelab-infrastructure/commit/e549a4a) chore: move developer-portfolio.yaml to unused folder
 
 
 
