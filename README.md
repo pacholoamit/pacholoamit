@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `4877` commits and made `174` PRs.
+:people_hugging: I contributed to `45` repositories , made `4888` commits and made `174` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,15 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0155cbd](https://github.com/pacholoamit/homelab-infrastructure/commit/0155cbd) style: fix indentation in release.yaml
+  * [#6ccfd60](https://github.com/pacholoamit/homelab-infrastructure/commit/6ccfd60) chore: Update n8n.yaml configuration
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d711679](https://github.com/pacholoamit/homelab-infrastructure/commit/d711679) style: remove commented out code in n8n.yaml
+  * [#15adbd0](https://github.com/pacholoamit/homelab-infrastructure/commit/15adbd0) style: remove commented out code in postgresql.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#def6165](https://github.com/pacholoamit/homelab-infrastructure/commit/def6165) chore: update n8n.yaml
+  * [#b049fdb](https://github.com/pacholoamit/homelab-infrastructure/commit/b049fdb) chore: update postgresql.yaml file
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#00e73fe](https://github.com/pacholoamit/homelab-infrastructure/commit/00e73fe) refactor: Update release.yaml configuration for n8n
+  * [#1d6cfc4](https://github.com/pacholoamit/homelab-infrastructure/commit/1d6cfc4) refactor: Comment out code for read replicas and backup cronjob
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0f624b5](https://github.com/pacholoamit/homelab-infrastructure/commit/0f624b5) feat: add postgresql dependency
+  * [#5b07bb3](https://github.com/pacholoamit/homelab-infrastructure/commit/5b07bb3) refactor: Update existingClaim value for primary persistence
 
 
 
