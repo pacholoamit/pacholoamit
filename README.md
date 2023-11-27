@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `4888` commits and made `174` PRs.
+:people_hugging: I contributed to `45` repositories , made `4992` commits and made `173` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,15 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#6ccfd60](https://github.com/pacholoamit/homelab-infrastructure/commit/6ccfd60) chore: Update n8n.yaml configuration
+  * [#d4cf910](https://github.com/pacholoamit/homelab-infrastructure/commit/d4cf910) feat: update backup-target value in settings.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#15adbd0](https://github.com/pacholoamit/homelab-infrastructure/commit/15adbd0) style: remove commented out code in postgresql.yaml
+  * [#bc6bcd3](https://github.com/pacholoamit/homelab-infrastructure/commit/bc6bcd3) refactor: Update AWS credentials in longhorn secret.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#b049fdb](https://github.com/pacholoamit/homelab-infrastructure/commit/b049fdb) chore: update postgresql.yaml file
+  * [#c64bcb4](https://github.com/pacholoamit/homelab-infrastructure/commit/c64bcb4) refactor: Update README.md to remove mention of SealedSecrets and clarify the purpose of Mozilla SOPS
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1d6cfc4](https://github.com/pacholoamit/homelab-infrastructure/commit/1d6cfc4) refactor: Comment out code for read replicas and backup cronjob
+  * [#e28716d](https://github.com/pacholoamit/homelab-infrastructure/commit/e28716d) remove sealed-secrets
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#5b07bb3](https://github.com/pacholoamit/homelab-infrastructure/commit/5b07bb3) refactor: Update existingClaim value for primary persistence
+  * [#10038d6](https://github.com/pacholoamit/homelab-infrastructure/commit/10038d6) refactor: Remove sealed-secrets.yaml and add settings.yaml
 
 
 
