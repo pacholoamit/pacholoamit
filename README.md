@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `4992` commits and made `173` PRs.
+:people_hugging: I contributed to `45` repositories , made `4997` commits and made `173` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d4cf910](https://github.com/pacholoamit/homelab-infrastructure/commit/d4cf910) feat: update backup-target value in settings.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#bc6bcd3](https://github.com/pacholoamit/homelab-infrastructure/commit/bc6bcd3) refactor: Update AWS credentials in longhorn secret.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#c64bcb4](https://github.com/pacholoamit/homelab-infrastructure/commit/c64bcb4) refactor: Update README.md to remove mention of SealedSecrets and clarify the purpose of Mozilla SOPS
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#e28716d](https://github.com/pacholoamit/homelab-infrastructure/commit/e28716d) remove sealed-secrets
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#10038d6](https://github.com/pacholoamit/homelab-infrastructure/commit/10038d6) refactor: Remove sealed-secrets.yaml and add settings.yaml
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#dffb7da](https://github.com/pacholoamit/homelab-infrastructure/commit/dffb7da) Merge pull request #7 from pacholoamit/renovate/snapshot-controller-1.x
+
+chore(deps): update helm release snapshot-controller to 1.9.x
+  * [#7dd1d91](https://github.com/pacholoamit/homelab-infrastructure/commit/7dd1d91) chore(deps): update helm release snapshot-controller to 1.9.x
+* 🔃 Merged [#7 chore(deps): update helm release snapshot-controller to 1.9.x](https://github.com/pacholoamit/homelab-infrastructure/pull/7) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#8656abd](https://github.com/pacholoamit/homelab-infrastructure/commit/8656abd) Merge pull request #14 from pacholoamit/renovate/velero-velero-plugin-for-aws-1.8.x
+
+chore(deps): update container image velero/velero-plugin-for-aws to v1.8.2
+  * [#b05a2ea](https://github.com/pacholoamit/homelab-infrastructure/commit/b05a2ea) chore(deps): update container image velero/velero-plugin-for-aws to v1.8.2
+* 🔃 Merged [#14 chore(deps): update container image velero/velero-plugin-for-aws to v1.8.2](https://github.com/pacholoamit/homelab-infrastructure/pull/14) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#d0def93](https://github.com/pacholoamit/homelab-infrastructure/commit/d0def93) Merge pull request #16 from pacholoamit/renovate/ghcr.io-gethomepage-homepage-0.8.x
+
+chore(deps): update container image ghcr.io/gethomepage/homepage to v0.8.2
+  * [#e22fc0f](https://github.com/pacholoamit/homelab-infrastructure/commit/e22fc0f) chore(deps): update container image ghcr.io/gethomepage/homepage to v0.8.2
 
 
 
