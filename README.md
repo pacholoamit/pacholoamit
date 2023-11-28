@@ -30,14 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#619 Create New diagram regarding our infrastructure](https://github.com/MediaJel/mediajel/issues/619) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#4251 Improve the transactions-observer](https://github.com/MediaJel/mediajel-gql-service/issues/4251) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#4251 Improve the transactions-observer](https://github.com/MediaJel/mediajel-gql-service/issues/4251) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
   * [#0298f9b](https://github.com/MediaJel/serverless-functions/commit/0298f9b) chore(serverless.yml): add package configuration
 * ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
   * [#e0b1175](https://github.com/MediaJel/serverless-functions/commit/e0b1175) refactor(copy): Remove unnecessary line
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#5a961e7](https://github.com/MediaJel/serverless-functions/commit/5a961e7) refactor(copy.ts): simplify fileSource URI encoding
 
 
 
