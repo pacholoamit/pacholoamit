@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `4997` commits and made `173` PRs.
+:people_hugging: I contributed to `45` repositories , made `5005` commits and made `173` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,25 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#dffb7da](https://github.com/pacholoamit/homelab-infrastructure/commit/dffb7da) Merge pull request #7 from pacholoamit/renovate/snapshot-controller-1.x
-
-chore(deps): update helm release snapshot-controller to 1.9.x
-  * [#7dd1d91](https://github.com/pacholoamit/homelab-infrastructure/commit/7dd1d91) chore(deps): update helm release snapshot-controller to 1.9.x
-* 🔃 Merged [#7 chore(deps): update helm release snapshot-controller to 1.9.x](https://github.com/pacholoamit/homelab-infrastructure/pull/7) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#8656abd](https://github.com/pacholoamit/homelab-infrastructure/commit/8656abd) Merge pull request #14 from pacholoamit/renovate/velero-velero-plugin-for-aws-1.8.x
-
-chore(deps): update container image velero/velero-plugin-for-aws to v1.8.2
-  * [#b05a2ea](https://github.com/pacholoamit/homelab-infrastructure/commit/b05a2ea) chore(deps): update container image velero/velero-plugin-for-aws to v1.8.2
-* 🔃 Merged [#14 chore(deps): update container image velero/velero-plugin-for-aws to v1.8.2](https://github.com/pacholoamit/homelab-infrastructure/pull/14) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d0def93](https://github.com/pacholoamit/homelab-infrastructure/commit/d0def93) Merge pull request #16 from pacholoamit/renovate/ghcr.io-gethomepage-homepage-0.8.x
-
-chore(deps): update container image ghcr.io/gethomepage/homepage to v0.8.2
-  * [#e22fc0f](https://github.com/pacholoamit/homelab-infrastructure/commit/e22fc0f) chore(deps): update container image ghcr.io/gethomepage/homepage to v0.8.2
+* 💬 Commented on [#4251 Improve the transactions-observer](https://github.com/MediaJel/mediajel-gql-service/issues/4251) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4251 Improve the transactions-observer](https://github.com/MediaJel/mediajel-gql-service/issues/4251) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#0298f9b](https://github.com/MediaJel/serverless-functions/commit/0298f9b) chore(serverless.yml): add package configuration
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#e0b1175](https://github.com/MediaJel/serverless-functions/commit/e0b1175) refactor(copy): Remove unnecessary line
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#5a961e7](https://github.com/MediaJel/serverless-functions/commit/5a961e7) refactor(copy.ts): simplify fileSource URI encoding
 
 
 
