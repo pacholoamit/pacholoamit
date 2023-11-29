@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5005` commits and made `173` PRs.
+:people_hugging: I contributed to `45` repositories , made `5034` commits and made `173` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#619 Create New diagram regarding our infrastructure](https://github.com/MediaJel/mediajel/issues/619) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#4251 Improve the transactions-observer](https://github.com/MediaJel/mediajel-gql-service/issues/4251) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#4251 Improve the transactions-observer](https://github.com/MediaJel/mediajel-gql-service/issues/4251) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#616 Create Liquid M snowpipe to replace manifest manager](https://github.com/MediaJel/mediajel/issues/616) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#d346780](https://github.com/MediaJel/serverless-functions/commit/d346780) chore: Add staging and production environment variables
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#16d38a3](https://github.com/MediaJel/serverless-functions/commit/16d38a3) feat: Deploy serverless
+* ⏺️ Created new branch staging in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
 * ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#0298f9b](https://github.com/MediaJel/serverless-functions/commit/0298f9b) chore(serverless.yml): add package configuration
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#e0b1175](https://github.com/MediaJel/serverless-functions/commit/e0b1175) refactor(copy): Remove unnecessary line
+  * [#88f8f35](https://github.com/MediaJel/serverless-functions/commit/88f8f35) chore(config.yml): Install Packages
 
 
 
