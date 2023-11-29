@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5034` commits and made `173` PRs.
+:people_hugging: I contributed to `45` repositories , made `5054` commits and made `173` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#616 Create Liquid M snowpipe to replace manifest manager](https://github.com/MediaJel/mediajel/issues/616) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#d346780](https://github.com/MediaJel/serverless-functions/commit/d346780) chore: Add staging and production environment variables
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#16d38a3](https://github.com/MediaJel/serverless-functions/commit/16d38a3) feat: Deploy serverless
-* ⏺️ Created new branch staging in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#88f8f35](https://github.com/MediaJel/serverless-functions/commit/88f8f35) chore(config.yml): Install Packages
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#f0543d8](https://github.com/pacholoamit/homelab-infrastructure/commit/f0543d8) refactor: Remove commented out mariadb resource
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#f139446](https://github.com/pacholoamit/homelab-infrastructure/commit/f139446) fix: Enable mariadb in kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#577589c](https://github.com/pacholoamit/homelab-infrastructure/commit/577589c) style: remove mariadb from apps kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#79c4394](https://github.com/pacholoamit/homelab-infrastructure/commit/79c4394) style: remove existingClaim from mariadb release spec
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#32549b3](https://github.com/pacholoamit/homelab-infrastructure/commit/32549b3) style: Remove unnecessary lines from release.yaml
 
 
 
