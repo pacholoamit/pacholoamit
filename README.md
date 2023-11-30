@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5061` commits and made `173` PRs.
+:people_hugging: I contributed to `45` repositories , made `5090` commits and made `173` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
+* 🌟 Starred [kubernetes/client-go](https://github.com/kubernetes/client-go)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#4b355d3](https://github.com/pacholoamit/homelab-infrastructure/commit/4b355d3) style: modify ingress description
+  * [#409fc5d](https://github.com/pacholoamit/homelab-infrastructure/commit/409fc5d) chore: Update n8n image tag to 1.18.0
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#59b7915](https://github.com/pacholoamit/homelab-infrastructure/commit/59b7915) feat: Add pod-selector annotation to ingress.yaml
+  * [#3963b44](https://github.com/pacholoamit/homelab-infrastructure/commit/3963b44) fix: update n8n image tag to ai-beta
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f982657](https://github.com/pacholoamit/homelab-infrastructure/commit/f982657) chore: Update configmap.yaml settings.yaml and lastmodified
+  * [#fc2df3e](https://github.com/pacholoamit/homelab-infrastructure/commit/fc2df3e) refactor(apps): remove unused postgresql-external resource
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0a3081f](https://github.com/pacholoamit/homelab-infrastructure/commit/0a3081f) feat(secret): add SMTP credentials and email configuration
+  * [#5f1ca7f](https://github.com/pacholoamit/homelab-infrastructure/commit/5f1ca7f) refactor: Update database and secret configurations
 
 
 
