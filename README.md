@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5054` commits and made `173` PRs.
+:people_hugging: I contributed to `45` repositories , made `5061` commits and made `173` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f0543d8](https://github.com/pacholoamit/homelab-infrastructure/commit/f0543d8) refactor: Remove commented out mariadb resource
+  * [#4b355d3](https://github.com/pacholoamit/homelab-infrastructure/commit/4b355d3) style: modify ingress description
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f139446](https://github.com/pacholoamit/homelab-infrastructure/commit/f139446) fix: Enable mariadb in kustomization.yaml
+  * [#59b7915](https://github.com/pacholoamit/homelab-infrastructure/commit/59b7915) feat: Add pod-selector annotation to ingress.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#577589c](https://github.com/pacholoamit/homelab-infrastructure/commit/577589c) style: remove mariadb from apps kustomization.yaml
+  * [#f982657](https://github.com/pacholoamit/homelab-infrastructure/commit/f982657) chore: Update configmap.yaml settings.yaml and lastmodified
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#79c4394](https://github.com/pacholoamit/homelab-infrastructure/commit/79c4394) style: remove existingClaim from mariadb release spec
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#32549b3](https://github.com/pacholoamit/homelab-infrastructure/commit/32549b3) style: Remove unnecessary lines from release.yaml
+  * [#0a3081f](https://github.com/pacholoamit/homelab-infrastructure/commit/0a3081f) feat(secret): add SMTP credentials and email configuration
 
 
 
