@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5090` commits and made `173` PRs.
+:people_hugging: I contributed to `44` repositories , made `5102` commits and made `173` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [kubernetes/client-go](https://github.com/kubernetes/client-go)
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#409fc5d](https://github.com/pacholoamit/homelab-infrastructure/commit/409fc5d) chore: Update n8n image tag to 1.18.0
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#3963b44](https://github.com/pacholoamit/homelab-infrastructure/commit/3963b44) fix: update n8n image tag to ai-beta
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#fc2df3e](https://github.com/pacholoamit/homelab-infrastructure/commit/fc2df3e) refactor(apps): remove unused postgresql-external resource
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#5f1ca7f](https://github.com/pacholoamit/homelab-infrastructure/commit/5f1ca7f) refactor: Update database and secret configurations
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#f3c7794](https://github.com/MediaJel/serverless-functions/commit/f3c7794) chore: Update file extensions and configurations
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#b507f3e](https://github.com/MediaJel/serverless-functions/commit/b507f3e) chore(package.json): Update dev scripts for staging and production
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#b2a11a8](https://github.com/MediaJel/serverless-functions/commit/b2a11a8) fix(serverless.staging.yml): update S3 bucket names
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#0d2921b](https://github.com/MediaJel/serverless-functions/commit/0d2921b) chore(config): update staging serverless configuration
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#84a46b1](https://github.com/MediaJel/serverless-functions/commit/84a46b1) chore(serverless.yml): comment out unused code
 
 
 
