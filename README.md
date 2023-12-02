@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5128` commits and made `173` PRs.
+:people_hugging: I contributed to `44` repositories , made `5134` commits and made `173` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#619 Create New diagram regarding our infrastructure](https://github.com/MediaJel/mediajel/issues/619) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🌟 Starred [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)
+* 💬 Commented on [#607 Attempt to read property &#34;name&#34; on null](https://github.com/LinkStackOrg/LinkStack/issues/607) from [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#70b0c8c](https://github.com/pacholoamit/homelab-infrastructure/commit/70b0c8c) style: comment out linkstack in kustomization.yaml
+  * [#1383e43](https://github.com/pacholoamit/homelab-infrastructure/commit/1383e43) fix: Change containerPort and ports to 80
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#7d2ff9c](https://github.com/pacholoamit/homelab-infrastructure/commit/7d2ff9c) style: comment out securityContext in deployment.yaml
+  * [#d235e1d](https://github.com/pacholoamit/homelab-infrastructure/commit/d235e1d) fix: Change ports to use HTTPS (443) instead of HTTP (80)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#016b7e3](https://github.com/pacholoamit/homelab-infrastructure/commit/016b7e3) chore(deployment.yaml): comment out unused volume mounts and volumes
+  * [#184eb2a](https://github.com/pacholoamit/homelab-infrastructure/commit/184eb2a) fix(deployment): update linkstack image tag to latest
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#db8418d](https://github.com/pacholoamit/homelab-infrastructure/commit/db8418d) refactor: update linkstack image version to v4.4.1
 
 
 
