@@ -30,16 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#619 Create New diagram regarding our infrastructure](https://github.com/MediaJel/mediajel/issues/619) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 🌟 Starred [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#70b0c8c](https://github.com/pacholoamit/homelab-infrastructure/commit/70b0c8c) style: comment out linkstack in kustomization.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#7d2ff9c](https://github.com/pacholoamit/homelab-infrastructure/commit/7d2ff9c) style: comment out securityContext in deployment.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#016b7e3](https://github.com/pacholoamit/homelab-infrastructure/commit/016b7e3) chore(deployment.yaml): comment out unused volume mounts and volumes
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#b9c4c02](https://github.com/pacholoamit/homelab-infrastructure/commit/b9c4c02) refactor: Update security context in linkstack deployment.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#eef6606](https://github.com/pacholoamit/homelab-infrastructure/commit/eef6606) style: comment out linkstack in kustomization.yaml
 
 
 
