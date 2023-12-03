@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
 * 💬 Commented on [#607 Attempt to read property &#34;name&#34; on null](https://github.com/LinkStackOrg/LinkStack/issues/607) from [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#1383e43](https://github.com/pacholoamit/homelab-infrastructure/commit/1383e43) fix: Change containerPort and ports to 80
@@ -37,8 +38,6 @@
   * [#d235e1d](https://github.com/pacholoamit/homelab-infrastructure/commit/d235e1d) fix: Change ports to use HTTPS (443) instead of HTTP (80)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#184eb2a](https://github.com/pacholoamit/homelab-infrastructure/commit/184eb2a) fix(deployment): update linkstack image tag to latest
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#db8418d](https://github.com/pacholoamit/homelab-infrastructure/commit/db8418d) refactor: update linkstack image version to v4.4.1
 
 
 
