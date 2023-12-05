@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5134` commits and made `152` PRs.
+:people_hugging: I contributed to `44` repositories , made `5140` commits and made `152` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
-* 💬 Commented on [#607 Attempt to read property &#34;name&#34; on null](https://github.com/LinkStackOrg/LinkStack/issues/607) from [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1383e43](https://github.com/pacholoamit/homelab-infrastructure/commit/1383e43) fix: Change containerPort and ports to 80
+  * [#4031d1e](https://github.com/pacholoamit/homelab-infrastructure/commit/4031d1e) fix: Update namespace in kube-reboot repository.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d235e1d](https://github.com/pacholoamit/homelab-infrastructure/commit/d235e1d) fix: Change ports to use HTTPS (443) instead of HTTP (80)
+  * [#1482043](https://github.com/pacholoamit/homelab-infrastructure/commit/1482043) chore: Update kured release.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#184eb2a](https://github.com/pacholoamit/homelab-infrastructure/commit/184eb2a) fix(deployment): update linkstack image tag to latest
+  * [#218afc4](https://github.com/pacholoamit/homelab-infrastructure/commit/218afc4) feat(kured): Add kured to kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#92f475e](https://github.com/pacholoamit/homelab-infrastructure/commit/92f475e) feat: Add kube-reboot to helm kustomization.yaml
+* 🌟 Starred [kubereboot/kured](https://github.com/kubereboot/kured)
 
 
 
