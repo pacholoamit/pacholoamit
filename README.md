@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5140` commits and made `152` PRs.
+:people_hugging: I contributed to `44` repositories , made `5143` commits and made `152` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,14 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#e1e5360](https://github.com/pacholoamit/homelab-infrastructure/commit/e1e5360) style: enable deployment.yaml resource in kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#d1f2836](https://github.com/pacholoamit/homelab-infrastructure/commit/d1f2836) style: Remove commented out deployment resource
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#28d404f](https://github.com/pacholoamit/homelab-infrastructure/commit/28d404f) style: remove commented out code
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#cf3c2ec](https://github.com/pacholoamit/homelab-infrastructure/commit/cf3c2ec) chore: remove release.yaml from kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#4031d1e](https://github.com/pacholoamit/homelab-infrastructure/commit/4031d1e) fix: Update namespace in kube-reboot repository.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1482043](https://github.com/pacholoamit/homelab-infrastructure/commit/1482043) chore: Update kured release.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#218afc4](https://github.com/pacholoamit/homelab-infrastructure/commit/218afc4) feat(kured): Add kured to kustomization.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#92f475e](https://github.com/pacholoamit/homelab-infrastructure/commit/92f475e) feat: Add kube-reboot to helm kustomization.yaml
-* 🌟 Starred [kubereboot/kured](https://github.com/kubereboot/kured)
 
 
 
