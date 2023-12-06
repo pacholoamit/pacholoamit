@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5143` commits and made `152` PRs.
+:people_hugging: I contributed to `44` repositories , made `5146` commits and made `152` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#e1e5360](https://github.com/pacholoamit/homelab-infrastructure/commit/e1e5360) style: enable deployment.yaml resource in kustomization.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d1f2836](https://github.com/pacholoamit/homelab-infrastructure/commit/d1f2836) style: Remove commented out deployment resource
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#28d404f](https://github.com/pacholoamit/homelab-infrastructure/commit/28d404f) style: remove commented out code
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#cf3c2ec](https://github.com/pacholoamit/homelab-infrastructure/commit/cf3c2ec) chore: remove release.yaml from kustomization.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#4031d1e](https://github.com/pacholoamit/homelab-infrastructure/commit/4031d1e) fix: Update namespace in kube-reboot repository.yaml
+* 🔍 Reviewed [#6 CircleCi Deployment](https://github.com/MediaJel/serverless-functions/pull/6) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#c04022a](https://github.com/MediaJel/serverless-functions/commit/c04022a) Merge pull request #7 from MediaJel/jjy-cleanup
+
+Serverless Cleanup
+  * [#c0fa7df](https://github.com/MediaJel/serverless-functions/commit/c0fa7df) Serverless Cleanup
+* 🔃 Merged [#7 Serverless Cleanup](https://github.com/MediaJel/serverless-functions/pull/7) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 6 files changed `++22 --35`
+* 💬 Commented on [#620 Data analysis on new data ingestion pipelines](https://github.com/MediaJel/mediajel/issues/620) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#e490ede](https://github.com/MediaJel/serverless-functions/commit/e490ede) feat(copy): add console.log for environment variables
 
 
 
