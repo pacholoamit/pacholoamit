@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5148` commits and made `152` PRs.
+:people_hugging: I contributed to `44` repositories , made `5157` commits and made `152` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#620 Data analysis on new data ingestion pipelines](https://github.com/MediaJel/mediajel/issues/620) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#4252 Create a write-up of transactions-observer algorithm used](https://github.com/MediaJel/mediajel-gql-service/issues/4252) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#612 Create enrichment to block unwanted app_ids](https://github.com/MediaJel/mediajel/issues/612) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#608 Research into spinning up clickhouse infrastructure only when it is required](https://github.com/MediaJel/mediajel/issues/608) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#5462 Dashboard AI Chat feature](https://github.com/MediaJel/mediajel-dashboard/issues/5462) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#ed294ab](https://github.com/pacholoamit/homelab-infrastructure/commit/ed294ab) add jellyseer key
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#31dccdd](https://github.com/pacholoamit/homelab-infrastructure/commit/31dccdd) add to media yaml file
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#3c0c8c5](https://github.com/pacholoamit/homelab-infrastructure/commit/3c0c8c5) fix yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#2f23452](https://github.com/pacholoamit/homelab-infrastructure/commit/2f23452) fix yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#5e577d5](https://github.com/pacholoamit/homelab-infrastructure/commit/5e577d5) style: Uncomment release.yaml in kustomization.yaml
 
 
 
