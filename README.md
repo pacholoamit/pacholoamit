@@ -30,18 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#4b6a168](https://github.com/pacholoamit/homelab-infrastructure/commit/4b6a168) feat: Add deployment.yaml to kustomization.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#9ef16a9](https://github.com/pacholoamit/homelab-infrastructure/commit/9ef16a9) chore: Comment out deployment.yaml resources
-* 🔍 Reviewed [#6 CircleCi Deployment](https://github.com/MediaJel/serverless-functions/pull/6) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#c04022a](https://github.com/MediaJel/serverless-functions/commit/c04022a) Merge pull request #7 from MediaJel/jjy-cleanup
-
-Serverless Cleanup
-  * [#c0fa7df](https://github.com/MediaJel/serverless-functions/commit/c0fa7df) Serverless Cleanup
-* 🔃 Merged [#7 Serverless Cleanup](https://github.com/MediaJel/serverless-functions/pull/7) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 6 files changed `++22 --35`
+* 💬 Commented on [#620 Data analysis on new data ingestion pipelines](https://github.com/MediaJel/mediajel/issues/620) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#4252 Create a write-up of transactions-observer algorithm used](https://github.com/MediaJel/mediajel-gql-service/issues/4252) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#612 Create enrichment to block unwanted app_ids](https://github.com/MediaJel/mediajel/issues/612) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#608 Research into spinning up clickhouse infrastructure only when it is required](https://github.com/MediaJel/mediajel/issues/608) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#5462 Dashboard AI Chat feature](https://github.com/MediaJel/mediajel-dashboard/issues/5462) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
