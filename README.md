@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5157` commits and made `152` PRs.
+:people_hugging: I contributed to `44` repositories , made `5161` commits and made `152` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,15 +31,14 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#ed294ab](https://github.com/pacholoamit/homelab-infrastructure/commit/ed294ab) add jellyseer key
+  * [#a715c13](https://github.com/pacholoamit/homelab-infrastructure/commit/a715c13) style: remove commented line
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#31dccdd](https://github.com/pacholoamit/homelab-infrastructure/commit/31dccdd) add to media yaml file
+  * [#a9e8384](https://github.com/pacholoamit/homelab-infrastructure/commit/a9e8384) chore: comment out release.yaml in kustomization.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#3c0c8c5](https://github.com/pacholoamit/homelab-infrastructure/commit/3c0c8c5) fix yaml
+  * [#3a1aa7f](https://github.com/pacholoamit/homelab-infrastructure/commit/3a1aa7f) chore(clusters/home/apps/n8n): update kustomization.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#2f23452](https://github.com/pacholoamit/homelab-infrastructure/commit/2f23452) fix yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#5e577d5](https://github.com/pacholoamit/homelab-infrastructure/commit/5e577d5) style: Uncomment release.yaml in kustomization.yaml
+  * [#95fcd96](https://github.com/pacholoamit/homelab-infrastructure/commit/95fcd96) chore(clusters/home/apps/n8n): comment out release.yaml
+* 🔍 Reviewed [#4290 Add troubleshooting guide when performing setup/installation](https://github.com/MediaJel/mediajel-gql-service/pull/4290) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
