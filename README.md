@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5164` commits and made `152` PRs.
+:people_hugging: I contributed to `44` repositories , made `5139` commits and made `152` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,18 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0bb139b](https://github.com/pacholoamit/homelab-infrastructure/commit/0bb139b) Merge pull request #23 from pacholoamit/renovate/n8nio-n8n-1.18.x
-
-chore(deps): update container image n8nio/n8n to v1.18.2
-  * [#3c3c53c](https://github.com/pacholoamit/homelab-infrastructure/commit/3c3c53c) chore(deps): update container image n8nio/n8n to v1.18.2
-* 🔃 Merged [#23 chore(deps): update container image n8nio/n8n to v1.18.2](https://github.com/pacholoamit/homelab-infrastructure/pull/23) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1 --1`
-* 🌟 Starred [goniszewski/grimoire](https://github.com/goniszewski/grimoire)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#bb341b0](https://github.com/pacholoamit/homelab-infrastructure/commit/bb341b0) add tdarr
+  * [#d4e5a05](https://github.com/pacholoamit/homelab-infrastructure/commit/d4e5a05) regenerate configmap for homepage
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#3052741](https://github.com/pacholoamit/homelab-infrastructure/commit/3052741) add tdarr
+  * [#78f51cf](https://github.com/pacholoamit/homelab-infrastructure/commit/78f51cf) regenerate configmap for homepage
+* 💬 Commented on [#4295 Implementing of the getlogs job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4295) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4295 Implementing of the getlogs job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4295) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4295 Implementing of the getlogs job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4295) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
