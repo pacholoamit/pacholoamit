@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5171` commits and made `152` PRs.
+:people_hugging: I contributed to `44` repositories , made `5185` commits and made `152` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,12 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d4e5a05](https://github.com/pacholoamit/homelab-infrastructure/commit/d4e5a05) regenerate configmap for homepage
+  * [#c298945](https://github.com/pacholoamit/homelab-infrastructure/commit/c298945) regenerate configmap for homepage
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#78f51cf](https://github.com/pacholoamit/homelab-infrastructure/commit/78f51cf) regenerate configmap for homepage
-* 💬 Commented on [#4295 Implementing of the getlogs job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4295) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4295 Implementing of the getlogs job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4295) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#4295 Implementing of the getlogs job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4295) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * [#b1f82a8](https://github.com/pacholoamit/homelab-infrastructure/commit/b1f82a8) chore: Add LoadBalancer service type
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#d95eac6](https://github.com/pacholoamit/homelab-infrastructure/commit/d95eac6) regenerate configmap for homepage
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#1bc9bd1](https://github.com/pacholoamit/homelab-infrastructure/commit/1bc9bd1) regenerate configmap for homepage
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#19c179c](https://github.com/pacholoamit/homelab-infrastructure/commit/19c179c) feat(helm): Add deliveryhero repository to kustomization.yaml
 
 
 
