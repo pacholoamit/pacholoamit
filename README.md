@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5230` commits and made `148` PRs.
+:people_hugging: I contributed to `44` repositories , made `5247` commits and made `148` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,25 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#4c7f404](https://github.com/MediaJel/mediajel-tracker/commit/4c7f404) fix conflicts
-  * [#01c7b48](https://github.com/MediaJel/mediajel-tracker/commit/01c7b48) Merge pull request #368 from MediaJel/ez-bigcommerce-fix
-
-[HOTFIX] fix for bigcommerce transactions
-  * [#ab63c37](https://github.com/MediaJel/mediajel-tracker/commit/ab63c37) fix for bigcommerce transactions
-  * [#1352665](https://github.com/MediaJel/mediajel-tracker/commit/1352665) feat: Add Simplifi impression tracking
-  * [#c6ad557](https://github.com/MediaJel/mediajel-tracker/commit/c6ad557) add test=true app ids
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#01c7b48](https://github.com/MediaJel/mediajel-tracker/commit/01c7b48) Merge pull request #368 from MediaJel/ez-bigcommerce-fix
-
-[HOTFIX] fix for bigcommerce transactions
-  * [#ab63c37](https://github.com/MediaJel/mediajel-tracker/commit/ab63c37) fix for bigcommerce transactions
-* 🔃 Merged [#368 [HOTFIX] fix for bigcommerce transactions](https://github.com/MediaJel/mediajel-tracker/pull/368) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++1 --1`
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f95c08f](https://github.com/pacholoamit/homelab-infrastructure/commit/f95c08f) chore: Enable superset in kustomization.yaml
+  * [#c1bf26b](https://github.com/pacholoamit/homelab-infrastructure/commit/c1bf26b) Update kustomization.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d60710b](https://github.com/pacholoamit/homelab-infrastructure/commit/d60710b) style: Remove superset from apps list
+  * [#56ef3c9](https://github.com/pacholoamit/homelab-infrastructure/commit/56ef3c9) style: update Netdata weight
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#ed05b49](https://github.com/pacholoamit/homelab-infrastructure/commit/ed05b49) feat: add netdata.pacholoamit.com as host
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#326347c](https://github.com/pacholoamit/homelab-infrastructure/commit/326347c) fix: change chart name to netdata
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#18dfb66](https://github.com/pacholoamit/homelab-infrastructure/commit/18dfb66) chore: Update netdata chart version to 3.7.x
 
 
 
