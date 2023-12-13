@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5247` commits and made `148` PRs.
+:people_hugging: I contributed to `44` repositories , made `5253` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#c1bf26b](https://github.com/pacholoamit/homelab-infrastructure/commit/c1bf26b) Update kustomization.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#56ef3c9](https://github.com/pacholoamit/homelab-infrastructure/commit/56ef3c9) style: update Netdata weight
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#ed05b49](https://github.com/pacholoamit/homelab-infrastructure/commit/ed05b49) feat: add netdata.pacholoamit.com as host
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#326347c](https://github.com/pacholoamit/homelab-infrastructure/commit/326347c) fix: change chart name to netdata
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#18dfb66](https://github.com/pacholoamit/homelab-infrastructure/commit/18dfb66) chore: Update netdata chart version to 3.7.x
+* #️⃣ Opened [#370 Update mediajel-tracker legacy carts to use new design pattern](https://github.com/MediaJel/mediajel-tracker/issues/370) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#ff31640](https://github.com/MediaJel/mediajel-tracker/commit/ff31640) Merge branch &#39;main&#39; into staging
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#c250169](https://github.com/MediaJel/mediajel-tracker/commit/c250169) refactor: Simplify and optimize dutchieSubdomainTracker function
+* 🔍 Reviewed [#4295 Implementing of the getlogs job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4295) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4295 Implementing of the getlogs job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4295) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
