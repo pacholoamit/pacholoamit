@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5253` commits and made `149` PRs.
+:people_hugging: I contributed to `44` repositories , made `5255` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#5470 feat/paid search generator v2](https://github.com/MediaJel/mediajel-dashboard/issues/5470) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔃 Closed [#5470 feat/paid search generator v2](https://github.com/MediaJel/mediajel-dashboard/pull/5470) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+  * 16 files changed `++1089 --737`
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#cc0a2c1](https://github.com/pacholoamit/homelab-infrastructure/commit/cc0a2c1) style: Add superset to resources
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#1bef62f](https://github.com/pacholoamit/homelab-infrastructure/commit/1bef62f) style: Comment out superset in kustomization.yaml
 * #️⃣ Opened [#370 Update mediajel-tracker legacy carts to use new design pattern](https://github.com/MediaJel/mediajel-tracker/issues/370) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#ff31640](https://github.com/MediaJel/mediajel-tracker/commit/ff31640) Merge branch &#39;main&#39; into staging
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#c250169](https://github.com/MediaJel/mediajel-tracker/commit/c250169) refactor: Simplify and optimize dutchieSubdomainTracker function
-* 🔍 Reviewed [#4295 Implementing of the getlogs job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4295) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4295 Implementing of the getlogs job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4295) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
