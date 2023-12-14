@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#5470 feat/paid search generator v2](https://github.com/MediaJel/mediajel-dashboard/issues/5470) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔃 Closed [#5470 feat/paid search generator v2](https://github.com/MediaJel/mediajel-dashboard/pull/5470) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 16 files changed `++1089 --737`
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#cc0a2c1](https://github.com/pacholoamit/homelab-infrastructure/commit/cc0a2c1) style: Add superset to resources
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1bef62f](https://github.com/pacholoamit/homelab-infrastructure/commit/1bef62f) style: Comment out superset in kustomization.yaml
-* #️⃣ Opened [#370 Update mediajel-tracker legacy carts to use new design pattern](https://github.com/MediaJel/mediajel-tracker/issues/370) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🌟 Starred [nestjs/nest](https://github.com/nestjs/nest)
+* #️⃣ Closed [#4283 Onboarding Tasks](https://github.com/MediaJel/mediajel-gql-service/issues/4283) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#4252 Create a write-up of transactions-observer algorithm used](https://github.com/MediaJel/mediajel-gql-service/issues/4252) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#622 Research on creating local clickhouse environment similar to our selfhosted clickhouse environment](https://github.com/MediaJel/mediajel/issues/622) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#608 Research into concept into local development of clickhouster cluster with local environment](https://github.com/MediaJel/mediajel/issues/608) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
