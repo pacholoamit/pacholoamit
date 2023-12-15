@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5255` commits and made `149` PRs.
+:people_hugging: I contributed to `44` repositories , made `5255` commits and made `150` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [nestjs/nest](https://github.com/nestjs/nest)
-* #️⃣ Closed [#4283 Onboarding Tasks](https://github.com/MediaJel/mediajel-gql-service/issues/4283) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#4252 Create a write-up of transactions-observer algorithm used](https://github.com/MediaJel/mediajel-gql-service/issues/4252) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#622 Research on creating local clickhouse environment similar to our selfhosted clickhouse environment](https://github.com/MediaJel/mediajel/issues/622) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#608 Research into concept into local development of clickhouster cluster with local environment](https://github.com/MediaJel/mediajel/issues/608) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-fix-bing-auth`
+  * [#f18cacf](https://github.com/MediaJel/mediajel-gql-service/commit/f18cacf) remove console.log
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-fix-bing-auth`
+  * [#b8944b6](https://github.com/MediaJel/mediajel-gql-service/commit/b8944b6) docs: Update documentation for client secret recreation
+* 🔃 Opened [#4304 Fix Bing Ads auth issue](https://github.com/MediaJel/mediajel-gql-service/pull/4304) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 3 files changed `++56 --29`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-fix-bing-auth`
+  * [#1b07c64](https://github.com/MediaJel/mediajel-gql-service/commit/1b07c64) refactor: Remove unnecessary code and comments
+* ⏺️ Created new branch pa-fix-bing-auth in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
