@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5255` commits and made `150` PRs.
+:people_hugging: I contributed to `45` repositories , made `5256` commits and made `150` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-fix-bing-auth`
-  * [#f18cacf](https://github.com/MediaJel/mediajel-gql-service/commit/f18cacf) remove console.log
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-fix-bing-auth`
-  * [#b8944b6](https://github.com/MediaJel/mediajel-gql-service/commit/b8944b6) docs: Update documentation for client secret recreation
-* 🔃 Opened [#4304 Fix Bing Ads auth issue](https://github.com/MediaJel/mediajel-gql-service/pull/4304) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 3 files changed `++56 --29`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `pa-fix-bing-auth`
-  * [#1b07c64](https://github.com/MediaJel/mediajel-gql-service/commit/1b07c64) refactor: Remove unnecessary code and comments
-* ⏺️ Created new branch pa-fix-bing-auth in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#610 Migrate off of manifest manager + snowflake transformer DAG](https://github.com/MediaJel/mediajel/issues/610) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#620 Data analysis on new data ingestion pipelines](https://github.com/MediaJel/mediajel/issues/620) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 2 commits in [pacholoamit/agnostic-data](https://github.com/pacholoamit/agnostic-data) on branch `main`
+  * [#55570ca](https://github.com/pacholoamit/agnostic-data/commit/55570ca) Merge pull request #1 from pacholoamit/amplication-data-service
+
+chore(Amplication): Update Generated Code
+  * [#051669a](https://github.com/pacholoamit/agnostic-data/commit/051669a) Amplication build # clq6wkw4c00cfl301u2hs5yij
+Congratulations on your first commit with Amplication!
+We encourage you to continue exploring the many ways Amplication can supercharge your development.
+
+If you find Amplication useful, please show your support and give our GitHub repo a star ⭐️
+This simple action helps our open-source project grow and reach more developers like you.
+Thank you and happy coding!
+Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clq6witgj00bjl3018fwskz68/clq6wk4ck0017l601bll0whez/builds/clq6wkw4c00cfl301u2hs5yij](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clq6witgj00bjl3018fwskz68/clq6wk4ck0017l601bll0whez/builds/clq6wkw4c00cfl301u2hs5yij)
+* 🔃 Merged [#1 chore(Amplication): Update Generated Code](https://github.com/pacholoamit/agnostic-data/pull/1) in [pacholoamit/agnostic-data](https://github.com/pacholoamit/agnostic-data)
+  * 183 files changed `++6112 --0`
+* ⏺️ Created new repository  [pacholoamit/agnostic-data](https://github.com/pacholoamit/agnostic-data)
 
 
 
