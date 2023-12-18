@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5269` commits and made `150` PRs.
+:people_hugging: I contributed to `45` repositories , made `5269` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [spdk/spdk](https://github.com/spdk/spdk)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#36ef005](https://github.com/pacholoamit/homelab-infrastructure/commit/36ef005) feat(deployment): Increase replicas to 3
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
@@ -41,8 +42,6 @@ chore(deps): update dependency fluxcd/flux2 to v2.2.1
   * [#3d8325d](https://github.com/pacholoamit/homelab-infrastructure/commit/3d8325d) chore(deps): update dependency fluxcd/flux2 to v2.2.1
 * 🔃 Merged [#26 chore(deps): update dependency fluxcd/flux2 to v2.2.1](https://github.com/pacholoamit/homelab-infrastructure/pull/26) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
   * 1 file changed `++1886 --230`
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#4993ff4](https://github.com/pacholoamit/homelab-infrastructure/commit/4993ff4) style: Remove commented out vmware-tanzu from kustomization.yaml
 
 
 
