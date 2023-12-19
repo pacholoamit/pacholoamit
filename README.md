@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5280` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5288` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,19 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#c90d5ca](https://github.com/pacholoamit/homelab-infrastructure/commit/c90d5ca) chore: Update Longhorn version to 1.5.x
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#6026a94](https://github.com/pacholoamit/homelab-infrastructure/commit/6026a94) perf: Update Longhorn chart version to 1.4.x
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#68c569e](https://github.com/pacholoamit/homelab-infrastructure/commit/68c569e) chore: update chart version and comment out image tag
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#25b9dd6](https://github.com/pacholoamit/homelab-infrastructure/commit/25b9dd6) chore: Remove system-upgrade from kustomization.yaml
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f150aec](https://github.com/pacholoamit/homelab-infrastructure/commit/f150aec) Merge pull request #22 from pacholoamit/renovate/kube-prometheus-stack-55.x
-
-chore(deps): update helm release kube-prometheus-stack to v55
-  * [#ca9e3ea](https://github.com/pacholoamit/homelab-infrastructure/commit/ca9e3ea) chore(deps): update helm release kube-prometheus-stack to v55
+* #️⃣ Opened [#623 Create aggregated report for Herb.Co](https://github.com/MediaJel/mediajel/issues/623) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#4308 Na reports jobs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4308) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4308 Na reports jobs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4308) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4308 Na reports jobs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4308) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4309 Implementing of the optouts job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4309) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
