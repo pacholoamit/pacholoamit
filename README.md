@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5288` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5307` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#623 Create aggregated report for Herb.Co](https://github.com/MediaJel/mediajel/issues/623) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#4308 Na reports jobs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4308) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4308 Na reports jobs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4308) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4308 Na reports jobs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4308) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4309 Implementing of the optouts job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4309) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#04e20b7](https://github.com/pacholoamit/homelab-infrastructure/commit/04e20b7) changes
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#bb23fbe](https://github.com/pacholoamit/homelab-infrastructure/commit/bb23fbe) Add Flux sync manifests
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#ebb4421](https://github.com/pacholoamit/homelab-infrastructure/commit/ebb4421) Add Flux v2.1.2 component manifests
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#521832c](https://github.com/pacholoamit/homelab-infrastructure/commit/521832c) Merge branch &#39;master&#39; of https://github.com/pacholoamit/homelab-infra
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#3150795](https://github.com/pacholoamit/homelab-infrastructure/commit/3150795) Add Flux v2.1.2 component manifests
 
 
 
