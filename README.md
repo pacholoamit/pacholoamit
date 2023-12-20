@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5307` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5357` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,15 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#04e20b7](https://github.com/pacholoamit/homelab-infrastructure/commit/04e20b7) changes
+  * [#e880ea2](https://github.com/pacholoamit/homelab-infrastructure/commit/e880ea2) fix: Update lastmodified in velero secret.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#bb23fbe](https://github.com/pacholoamit/homelab-infrastructure/commit/bb23fbe) Add Flux sync manifests
+  * [#5bdde23](https://github.com/pacholoamit/homelab-infrastructure/commit/5bdde23) fix: Fix missing deployment.yaml resource
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#ebb4421](https://github.com/pacholoamit/homelab-infrastructure/commit/ebb4421) Add Flux v2.1.2 component manifests
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#521832c](https://github.com/pacholoamit/homelab-infrastructure/commit/521832c) Merge branch &#39;master&#39; of https://github.com/pacholoamit/homelab-infra
+  * [#9a440a9](https://github.com/pacholoamit/homelab-infrastructure/commit/9a440a9) style: Comment out deployment.yaml in kustomization.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#3150795](https://github.com/pacholoamit/homelab-infrastructure/commit/3150795) Add Flux v2.1.2 component manifests
+  * [#039b5a2](https://github.com/pacholoamit/homelab-infrastructure/commit/039b5a2) fix: enable postgresql resource in kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#2335610](https://github.com/pacholoamit/homelab-infrastructure/commit/2335610) chore: Comment out postgresql resource in kustomization.yaml
 
 
 
