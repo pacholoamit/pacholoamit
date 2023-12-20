@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5357` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5363` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,15 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#e880ea2](https://github.com/pacholoamit/homelab-infrastructure/commit/e880ea2) fix: Update lastmodified in velero secret.yaml
+  * [#44ece13](https://github.com/pacholoamit/homelab-infrastructure/commit/44ece13) feat: Update reloader chart version to &#34;1.0.x&#34;
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#5bdde23](https://github.com/pacholoamit/homelab-infrastructure/commit/5bdde23) fix: Fix missing deployment.yaml resource
+  * [#9b1c234](https://github.com/pacholoamit/homelab-infrastructure/commit/9b1c234) fix: Remove comment about volume when removing postgresql
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#9a440a9](https://github.com/pacholoamit/homelab-infrastructure/commit/9a440a9) style: Comment out deployment.yaml in kustomization.yaml
+  * [#c50d9c2](https://github.com/pacholoamit/homelab-infrastructure/commit/c50d9c2) fix(clusters): enable postgresql resource in kustomization.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#039b5a2](https://github.com/pacholoamit/homelab-infrastructure/commit/039b5a2) fix: enable postgresql resource in kustomization.yaml
+  * [#1f9bae5](https://github.com/pacholoamit/homelab-infrastructure/commit/1f9bae5) style: remove commented out line
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#2335610](https://github.com/pacholoamit/homelab-infrastructure/commit/2335610) chore: Comment out postgresql resource in kustomization.yaml
+  * [#fb0f5c9](https://github.com/pacholoamit/homelab-infrastructure/commit/fb0f5c9) fix: update namespace in release.yaml and repository.yaml
 
 
 
