@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5381` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5386` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#613 Implement Sign up tracking mediajel.com](https://github.com/MediaJel/mediajel/issues/613) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#5462 Dashboard AI Chat feature](https://github.com/MediaJel/mediajel-dashboard/issues/5462) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#5462 Dashboard AI Chat feature](https://github.com/MediaJel/mediajel-dashboard/issues/5462) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#586 Create snowflake dashboard for tracking active users in the dashboard](https://github.com/MediaJel/mediajel/issues/586) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#5439 [Campaign Launcher] Ecomm Attribution Platform incorrectly changing](https://github.com/MediaJel/mediajel-dashboard/issues/5439) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#65993c5](https://github.com/pacholoamit/homelab-infrastructure/commit/65993c5) feat(configs): add resource limits and requests for MariaDB
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#33e4bf7](https://github.com/pacholoamit/homelab-infrastructure/commit/33e4bf7) chore: Update mariadb-operator image URLs
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#0f4bbb2](https://github.com/pacholoamit/homelab-infrastructure/commit/0f4bbb2) refactor: Simplify release.yaml configuration
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#ce32206](https://github.com/pacholoamit/homelab-infrastructure/commit/ce32206) chore(config): update mariadb-operator configuration
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#cd174e6](https://github.com/pacholoamit/homelab-infrastructure/commit/cd174e6) chore: Enable mariadb-operator in kustomization.yaml
 
 
 
