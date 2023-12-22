@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5386` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5409` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,15 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#65993c5](https://github.com/pacholoamit/homelab-infrastructure/commit/65993c5) feat(configs): add resource limits and requests for MariaDB
+  * [#dc7f8ca](https://github.com/pacholoamit/homelab-infrastructure/commit/dc7f8ca) style: remove commented out code for wordpress-dev-portfolio
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#33e4bf7](https://github.com/pacholoamit/homelab-infrastructure/commit/33e4bf7) chore: Update mariadb-operator image URLs
+  * [#5531773](https://github.com/pacholoamit/homelab-infrastructure/commit/5531773) feat: Enable wordpress-dev-portfolio in kustomization.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0f4bbb2](https://github.com/pacholoamit/homelab-infrastructure/commit/0f4bbb2) refactor: Simplify release.yaml configuration
+  * [#b069a32](https://github.com/pacholoamit/homelab-infrastructure/commit/b069a32) chore(kustomization.yaml): remove wordpress-dev-portfolio
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#ce32206](https://github.com/pacholoamit/homelab-infrastructure/commit/ce32206) chore(config): update mariadb-operator configuration
+  * [#6bc1423](https://github.com/pacholoamit/homelab-infrastructure/commit/6bc1423) fix: Update mariadb host in release.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#cd174e6](https://github.com/pacholoamit/homelab-infrastructure/commit/cd174e6) chore: Enable mariadb-operator in kustomization.yaml
+  * [#9ce53c3](https://github.com/pacholoamit/homelab-infrastructure/commit/9ce53c3) feat: enable wordpress-dev-portfolio in kustomization.yaml
 
 
 
