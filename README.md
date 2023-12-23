@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5409` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5422` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home)
+* #️⃣ Opened [#5690 Make &#34;Test Tag&#34; feature in the dashboard faster](https://github.com/MediaJel/mediajel-dashboard/issues/5690) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#dc7f8ca](https://github.com/pacholoamit/homelab-infrastructure/commit/dc7f8ca) style: remove commented out code for wordpress-dev-portfolio
+  * [#11da388](https://github.com/pacholoamit/homelab-infrastructure/commit/11da388) chore: Update replica count and comment out topology spread constraints
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#5531773](https://github.com/pacholoamit/homelab-infrastructure/commit/5531773) feat: Enable wordpress-dev-portfolio in kustomization.yaml
+  * [#370e4ca](https://github.com/pacholoamit/homelab-infrastructure/commit/370e4ca) style: remove busybox from kustomization.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#b069a32](https://github.com/pacholoamit/homelab-infrastructure/commit/b069a32) chore(kustomization.yaml): remove wordpress-dev-portfolio
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#6bc1423](https://github.com/pacholoamit/homelab-infrastructure/commit/6bc1423) fix: Update mariadb host in release.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#9ce53c3](https://github.com/pacholoamit/homelab-infrastructure/commit/9ce53c3) feat: enable wordpress-dev-portfolio in kustomization.yaml
+  * [#13b4ade](https://github.com/pacholoamit/homelab-infrastructure/commit/13b4ade) regenerate configmap for homepage
 
 
 
