@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5425` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5435` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
-* 🌟 Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#1a3b495](https://github.com/pacholoamit/homelab-infrastructure/commit/1a3b495) Merge pull request #32 from pacholoamit/renovate/fluxcd-flux2-2.x
+
+chore(deps): update dependency fluxcd/flux2 to v2.2.2
+  * [#790ab43](https://github.com/pacholoamit/homelab-infrastructure/commit/790ab43) chore(deps): update dependency fluxcd/flux2 to v2.2.2
+* 🔃 Merged [#32 chore(deps): update dependency fluxcd/flux2 to v2.2.2](https://github.com/pacholoamit/homelab-infrastructure/pull/32) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1886 --230`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#d7a0fd3](https://github.com/pacholoamit/homelab-infrastructure/commit/d7a0fd3) Merge pull request #33 from pacholoamit/renovate/helmrelease-2.0.x
+
+chore(deps): update dependency helmrelease to helm.toolkit.fluxcd.io/v2beta2
+  * [#1b02dff](https://github.com/pacholoamit/homelab-infrastructure/commit/1b02dff) chore(deps): update dependency helmrelease to helm.toolkit.fluxcd.io/v2beta2
+* 🔃 Merged [#33 chore(deps): update dependency helmrelease to helm.toolkit.fluxcd.io/v2beta2](https://github.com/pacholoamit/homelab-infrastructure/pull/33) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 23 files changed `++23 --23`
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#283168e](https://github.com/pacholoamit/homelab-infrastructure/commit/283168e) feat: Increase replica count to 3 in release.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#3581975](https://github.com/pacholoamit/homelab-infrastructure/commit/3581975) Update release.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#bfd8b21](https://github.com/pacholoamit/homelab-infrastructure/commit/bfd8b21) Update release.yaml
+  * [#b4a9b75](https://github.com/pacholoamit/homelab-infrastructure/commit/b4a9b75) refactor: comment out unused topologySpreadConstraints
 
 
 
