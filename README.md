@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5424` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5425` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
+* 🌟 Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#283168e](https://github.com/pacholoamit/homelab-infrastructure/commit/283168e) feat: Increase replica count to 3 in release.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#3581975](https://github.com/pacholoamit/homelab-infrastructure/commit/3581975) Update release.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#bfd8b21](https://github.com/pacholoamit/homelab-infrastructure/commit/bfd8b21) Update release.yaml
-* 🌟 Starred [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home)
-* #️⃣ Opened [#5690 Make &#34;Test Tag&#34; feature in the dashboard faster](https://github.com/MediaJel/mediajel-dashboard/issues/5690) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#11da388](https://github.com/pacholoamit/homelab-infrastructure/commit/11da388) chore: Update replica count and comment out topology spread constraints
 
 
 
