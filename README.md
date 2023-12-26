@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5435` commits and made `148` PRs.
+:people_hugging: I contributed to `45` repositories , made `5438` commits and made `148` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,21 +31,24 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1a3b495](https://github.com/pacholoamit/homelab-infrastructure/commit/1a3b495) Merge pull request #32 from pacholoamit/renovate/fluxcd-flux2-2.x
+  * [#8686f17](https://github.com/pacholoamit/homelab-infrastructure/commit/8686f17) Merge pull request #39 from pacholoamit/renovate/n8nio-n8n-1.x
 
-chore(deps): update dependency fluxcd/flux2 to v2.2.2
-  * [#790ab43](https://github.com/pacholoamit/homelab-infrastructure/commit/790ab43) chore(deps): update dependency fluxcd/flux2 to v2.2.2
-* 🔃 Merged [#32 chore(deps): update dependency fluxcd/flux2 to v2.2.2](https://github.com/pacholoamit/homelab-infrastructure/pull/32) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1886 --230`
+chore(deps): update container image n8nio/n8n to v1.22.1
+  * [#a4d64a9](https://github.com/pacholoamit/homelab-infrastructure/commit/a4d64a9) chore(deps): update container image n8nio/n8n to v1.22.1
+* 🔃 Merged [#39 chore(deps): update container image n8nio/n8n to v1.22.1](https://github.com/pacholoamit/homelab-infrastructure/pull/39) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
 * ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d7a0fd3](https://github.com/pacholoamit/homelab-infrastructure/commit/d7a0fd3) Merge pull request #33 from pacholoamit/renovate/helmrelease-2.0.x
+  * [#8b6d0d1](https://github.com/pacholoamit/homelab-infrastructure/commit/8b6d0d1) Merge pull request #36 from pacholoamit/renovate/ingress-nginx-4.x
 
-chore(deps): update dependency helmrelease to helm.toolkit.fluxcd.io/v2beta2
-  * [#1b02dff](https://github.com/pacholoamit/homelab-infrastructure/commit/1b02dff) chore(deps): update dependency helmrelease to helm.toolkit.fluxcd.io/v2beta2
-* 🔃 Merged [#33 chore(deps): update dependency helmrelease to helm.toolkit.fluxcd.io/v2beta2](https://github.com/pacholoamit/homelab-infrastructure/pull/33) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 23 files changed `++23 --23`
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#b4a9b75](https://github.com/pacholoamit/homelab-infrastructure/commit/b4a9b75) refactor: comment out unused topologySpreadConstraints
+chore(deps): update helm release ingress-nginx to 4.9.x
+  * [#436015d](https://github.com/pacholoamit/homelab-infrastructure/commit/436015d) chore(deps): update helm release ingress-nginx to 4.9.x
+* 🔃 Merged [#36 chore(deps): update helm release ingress-nginx to 4.9.x](https://github.com/pacholoamit/homelab-infrastructure/pull/36) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#a018000](https://github.com/pacholoamit/homelab-infrastructure/commit/a018000) Merge pull request #40 from pacholoamit/renovate/vaultwarden-0.x
+
+chore(deps): update helm release vaultwarden to 0.19.x
+  * [#3ecc4b1](https://github.com/pacholoamit/homelab-infrastructure/commit/3ecc4b1) chore(deps): update helm release vaultwarden to 0.19.x
 
 
 
