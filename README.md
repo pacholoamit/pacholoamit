@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5438` commits and made `148` PRs.
+:people_hugging: I contributed to `45` repositories , made `5445` commits and made `148` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,25 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#8686f17](https://github.com/pacholoamit/homelab-infrastructure/commit/8686f17) Merge pull request #39 from pacholoamit/renovate/n8nio-n8n-1.x
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#53f01cf](https://github.com/pacholoamit/homelab-infrastructure/commit/53f01cf) feat(deployment): increase replicas for linkstack, linkwarden, and speedtest-tracker, and update replicaCount for wordpress-dev-portfolio
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#50e1528](https://github.com/pacholoamit/homelab-infrastructure/commit/50e1528) Revert &#34;turn everything on&#34;
 
-chore(deps): update container image n8nio/n8n to v1.22.1
-  * [#a4d64a9](https://github.com/pacholoamit/homelab-infrastructure/commit/a4d64a9) chore(deps): update container image n8nio/n8n to v1.22.1
-* 🔃 Merged [#39 chore(deps): update container image n8nio/n8n to v1.22.1](https://github.com/pacholoamit/homelab-infrastructure/pull/39) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#8b6d0d1](https://github.com/pacholoamit/homelab-infrastructure/commit/8b6d0d1) Merge pull request #36 from pacholoamit/renovate/ingress-nginx-4.x
-
-chore(deps): update helm release ingress-nginx to 4.9.x
-  * [#436015d](https://github.com/pacholoamit/homelab-infrastructure/commit/436015d) chore(deps): update helm release ingress-nginx to 4.9.x
-* 🔃 Merged [#36 chore(deps): update helm release ingress-nginx to 4.9.x](https://github.com/pacholoamit/homelab-infrastructure/pull/36) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#a018000](https://github.com/pacholoamit/homelab-infrastructure/commit/a018000) Merge pull request #40 from pacholoamit/renovate/vaultwarden-0.x
-
-chore(deps): update helm release vaultwarden to 0.19.x
-  * [#3ecc4b1](https://github.com/pacholoamit/homelab-infrastructure/commit/3ecc4b1) chore(deps): update helm release vaultwarden to 0.19.x
+This reverts commit 2424c2b928b59057a00b450589bdfa2581a4efd6.
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#2424c2b](https://github.com/pacholoamit/homelab-infrastructure/commit/2424c2b) turn everything on
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#2cd7708](https://github.com/pacholoamit/homelab-infrastructure/commit/2cd7708) fix: Increase guaranteedInstanceManagerCPU to 35
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#ba82916](https://github.com/pacholoamit/homelab-infrastructure/commit/ba82916) turn everything off
 
 
 
