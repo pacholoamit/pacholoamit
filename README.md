@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5445` commits and made `148` PRs.
+:people_hugging: I contributed to `45` repositories , made `5449` commits and made `148` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,17 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#02cafc7](https://github.com/pacholoamit/homelab-infrastructure/commit/02cafc7) feat: Update replica count and resource requests for wordpress-dev-portfolio
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#7686c5f](https://github.com/pacholoamit/homelab-infrastructure/commit/7686c5f) fix: enable release.yaml in kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#1af29e4](https://github.com/pacholoamit/homelab-infrastructure/commit/1af29e4) chore: Remove release.yaml from kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#0bccd61](https://github.com/pacholoamit/homelab-infrastructure/commit/0bccd61) fix: decrease replicaCount to 2 in release.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#53f01cf](https://github.com/pacholoamit/homelab-infrastructure/commit/53f01cf) feat(deployment): increase replicas for linkstack, linkwarden, and speedtest-tracker, and update replicaCount for wordpress-dev-portfolio
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#50e1528](https://github.com/pacholoamit/homelab-infrastructure/commit/50e1528) Revert &#34;turn everything on&#34;
-
-This reverts commit 2424c2b928b59057a00b450589bdfa2581a4efd6.
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#2424c2b](https://github.com/pacholoamit/homelab-infrastructure/commit/2424c2b) turn everything on
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#2cd7708](https://github.com/pacholoamit/homelab-infrastructure/commit/2cd7708) fix: Increase guaranteedInstanceManagerCPU to 35
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#ba82916](https://github.com/pacholoamit/homelab-infrastructure/commit/ba82916) turn everything off
 
 
 
