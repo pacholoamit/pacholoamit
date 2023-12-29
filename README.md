@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5449` commits and made `148` PRs.
+:people_hugging: I contributed to `45` repositories , made `5483` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#02cafc7](https://github.com/pacholoamit/homelab-infrastructure/commit/02cafc7) feat: Update replica count and resource requests for wordpress-dev-portfolio
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#7686c5f](https://github.com/pacholoamit/homelab-infrastructure/commit/7686c5f) fix: enable release.yaml in kustomization.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1af29e4](https://github.com/pacholoamit/homelab-infrastructure/commit/1af29e4) chore: Remove release.yaml from kustomization.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0bccd61](https://github.com/pacholoamit/homelab-infrastructure/commit/0bccd61) fix: decrease replicaCount to 2 in release.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#53f01cf](https://github.com/pacholoamit/homelab-infrastructure/commit/53f01cf) feat(deployment): increase replicas for linkstack, linkwarden, and speedtest-tracker, and update replicaCount for wordpress-dev-portfolio
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#7238f3b](https://github.com/MediaJel/serverless-functions/commit/7238f3b) chore: Update serverless.yml
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#6835a20](https://github.com/MediaJel/serverless-functions/commit/6835a20) refactor: Comment out unused code in serverless.yml
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#0ff24e8](https://github.com/MediaJel/serverless-functions/commit/0ff24e8) chore(serverless.yml): update S3 notification configuration
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#81027d0](https://github.com/MediaJel/serverless-functions/commit/81027d0) style: Comment out unused code in serverless.yml
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#37e5945](https://github.com/MediaJel/serverless-functions/commit/37e5945) fix(serverless.yml): Enable notification configuration for S3 buckets
 
 
 
