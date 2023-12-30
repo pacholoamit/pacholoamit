@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#0833b7b](https://github.com/pacholoamit/homelab-infrastructure/commit/0833b7b) refactor: Comment out rook-operator and rook-cluster in kustomization.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
@@ -37,8 +38,6 @@
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#b934040](https://github.com/pacholoamit/homelab-infrastructure/commit/b934040) refactor: Update resource limits for rook-cluster
 * #️⃣ Opened [#628 Create Fast events tables (contains last 4 - 7 months)](https://github.com/MediaJel/mediajel/issues/628) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#4cc7439](https://github.com/pacholoamit/homelab-infrastructure/commit/4cc7439) style: remove rook-operator from kustomization.yaml
 
 
 
