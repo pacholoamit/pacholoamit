@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5283` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5517` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#7238f3b](https://github.com/MediaJel/serverless-functions/commit/7238f3b) chore: Update serverless.yml
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#6835a20](https://github.com/MediaJel/serverless-functions/commit/6835a20) refactor: Comment out unused code in serverless.yml
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#0ff24e8](https://github.com/MediaJel/serverless-functions/commit/0ff24e8) chore(serverless.yml): update S3 notification configuration
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#81027d0](https://github.com/MediaJel/serverless-functions/commit/81027d0) style: Comment out unused code in serverless.yml
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#37e5945](https://github.com/MediaJel/serverless-functions/commit/37e5945) fix(serverless.yml): Enable notification configuration for S3 buckets
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#0833b7b](https://github.com/pacholoamit/homelab-infrastructure/commit/0833b7b) refactor: Comment out rook-operator and rook-cluster in kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#46b0ec1](https://github.com/pacholoamit/homelab-infrastructure/commit/46b0ec1) refactor: Update CPU limits and requests in release.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#b934040](https://github.com/pacholoamit/homelab-infrastructure/commit/b934040) refactor: Update resource limits for rook-cluster
+* #️⃣ Opened [#628 Create Fast events tables (contains last 4 - 7 months)](https://github.com/MediaJel/mediajel/issues/628) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#4cc7439](https://github.com/pacholoamit/homelab-infrastructure/commit/4cc7439) style: remove rook-operator from kustomization.yaml
 
 
 
