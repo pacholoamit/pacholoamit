@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5517` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5547` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0833b7b](https://github.com/pacholoamit/homelab-infrastructure/commit/0833b7b) refactor: Comment out rook-operator and rook-cluster in kustomization.yaml
+  * [#59ca7f3](https://github.com/pacholoamit/homelab-infrastructure/commit/59ca7f3) refactor: remove unused configmap and udp configuration
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#46b0ec1](https://github.com/pacholoamit/homelab-infrastructure/commit/46b0ec1) refactor: Update CPU limits and requests in release.yaml
+  * [#9ea311a](https://github.com/pacholoamit/homelab-infrastructure/commit/9ea311a) chore: Update UDP service mapping in configmap.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#b934040](https://github.com/pacholoamit/homelab-infrastructure/commit/b934040) refactor: Update resource limits for rook-cluster
-* #️⃣ Opened [#628 Create Fast events tables (contains last 4 - 7 months)](https://github.com/MediaJel/mediajel/issues/628) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+  * [#47acda0](https://github.com/pacholoamit/homelab-infrastructure/commit/47acda0) fix: Update replica count to 1
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#e8612f6](https://github.com/pacholoamit/homelab-infrastructure/commit/e8612f6) feat: Add UDP port configuration for ingress-nginx
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#af9c416](https://github.com/pacholoamit/homelab-infrastructure/commit/af9c416) chore: Remove unused pre-commit hooks configuration
 
 
 
