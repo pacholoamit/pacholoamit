@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5547` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5554` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#59ca7f3](https://github.com/pacholoamit/homelab-infrastructure/commit/59ca7f3) refactor: remove unused configmap and udp configuration
+  * [#f99b9bf](https://github.com/pacholoamit/homelab-infrastructure/commit/f99b9bf) style: remove commented out line
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#9ea311a](https://github.com/pacholoamit/homelab-infrastructure/commit/9ea311a) chore: Update UDP service mapping in configmap.yaml
+  * [#4f56ddc](https://github.com/pacholoamit/homelab-infrastructure/commit/4f56ddc) fix(deployment.yaml): Set WG_PORT value to &#34;80&#34;
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#47acda0](https://github.com/pacholoamit/homelab-infrastructure/commit/47acda0) fix: Update replica count to 1
+  * [#df9291b](https://github.com/pacholoamit/homelab-infrastructure/commit/df9291b) fix: Update WG_HOST value and remove port number
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#e8612f6](https://github.com/pacholoamit/homelab-infrastructure/commit/e8612f6) feat: Add UDP port configuration for ingress-nginx
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#af9c416](https://github.com/pacholoamit/homelab-infrastructure/commit/af9c416) chore: Remove unused pre-commit hooks configuration
+  * [#c286871](https://github.com/pacholoamit/homelab-infrastructure/commit/c286871) style: Skip ConfigMap in kubeconform_flags
 
 
 
