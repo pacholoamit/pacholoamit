@@ -30,15 +30,44 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 9 commits in [pacholoamit/amplication](https://github.com/pacholoamit/amplication) on branch `main`
+  * [#e7b333d](https://github.com/pacholoamit/amplication/commit/e7b333d) Merge pull request #1 from pacholoamit/amplication
+
+chore(Amplication): Update Generated Code
+  * [#b638d50](https://github.com/pacholoamit/amplication/commit/b638d50) Amplication build # clqvgl8ai1d9aer01l6bbk1be
+Commit message: Remove OpenAI.
+Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgl8ai1d9aer01l6bbk1be](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgl8ai1d9aer01l6bbk1be)
+  * [#0521aae](https://github.com/pacholoamit/amplication/commit/0521aae) Amplication build # clqvgi5fx0okifs012gn2la3z
+Commit message: Add JSON logger.
+Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgi5fx0okifs012gn2la3z](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgi5fx0okifs012gn2la3z)
+  * [#91db17d](https://github.com/pacholoamit/amplication/commit/91db17d) Amplication build # clqvggww21d69er013134dv9i
+Commit message: Add OpenAI integration.
+Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvggww21d69er013134dv9i](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvggww21d69er013134dv9i)
+  * [#deece3b](https://github.com/pacholoamit/amplication/commit/deece3b) Amplication build # clqvggf001d3ier014y00h3us
+Commit message: Add Prettier.
+Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvggf001d3ier014y00h3us](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvggf001d3ier014y00h3us)
+  * [#8df9390](https://github.com/pacholoamit/amplication/commit/8df9390) Amplication build # clqvgg31a1d0wer015ae252me
+Commit message: Add Helm Chart.
+Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgg31a1d0wer015ae252me](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgg31a1d0wer015ae252me)
+  * [#3dd7a82](https://github.com/pacholoamit/amplication/commit/3dd7a82) Amplication build # clqvgffcj1n6vho01wqkdw0my
+Commit message: Add Github actions.
+Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgffcj1n6vho01wqkdw0my](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgffcj1n6vho01wqkdw0my)
+  * [#c4dd485](https://github.com/pacholoamit/amplication/commit/c4dd485) Amplication build # clqvgbewy1cyber019z92kloo
+
+Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgbewy1cyber019z92kloo](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgbewy1cyber019z92kloo)
+  * [#57a8cbf](https://github.com/pacholoamit/amplication/commit/57a8cbf) Amplication build # clqvgaczm1n5zho01nib101z8
+Congratulations on your first commit with Amplication!
+We encourage you to continue exploring the many ways Amplication can supercharge your development.
+
+If you find Amplication useful, please show your support and give our GitHub repo a star ⭐️
+This simple action helps our open-source project grow and reach more developers like you.
+Thank you and happy coding!
+Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgaczm1n5zho01nib101z8](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgaczm1n5zho01nib101z8)
+* 🔃 Merged [#1 chore(Amplication): Update Generated Code](https://github.com/pacholoamit/amplication/pull/1) in [pacholoamit/amplication](https://github.com/pacholoamit/amplication)
+  * 244 files changed `++8766 --0`
+* ⏺️ Created new repository  [pacholoamit/amplication](https://github.com/pacholoamit/amplication)
+* 🌟 Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 * 🌟 Starred [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript)
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f99b9bf](https://github.com/pacholoamit/homelab-infrastructure/commit/f99b9bf) style: remove commented out line
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#4f56ddc](https://github.com/pacholoamit/homelab-infrastructure/commit/4f56ddc) fix(deployment.yaml): Set WG_PORT value to &#34;80&#34;
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#df9291b](https://github.com/pacholoamit/homelab-infrastructure/commit/df9291b) fix: Update WG_HOST value and remove port number
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#c286871](https://github.com/pacholoamit/homelab-infrastructure/commit/c286871) style: Skip ConfigMap in kubeconform_flags
 
 
 
