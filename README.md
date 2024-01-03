@@ -30,6 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#629 Evaluate amplication as back-end framework generation tool](https://github.com/MediaJel/mediajel/issues/629) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#4251 Improve the transactions-observer](https://github.com/MediaJel/mediajel-gql-service/issues/4251) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4306 [HOTFIX] Campaign Observer campaign fix](https://github.com/MediaJel/mediajel-gql-service/pull/4306) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 9 commits in [pacholoamit/amplication](https://github.com/pacholoamit/amplication) on branch `main`
   * [#e7b333d](https://github.com/pacholoamit/amplication/commit/e7b333d) Merge pull request #1 from pacholoamit/amplication
 
@@ -65,9 +68,6 @@ Thank you and happy coding!
 Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgaczm1n5zho01nib101z8](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgaczm1n5zho01nib101z8)
 * 🔃 Merged [#1 chore(Amplication): Update Generated Code](https://github.com/pacholoamit/amplication/pull/1) in [pacholoamit/amplication](https://github.com/pacholoamit/amplication)
   * 244 files changed `++8766 --0`
-* ⏺️ Created new repository  [pacholoamit/amplication](https://github.com/pacholoamit/amplication)
-* 🌟 Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-* 🌟 Starred [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript)
 
 
 
