@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5554` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5555` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [VVVi/clickhouse-migrations](https://github.com/VVVi/clickhouse-migrations)
 * 💬 Commented on [#6998 [SQLLab] A query with keyword instead of a literal runs into &#34;Only `SELECT` statements are allowed against this database&#34;](https://github.com/apache/superset/issues/6998) from [apache/superset](https://github.com/apache/superset)
 * ➡️ Pushed 13 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
   * [#7238f3b](https://github.com/MediaJel/serverless-functions/commit/7238f3b) chore: Update serverless.yml
@@ -51,7 +52,6 @@ update master
 CircleCi Deployment
 * 💬 Commented on [#4317 Add functionality in transactions-observer to automatically update events targets metrics daily in the tag generator](https://github.com/MediaJel/mediajel-gql-service/issues/4317) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#376 Research into adding our tag into Google Ads](https://github.com/MediaJel/mediajel-tracker/issues/376) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
