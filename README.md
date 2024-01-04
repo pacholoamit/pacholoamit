@@ -30,44 +30,28 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#629 Evaluate amplication as back-end framework generation tool](https://github.com/MediaJel/mediajel/issues/629) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#4251 Improve the transactions-observer](https://github.com/MediaJel/mediajel-gql-service/issues/4251) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4306 [HOTFIX] Campaign Observer campaign fix](https://github.com/MediaJel/mediajel-gql-service/pull/4306) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 9 commits in [pacholoamit/amplication](https://github.com/pacholoamit/amplication) on branch `main`
-  * [#e7b333d](https://github.com/pacholoamit/amplication/commit/e7b333d) Merge pull request #1 from pacholoamit/amplication
+* 💬 Commented on [#6998 [SQLLab] A query with keyword instead of a literal runs into &#34;Only `SELECT` statements are allowed against this database&#34;](https://github.com/apache/superset/issues/6998) from [apache/superset](https://github.com/apache/superset)
+* ➡️ Pushed 13 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#7238f3b](https://github.com/MediaJel/serverless-functions/commit/7238f3b) chore: Update serverless.yml
+  * [#6835a20](https://github.com/MediaJel/serverless-functions/commit/6835a20) refactor: Comment out unused code in serverless.yml
+  * [#0ff24e8](https://github.com/MediaJel/serverless-functions/commit/0ff24e8) chore(serverless.yml): update S3 notification configuration
+  * [#81027d0](https://github.com/MediaJel/serverless-functions/commit/81027d0) style: Comment out unused code in serverless.yml
+  * [#37e5945](https://github.com/MediaJel/serverless-functions/commit/37e5945) fix(serverless.yml): Enable notification configuration for S3 buckets
+  * [#ac04b25](https://github.com/MediaJel/serverless-functions/commit/ac04b25) chore(serverless.yml): remove unnecessary condition
+  * [#fd23651](https://github.com/MediaJel/serverless-functions/commit/fd23651) style: Comment out unused code
+  * [#9b81328](https://github.com/MediaJel/serverless-functions/commit/9b81328) fix: Fix bucket name in serverless.yml
+  * [#6cf5cfc](https://github.com/MediaJel/serverless-functions/commit/6cf5cfc) style: Remove commented out code and add filter for S3 key suffix
+  * [#a7b712a](https://github.com/MediaJel/serverless-functions/commit/a7b712a) style: Comment out S3Key filter in SNS topic configuration
+  * [#1c54d17](https://github.com/MediaJel/serverless-functions/commit/1c54d17) hotfix: fix incorrect sqs implementation with s3 bucket
+  * [#ba162bf](https://github.com/MediaJel/serverless-functions/commit/ba162bf) Merge pull request #8 from MediaJel/staging
 
-chore(Amplication): Update Generated Code
-  * [#b638d50](https://github.com/pacholoamit/amplication/commit/b638d50) Amplication build # clqvgl8ai1d9aer01l6bbk1be
-Commit message: Remove OpenAI.
-Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgl8ai1d9aer01l6bbk1be](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgl8ai1d9aer01l6bbk1be)
-  * [#0521aae](https://github.com/pacholoamit/amplication/commit/0521aae) Amplication build # clqvgi5fx0okifs012gn2la3z
-Commit message: Add JSON logger.
-Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgi5fx0okifs012gn2la3z](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgi5fx0okifs012gn2la3z)
-  * [#91db17d](https://github.com/pacholoamit/amplication/commit/91db17d) Amplication build # clqvggww21d69er013134dv9i
-Commit message: Add OpenAI integration.
-Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvggww21d69er013134dv9i](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvggww21d69er013134dv9i)
-  * [#deece3b](https://github.com/pacholoamit/amplication/commit/deece3b) Amplication build # clqvggf001d3ier014y00h3us
-Commit message: Add Prettier.
-Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvggf001d3ier014y00h3us](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvggf001d3ier014y00h3us)
-  * [#8df9390](https://github.com/pacholoamit/amplication/commit/8df9390) Amplication build # clqvgg31a1d0wer015ae252me
-Commit message: Add Helm Chart.
-Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgg31a1d0wer015ae252me](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgg31a1d0wer015ae252me)
-  * [#3dd7a82](https://github.com/pacholoamit/amplication/commit/3dd7a82) Amplication build # clqvgffcj1n6vho01wqkdw0my
-Commit message: Add Github actions.
-Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgffcj1n6vho01wqkdw0my](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgffcj1n6vho01wqkdw0my)
-  * [#c4dd485](https://github.com/pacholoamit/amplication/commit/c4dd485) Amplication build # clqvgbewy1cyber019z92kloo
+update master
+  * [#72cb1f1](https://github.com/MediaJel/serverless-functions/commit/72cb1f1) Merge pull request #6 from MediaJel/staging
 
-Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgbewy1cyber019z92kloo](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgbewy1cyber019z92kloo)
-  * [#57a8cbf](https://github.com/pacholoamit/amplication/commit/57a8cbf) Amplication build # clqvgaczm1n5zho01nib101z8
-Congratulations on your first commit with Amplication!
-We encourage you to continue exploring the many ways Amplication can supercharge your development.
-
-If you find Amplication useful, please show your support and give our GitHub repo a star ⭐️
-This simple action helps our open-source project grow and reach more developers like you.
-Thank you and happy coding!
-Build URL: [https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgaczm1n5zho01nib101z8](https://app.amplication.com/clq6w71fd00bcl301w5n72mfl/clqvg3rlf1n4jho01lk31uir7/clqvg7eek1ct5er01nnffzae6/builds/clqvgaczm1n5zho01nib101z8)
-* 🔃 Merged [#1 chore(Amplication): Update Generated Code](https://github.com/pacholoamit/amplication/pull/1) in [pacholoamit/amplication](https://github.com/pacholoamit/amplication)
-  * 244 files changed `++8766 --0`
+CircleCi Deployment
+* 💬 Commented on [#4317 Add functionality in transactions-observer to automatically update events targets metrics daily in the tag generator](https://github.com/MediaJel/mediajel-gql-service/issues/4317) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#376 Research into adding our tag into Google Ads](https://github.com/MediaJel/mediajel-tracker/issues/376) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
