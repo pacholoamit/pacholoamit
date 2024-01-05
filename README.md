@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5555` commits and made `149` PRs.
+:people_hugging: I contributed to `46` repositories , made `5138` commits and made `150` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,28 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [VVVi/clickhouse-migrations](https://github.com/VVVi/clickhouse-migrations)
-* 💬 Commented on [#6998 [SQLLab] A query with keyword instead of a literal runs into &#34;Only `SELECT` statements are allowed against this database&#34;](https://github.com/apache/superset/issues/6998) from [apache/superset](https://github.com/apache/superset)
-* ➡️ Pushed 13 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#7238f3b](https://github.com/MediaJel/serverless-functions/commit/7238f3b) chore: Update serverless.yml
-  * [#6835a20](https://github.com/MediaJel/serverless-functions/commit/6835a20) refactor: Comment out unused code in serverless.yml
-  * [#0ff24e8](https://github.com/MediaJel/serverless-functions/commit/0ff24e8) chore(serverless.yml): update S3 notification configuration
-  * [#81027d0](https://github.com/MediaJel/serverless-functions/commit/81027d0) style: Comment out unused code in serverless.yml
-  * [#37e5945](https://github.com/MediaJel/serverless-functions/commit/37e5945) fix(serverless.yml): Enable notification configuration for S3 buckets
-  * [#ac04b25](https://github.com/MediaJel/serverless-functions/commit/ac04b25) chore(serverless.yml): remove unnecessary condition
-  * [#fd23651](https://github.com/MediaJel/serverless-functions/commit/fd23651) style: Comment out unused code
-  * [#9b81328](https://github.com/MediaJel/serverless-functions/commit/9b81328) fix: Fix bucket name in serverless.yml
-  * [#6cf5cfc](https://github.com/MediaJel/serverless-functions/commit/6cf5cfc) style: Remove commented out code and add filter for S3 key suffix
-  * [#a7b712a](https://github.com/MediaJel/serverless-functions/commit/a7b712a) style: Comment out S3Key filter in SNS topic configuration
-  * [#1c54d17](https://github.com/MediaJel/serverless-functions/commit/1c54d17) hotfix: fix incorrect sqs implementation with s3 bucket
-  * [#ba162bf](https://github.com/MediaJel/serverless-functions/commit/ba162bf) Merge pull request #8 from MediaJel/staging
-
-update master
-  * [#72cb1f1](https://github.com/MediaJel/serverless-functions/commit/72cb1f1) Merge pull request #6 from MediaJel/staging
-
-CircleCi Deployment
-* 💬 Commented on [#4317 Add functionality in transactions-observer to automatically update events targets metrics daily in the tag generator](https://github.com/MediaJel/mediajel-gql-service/issues/4317) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#376 Research into adding our tag into Google Ads](https://github.com/MediaJel/mediajel-tracker/issues/376) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#c8a18a7](https://github.com/MediaJel/serverless-functions/commit/c8a18a7) Merge branch &#39;feat/make-clickhouse-table-dynamic&#39; into staging
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `feat/make-clickhouse-table-dynamic`
+  * [#c985b49](https://github.com/MediaJel/serverless-functions/commit/c985b49) feat: add environment variables for Snowplow events table and schema
+* ➡️ Pushed 1 commit in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `master`
+  * [#99110c3](https://github.com/MediaJel/microservices/commit/99110c3) refactor: Remove duplicate passwordService parameter in UserService constructor
+* ➡️ Pushed 1 commit in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `feat/add-admin-js`
+  * [#d47f878](https://github.com/MediaJel/microservices/commit/d47f878) fix(main): fix AdminJS initialization
+* 🔃 Opened [#9 feat(clickhouse-loader): Make clickhouse loader tables dynamic](https://github.com/MediaJel/serverless-functions/pull/9) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 2 files changed `++7 --11`
 
 
 
