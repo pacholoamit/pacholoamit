@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `5138` commits and made `150` PRs.
+:people_hugging: I contributed to `46` repositories , made `5154` commits and made `151` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,30 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#c8a18a7](https://github.com/MediaJel/serverless-functions/commit/c8a18a7) Merge branch &#39;feat/make-clickhouse-table-dynamic&#39; into staging
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `feat/make-clickhouse-table-dynamic`
-  * [#c985b49](https://github.com/MediaJel/serverless-functions/commit/c985b49) feat: add environment variables for Snowplow events table and schema
-* ➡️ Pushed 1 commit in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `master`
-  * [#99110c3](https://github.com/MediaJel/microservices/commit/99110c3) refactor: Remove duplicate passwordService parameter in UserService constructor
-* ➡️ Pushed 1 commit in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `feat/add-admin-js`
-  * [#d47f878](https://github.com/MediaJel/microservices/commit/d47f878) fix(main): fix AdminJS initialization
-* 🔃 Opened [#9 feat(clickhouse-loader): Make clickhouse loader tables dynamic](https://github.com/MediaJel/serverless-functions/pull/9) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 2 files changed `++7 --11`
+* 🌟 Starred [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs)
+* ➡️ Pushed 3 commits in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `master`
+  * [#95857eb](https://github.com/MediaJel/microservices/commit/95857eb) Merge pull request #6 from MediaJel/amplication-events-service
+
+chore(Amplication): Update Generated Code
+  * [#c7fabae](https://github.com/MediaJel/microservices/commit/c7fabae) Amplication merge conflicts auto-resolution
+  * [#2a20c8c](https://github.com/MediaJel/microservices/commit/2a20c8c) Amplication build # clqzzq24u04hfk001jflg20if
+
+Build URL: [https://app.amplication.com/clqyen42d01r5iu01fzg0gyuq/clqzhj1t002wdjh01fqsbdqsa/clqzhs0nh03griu019dk3fxdz/builds/clqzzq24u04hfk001jflg20if](https://app.amplication.com/clqyen42d01r5iu01fzg0gyuq/clqzhj1t002wdjh01fqsbdqsa/clqzhs0nh03griu019dk3fxdz/builds/clqzzq24u04hfk001jflg20if)
+* 🔃 Merged [#6 chore(Amplication): Update Generated Code](https://github.com/MediaJel/microservices/pull/6) in [MediaJel/microservices](https://github.com/MediaJel/microservices)
+  * 44 files changed `++16182 --1737`
+* ➡️ Pushed 2 commits in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `master`
+  * [#a8591ad](https://github.com/MediaJel/microservices/commit/a8591ad) Merge branch &#39;master&#39; of https://github.com/MediaJel/microservices
+* ➡️ Pushed 4 commits in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `master`
+  * [#912099e](https://github.com/MediaJel/microservices/commit/912099e) Merge pull request #4 from MediaJel/amplication-events-service
+
+chore(Amplication): Update Generated Code
+  * [#71289a4](https://github.com/MediaJel/microservices/commit/71289a4) Merge branch &#39;master&#39; into amplication-events-service
+  * [#8139020](https://github.com/MediaJel/microservices/commit/8139020) Amplication build # clqzzm0t604e5k001sk0kpjuu
+
+Build URL: [https://app.amplication.com/clqyen42d01r5iu01fzg0gyuq/clqzhj1t002wdjh01fqsbdqsa/clqzhs0nh03griu019dk3fxdz/builds/clqzzm0t604e5k001sk0kpjuu](https://app.amplication.com/clqyen42d01r5iu01fzg0gyuq/clqzhj1t002wdjh01fqsbdqsa/clqzhs0nh03griu019dk3fxdz/builds/clqzzm0t604e5k001sk0kpjuu)
+  * [#b05eb30](https://github.com/MediaJel/microservices/commit/b05eb30) Amplication build # clqzo1trx03w0iu01s2jlqxnf
+Commit message: Add Orders.
+Build URL: [https://app.amplication.com/clqyen42d01r5iu01fzg0gyuq/clqzhj1t002wdjh01fqsbdqsa/clqzhs0nh03griu019dk3fxdz/builds/clqzo1trx03w0iu01s2jlqxnf](https://app.amplication.com/clqyen42d01r5iu01fzg0gyuq/clqzhj1t002wdjh01fqsbdqsa/clqzhs0nh03griu019dk3fxdz/builds/clqzo1trx03w0iu01s2jlqxnf)
 
 
 
