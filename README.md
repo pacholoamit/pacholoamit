@@ -30,15 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#f64c275](https://github.com/MediaJel/serverless-functions/commit/f64c275) chore: Update file extensions in package.json
-* #️⃣ Opened [#11 Create workflow to recover failed lambda functions](https://github.com/MediaJel/serverless-functions/issues/11) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-* ➡️ Pushed 2 commits in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `master`
-  * [#0ceb04f](https://github.com/MediaJel/microservices/commit/0ceb04f) Merge branch &#39;master&#39; of https://github.com/MediaJel/microservices
-* ➡️ Pushed 1 commit in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `master`
-  * [#cb047eb](https://github.com/MediaJel/microservices/commit/cb047eb) Update README.md
-* ➡️ Pushed 1 commit in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `master`
-  * [#849d50f](https://github.com/MediaJel/microservices/commit/849d50f) Update README.md
+* 💬 Commented on [#4309 Implementing of the optouts job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4309) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4309 Implementing of the optouts job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4309) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4309 Implementing of the optouts job queue migration](https://github.com/MediaJel/mediajel-gql-service/pull/4309) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4350 Srr process orgs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4350) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#4350 Srr process orgs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4350) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
