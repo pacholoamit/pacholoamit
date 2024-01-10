@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `5178` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5141` commits and made `147` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#634 Improve Snowflake deduplication to use pandas dataframe for improved performance](https://github.com/MediaJel/mediajel/issues/634) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🔃 Opened [#5741 feat(test-tag): make user wait for test tag to complete](https://github.com/MediaJel/mediajel-dashboard/pull/5741) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 3 files changed `++298 --291`
-* ⏺️ Created new branch pa-improve-test-tag in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `ez-faster-test-tag`
-  * [#bfecb64](https://github.com/MediaJel/mediajel-gql-service/commit/bfecb64) feat: Update return type of getBasicTagActivity to JSON
-* 🔃 Closed [#13 chore(Amplication): Update Generated Code](https://github.com/MediaJel/microservices/pull/13) in [MediaJel/microservices](https://github.com/MediaJel/microservices)
-  * 12 files changed `++16180 --30`
+* #️⃣ Opened [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ⏺️ Created new repository  [MediaJel/microservices](https://github.com/MediaJel/microservices)
+* 🔃 Closed [#32 chore(Amplication): Update Generated Code](https://github.com/MediaJel/microservices/pull/32) in [MediaJel/microservices](https://github.com/MediaJel/microservices)
+  * 117 files changed `++482 --3740`
+* 🔃 Closed [#36 chore(Amplication): Update Generated Code](https://github.com/MediaJel/microservices/pull/36) in [MediaJel/microservices](https://github.com/MediaJel/microservices)
+  * 155 files changed `++473 --5400`
+* ➡️ Pushed 2 commits in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `master`
+  * [#6759441](https://github.com/MediaJel/microservices/commit/6759441) Merge pull request #35 from MediaJel/amplication-auth-api-gateway
+
+chore(Amplication): Update Generated Code
+  * [#701a351](https://github.com/MediaJel/microservices/commit/701a351) Amplication merge conflicts auto-resolution
 
 
 
