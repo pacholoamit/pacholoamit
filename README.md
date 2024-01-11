@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#634 Improve Snowflake deduplication to use pandas dataframe for improved performance](https://github.com/MediaJel/mediajel/issues/634) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#628 Create Fast events tables](https://github.com/MediaJel/mediajel/issues/628) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#314 Software Design Document (Template)](https://github.com/MediaJel/mediajel/issues/314) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#312 Landing page - Open source alternative](https://github.com/MediaJel/mediajel/issues/312) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#316 Add `click` metrics to display campaigns transactions view  - Design Doc (In Progress)](https://github.com/MediaJel/mediajel/issues/316) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#3980 Self Service Tag generator V2 - Design Doc (In Progress)](https://github.com/MediaJel/mediajel-dashboard/issues/3980) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#3973 Dashboard information enhancements  - Design Doc](https://github.com/MediaJel/mediajel-dashboard/issues/3973) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
