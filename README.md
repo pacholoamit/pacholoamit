@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5142` commits and made `147` PRs.
+:people_hugging: I contributed to `45` repositories , made `5143` commits and made `147` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ⏺️ Created new repository  [MediaJel/microservices](https://github.com/MediaJel/microservices)
-* 🔃 Closed [#32 chore(Amplication): Update Generated Code](https://github.com/MediaJel/microservices/pull/32) in [MediaJel/microservices](https://github.com/MediaJel/microservices)
-  * 117 files changed `++482 --3740`
-* 🔃 Closed [#36 chore(Amplication): Update Generated Code](https://github.com/MediaJel/microservices/pull/36) in [MediaJel/microservices](https://github.com/MediaJel/microservices)
-  * 155 files changed `++473 --5400`
-* ➡️ Pushed 2 commits in [MediaJel/microservices](https://github.com/MediaJel/microservices) on branch `master`
-  * [#6759441](https://github.com/MediaJel/microservices/commit/6759441) Merge pull request #35 from MediaJel/amplication-auth-api-gateway
-
-chore(Amplication): Update Generated Code
-  * [#701a351](https://github.com/MediaJel/microservices/commit/701a351) Amplication merge conflicts auto-resolution
+* 💬 Commented on [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#634 Improve Snowflake deduplication to use pandas dataframe for improved performance](https://github.com/MediaJel/mediajel/issues/634) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#628 Create Fast events tables](https://github.com/MediaJel/mediajel/issues/628) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
