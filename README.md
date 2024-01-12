@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#314 Software Design Document (Template)](https://github.com/MediaJel/mediajel/issues/314) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#312 Landing page - Open source alternative](https://github.com/MediaJel/mediajel/issues/312) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#316 Add `click` metrics to display campaigns transactions view  - Design Doc (In Progress)](https://github.com/MediaJel/mediajel/issues/316) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#3980 Self Service Tag generator V2 - Design Doc (In Progress)](https://github.com/MediaJel/mediajel-dashboard/issues/3980) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#3973 Dashboard information enhancements  - Design Doc](https://github.com/MediaJel/mediajel-dashboard/issues/3973) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#642 Optimize existing Clickhouse queries for better speed](https://github.com/MediaJel/mediajel/issues/642) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 🔍 Reviewed [#4404 [HOT FIX] - changes safety buffer from 100 to 300](https://github.com/MediaJel/mediajel-gql-service/pull/4404) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#641 Translate snowflake queries into Clickhouse queries](https://github.com/MediaJel/mediajel/issues/641) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#640 Migrate Snowflake Charts into Apache Superset](https://github.com/MediaJel/mediajel/issues/640) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#12 Implement Liquid M pipeline to load snowplow data to production clickhouse cluster](https://github.com/MediaJel/serverless-functions/issues/12) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
 
 
 
