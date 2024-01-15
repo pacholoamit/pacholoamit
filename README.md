@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5143` commits and made `147` PRs.
+:people_hugging: I contributed to `45` repositories , made `5143` commits and made `146` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
 * 🌟 Starred [actualbudget/actual](https://github.com/actualbudget/actual)
 * 🔃 Closed [#5515 Chore: use existing apollo-link-retry package](https://github.com/MediaJel/mediajel-dashboard/pull/5515) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
   * 3 files changed `++7 --94`
 * #️⃣ Opened [#642 Optimize existing Clickhouse queries for better speed](https://github.com/MediaJel/mediajel/issues/642) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🔍 Reviewed [#4404 [HOT FIX] - changes safety buffer from 100 to 300](https://github.com/MediaJel/mediajel-gql-service/pull/4404) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#641 Translate snowflake queries into Clickhouse queries](https://github.com/MediaJel/mediajel/issues/641) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
