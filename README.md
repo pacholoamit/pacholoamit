@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5143` commits and made `146` PRs.
+:people_hugging: I contributed to `45` repositories , made `5144` commits and made `148` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [kleampa/not-paid](https://github.com/kleampa/not-paid)
-* 🌟 Starred [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
-* 🌟 Starred [actualbudget/actual](https://github.com/actualbudget/actual)
-* 🔃 Closed [#5515 Chore: use existing apollo-link-retry package](https://github.com/MediaJel/mediajel-dashboard/pull/5515) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-  * 3 files changed `++7 --94`
-* #️⃣ Opened [#642 Optimize existing Clickhouse queries for better speed](https://github.com/MediaJel/mediajel/issues/642) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `srr-ai-interface`
+  * [#e5c6ac5](https://github.com/MediaJel/mediajel-dashboard/commit/e5c6ac5) fix: Fix subscription data check in useAIChatHandler
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `srr-ai-interface`
+  * [#fd3c796](https://github.com/MediaJel/mediajel-dashboard/commit/fd3c796) fix: fix useAIChatHandler hook and GET_CHAT query
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `srr-ai-interface`
+  * [#d0c54f7](https://github.com/MediaJel/mediajel-dashboard/commit/d0c54f7) feat: Add useAIChatHandler hook for handling AI chat functionality
+* 🔃 Opened [#4420 Hotfix: Handle empty payloads in OpenAI chat handler](https://github.com/MediaJel/mediajel-gql-service/pull/4420) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 1 file changed `++14 --9`
+* ⏺️ Created new branch pa-fix-ai-stream-master in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
