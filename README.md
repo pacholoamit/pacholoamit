@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5144` commits and made `148` PRs.
+:people_hugging: I contributed to `45` repositories , made `5145` commits and made `148` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `srr-ai-interface`
-  * [#e5c6ac5](https://github.com/MediaJel/mediajel-dashboard/commit/e5c6ac5) fix: Fix subscription data check in useAIChatHandler
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `srr-ai-interface`
-  * [#fd3c796](https://github.com/MediaJel/mediajel-dashboard/commit/fd3c796) fix: fix useAIChatHandler hook and GET_CHAT query
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `srr-ai-interface`
-  * [#d0c54f7](https://github.com/MediaJel/mediajel-dashboard/commit/d0c54f7) feat: Add useAIChatHandler hook for handling AI chat functionality
-* 🔃 Opened [#4420 Hotfix: Handle empty payloads in OpenAI chat handler](https://github.com/MediaJel/mediajel-gql-service/pull/4420) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 1 file changed `++14 --9`
-* ⏺️ Created new branch pa-fix-ai-stream-master in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#644 Generate 2 microservices with amplication / nestjs](https://github.com/MediaJel/mediajel/issues/644) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#643 Take a look at amplication alternatives](https://github.com/MediaJel/mediajel/issues/643) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#5462 Dashboard AI Chat feature](https://github.com/MediaJel/mediajel-dashboard/issues/5462) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#370 Update mediajel-tracker legacy carts to use new callback design pattern](https://github.com/MediaJel/mediajel-tracker/issues/370) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
