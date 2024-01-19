@@ -30,11 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#d532006](https://github.com/MediaJel/serverless-functions/commit/d532006) chore: Add whitespace
+* ➡️ Pushed 4 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#7637382](https://github.com/MediaJel/serverless-functions/commit/7637382) Merge pull request #13 from MediaJel/jbjm-recover-failed-lambda-functions
+
+Test recover failed lamda functions
+  * [#8f673b5](https://github.com/MediaJel/serverless-functions/commit/8f673b5) delete error log
+  * [#dd35210](https://github.com/MediaJel/serverless-functions/commit/dd35210) fix contructs and yml
+  * [#db8b37c](https://github.com/MediaJel/serverless-functions/commit/db8b37c) fix conflict
+* 🔃 Merged [#13 Test recover failed lamda functions](https://github.com/MediaJel/serverless-functions/pull/13) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 4 files changed `++82 --1`
 * 🔍 Reviewed [#4421 display campaign jobs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4421) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#4421 display campaign jobs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4421) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#647 Implement Clickhouse Queries in microservice](https://github.com/MediaJel/mediajel/issues/647) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#646 Migrate Statara snowplow pipeline to clickhouse](https://github.com/MediaJel/mediajel/issues/646) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#645 Migrate Jamloop snowplow pipeline to clickhouse](https://github.com/MediaJel/mediajel/issues/645) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
