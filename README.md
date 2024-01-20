@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [guiqui/k8Studio](https://github.com/guiqui/k8Studio)
 * ➡️ Pushed 4 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
   * [#2d18634](https://github.com/MediaJel/serverless-functions/commit/2d18634) feat(serverless.yml): Add ClickhouseDLQ and configure message retention period
   * [#3b50ea5](https://github.com/MediaJel/serverless-functions/commit/3b50ea5) Merge branch &#39;staging&#39;
@@ -43,8 +44,6 @@ Deployment
   * [#3b50ea5](https://github.com/MediaJel/serverless-functions/commit/3b50ea5) Merge branch &#39;staging&#39;
 * ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
   * [#491c636](https://github.com/MediaJel/serverless-functions/commit/491c636) chore(serverless.yml): rename s3-recover-failed-lambda-functions to s3-lambda-recovery
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#6b366b5](https://github.com/MediaJel/serverless-functions/commit/6b366b5) style: remove unnecessary code
 
 
 
