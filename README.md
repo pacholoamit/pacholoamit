@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `5147` commits and made `148` PRs.
+:people_hugging: I contributed to `46` repositories , made `5162` commits and made `148` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,19 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#d532006](https://github.com/MediaJel/serverless-functions/commit/d532006) chore: Add whitespace
 * ➡️ Pushed 4 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#7637382](https://github.com/MediaJel/serverless-functions/commit/7637382) Merge pull request #13 from MediaJel/jbjm-recover-failed-lambda-functions
+  * [#2d18634](https://github.com/MediaJel/serverless-functions/commit/2d18634) feat(serverless.yml): Add ClickhouseDLQ and configure message retention period
+  * [#3b50ea5](https://github.com/MediaJel/serverless-functions/commit/3b50ea5) Merge branch &#39;staging&#39;
+  * [#6500565](https://github.com/MediaJel/serverless-functions/commit/6500565) Merge branch &#39;staging&#39;
+  * [#c57db2b](https://github.com/MediaJel/serverless-functions/commit/c57db2b) Merge pull request #10 from MediaJel/staging
 
-Test recover failed lamda functions
-  * [#8f673b5](https://github.com/MediaJel/serverless-functions/commit/8f673b5) delete error log
-  * [#dd35210](https://github.com/MediaJel/serverless-functions/commit/dd35210) fix contructs and yml
-  * [#db8b37c](https://github.com/MediaJel/serverless-functions/commit/db8b37c) fix conflict
-* 🔃 Merged [#13 Test recover failed lamda functions](https://github.com/MediaJel/serverless-functions/pull/13) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 4 files changed `++82 --1`
-* 🔍 Reviewed [#4421 display campaign jobs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4421) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4421 display campaign jobs migration](https://github.com/MediaJel/mediajel-gql-service/pull/4421) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+Deployment
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#2d18634](https://github.com/MediaJel/serverless-functions/commit/2d18634) feat(serverless.yml): Add ClickhouseDLQ and configure message retention period
+* ➡️ Pushed 3 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#3b50ea5](https://github.com/MediaJel/serverless-functions/commit/3b50ea5) Merge branch &#39;staging&#39;
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#491c636](https://github.com/MediaJel/serverless-functions/commit/491c636) chore(serverless.yml): rename s3-recover-failed-lambda-functions to s3-lambda-recovery
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#6b366b5](https://github.com/MediaJel/serverless-functions/commit/6b366b5) style: remove unnecessary code
 
 
 
@@ -52,7 +54,7 @@ Test recover failed lamda functions
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5NFtsAyS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94xlhw1wcbyjdwfi75le.png" alt="" width="280">
+      <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94xlhw1wcbyjdwfi75le.png" alt="" width="280">
     </td>
     <th>
       <a href="https://dev.to/pacholoamit/use-over-140-amazing-chatgpt-prompts-in-10-minutes-na3">Use over 140+ amazing ChatGPT prompts in 10 minutes 🚀</a>
@@ -69,7 +71,7 @@ Test recover failed lamda functions
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qq8NOsC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvvesouje29b7h2gw0dm.png" alt="" width="280">
+      <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftvvesouje29b7h2gw0dm.png" alt="" width="280">
     </td>
     <th>
       <a href="https://dev.to/pacholoamit/is-this-the-end-of-localhost-vs-code-server-preview-36ln">Is this the end of localhost? VS Code Server Preview</a>
@@ -86,7 +88,7 @@ Test recover failed lamda functions
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qKbV3lQd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ooly5198oq7rxhce94e7.png" alt="" width="280">
+      <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fooly5198oq7rxhce94e7.png" alt="" width="280">
     </td>
     <th>
       <a href="https://dev.to/pacholoamit/one-of-the-coolest-features-of-go-embed-reactjs-into-a-go-binary-41e9">One of the coolest features of Go. Embed ReactJS into a binary with Go</a>
