@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `5162` commits and made `148` PRs.
+:people_hugging: I contributed to `46` repositories , made `5162` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,20 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [guiqui/k8Studio](https://github.com/guiqui/k8Studio)
-* ➡️ Pushed 4 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#2d18634](https://github.com/MediaJel/serverless-functions/commit/2d18634) feat(serverless.yml): Add ClickhouseDLQ and configure message retention period
-  * [#3b50ea5](https://github.com/MediaJel/serverless-functions/commit/3b50ea5) Merge branch &#39;staging&#39;
-  * [#6500565](https://github.com/MediaJel/serverless-functions/commit/6500565) Merge branch &#39;staging&#39;
-  * [#c57db2b](https://github.com/MediaJel/serverless-functions/commit/c57db2b) Merge pull request #10 from MediaJel/staging
-
-Deployment
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#2d18634](https://github.com/MediaJel/serverless-functions/commit/2d18634) feat(serverless.yml): Add ClickhouseDLQ and configure message retention period
-* ➡️ Pushed 3 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#3b50ea5](https://github.com/MediaJel/serverless-functions/commit/3b50ea5) Merge branch &#39;staging&#39;
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#491c636](https://github.com/MediaJel/serverless-functions/commit/491c636) chore(serverless.yml): rename s3-recover-failed-lambda-functions to s3-lambda-recovery
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-nexxen-client`
+  * [#d48f809](https://github.com/MediaJel/mediajel-gql-service/commit/d48f809) fix: Update error logging in nexxen-example job
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-nexxen-client`
+  * [#423c75d](https://github.com/MediaJel/mediajel-gql-service/commit/423c75d) refactor(client): improve createNexxenAuthClient function
+* 🔃 Opened [#4448 Feat: Add Nexxen auth client](https://github.com/MediaJel/mediajel-gql-service/pull/4448) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 5 files changed `++113 --1`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-nexxen-client`
+  * [#e2e1bb8](https://github.com/MediaJel/mediajel-gql-service/commit/e2e1bb8) fix(nexxen-example): Fix error handling in runExample function
+* 🔍 Reviewed [#4445 Setup Redis Maintenance clear keys](https://github.com/MediaJel/mediajel-gql-service/pull/4445) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
