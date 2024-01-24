@@ -30,13 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#eb92810](https://github.com/MediaJel/serverless-functions/commit/eb92810) chore(serverless.yml): remove unused code
 * ⏺️ Created new repository  [pacholoamit/test](https://github.com/pacholoamit/test)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-nexxen-client`
   * [#bc8853a](https://github.com/MediaJel/mediajel-gql-service/commit/bc8853a) style: change debug value to false
 * 💬 Commented on [#4448 Feat: Add Nexxen auth client](https://github.com/MediaJel/mediajel-gql-service/issues/4448) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-nexxen-client`
-  * [#c87d5f3](https://github.com/MediaJel/mediajel-gql-service/commit/c87d5f3) style: Set debug flag to false in NexxenAuthClient creation
-* 💬 Commented on [#4448 Feat: Add Nexxen auth client](https://github.com/MediaJel/mediajel-gql-service/pull/4448) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
