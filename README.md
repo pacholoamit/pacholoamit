@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `5162` commits and made `149` PRs.
+:people_hugging: I contributed to `48` repositories , made `5585` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new repository  [pacholoamit/test](https://github.com/pacholoamit/test)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-nexxen-client`
-  * [#d48f809](https://github.com/MediaJel/mediajel-gql-service/commit/d48f809) fix: Update error logging in nexxen-example job
+  * [#bc8853a](https://github.com/MediaJel/mediajel-gql-service/commit/bc8853a) style: change debug value to false
+* 💬 Commented on [#4448 Feat: Add Nexxen auth client](https://github.com/MediaJel/mediajel-gql-service/issues/4448) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-nexxen-client`
-  * [#423c75d](https://github.com/MediaJel/mediajel-gql-service/commit/423c75d) refactor(client): improve createNexxenAuthClient function
-* 🔃 Opened [#4448 Feat: Add Nexxen auth client](https://github.com/MediaJel/mediajel-gql-service/pull/4448) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 5 files changed `++113 --1`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-nexxen-client`
-  * [#e2e1bb8](https://github.com/MediaJel/mediajel-gql-service/commit/e2e1bb8) fix(nexxen-example): Fix error handling in runExample function
-* 🔍 Reviewed [#4445 Setup Redis Maintenance clear keys](https://github.com/MediaJel/mediajel-gql-service/pull/4445) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * [#c87d5f3](https://github.com/MediaJel/mediajel-gql-service/commit/c87d5f3) style: Set debug flag to false in NexxenAuthClient creation
+* 💬 Commented on [#4448 Feat: Add Nexxen auth client](https://github.com/MediaJel/mediajel-gql-service/pull/4448) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
