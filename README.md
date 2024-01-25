@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `5585` commits and made `149` PRs.
+:people_hugging: I contributed to `48` repositories , made `5594` commits and made `150` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#eb92810](https://github.com/MediaJel/serverless-functions/commit/eb92810) chore(serverless.yml): remove unused code
-* ⏺️ Created new repository  [pacholoamit/test](https://github.com/pacholoamit/test)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-nexxen-client`
-  * [#bc8853a](https://github.com/MediaJel/mediajel-gql-service/commit/bc8853a) style: change debug value to false
-* 💬 Commented on [#4448 Feat: Add Nexxen auth client](https://github.com/MediaJel/mediajel-gql-service/issues/4448) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#652 Implement Fast table masterialized views in clickhouse](https://github.com/MediaJel/mediajel/issues/652) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 2 commits in [pacholoamit/microservices-amplication](https://github.com/pacholoamit/microservices-amplication) on branch `main`
+  * [#04849ae](https://github.com/pacholoamit/microservices-amplication/commit/04849ae) Merge pull request #2 from pacholoamit/amplication-build-clrs9idpt0005fde3b9iw3i6a
+
+Amplication build b9iw3i6a
+  * [#eaba983](https://github.com/pacholoamit/microservices-amplication/commit/eaba983) Amplication build # clrs9idpt0005fde3b9iw3i6a
+
+Build URL: [http://localhost:3001/clrqthfgw0001fdxtal2m0hcp/clrqthfh70004fdxt2lw7u3v0/clrqtjo64000bfdxtanj8li20/builds/clrs9idpt0005fde3b9iw3i6a](http://localhost:3001/clrqthfgw0001fdxtal2m0hcp/clrqthfh70004fdxt2lw7u3v0/clrqtjo64000bfdxtanj8li20/builds/clrs9idpt0005fde3b9iw3i6a)
+* 🔃 Merged [#2 Amplication build b9iw3i6a](https://github.com/pacholoamit/microservices-amplication/pull/2) in [pacholoamit/microservices-amplication](https://github.com/pacholoamit/microservices-amplication)
+  * 11 files changed `++418 --0`
+* ➡️ Pushed 2 commits in [pacholoamit/microservices-amplication](https://github.com/pacholoamit/microservices-amplication) on branch `main`
+  * [#9c7f4ac](https://github.com/pacholoamit/microservices-amplication/commit/9c7f4ac) Merge pull request #1 from pacholoamit/amplication-build-clrqvameb0001fdzejqrt8sc5
+
+Amplication build jqrt8sc5
+  * [#4659c62](https://github.com/pacholoamit/microservices-amplication/commit/4659c62) Amplication build # clrqvameb0001fdzejqrt8sc5
+
+Build URL: [http://localhost:3001/clrqthfgw0001fdxtal2m0hcp/clrqthfh70004fdxt2lw7u3v0/clrqtjo64000bfdxtanj8li20/builds/clrqvameb0001fdzejqrt8sc5](http://localhost:3001/clrqthfgw0001fdxtal2m0hcp/clrqthfh70004fdxt2lw7u3v0/clrqtjo64000bfdxtanj8li20/builds/clrqvameb0001fdzejqrt8sc5)
+* 🔃 Merged [#1 Amplication build jqrt8sc5](https://github.com/pacholoamit/microservices-amplication/pull/1) in [pacholoamit/microservices-amplication](https://github.com/pacholoamit/microservices-amplication)
+  * 117 files changed `++4793 --0`
 
 
 
