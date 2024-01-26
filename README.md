@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#655 Implement GetEvents workflow in Clickhouse](https://github.com/MediaJel/mediajel/issues/655) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#652 Implement Fast table masterialized views in clickhouse](https://github.com/MediaJel/mediajel/issues/652) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 2 commits in [pacholoamit/microservices-amplication](https://github.com/pacholoamit/microservices-amplication) on branch `main`
   * [#04849ae](https://github.com/pacholoamit/microservices-amplication/commit/04849ae) Merge pull request #2 from pacholoamit/amplication-build-clrs9idpt0005fde3b9iw3i6a
@@ -47,8 +48,6 @@ Amplication build jqrt8sc5
   * [#4659c62](https://github.com/pacholoamit/microservices-amplication/commit/4659c62) Amplication build # clrqvameb0001fdzejqrt8sc5
 
 Build URL: [http://localhost:3001/clrqthfgw0001fdxtal2m0hcp/clrqthfh70004fdxt2lw7u3v0/clrqtjo64000bfdxtanj8li20/builds/clrqvameb0001fdzejqrt8sc5](http://localhost:3001/clrqthfgw0001fdxtal2m0hcp/clrqthfh70004fdxt2lw7u3v0/clrqtjo64000bfdxtanj8li20/builds/clrqvameb0001fdzejqrt8sc5)
-* 🔃 Merged [#1 Amplication build jqrt8sc5](https://github.com/pacholoamit/microservices-amplication/pull/1) in [pacholoamit/microservices-amplication](https://github.com/pacholoamit/microservices-amplication)
-  * 117 files changed `++4793 --0`
 
 
 
