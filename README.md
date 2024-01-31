@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `5592` commits and made `151` PRs.
+:people_hugging: I contributed to `49` repositories , made `5594` commits and made `151` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,35 +30,26 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication](https://github.com/MediaJel/amplication) on branch `master`
-  * [#af4e90a](https://github.com/MediaJel/amplication/commit/af4e90a) Update README.md
-* ➡️ Pushed 1 commit in [MediaJel/amplication](https://github.com/MediaJel/amplication) on branch `master`
-  * [#f47a60c](https://github.com/MediaJel/amplication/commit/f47a60c) modify Dockerfile
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#44a8c41](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44a8c41) Merge pull request #2 from MediaJel/amplication-build-cls0fabb60007yd41a9vidy5m
+
+Amplication build a9vidy5m
+  * [#1928325](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1928325) Amplication build # cls0fabb60007yd41a9vidy5m
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls0fabb60007yd41a9vidy5m](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls0fabb60007yd41a9vidy5m)
+* 🔃 Merged [#2 Amplication build a9vidy5m](https://github.com/MediaJel/amplication-nestjs-microservices/pull/2) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 116 files changed `++4778 --0`
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#6807d0a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6807d0a) Merge pull request #1 from MediaJel/amplication-build-cls0fabb20001yd41x7f0pid3
+
+Amplication build x7f0pid3
+  * [#49db5e3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/49db5e3) Amplication build # cls0fabb20001yd41x7f0pid3
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bgmtm001myd03ddvp3fqw/builds/cls0fabb20001yd41x7f0pid3](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bgmtm001myd03ddvp3fqw/builds/cls0fabb20001yd41x7f0pid3)
+* 🔃 Merged [#1 Amplication build x7f0pid3](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 61 files changed `++2400 --0`
 * ➡️ Pushed 2 commits in [MediaJel/amplication](https://github.com/MediaJel/amplication) on branch `master`
-  * [#5dbb21a](https://github.com/MediaJel/amplication/commit/5dbb21a) Merge branch &#39;master-backup&#39;
-* ➡️ Pushed 1 commit in [MediaJel/amplication](https://github.com/MediaJel/amplication) on branch `master-backup`
-  * [#363e6bb](https://github.com/MediaJel/amplication/commit/363e6bb) changes to the readme
-* ➡️ Pushed 327 commits in [MediaJel/amplication](https://github.com/MediaJel/amplication) on branch `master`
-  * [#6a4c328](https://github.com/MediaJel/amplication/commit/6a4c328) fix xss issue
-  * [#85c79ee](https://github.com/MediaJel/amplication/commit/85c79ee) AuthWithWorkEmail props
-  * [#0cf2839](https://github.com/MediaJel/amplication/commit/0cf2839) add lint for naming-convention
-  * [#d308a2e](https://github.com/MediaJel/amplication/commit/d308a2e) feat(client): add filtered resource logic
-  * [#65cf5d8](https://github.com/MediaJel/amplication/commit/65cf5d8) feat(client): add useArchitectureConsole.tsx hook/ add filtered resources and search resources
-  * [#fe3511f](https://github.com/MediaJel/amplication/commit/fe3511f) fix business email signup
-  * [#f184a56](https://github.com/MediaJel/amplication/commit/f184a56) feat(client/server): add copy Entities for several services, create mutation to create copied entities
-  * [#a1110d7](https://github.com/MediaJel/amplication/commit/a1110d7) fix(client): move models between services
-  * [#ba73f76](https://github.com/MediaJel/amplication/commit/ba73f76) Merge branch &#39;next&#39; into feat/project-architecture
-  * [#1c62c67](https://github.com/MediaJel/amplication/commit/1c62c67) feat(client):add new type for model changes
-  * [#55e737b](https://github.com/MediaJel/amplication/commit/55e737b) feat(client):model organizer toolbar
-  * [#7247297](https://github.com/MediaJel/amplication/commit/7247297) fix(dsg) remove all ts-ignore and lint ignore comments from template files and in static folders
-  * [#b4c5d74](https://github.com/MediaJel/amplication/commit/b4c5d74) feat(client):dashed relation
-  * [#08d35f7](https://github.com/MediaJel/amplication/commit/08d35f7) client(feat):use const for NodeType
-  * [#d6d82d4](https://github.com/MediaJel/amplication/commit/d6d82d4) client(feat):separate components
-  * [#7928b30](https://github.com/MediaJel/amplication/commit/7928b30) client(feat):arrange nodes
-  * [#958dc39](https://github.com/MediaJel/amplication/commit/958dc39) client(feat):simple model
-  * [#1989e30](https://github.com/MediaJel/amplication/commit/1989e30) client(feat):basic drag
-  * [#517efc6](https://github.com/MediaJel/amplication/commit/517efc6) client(feat):update controls
-  * [#bcea196](https://github.com/MediaJel/amplication/commit/bcea196) client(feat):create base components for architecture tab
+  * [#103f8ff](https://github.com/MediaJel/amplication/commit/103f8ff) Merge branch &#39;master&#39; of https://github.com/MediaJel/amplication
 
 
 
