@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `5594` commits and made `152` PRs.
+:people_hugging: I contributed to `47` repositories , made `5594` commits and made `152` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#4476 [PASS QA 1] ICF Nexxen Scrape DSP](https://github.com/MediaJel/mediajel-gql-service/pull/4476) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4476 [PASS QA 1] ICF Nexxen Scrape DSP](https://github.com/MediaJel/mediajel-gql-service/pull/4476) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `hotfix/skip-get-callbacks`
   * [#a3315c5](https://github.com/MediaJel/mediajel-gql-service/commit/a3315c5) fix(launch-observations): fix async function signature
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `hotfix/skip-get-callbacks`
   * [#beced1d](https://github.com/MediaJel/mediajel-gql-service/commit/beced1d) style: remove unnecessary comment
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `hotfix/skip-get-callbacks`
   * [#8118f19](https://github.com/MediaJel/mediajel-gql-service/commit/8118f19) fix: Fix paths for local-bull and local-tapad-loader scripts
-* 🔃 Opened [#4498 hotfix/skip get callbacks](https://github.com/MediaJel/mediajel-gql-service/pull/4498) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 32 files changed `++1354 --26`
-* ⏺️ Created new branch hotfix/skip-get-callbacks in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
