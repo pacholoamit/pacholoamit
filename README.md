@@ -30,14 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch feat/add-statara-loading in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+* 🔍 Reviewed [#5916 [HOTFIX] Apply White label for Tag Generator](https://github.com/MediaJel/mediajel-dashboard/pull/5916) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [MediaJel/amplication](https://github.com/MediaJel/amplication) on branch `master`
+  * [#b162541](https://github.com/MediaJel/amplication/commit/b162541) changes
+* ➡️ Pushed 2 commits in [MediaJel/amplication](https://github.com/MediaJel/amplication) on branch `master`
+  * [#ebc2fc3](https://github.com/MediaJel/amplication/commit/ebc2fc3) remove caching
+  * [#69e65fc](https://github.com/MediaJel/amplication/commit/69e65fc) modify docker-entrypoint
 * 🔍 Reviewed [#4476 [PASS QA 1] ICF Nexxen Scrape DSP](https://github.com/MediaJel/mediajel-gql-service/pull/4476) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4476 [PASS QA 1] ICF Nexxen Scrape DSP](https://github.com/MediaJel/mediajel-gql-service/pull/4476) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `hotfix/skip-get-callbacks`
-  * [#a3315c5](https://github.com/MediaJel/mediajel-gql-service/commit/a3315c5) fix(launch-observations): fix async function signature
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `hotfix/skip-get-callbacks`
-  * [#beced1d](https://github.com/MediaJel/mediajel-gql-service/commit/beced1d) style: remove unnecessary comment
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `hotfix/skip-get-callbacks`
-  * [#8118f19](https://github.com/MediaJel/mediajel-gql-service/commit/8118f19) fix: Fix paths for local-bull and local-tapad-loader scripts
 
 
 
