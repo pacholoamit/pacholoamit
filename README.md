@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `47` repositories , made `5594` commits and made `146` PRs.
+:people_hugging: I contributed to `47` repositories , made `5615` commits and made `148` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch feat/add-statara-loading in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-* 🔍 Reviewed [#5916 [HOTFIX] Apply White label for Tag Generator](https://github.com/MediaJel/mediajel-dashboard/pull/5916) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [MediaJel/amplication](https://github.com/MediaJel/amplication) on branch `master`
-  * [#b162541](https://github.com/MediaJel/amplication/commit/b162541) changes
-* ➡️ Pushed 2 commits in [MediaJel/amplication](https://github.com/MediaJel/amplication) on branch `master`
-  * [#ebc2fc3](https://github.com/MediaJel/amplication/commit/ebc2fc3) remove caching
-  * [#69e65fc](https://github.com/MediaJel/amplication/commit/69e65fc) modify docker-entrypoint
-* 🔍 Reviewed [#4476 [PASS QA 1] ICF Nexxen Scrape DSP](https://github.com/MediaJel/mediajel-gql-service/pull/4476) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#e972c4f](https://github.com/MediaJel/serverless-functions/commit/e972c4f) chore(serverless.yml): update schedule rate for lambda function
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#e972c4f](https://github.com/MediaJel/serverless-functions/commit/e972c4f) chore(serverless.yml): update schedule rate for lambda function
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#59638b2](https://github.com/MediaJel/serverless-functions/commit/59638b2) feat(serverless.yml): add timeout for statara-clickhouse-loader
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#59638b2](https://github.com/MediaJel/serverless-functions/commit/59638b2) feat(serverless.yml): add timeout for statara-clickhouse-loader
+* ➡️ Pushed 4 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#ae20b99](https://github.com/MediaJel/serverless-functions/commit/ae20b99) feat(loader): Insert all files from statara directory into clickhouse
+  * [#c7a9b91](https://github.com/MediaJel/serverless-functions/commit/c7a9b91) chore(loader): add console log statement
+  * [#9a3ede7](https://github.com/MediaJel/serverless-functions/commit/9a3ede7) refactor(loader): remove unused imports and variables
+  * [#f8d28b7](https://github.com/MediaJel/serverless-functions/commit/f8d28b7) refactor: update batchSize to 1
 
 
 
