@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5615` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5631` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#376 Research into adding our tag into Google Ads](https://github.com/MediaJel/mediajel-tracker/issues/376) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#644 Generate 2 microservices with amplication / nestjs](https://github.com/MediaJel/mediajel/issues/644) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#5581 Year End Cleanup - Jobqueue to Jobs migraiton](https://github.com/MediaJel/mediajel-dashboard/issues/5581) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔃 Closed [#24 Amplication build ei1f31st](https://github.com/MediaJel/amplication-nestjs-microservices/pull/24) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 0 files changed `++0 --0`
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#e32b5b1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e32b5b1) Merge pull request #25 from MediaJel/amplication-build-clsd5kw1600wzyduf4fyiuoq6
+
+Amplication build 4fyiuoq6
+  * [#cd822b2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cd822b2) Amplication build # clsd5kw1600wzyduf4fyiuoq6
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/clsd5kw1600wzyduf4fyiuoq6](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/clsd5kw1600wzyduf4fyiuoq6)
+* 🔃 Merged [#25 Amplication build 4fyiuoq6](https://github.com/MediaJel/amplication-nestjs-microservices/pull/25) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 28 files changed `++1281 --2`
+* 🔃 Closed [#22 Amplication build ukqbiypl](https://github.com/MediaJel/amplication-nestjs-microservices/pull/22) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 0 files changed `++0 --0`
+* 🔃 Closed [#23 Amplication build 87xofbgd](https://github.com/MediaJel/amplication-nestjs-microservices/pull/23) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 0 files changed `++0 --0`
 
 
 
