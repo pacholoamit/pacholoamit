@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `5615` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5615` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#4514 Hotfix Optouts ParquetConfig](https://github.com/MediaJel/mediajel-gql-service/pull/4514) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 1 file changed `++6 --1`
-* ⏺️ Created new branch hotfix/fix-optouts in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `fbl3-bug/fix-merge-conflict`
-  * [#ffeae7a](https://github.com/MediaJel/mediajel-gql-service/commit/ffeae7a) feat(jobs): add WalkinReport to campaignOrder
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#e972c4f](https://github.com/MediaJel/serverless-functions/commit/e972c4f) chore(serverless.yml): update schedule rate for lambda function
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#e972c4f](https://github.com/MediaJel/serverless-functions/commit/e972c4f) chore(serverless.yml): update schedule rate for lambda function
+* 💬 Commented on [#635 Onboard new DSPs](https://github.com/MediaJel/mediajel/issues/635) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#376 Research into adding our tag into Google Ads](https://github.com/MediaJel/mediajel-tracker/issues/376) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#644 Generate 2 microservices with amplication / nestjs](https://github.com/MediaJel/mediajel/issues/644) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#5581 Year End Cleanup - Jobqueue to Jobs migraiton](https://github.com/MediaJel/mediajel-dashboard/issues/5581) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#344 investigate shopify pixels new implementation](https://github.com/MediaJel/mediajel-tracker/issues/344) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
