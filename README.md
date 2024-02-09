@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5631` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5634` commits and made `149` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,21 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#24 Amplication build ei1f31st](https://github.com/MediaJel/amplication-nestjs-microservices/pull/24) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 0 files changed `++0 --0`
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#e32b5b1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e32b5b1) Merge pull request #25 from MediaJel/amplication-build-clsd5kw1600wzyduf4fyiuoq6
-
-Amplication build 4fyiuoq6
-  * [#cd822b2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cd822b2) Amplication build # clsd5kw1600wzyduf4fyiuoq6
-
-Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/clsd5kw1600wzyduf4fyiuoq6](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/clsd5kw1600wzyduf4fyiuoq6)
-* 🔃 Merged [#25 Amplication build 4fyiuoq6](https://github.com/MediaJel/amplication-nestjs-microservices/pull/25) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 28 files changed `++1281 --2`
-* 🔃 Closed [#22 Amplication build ukqbiypl](https://github.com/MediaJel/amplication-nestjs-microservices/pull/22) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 0 files changed `++0 --0`
-* 🔃 Closed [#23 Amplication build 87xofbgd](https://github.com/MediaJel/amplication-nestjs-microservices/pull/23) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 0 files changed `++0 --0`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
+  * [#31da142](https://github.com/MediaJel/amplication-nestjs-microservices/commit/31da142) feat(audiences): add endpoint to list audiences
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
+  * [#00d5b5a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/00d5b5a) feat: Add pino-pretty transport to logger configuration
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
+  * [#e7e94a0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e7e94a0) feat(audiences): add audience controller and service
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
+  * [#5d41e20](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5d41e20) chore(user): remove unnecessary imports and overrides
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
+  * [#26696ed](https://github.com/MediaJel/amplication-nestjs-microservices/commit/26696ed) test: remove jwt.strategy.spec.ts test case
 
 
 
