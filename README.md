@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `5634` commits and made `149` PRs.
+:people_hugging: I contributed to `45` repositories , made `5664` commits and made `150` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,58 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
-  * [#31da142](https://github.com/MediaJel/amplication-nestjs-microservices/commit/31da142) feat(audiences): add endpoint to list audiences
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
-  * [#00d5b5a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/00d5b5a) feat: Add pino-pretty transport to logger configuration
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
-  * [#e7e94a0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e7e94a0) feat(audiences): add audience controller and service
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
+* ➡️ Pushed 42 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
   * [#5d41e20](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5d41e20) chore(user): remove unnecessary imports and overrides
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
   * [#26696ed](https://github.com/MediaJel/amplication-nestjs-microservices/commit/26696ed) test: remove jwt.strategy.spec.ts test case
+  * [#127023c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/127023c) feat: Add initial version migration and migration lock files
+  * [#4c243b9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4c243b9) Merge branch &#39;master&#39; into feat/implement-statara-api-endpoint
+  * [#f660cc1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f660cc1) Merge branch &#39;master&#39; into feat/implement-statara-api-endpoint
+  * [#408cb83](https://github.com/MediaJel/amplication-nestjs-microservices/commit/408cb83) Update Dockerfile
+  * [#8d5c7cf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8d5c7cf) Update Internal Service
+  * [#fcc73b2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fcc73b2) Internal service updates
+  * [#7bc67d8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7bc67d8) feat(audience): add AudienceModule and AudienceService
+  * [#2a8e1b9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2a8e1b9) Update Dockerfile
+  * [#1a05b71](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1a05b71) Fix Build of Dockerfile
+  * [#b3ef064](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b3ef064) [Fix prisma schema path ]
+  * [#506bdd1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/506bdd1) [UPDATES] CI workspaces
+  * [#c7efa35](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c7efa35) [UPDATE] Move internal service into root directory
+  * [#d7c80fc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d7c80fc) [UPATES] Change into root dir
+  * [#93fe8ca](https://github.com/MediaJel/amplication-nestjs-microservices/commit/93fe8ca) Merge pull request #21 from MediaJel/eb/amplication-deployment
+
+[UPDATES] Add deployment for amplication internal service in K8&#39;s
+  * [#6bc0071](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6bc0071) [UPDATES] Add deployment for amplication internal service in K8&#39;s
+  * [#b5b502d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b5b502d) refactor(clickhouse): rename PrismaService to ClickhouseService
+  * [#8326828](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8326828) update deps
+  * [#45f2608](https://github.com/MediaJel/amplication-nestjs-microservices/commit/45f2608) add yarn lock
+* 🔃 Merged [#30 staging](https://github.com/MediaJel/amplication-nestjs-microservices/pull/30) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 39 files changed `++7754 --256`
+* 🔃 Opened [#30 staging](https://github.com/MediaJel/amplication-nestjs-microservices/pull/30) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 39 files changed `++7754 --256`
+* ➡️ Pushed 23 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-statara-api-endpoint`
+  * [#8bd6cea](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8bd6cea) style: Change port name to &#34;http&#34;
+  * [#3acbb55](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3acbb55) style: fix imagePullPolicy value
+  * [#2f57781](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2f57781) Merge branch &#39;feat/implement-statara-api-endpoint&#39; into staging
+  * [#f6a4cfb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f6a4cfb) Merge branch &#39;feat/implement-statara-api-endpoint&#39; into staging
+  * [#a55e3db](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a55e3db) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
+  * [#a70e83d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a70e83d) feat(audience): add public sources to audience service
+  * [#1e46a08](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1e46a08) Changes
+  * [#c539dc9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c539dc9) Merge branch &#39;feat/implement-statara-api-endpoint&#39; into staging
+  * [#17ad017](https://github.com/MediaJel/amplication-nestjs-microservices/commit/17ad017) Remove Dockerfile
+  * [#408cb83](https://github.com/MediaJel/amplication-nestjs-microservices/commit/408cb83) Update Dockerfile
+  * [#8d5c7cf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8d5c7cf) Update Internal Service
+  * [#fcc73b2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fcc73b2) Internal service updates
+  * [#2a8e1b9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2a8e1b9) Update Dockerfile
+  * [#1a05b71](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1a05b71) Fix Build of Dockerfile
+  * [#b3ef064](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b3ef064) [Fix prisma schema path ]
+  * [#506bdd1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/506bdd1) [UPDATES] CI workspaces
+  * [#c7efa35](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c7efa35) [UPDATE] Move internal service into root directory
+  * [#d7c80fc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d7c80fc) [UPATES] Change into root dir
+  * [#93fe8ca](https://github.com/MediaJel/amplication-nestjs-microservices/commit/93fe8ca) Merge pull request #21 from MediaJel/eb/amplication-deployment
+
+[UPDATES] Add deployment for amplication internal service in K8&#39;s
+  * [#6bc0071](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6bc0071) [UPDATES] Add deployment for amplication internal service in K8&#39;s
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#95ac0f8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/95ac0f8) feat: add audience query
 
 
 
