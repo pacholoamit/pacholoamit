@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5673` commits and made `137` PRs.
+:people_hugging: I contributed to `44` repositories , made `5686` commits and made `137` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#4dfedfd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4dfedfd) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#de83fe5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/de83fe5) chore: update aws-ecr orb version
+  * [#a5567d5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a5567d5) feat: add insights method to StataraAudienceService
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#0beb079](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0beb079) chore(ci): Update CircleCI configuration
+  * [#280b8c8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/280b8c8) refactor(audiences): Rename ListAudiencesDto to AudienceInsightParams
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#c522276](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c522276) build: Update aws-ecr orb version
+  * [#5fbacf6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5fbacf6) feat: Add AudienceInsight DTO
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#143925e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/143925e) chore: Update CircleCI configuration and Dockerfile
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#18710b5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/18710b5) chore(config): update Dockerfile path in CircleCI config
+  * [#84e9faa](https://github.com/MediaJel/amplication-nestjs-microservices/commit/84e9faa) feat(audience): add subCategories to Audience type
 
 
 
