@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5696` commits and made `137` PRs.
+:people_hugging: I contributed to `44` repositories , made `5718` commits and made `142` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#8e99980](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8e99980) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
-* 🌟 Starred [ArianaProjects/prisma-nestjs-crud-generator](https://github.com/ArianaProjects/prisma-nestjs-crud-generator)
-* 🔃 Closed [#40 Amplication build ofohgc6i](https://github.com/MediaJel/amplication-nestjs-microservices/pull/40) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Closed [#43 Amplication build fyfzqe3s](https://github.com/MediaJel/amplication-nestjs-microservices/pull/43) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 11 files changed `++133 --50`
-* #️⃣ Opened [#378 Research into &#34;ON CLUSTER&#34; in clickhouse](https://github.com/MediaJel/mediajel-tracker/issues/378) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#638 Clickhouse Migration](https://github.com/MediaJel/mediajel/issues/638) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 🔃 Closed [#42 Amplication build 0979n2b7](https://github.com/MediaJel/amplication-nestjs-microservices/pull/42) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 11 files changed `++133 --50`
+* 🔃 Closed [#41 Amplication build z8aoomka](https://github.com/MediaJel/amplication-nestjs-microservices/pull/41) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 11 files changed `++133 --50`
+* 🔃 Opened [#49 feat/implement auth](https://github.com/MediaJel/amplication-nestjs-microservices/pull/49) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 8 files changed `++100 --152`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-auth`
+  * [#60bebb2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/60bebb2) refactor(middleware): rename AuthMiddleware to RestAuthMiddleware
 
 
 
