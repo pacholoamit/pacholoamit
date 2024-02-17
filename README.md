@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5718` commits and made `142` PRs.
+:people_hugging: I contributed to `44` repositories , made `5732` commits and made `142` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,46 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#43 Amplication build fyfzqe3s](https://github.com/MediaJel/amplication-nestjs-microservices/pull/43) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 11 files changed `++133 --50`
-* 🔃 Closed [#42 Amplication build 0979n2b7](https://github.com/MediaJel/amplication-nestjs-microservices/pull/42) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 11 files changed `++133 --50`
-* 🔃 Closed [#41 Amplication build z8aoomka](https://github.com/MediaJel/amplication-nestjs-microservices/pull/41) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 11 files changed `++133 --50`
-* 🔃 Opened [#49 feat/implement auth](https://github.com/MediaJel/amplication-nestjs-microservices/pull/49) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 8 files changed `++100 --152`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-auth`
-  * [#60bebb2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/60bebb2) refactor(middleware): rename AuthMiddleware to RestAuthMiddleware
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#e29ad9c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e29ad9c) refactor: remove unused imports and modules
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#e29ad9c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e29ad9c) refactor: remove unused imports and modules
+* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#2ea98a6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2ea98a6) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#2ea98a6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2ea98a6) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
+* ➡️ Pushed 15 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#647539a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/647539a) fix: Update &#34;@nestjs/swagger&#34; version to &#34;7.3.0&#34;
+  * [#263401b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/263401b) feat(audience): add count endpoint to audience controller
+  * [#594f37b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/594f37b) temporarily remove rest auth
+  * [#775247b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/775247b) Merge branch &#39;staging&#39;
+  * [#8c09db4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8c09db4) Merge pull request #50 from MediaJel/staging
+
+Deploy
+  * [#fe2d666](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fe2d666) Merge branch &#39;staging&#39;
+  * [#28efc21](https://github.com/MediaJel/amplication-nestjs-microservices/commit/28efc21) Merge branch &#39;staging&#39;
+  * [#34e9672](https://github.com/MediaJel/amplication-nestjs-microservices/commit/34e9672) Merge branch &#39;staging&#39;
+  * [#e04144b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e04144b) Merge pull request #47 from MediaJel/staging
+
+feat(audiences): add return type to count method
+  * [#cad95a1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cad95a1) Merge pull request #45 from MediaJel/staging
+
+staging
+  * [#e1dbbed](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e1dbbed) Merge pull request #39 from MediaJel/staging
+
+REFACTOR: Rename production public URL into internal-service
+  * [#0d585e3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0d585e3) Merge pull request #38 from MediaJel/staging
+
+Update  Master from Staging
+  * [#2720f58](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2720f58) Merge pull request #31 from MediaJel/amplication-build-clsfimusj017iyduf220c24h2
+
+Amplication build 220c24h2
+  * [#6e8b261](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6e8b261) Amplication build # clsfimusj017iyduf220c24h2
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bgmtm001myd03ddvp3fqw/builds/clsfimusj017iyduf220c24h2](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bgmtm001myd03ddvp3fqw/builds/clsfimusj017iyduf220c24h2)
+  * [#515b8e9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/515b8e9) Merge pull request #30 from MediaJel/staging
+
+staging
 
 
 
