@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5733` commits and made `135` PRs.
+:people_hugging: I contributed to `44` repositories , made `5736` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#55 staging](https://github.com/MediaJel/amplication-nestjs-microservices/pull/55) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 44 files changed `++1590 --81`
+* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#ecf81b5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ecf81b5) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
 * ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#d71c022](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d71c022) Merge pull request #53 from MediaJel/amplication-build-clsuua9zo00f8ydli6dtm6e0v
 
@@ -46,9 +50,6 @@ LiquidM Logs setup for Clickhouse
   * [#9abff8e](https://github.com/MediaJel/serverless-functions/commit/9abff8e) Added cliclhouse liquidm logs loader function
   * [#2b4942f](https://github.com/MediaJel/serverless-functions/commit/2b4942f) Merge branch &#39;master&#39; into ez-liquidm-logs-clickhouse
   * [#3dbca57](https://github.com/MediaJel/serverless-functions/commit/3dbca57) Added liquidm log clickhouse copier and loader
-* 🔃 Merged [#21 LiquidM Logs setup for Clickhouse](https://github.com/MediaJel/serverless-functions/pull/21) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 4 files changed `++74 --3`
-* #️⃣ Opened [#52 Research into Clickhouse deduplication](https://github.com/MediaJel/amplication-nestjs-microservices/issues/52) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
