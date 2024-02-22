@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5736` commits and made `136` PRs.
+:people_hugging: I contributed to `44` repositories , made `5738` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,26 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#55 staging](https://github.com/MediaJel/amplication-nestjs-microservices/pull/55) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 44 files changed `++1590 --81`
-* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#ecf81b5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ecf81b5) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#d71c022](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d71c022) Merge pull request #53 from MediaJel/amplication-build-clsuua9zo00f8ydli6dtm6e0v
-
-Amplication build 6dtm6e0v
-  * [#9ac839b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9ac839b) Amplication build # clsuua9zo00f8ydli6dtm6e0v
-
-Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bgmtm001myd03ddvp3fqw/builds/clsuua9zo00f8ydli6dtm6e0v](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bgmtm001myd03ddvp3fqw/builds/clsuua9zo00f8ydli6dtm6e0v)
-* 🔃 Merged [#53 Amplication build 6dtm6e0v](https://github.com/MediaJel/amplication-nestjs-microservices/pull/53) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 36 files changed `++1525 --23`
-* ➡️ Pushed 4 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#86961db](https://github.com/MediaJel/serverless-functions/commit/86961db) Merge pull request #21 from MediaJel/ez-liquidm-logs-clickhouse
-
-LiquidM Logs setup for Clickhouse
-  * [#9abff8e](https://github.com/MediaJel/serverless-functions/commit/9abff8e) Added cliclhouse liquidm logs loader function
-  * [#2b4942f](https://github.com/MediaJel/serverless-functions/commit/2b4942f) Merge branch &#39;master&#39; into ez-liquidm-logs-clickhouse
-  * [#3dbca57](https://github.com/MediaJel/serverless-functions/commit/3dbca57) Added liquidm log clickhouse copier and loader
+* #️⃣ Opened [#379 Implement log error handling in mediajel-tracker to catch code errors](https://github.com/MediaJel/mediajel-tracker/issues/379) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#652 Implement Fast table materialized views in clickhouse](https://github.com/MediaJel/mediajel/issues/652) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#652 Implement Fast table materialized views in clickhouse](https://github.com/MediaJel/mediajel/issues/652) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#18 Create Statara audience API endpoint w/ mock data](https://github.com/MediaJel/amplication-nestjs-microservices/issues/18) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#52 Research into Clickhouse deduplication](https://github.com/MediaJel/amplication-nestjs-microservices/issues/52) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
