@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `5738` commits and made `136` PRs.
+:people_hugging: I contributed to `43` repositories , made `5752` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#379 Implement log error handling in mediajel-tracker to catch code errors](https://github.com/MediaJel/mediajel-tracker/issues/379) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#652 Implement Fast table materialized views in clickhouse](https://github.com/MediaJel/mediajel/issues/652) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#652 Implement Fast table materialized views in clickhouse](https://github.com/MediaJel/mediajel/issues/652) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#18 Create Statara audience API endpoint w/ mock data](https://github.com/MediaJel/amplication-nestjs-microservices/issues/18) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#52 Research into Clickhouse deduplication](https://github.com/MediaJel/amplication-nestjs-microservices/issues/52) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#58 Load all Snowplow data from S3 bucket into Clickhouse via S3Queue](https://github.com/MediaJel/amplication-nestjs-microservices/issues/58) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#e4346c9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e4346c9) chore: Update README with prisma client generation step
+  * [#8abba17](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8abba17) docs: Update README with prisma client generation step
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#ca31674](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ca31674) feat: Add multiple env files to ConfigModule
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#dbc221c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dbc221c) style: Update formatting for Prisma client configuration
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#a945962](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a945962) feat: Add pino-http package to dependencies
 
 
 
