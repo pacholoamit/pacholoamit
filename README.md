@@ -30,14 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
+  * [#bf90bf2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bf90bf2) feat: Add stataraAudienceQueryBuilder function
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
+  * [#44fb02c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44fb02c) refactor: Improve query building method in StataraAudienceService
+* ⏺️ Created new branch feat/add-save-endpoint in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔃 Opened [#4588 feat: Add new OAuth2 context for campaigns_cmpgntrckr](https://github.com/MediaJel/mediajel-gql-service/pull/4588) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
   * 3 files changed `++33 --9`
 * ⏺️ Created new branch feat/onboard-new-paid-search-email in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#62 Create statara /activate endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/62) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#61 Create statara /save endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/61) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#150a277](https://github.com/MediaJel/serverless-functions/commit/150a277) chore: Comment out s3-events-clickhouse-loader code block
-  * [#1d36d59](https://github.com/MediaJel/serverless-functions/commit/1d36d59) fix: Enable LiquidMPipeline in production
 
 
 
