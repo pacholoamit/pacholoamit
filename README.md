@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `5760` commits and made `130` PRs.
+:people_hugging: I contributed to `43` repositories , made `5766` commits and made `131` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 7 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#a0f0d2c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a0f0d2c) Merge branch &#39;feat/add-statara-logic&#39; into staging
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-statara-logic`
-  * [#09bacbb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/09bacbb) style: fix formatting in log message
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-statara-logic`
-  * [#7a09d5d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7a09d5d) refactor: Update package scripts and config module importing
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-statara-logic`
-  * [#ab155f8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ab155f8) docs: Add GraphQL schema for external service
-  * [#80fd6c6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/80fd6c6) docs: Update README with new server start options
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-statara-logic`
-  * [#9b21ce7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9b21ce7) style: update start scripts to include NODE_ENV=local
+* 🔃 Opened [#4588 feat: Add new OAuth2 context for campaigns_cmpgntrckr](https://github.com/MediaJel/mediajel-gql-service/pull/4588) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 3 files changed `++33 --9`
+* ⏺️ Created new branch feat/onboard-new-paid-search-email in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#62 Create statara /activate endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/62) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#61 Create statara /save endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/61) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#150a277](https://github.com/MediaJel/serverless-functions/commit/150a277) chore: Comment out s3-events-clickhouse-loader code block
+  * [#1d36d59](https://github.com/MediaJel/serverless-functions/commit/1d36d59) fix: Enable LiquidMPipeline in production
 
 
 
