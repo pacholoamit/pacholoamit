@@ -30,14 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `hotfix/display-campaigns`
+  * [#d4d2f72](https://github.com/MediaJel/mediajel-gql-service/commit/d4d2f72) fix: Fix error handling in display campaign runner
+* ⏺️ Created new branch hotfix/display-campaigns in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
+  * [#643c653](https://github.com/MediaJel/amplication-nestjs-microservices/commit/643c653) style: Change join operator to &#39;AND&#39; in buildQueryWithoutMetadata
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
   * [#bf90bf2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bf90bf2) feat: Add stataraAudienceQueryBuilder function
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
   * [#44fb02c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44fb02c) refactor: Improve query building method in StataraAudienceService
-* ⏺️ Created new branch feat/add-save-endpoint in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Opened [#4588 feat: Add new OAuth2 context for campaigns_cmpgntrckr](https://github.com/MediaJel/mediajel-gql-service/pull/4588) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 3 files changed `++33 --9`
-* ⏺️ Created new branch feat/onboard-new-paid-search-email in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
