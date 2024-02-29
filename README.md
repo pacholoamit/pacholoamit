@@ -30,15 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `hotfix/display-campaigns`
-  * [#d4d2f72](https://github.com/MediaJel/mediajel-gql-service/commit/d4d2f72) fix: Fix error handling in display campaign runner
-* ⏺️ Created new branch hotfix/display-campaigns in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
-  * [#643c653](https://github.com/MediaJel/amplication-nestjs-microservices/commit/643c653) style: Change join operator to &#39;AND&#39; in buildQueryWithoutMetadata
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
-  * [#bf90bf2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bf90bf2) feat: Add stataraAudienceQueryBuilder function
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
-  * [#44fb02c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44fb02c) refactor: Improve query building method in StataraAudienceService
+* #️⃣ Closed [#58 Load all Snowplow data from S3 bucket into Clickhouse via S3Queue](https://github.com/MediaJel/amplication-nestjs-microservices/issues/58) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#12 Implement Liquid M pipeline to load Liquid M data to production clickhouse cluster](https://github.com/MediaJel/serverless-functions/issues/12) from [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+* 💬 Commented on [#4601 jobqueue to jobs fixing](https://github.com/MediaJel/mediajel-gql-service/issues/4601) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#52 Research into Clickhouse deduplication](https://github.com/MediaJel/amplication-nestjs-microservices/issues/52) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#48 Create REST API endpoint for DSP adapters](https://github.com/MediaJel/amplication-nestjs-microservices/issues/48) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
