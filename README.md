@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `5766` commits and made `131` PRs.
+:people_hugging: I contributed to `42` repositories , made `5773` commits and made `132` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#58 Load all Snowplow data from S3 bucket into Clickhouse via S3Queue](https://github.com/MediaJel/amplication-nestjs-microservices/issues/58) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#12 Implement Liquid M pipeline to load Liquid M data to production clickhouse cluster](https://github.com/MediaJel/serverless-functions/issues/12) from [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-* 💬 Commented on [#4601 jobqueue to jobs fixing](https://github.com/MediaJel/mediajel-gql-service/issues/4601) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#52 Research into Clickhouse deduplication](https://github.com/MediaJel/amplication-nestjs-microservices/issues/52) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#48 Create REST API endpoint for DSP adapters](https://github.com/MediaJel/amplication-nestjs-microservices/issues/48) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 6 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `master`
+  * [#23ec676](https://github.com/MediaJel/mediajel-gql-service/commit/23ec676) Merge branch &#39;master&#39; of github.com:MediaJel/mediajel-gql-service
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
+  * [#1f19aa6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1f19aa6) refactor: Update file paths for Statara audience module
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
+  * [#00f0edf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/00f0edf) feat: Add endpoint to save audience with error response
+* 🔃 Opened [#64 feat/add save endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/64) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 16 files changed `++312 --303`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
+  * [#0a01fb8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0a01fb8) test: Add unit tests for AudienceService count method
 
 
 
