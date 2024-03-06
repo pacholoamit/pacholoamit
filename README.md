@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `5806` commits and made `123` PRs.
+:people_hugging: I contributed to `41` repositories , made `5819` commits and made `125` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,35 +30,32 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
-  * [#b073bc5](https://github.com/MediaJel/serverless-functions/commit/b073bc5) fix: Update production flag to false in serverless.yml
-* ➡️ Pushed 31 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#4e53990](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4e53990) refactor: Update AWS S3 credentials in config and code
-  * [#357d7e2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/357d7e2) fix: Update Redis and Minio host to localhost
-  * [#28fcc49](https://github.com/MediaJel/amplication-nestjs-microservices/commit/28fcc49) fix: Update Redis and Minio host configurations
-  * [#4ff936d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4ff936d) feat: Add storage module and AWS storage strategy service
-  * [#d137b62](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d137b62) feat: Add save method in AudienceService
-  * [#1f19aa6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1f19aa6) refactor: Update file paths for Statara audience module
-  * [#00f0edf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/00f0edf) feat: Add endpoint to save audience with error response
-  * [#0a01fb8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0a01fb8) test: Add unit tests for AudienceService count method
-  * [#f97be2f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f97be2f) feat: Add ClickhouseAudienceResults interface
-  * [#46529b6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/46529b6) refactor: Simplify interfaces and improve type safety
-  * [#cda4988](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cda4988) feat: Add query method with logging and type safety
-  * [#30c5874](https://github.com/MediaJel/amplication-nestjs-microservices/commit/30c5874) refactor: Update audience count function to destructure params
-  * [#67c68ae](https://github.com/MediaJel/amplication-nestjs-microservices/commit/67c68ae) refactor: Simplify audience count query function
-  * [#0c19d5a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0c19d5a) refactor: Simplify SQL query building function
-  * [#32e655a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/32e655a) refactor: Update criteria transformation logic in DTO class
-  * [#643c653](https://github.com/MediaJel/amplication-nestjs-microservices/commit/643c653) style: Change join operator to &#39;AND&#39; in buildQueryWithoutMetadata
-  * [#bf90bf2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bf90bf2) feat: Add stataraAudienceQueryBuilder function
-  * [#44fb02c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44fb02c) refactor: Improve query building method in StataraAudienceService
-  * [#3ff48b9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3ff48b9) feat(audience): Add actual business logic of statara data
-  * [#25d37fc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/25d37fc) refactor: Remove unused AudienceInsight functionality
-* 🔃 Merged [#64 feat/add save endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/64) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 28 files changed `++1993 --406`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
-  * [#390be99](https://github.com/MediaJel/amplication-nestjs-microservices/commit/390be99) refactor: Remove audience controller and service test files
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-save-endpoint`
-  * [#02299c3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/02299c3) test: Improve unit tests for audience count functionality
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/statara-api-endpoints`
+  * [#69db481](https://github.com/MediaJel/amplication-nestjs-microservices/commit/69db481) refactor: Update minio command syntax in docker-compose file
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/statara-api-endpoints`
+  * [#84e6586](https://github.com/MediaJel/amplication-nestjs-microservices/commit/84e6586) feat: Add new environment variable for Minio bucket name
+* ➡️ Pushed 11 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#c9cabab](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c9cabab) Merge pull request #68 from MediaJel/feat/statara-api-endpoints
+
+feat/statara api endpoints
+  * [#b80c425](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b80c425) docs: Update README with endpoint access instructions
+  * [#8e9c66c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8e9c66c) chore: Comment out clickhouse service in docker-compose files
+  * [#a67c324](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a67c324) refactor: Update SQL query with limit 1 for optimization
+  * [#6e7df53](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6e7df53) feat: Add RolesModule to app module and audience controller
+  * [#42305f7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/42305f7) feat: Add UUID package for generating unique IDs
+  * [#7c87b07](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7c87b07) docs: Update Swagger API operation summaries
+  * [#62ce10a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/62ce10a) feat: Add AudienceActivate DTO and update AudienceController
+  * [#44105e3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44105e3) style: remove duplicate AWS credentials
+  * [#0ac24a7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0ac24a7) Merge branch &#39;staging&#39; into feat/statara-api-endpoints
+  * [#f5498cf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f5498cf) feat: Add endpoint to activate audience
+* 🔃 Merged [#68 feat/statara api endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/68) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 13 files changed `++123 --37`
+* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/statara-api-endpoints`
+  * [#b80c425](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b80c425) docs: Update README with endpoint access instructions
+  * [#f1ad1f2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f1ad1f2) Merge pull request #67 from MediaJel/pacholoamit-patch-1
+
+Update README.md
+  * [#fa20bef](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fa20bef) Update README.md
 
 
 
