@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `5838` commits and made `127` PRs.
+:people_hugging: I contributed to `41` repositories , made `5849` commits and made `131` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,20 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#6335ff7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6335ff7) refactor: Update subCategory type to accept null values
-* #️⃣ Opened [#73 Create Statara schema from Statara data dictionary](https://github.com/MediaJel/amplication-nestjs-microservices/issues/73) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#195f2ea](https://github.com/MediaJel/amplication-nestjs-microservices/commit/195f2ea) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#4e0f94c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4e0f94c) docs: Update swagger summary for save audience operation
-* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#f639660](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f639660) Merge pull request #72 from MediaJel/feat/statara-api-endpoints
-
-feat/statara api endpoints
-  * [#114f8a2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/114f8a2) refactor: Update datapoint values to template literals
-  * [#c49031e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c49031e) refactor: Update audience schema function
-  * [#d09b39e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d09b39e) feat: Add new audience datapoints and descriptions
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/implement-microservices-client`
+  * [#60083b1](https://github.com/MediaJel/mediajel-gql-service/commit/60083b1) refactor: Update routes and improve error handling
+* 🔃 Opened [#4658 feat/implement microservices client](https://github.com/MediaJel/mediajel-gql-service/pull/4658) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 16 files changed `++1628 --1`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/implement-microservices-client`
+  * [#8083a4c](https://github.com/MediaJel/mediajel-gql-service/commit/8083a4c) refactor: Update audiencesApiEndpoints to include logger
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/implement-microservices-client`
+  * [#162d996](https://github.com/MediaJel/mediajel-gql-service/commit/162d996) feat: Add external microservice logic and endpoints
+* ⏺️ Created new branch feat/implement-microservices-client in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
