@@ -30,6 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Closed [#4588 feat: Add new OAuth2 context for campaigns_cmpgntrckr](https://github.com/MediaJel/mediajel-gql-service/pull/4588) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 7 files changed `++117 --13`
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/implement-microservices-client`
   * [#60083b1](https://github.com/MediaJel/mediajel-gql-service/commit/60083b1) refactor: Update routes and improve error handling
 * 🔃 Opened [#4658 feat/implement microservices client](https://github.com/MediaJel/mediajel-gql-service/pull/4658) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
@@ -38,7 +40,6 @@
   * [#8083a4c](https://github.com/MediaJel/mediajel-gql-service/commit/8083a4c) refactor: Update audiencesApiEndpoints to include logger
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/implement-microservices-client`
   * [#162d996](https://github.com/MediaJel/mediajel-gql-service/commit/162d996) feat: Add external microservice logic and endpoints
-* ⏺️ Created new branch feat/implement-microservices-client in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
