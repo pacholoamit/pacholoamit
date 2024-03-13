@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `5850` commits and made `121` PRs.
+:people_hugging: I contributed to `41` repositories , made `5850` commits and made `122` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#4674 hotfix/microservices types](https://github.com/MediaJel/mediajel-gql-service/pull/4674) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 3 files changed `++27 --8`
+* ⏺️ Created new branch hotfix/microservices-types in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4656 Additional Docs - Resolution for Python Version Control](https://github.com/MediaJel/mediajel-gql-service/pull/4656) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#4666 ICF Hotfix Added resolve reject on process](https://github.com/MediaJel/mediajel-gql-service/pull/4666) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🔍 Reviewed [#4664 HOTFIX Fix the process Org wrong Queue Name](https://github.com/MediaJel/mediajel-gql-service/pull/4664) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔃 Closed [#4588 feat: Add new OAuth2 context for campaigns_cmpgntrckr](https://github.com/MediaJel/mediajel-gql-service/pull/4588) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 7 files changed `++117 --13`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/implement-microservices-client`
-  * [#60083b1](https://github.com/MediaJel/mediajel-gql-service/commit/60083b1) refactor: Update routes and improve error handling
-* 🔃 Opened [#4658 feat/implement microservices client](https://github.com/MediaJel/mediajel-gql-service/pull/4658) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 16 files changed `++1628 --1`
 
 
 
