@@ -30,12 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Closed [#78 [DO NOT MERGE] - Onboarding Hello World](https://github.com/MediaJel/amplication-nestjs-microservices/pull/78) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 6 files changed `++48 --0`
+* #️⃣ Opened [#80 Reflect actual audience /schema types from statara dictionary](https://github.com/MediaJel/amplication-nestjs-microservices/issues/80) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#79 Create a CONTRIBUTING doc for amplication nestjs microservice.](https://github.com/MediaJel/amplication-nestjs-microservices/issues/79) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#380 Research into campaign adhoc report request from Kai](https://github.com/MediaJel/mediajel-tracker/issues/380) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 🔃 Opened [#4674 hotfix/microservices types](https://github.com/MediaJel/mediajel-gql-service/pull/4674) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
   * 3 files changed `++27 --8`
-* ⏺️ Created new branch hotfix/microservices-types in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4656 Additional Docs - Resolution for Python Version Control](https://github.com/MediaJel/mediajel-gql-service/pull/4656) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4666 ICF Hotfix Added resolve reject on process](https://github.com/MediaJel/mediajel-gql-service/pull/4666) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#4664 HOTFIX Fix the process Org wrong Queue Name](https://github.com/MediaJel/mediajel-gql-service/pull/4664) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
