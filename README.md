@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `5857` commits and made `124` PRs.
+:people_hugging: I contributed to `41` repositories , made `5861` commits and made `124` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#10cd37f](https://github.com/MediaJel/mediajel-tracker/commit/10cd37f) fix(logging): remove logging
+* #️⃣ Opened [#381 Migrate tracker from v1 to v2](https://github.com/MediaJel/mediajel-tracker/issues/381) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Closed [#4601 jobqueue to jobs fixing](https://github.com/MediaJel/mediajel-gql-service/issues/4601) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#684 Research into campaign optimization request from Nishie](https://github.com/MediaJel/mediajel/issues/684) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#684 Research into campaign optimization request from Nishie](https://github.com/MediaJel/mediajel/issues/684) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#4667 Nexxen bug display report](https://github.com/MediaJel/mediajel-gql-service/issues/4667) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#4667 Nexxen bug display report](https://github.com/MediaJel/mediajel-gql-service/issues/4667) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
