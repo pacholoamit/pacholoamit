@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `5850` commits and made `122` PRs.
+:people_hugging: I contributed to `41` repositories , made `5857` commits and made `124` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#78 [DO NOT MERGE] - Onboarding Hello World](https://github.com/MediaJel/amplication-nestjs-microservices/pull/78) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 6 files changed `++48 --0`
-* #️⃣ Opened [#80 Reflect actual audience /schema types from statara dictionary](https://github.com/MediaJel/amplication-nestjs-microservices/issues/80) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#79 Create a CONTRIBUTING doc for amplication nestjs microservice.](https://github.com/MediaJel/amplication-nestjs-microservices/issues/79) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#380 Research into campaign adhoc report request from Kai](https://github.com/MediaJel/mediajel-tracker/issues/380) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔃 Opened [#4674 hotfix/microservices types](https://github.com/MediaJel/mediajel-gql-service/pull/4674) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 3 files changed `++27 --8`
+* #️⃣ Closed [#4601 jobqueue to jobs fixing](https://github.com/MediaJel/mediajel-gql-service/issues/4601) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#684 Research into campaign optimization request from Nishie](https://github.com/MediaJel/mediajel/issues/684) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#684 Research into campaign optimization request from Nishie](https://github.com/MediaJel/mediajel/issues/684) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#4667 Nexxen bug display report](https://github.com/MediaJel/mediajel-gql-service/issues/4667) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#4667 Nexxen bug display report](https://github.com/MediaJel/mediajel-gql-service/issues/4667) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
