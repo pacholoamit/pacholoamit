@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `5870` commits and made `124` PRs.
+:people_hugging: I contributed to `42` repositories , made `5873` commits and made `124` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,45 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/slack-presence](https://github.com/pacholoamit/slack-presence) on branch `master`
+  * [#02ec4d9](https://github.com/pacholoamit/slack-presence/commit/02ec4d9) add boilerplate
+* ➡️ Pushed 1 commit in [pacholoamit/slack-presence](https://github.com/pacholoamit/slack-presence) on branch `master`
+  * [#968f30d](https://github.com/pacholoamit/slack-presence/commit/968f30d) feature(slack): implement basic concept
+* ⏺️ Created new branch master in [pacholoamit/slack-presence](https://github.com/pacholoamit/slack-presence)
+* ⏺️ Created new repository  [pacholoamit/slack-presence](https://github.com/pacholoamit/slack-presence)
 * ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
   * [#c3fd072](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c3fd072) Merge branch &#39;master&#39; of https://github.com/MediaJel/amplication-nestjs-microservices
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#f669f0e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f669f0e) refactor(statara): remove limit
-* ➡️ Pushed 21 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#610489d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/610489d) fix(tests): add jest cli options to work on ci
-  * [#f7af340](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f7af340) refactor(env): add private env vars section
-  * [#c366a8e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c366a8e) fix(statara-activate): Finalize logic
-  * [#d4002de](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d4002de) fix(s3-statara): modify constructor instantiation of S3
-  * [#bb40f65](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bb40f65) fix(s3-statara): fix activate audience eslint issues
-  * [#dd4ab62](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dd4ab62) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
-  * [#7d3b499](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7d3b499) feat(s3): implement specific s3 class for statara
-  * [#b72e36e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b72e36e) Add AWS Statara AWS KEY
-  * [#3fc3c0c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3fc3c0c) Added Statara Audience Activate Bucket
-  * [#30d0813](https://github.com/MediaJel/amplication-nestjs-microservices/commit/30d0813) fix(ports): changed ports
-  * [#961047c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/961047c) Fix volume and ports
-  * [#92bd2f0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/92bd2f0) Merge pull request #81 from MediaJel/feat/add-activate-endpoint-logic
-
-feat/add activate endpoint logic
-  * [#50a8350](https://github.com/MediaJel/amplication-nestjs-microservices/commit/50a8350) Merge branch &#39;staging&#39; into feat/add-activate-endpoint-logic
-  * [#e6a78d0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e6a78d0) feat(minio): add to docker-compose.yml
-  * [#224d13b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/224d13b) feat(audience): implement business logic for statara activation
-  * [#23e56d0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/23e56d0) changes
-  * [#7e5ad73](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7e5ad73) add logic
-  * [#731f495](https://github.com/MediaJel/amplication-nestjs-microservices/commit/731f495) Change Bucket
-  * [#db24611](https://github.com/MediaJel/amplication-nestjs-microservices/commit/db24611) changes
-  * [#208dbf9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/208dbf9) Rework clickhouse local setup (#74)
-
-* Rework clickhouse local setup
-
-* fix
-
-* Final
-
-* final
-* 🔃 Merged [#82 Update master](https://github.com/MediaJel/amplication-nestjs-microservices/pull/82) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 25 files changed `++860 --70`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#610489d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/610489d) fix(tests): add jest cli options to work on ci
 
 
 
