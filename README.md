@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode)
 * 🔃 Closed [#83 Onboarding HelloWorld Internal](https://github.com/MediaJel/amplication-nestjs-microservices/pull/83) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 6 files changed `++110 --0`
 * ➡️ Pushed 1 commit in [pacholoamit/slack-presence](https://github.com/pacholoamit/slack-presence) on branch `master`
@@ -38,7 +39,6 @@
   * [#02ec4d9](https://github.com/pacholoamit/slack-presence/commit/02ec4d9) add boilerplate
 * ➡️ Pushed 1 commit in [pacholoamit/slack-presence](https://github.com/pacholoamit/slack-presence) on branch `master`
   * [#968f30d](https://github.com/pacholoamit/slack-presence/commit/968f30d) feature(slack): implement basic concept
-* ⏺️ Created new branch master in [pacholoamit/slack-presence](https://github.com/pacholoamit/slack-presence)
 
 
 
