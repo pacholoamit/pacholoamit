@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `5874` commits and made `124` PRs.
+:people_hugging: I contributed to `42` repositories , made `5875` commits and made `123` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,29 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode)
-* 🔃 Closed [#83 Onboarding HelloWorld Internal](https://github.com/MediaJel/amplication-nestjs-microservices/pull/83) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 6 files changed `++110 --0`
-* ➡️ Pushed 1 commit in [pacholoamit/slack-presence](https://github.com/pacholoamit/slack-presence) on branch `master`
-  * [#d8fe45e](https://github.com/pacholoamit/slack-presence/commit/d8fe45e) fix(activity): ensure activity is logging correctly
-* ➡️ Pushed 1 commit in [pacholoamit/slack-presence](https://github.com/pacholoamit/slack-presence) on branch `master`
-  * [#02ec4d9](https://github.com/pacholoamit/slack-presence/commit/02ec4d9) add boilerplate
-* ➡️ Pushed 1 commit in [pacholoamit/slack-presence](https://github.com/pacholoamit/slack-presence) on branch `master`
-  * [#968f30d](https://github.com/pacholoamit/slack-presence/commit/968f30d) feature(slack): implement basic concept
+* ➡️ Pushed 5 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#e6880b4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e6880b4) Merge pull request #85 from MediaJel/staging
+
+Update
+  * [#e80da27](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e80da27) Merge pull request #84 from MediaJel/ez-stataraDataTypes
+
+Added in Data Types
+  * [#1f127b1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1f127b1) Merge branch &#39;staging&#39; into ez-stataraDataTypes
+  * [#93e8839](https://github.com/MediaJel/amplication-nestjs-microservices/commit/93e8839) Added in Boolean Types
+  * [#6e15120](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6e15120) Added in the data types
+* 🔃 Merged [#85 Update](https://github.com/MediaJel/amplication-nestjs-microservices/pull/85) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++402 --450`
+* 🔃 Opened [#85 Update](https://github.com/MediaJel/amplication-nestjs-microservices/pull/85) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++402 --450`
+* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#e80da27](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e80da27) Merge pull request #84 from MediaJel/ez-stataraDataTypes
+
+Added in Data Types
+  * [#1f127b1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1f127b1) Merge branch &#39;staging&#39; into ez-stataraDataTypes
+  * [#93e8839](https://github.com/MediaJel/amplication-nestjs-microservices/commit/93e8839) Added in Boolean Types
+  * [#6e15120](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6e15120) Added in the data types
+* 🔃 Merged [#84 Added in Data Types](https://github.com/MediaJel/amplication-nestjs-microservices/pull/84) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++402 --450`
 
 
 
