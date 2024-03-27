@@ -30,6 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#382 Create weedmaps adapter](https://github.com/MediaJel/mediajel-tracker/issues/382) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#4727 REFACTOR: Remove all jobqueue values](https://github.com/MediaJel/mediajel-gql-service/pull/4727) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#4726 SUNSET: Remove jobqueue source-code](https://github.com/MediaJel/mediajel-gql-service/pull/4726) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 5 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
   * [#e6880b4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e6880b4) Merge pull request #85 from MediaJel/staging
 
@@ -41,17 +44,6 @@ Added in Data Types
   * [#93e8839](https://github.com/MediaJel/amplication-nestjs-microservices/commit/93e8839) Added in Boolean Types
   * [#6e15120](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6e15120) Added in the data types
 * 🔃 Merged [#85 Update](https://github.com/MediaJel/amplication-nestjs-microservices/pull/85) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 2 files changed `++402 --450`
-* 🔃 Opened [#85 Update](https://github.com/MediaJel/amplication-nestjs-microservices/pull/85) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 2 files changed `++402 --450`
-* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#e80da27](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e80da27) Merge pull request #84 from MediaJel/ez-stataraDataTypes
-
-Added in Data Types
-  * [#1f127b1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1f127b1) Merge branch &#39;staging&#39; into ez-stataraDataTypes
-  * [#93e8839](https://github.com/MediaJel/amplication-nestjs-microservices/commit/93e8839) Added in Boolean Types
-  * [#6e15120](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6e15120) Added in the data types
-* 🔃 Merged [#84 Added in Data Types](https://github.com/MediaJel/amplication-nestjs-microservices/pull/84) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 2 files changed `++402 --450`
 
 
