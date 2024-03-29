@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `5877` commits and made `123` PRs.
+:people_hugging: I contributed to `42` repositories , made `5885` commits and made `125` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#652 Recreate tables in clickhouse from snowflake](https://github.com/MediaJel/mediajel/issues/652) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#6236 Add additional reports to Campaign transactions](https://github.com/MediaJel/mediajel-dashboard/issues/6236) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#4687 Nexxen Audience File](https://github.com/MediaJel/mediajel-gql-service/issues/4687) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#684 Research into campaign optimization request from Nishie](https://github.com/MediaJel/mediajel/issues/684) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#684 Research into campaign optimization request from Nishie](https://github.com/MediaJel/mediajel/issues/684) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-soapbox-api-client`
+  * [#1923ee8](https://github.com/MediaJel/mediajel-gql-service/commit/1923ee8) feat(metrics-report): add parsing
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-soapbox-api-client`
+  * [#3d83980](https://github.com/MediaJel/mediajel-gql-service/commit/3d83980) fix(auth): remove auth client
+* ➡️ Pushed 6 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#955b9c8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/955b9c8) fix(env): uncomment out env vars
+  * [#03e9ac0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/03e9ac0) Merge branch &#39;staging&#39;
+  * [#1ae7f38](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1ae7f38) Merge branch &#39;staging&#39;
+  * [#e6880b4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e6880b4) Merge pull request #85 from MediaJel/staging
+
+Update
+  * [#c3fd072](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c3fd072) Merge branch &#39;master&#39; of https://github.com/MediaJel/amplication-nestjs-microservices
+  * [#8bcfcc2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8bcfcc2) Merge pull request #82 from MediaJel/staging
+
+Update master
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#955b9c8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/955b9c8) fix(env): uncomment out env vars
+* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#03e9ac0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/03e9ac0) Merge branch &#39;staging&#39;
 
 
 
