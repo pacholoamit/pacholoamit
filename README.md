@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `5885` commits and made `125` PRs.
+:people_hugging: I contributed to `42` repositories , made `5899` commits and made `125` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,25 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-soapbox-api-client`
-  * [#1923ee8](https://github.com/MediaJel/mediajel-gql-service/commit/1923ee8) feat(metrics-report): add parsing
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-soapbox-api-client`
-  * [#3d83980](https://github.com/MediaJel/mediajel-gql-service/commit/3d83980) fix(auth): remove auth client
-* ➡️ Pushed 6 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#955b9c8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/955b9c8) fix(env): uncomment out env vars
-  * [#03e9ac0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/03e9ac0) Merge branch &#39;staging&#39;
-  * [#1ae7f38](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1ae7f38) Merge branch &#39;staging&#39;
-  * [#e6880b4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e6880b4) Merge pull request #85 from MediaJel/staging
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#16bb7c8](https://github.com/pacholoamit/homelab-infrastructure/commit/16bb7c8) remove volumesnapshotclass
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#81dbd59](https://github.com/pacholoamit/homelab-infrastructure/commit/81dbd59) comment out velero
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#7915e85](https://github.com/pacholoamit/homelab-infrastructure/commit/7915e85) Merge branch &#39;master&#39; of https://github.com/pacholoamit/homelab-infra
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#de608a1](https://github.com/pacholoamit/homelab-infrastructure/commit/de608a1) Merge pull request #64 from pacholoamit/renovate/snapshot-controller-2.x
 
-Update
-  * [#c3fd072](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c3fd072) Merge branch &#39;master&#39; of https://github.com/MediaJel/amplication-nestjs-microservices
-  * [#8bcfcc2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8bcfcc2) Merge pull request #82 from MediaJel/staging
-
-Update master
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#955b9c8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/955b9c8) fix(env): uncomment out env vars
-* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#03e9ac0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/03e9ac0) Merge branch &#39;staging&#39;
+chore(deps): update helm release snapshot-controller to 2.2.x
+  * [#81224bb](https://github.com/pacholoamit/homelab-infrastructure/commit/81224bb) chore(deps): update helm release snapshot-controller to 2.2.x
+* 🔃 Merged [#64 chore(deps): update helm release snapshot-controller to 2.2.x](https://github.com/pacholoamit/homelab-infrastructure/pull/64) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 2 files changed `++2 --2`
 
 
 
