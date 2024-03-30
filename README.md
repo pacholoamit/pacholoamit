@@ -30,19 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [zitadel/zitadel](https://github.com/zitadel/zitadel)
+* 🌟 Starred [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#16bb7c8](https://github.com/pacholoamit/homelab-infrastructure/commit/16bb7c8) remove volumesnapshotclass
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#81dbd59](https://github.com/pacholoamit/homelab-infrastructure/commit/81dbd59) comment out velero
 * ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#7915e85](https://github.com/pacholoamit/homelab-infrastructure/commit/7915e85) Merge branch &#39;master&#39; of https://github.com/pacholoamit/homelab-infra
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#de608a1](https://github.com/pacholoamit/homelab-infrastructure/commit/de608a1) Merge pull request #64 from pacholoamit/renovate/snapshot-controller-2.x
-
-chore(deps): update helm release snapshot-controller to 2.2.x
-  * [#81224bb](https://github.com/pacholoamit/homelab-infrastructure/commit/81224bb) chore(deps): update helm release snapshot-controller to 2.2.x
-* 🔃 Merged [#64 chore(deps): update helm release snapshot-controller to 2.2.x](https://github.com/pacholoamit/homelab-infrastructure/pull/64) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 2 files changed `++2 --2`
 
 
 
