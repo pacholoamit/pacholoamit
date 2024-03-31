@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `5899` commits and made `125` PRs.
+:people_hugging: I contributed to `42` repositories , made `5918` commits and made `125` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)
-* 🌟 Starred [zitadel/zitadel](https://github.com/zitadel/zitadel)
-* 🌟 Starred [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#16bb7c8](https://github.com/pacholoamit/homelab-infrastructure/commit/16bb7c8) remove volumesnapshotclass
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#81dbd59](https://github.com/pacholoamit/homelab-infrastructure/commit/81dbd59) comment out velero
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#ae795d0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ae795d0) feat(release): add monorepo configuration
+* 🌟 Starred [pmowrer/semantic-release-monorepo](https://github.com/pmowrer/semantic-release-monorepo)
+* 🌟 Starred [release-it/release-it](https://github.com/release-it/release-it)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#37ab74e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/37ab74e) add yarn install
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#6928140](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6928140) add semantic-release in ci
 
 
 
