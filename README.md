@@ -30,18 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
+* 🌟 Starred [modularml/mojo](https://github.com/modularml/mojo)
+* 🌟 Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 * 🌟 Starred [Schaka/janitorr](https://github.com/Schaka/janitorr)
 * 📦 Released **external-service-v1.0.0** of [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ⏺️ Created new tag external-service-v1.0.0 in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#e5d1bdb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e5d1bdb) Merge pull request #92 from MediaJel/staging
-
-test pr template
-  * [#44d9ad8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44d9ad8) doc(pr): remove license in PR
-  * [#32d0961](https://github.com/MediaJel/amplication-nestjs-microservices/commit/32d0961) Merge branch &#39;master&#39; into staging
-  * [#2107b86](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2107b86) test pr template
-* 🔃 Merged [#92 test pr template](https://github.com/MediaJel/amplication-nestjs-microservices/pull/92) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++1 --1`
 
 
 
