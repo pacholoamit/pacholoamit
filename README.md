@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `5918` commits and made `125` PRs.
+:people_hugging: I contributed to `42` repositories , made `5935` commits and made `128` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#ae795d0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ae795d0) feat(release): add monorepo configuration
-* 🌟 Starred [pmowrer/semantic-release-monorepo](https://github.com/pmowrer/semantic-release-monorepo)
-* 🌟 Starred [release-it/release-it](https://github.com/release-it/release-it)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#37ab74e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/37ab74e) add yarn install
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#6928140](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6928140) add semantic-release in ci
+* 🌟 Starred [Schaka/janitorr](https://github.com/Schaka/janitorr)
+* 📦 Released **external-service-v1.0.0** of [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ⏺️ Created new tag external-service-v1.0.0 in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#e5d1bdb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e5d1bdb) Merge pull request #92 from MediaJel/staging
+
+test pr template
+  * [#44d9ad8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44d9ad8) doc(pr): remove license in PR
+  * [#32d0961](https://github.com/MediaJel/amplication-nestjs-microservices/commit/32d0961) Merge branch &#39;master&#39; into staging
+  * [#2107b86](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2107b86) test pr template
+* 🔃 Merged [#92 test pr template](https://github.com/MediaJel/amplication-nestjs-microservices/pull/92) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++1 --1`
 
 
 
