@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `5935` commits and made `128` PRs.
+:people_hugging: I contributed to `42` repositories , made `5941` commits and made `127` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
-* 🌟 Starred [modularml/mojo](https://github.com/modularml/mojo)
-* 🌟 Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-* 🌟 Starred [Schaka/janitorr](https://github.com/Schaka/janitorr)
-* 📦 Released **external-service-v1.0.0** of [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `srr-getEvents`
+  * [#3cf0559](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3cf0559) refactor(microservice): temporarily turn off grpc
+* 💬 Commented on [#57 Create REST API endpoint for GetEvents](https://github.com/MediaJel/amplication-nestjs-microservices/issues/57) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#99 Create endpoint to generate tracking tags](https://github.com/MediaJel/amplication-nestjs-microservices/issues/99) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#385 Endpoints for generating tracking tags](https://github.com/MediaJel/mediajel-tracker/issues/385) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 8 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#c6d0aa3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c6d0aa3) Merge branch &#39;master&#39; into staging
 
 
 
