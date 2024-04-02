@@ -30,13 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `srr-getEvents`
   * [#3cf0559](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3cf0559) refactor(microservice): temporarily turn off grpc
 * 💬 Commented on [#57 Create REST API endpoint for GetEvents](https://github.com/MediaJel/amplication-nestjs-microservices/issues/57) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#99 Create endpoint to generate tracking tags](https://github.com/MediaJel/amplication-nestjs-microservices/issues/99) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#385 Endpoints for generating tracking tags](https://github.com/MediaJel/mediajel-tracker/issues/385) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 8 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#c6d0aa3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c6d0aa3) Merge branch &#39;master&#39; into staging
 
 
 
