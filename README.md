@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `5941` commits and made `127` PRs.
+:people_hugging: I contributed to `42` repositories , made `5955` commits and made `127` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 📦 Released **internal-service-v1.0.1** of [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ⏺️ Created new tag internal-service-v1.0.1 in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 📦 Released **external-service-v1.0.1** of [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ⏺️ Created new tag external-service-v1.0.1 in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#adaf4f2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/adaf4f2) fix(grpc): temporarily comment out grpc
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#df0b3ff](https://github.com/pacholoamit/homelab-infrastructure/commit/df0b3ff) feat: Add widget type and URL for Gatus
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#67d9c7d](https://github.com/pacholoamit/homelab-infrastructure/commit/67d9c7d) fix: Update chart name to &#39;gatus&#39; in release.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#d7eccff](https://github.com/pacholoamit/homelab-infrastructure/commit/d7eccff) feat: Add Gatus monitoring for uptime.pacholoamit.com
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#8744600](https://github.com/pacholoamit/homelab-infrastructure/commit/8744600) feat: Add Gatus HelmRelease and Kustomization files
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#1fd07a0](https://github.com/pacholoamit/homelab-infrastructure/commit/1fd07a0) style: Update kustomization.yaml resources
 
 
 
