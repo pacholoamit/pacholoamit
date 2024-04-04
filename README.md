@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [woowabros/nestjs-library-crud](https://github.com/woowabros/nestjs-library-crud)
+* 🌟 Starred [nestjsx/crud](https://github.com/nestjsx/crud)
+* 🌟 Starred [ZenSoftware/zen](https://github.com/ZenSoftware/zen)
 * 🌟 Starred [kepelrs/nestjs-prisma-crud](https://github.com/kepelrs/nestjs-prisma-crud)
 * 🌟 Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-* #️⃣ Opened [#101 Couple GetEvents and ConsolidatedReportsS3 in microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/101) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#684 Research into campaign optimization request from Nishie](https://github.com/MediaJel/mediajel/issues/684) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#4602 Implement Soapbox Authentication &amp; API integrations](https://github.com/MediaJel/mediajel-gql-service/issues/4602) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
