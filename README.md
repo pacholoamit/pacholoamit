@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `5972` commits and made `127` PRs.
+:people_hugging: I contributed to `42` repositories , made `5992` commits and made `129` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,98 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [woowabros/nestjs-library-crud](https://github.com/woowabros/nestjs-library-crud)
-* 🌟 Starred [nestjsx/crud](https://github.com/nestjsx/crud)
-* 🌟 Starred [ZenSoftware/zen](https://github.com/ZenSoftware/zen)
-* 🌟 Starred [kepelrs/nestjs-prisma-crud](https://github.com/kepelrs/nestjs-prisma-crud)
-* 🌟 Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#13ebe9e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/13ebe9e) Merge pull request #93 from MediaJel/dependabot/npm_and_yarn/types/graphql-type-json-0.3.5
+
+chore(deps-dev): bump @types/graphql-type-json from 0.3.3 to 0.3.5
+  * [#1d82fc3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1d82fc3) chore(deps-dev): bump @types/graphql-type-json from 0.3.3 to 0.3.5
+
+Bumps [@types/graphql-type-json](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/graphql-type-json) from 0.3.3 to 0.3.5.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/graphql-type-json)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@types/graphql-type-json&#34;
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#7584acb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7584acb) Merge pull request #97 from MediaJel/dependabot/npm_and_yarn/passport-0.7.0
+
+chore(deps): bump passport from 0.6.0 to 0.7.0
+  * [#1637eb8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1637eb8) chore(deps): bump passport from 0.6.0 to 0.7.0
+
+Bumps [passport](https://github.com/jaredhanson/passport) from 0.6.0 to 0.7.0.
+- [Changelog](https://github.com/jaredhanson/passport/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/jaredhanson/passport/compare/v0.6.0...v0.7.0)
+
+---
+updated-dependencies:
+- dependency-name: passport
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#a25b339](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a25b339) Merge pull request #95 from MediaJel/dependabot/npm_and_yarn/nestjs/apollo-12.1.0
+
+chore(deps): bump @nestjs/apollo from 12.0.9 to 12.1.0
+  * [#2226f52](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2226f52) chore(deps): bump @nestjs/apollo from 12.0.9 to 12.1.0
+
+Bumps [@nestjs/apollo](https://github.com/nestjs/graphql) from 12.0.9 to 12.1.0.
+- [Release notes](https://github.com/nestjs/graphql/releases)
+- [Commits](https://github.com/nestjs/graphql/compare/v12.0.9...v12.1.0)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@nestjs/apollo&#34;
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#218b8d5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/218b8d5) Merge pull request #96 from MediaJel/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-7.4.0
+
+chore(deps-dev): bump @typescript-eslint/eslint-plugin from 6.21.0 to 7.4.0
+  * [#0dee9e7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0dee9e7) chore(deps-dev): bump @typescript-eslint/eslint-plugin
+
+Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 6.21.0 to 7.4.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v7.4.0/packages/eslint-plugin)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@typescript-eslint/eslint-plugin&#34;
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#be1376d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/be1376d) Merge pull request #104 from MediaJel/dependabot/npm_and_yarn/reflect-metadata-0.2.2
+
+chore(deps): bump reflect-metadata from 0.1.13 to 0.2.2
+  * [#2dbfc14](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2dbfc14) chore(deps): bump reflect-metadata from 0.1.13 to 0.2.2
+
+Bumps [reflect-metadata](https://github.com/rbuckton/reflect-metadata) from 0.1.13 to 0.2.2.
+- [Release notes](https://github.com/rbuckton/reflect-metadata/releases)
+- [Changelog](https://github.com/rbuckton/reflect-metadata/blob/main/tsconfig-release.json)
+- [Commits](https://github.com/rbuckton/reflect-metadata/commits)
+
+---
+updated-dependencies:
+- dependency-name: reflect-metadata
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 
 
 
