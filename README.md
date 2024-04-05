@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `5992` commits and made `129` PRs.
+:people_hugging: I contributed to `42` repositories , made `5995` commits and made `129` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#ea8af89](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ea8af89) style: Update Prettier printWidth and package versions
+  * [#5ed75e5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5ed75e5) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
+  * [#160e0a9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/160e0a9) style: Update code formatting and remove unnecessary comments
 * ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#13ebe9e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/13ebe9e) Merge pull request #93 from MediaJel/dependabot/npm_and_yarn/types/graphql-type-json-0.3.5
 
@@ -100,25 +104,6 @@ updated-dependencies:
 - dependency-name: &#34;@typescript-eslint/eslint-plugin&#34;
   dependency-type: direct:development
   update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#be1376d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/be1376d) Merge pull request #104 from MediaJel/dependabot/npm_and_yarn/reflect-metadata-0.2.2
-
-chore(deps): bump reflect-metadata from 0.1.13 to 0.2.2
-  * [#2dbfc14](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2dbfc14) chore(deps): bump reflect-metadata from 0.1.13 to 0.2.2
-
-Bumps [reflect-metadata](https://github.com/rbuckton/reflect-metadata) from 0.1.13 to 0.2.2.
-- [Release notes](https://github.com/rbuckton/reflect-metadata/releases)
-- [Changelog](https://github.com/rbuckton/reflect-metadata/blob/main/tsconfig-release.json)
-- [Commits](https://github.com/rbuckton/reflect-metadata/commits)
-
----
-updated-dependencies:
-- dependency-name: reflect-metadata
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
