@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `6020` commits and made `132` PRs.
+:people_hugging: I contributed to `42` repositories , made `6028` commits and made `132` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 📦 Released **internal-service-v1.2.1** of [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ⏺️ Created new tag internal-service-v1.2.1 in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#029fc71](https://github.com/MediaJel/amplication-nestjs-microservices/commit/029fc71) fix: Update S3 storage save method to include specific key
-  * [#52d2ef9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/52d2ef9) refactor: Update S3 storage log messages
-  * [#a69239c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a69239c) refactor: Update S3 storage to use async/await syntax
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#029fc71](https://github.com/MediaJel/amplication-nestjs-microservices/commit/029fc71) fix: Update S3 storage save method to include specific key
-  * [#52d2ef9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/52d2ef9) refactor: Update S3 storage log messages
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#a69239c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a69239c) refactor: Update S3 storage to use async/await syntax
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#89c6768](https://github.com/pacholoamit/homelab-infrastructure/commit/89c6768) style: Comment out unnecessary body matching conditions
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#a7fb913](https://github.com/pacholoamit/homelab-infrastructure/commit/a7fb913) style: Remove unnecessary healthcheck condition
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#6bb2ab7](https://github.com/pacholoamit/homelab-infrastructure/commit/6bb2ab7) fix: Update URL and condition check for FreshRSS
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#da9d98c](https://github.com/pacholoamit/homelab-infrastructure/commit/da9d98c) fix: Update response time threshold to 300
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#4c05c1b](https://github.com/pacholoamit/homelab-infrastructure/commit/4c05c1b) fix: Update response time condition value to 100
 
 
 
