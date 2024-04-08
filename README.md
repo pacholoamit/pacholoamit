@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#89c6768](https://github.com/pacholoamit/homelab-infrastructure/commit/89c6768) style: Comment out unnecessary body matching conditions
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
@@ -38,8 +39,6 @@
   * [#6bb2ab7](https://github.com/pacholoamit/homelab-infrastructure/commit/6bb2ab7) fix: Update URL and condition check for FreshRSS
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#da9d98c](https://github.com/pacholoamit/homelab-infrastructure/commit/da9d98c) fix: Update response time threshold to 300
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#4c05c1b](https://github.com/pacholoamit/homelab-infrastructure/commit/4c05c1b) fix: Update response time condition value to 100
 
 
 
