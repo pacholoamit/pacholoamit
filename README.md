@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `6028` commits and made `132` PRs.
+:people_hugging: I contributed to `42` repositories , made `6030` commits and made `132` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#f80de44](https://github.com/pacholoamit/homelab-infrastructure/commit/f80de44) feat: Update services.yaml with new encryption data
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#1fddd9e](https://github.com/pacholoamit/homelab-infrastructure/commit/1fddd9e) feat: Add healthchecks for Truenas and Proxmox Backup Server
 * 🌟 Starred [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#89c6768](https://github.com/pacholoamit/homelab-infrastructure/commit/89c6768) style: Comment out unnecessary body matching conditions
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#a7fb913](https://github.com/pacholoamit/homelab-infrastructure/commit/a7fb913) style: Remove unnecessary healthcheck condition
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#6bb2ab7](https://github.com/pacholoamit/homelab-infrastructure/commit/6bb2ab7) fix: Update URL and condition check for FreshRSS
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#da9d98c](https://github.com/pacholoamit/homelab-infrastructure/commit/da9d98c) fix: Update response time threshold to 300
 
 
 
