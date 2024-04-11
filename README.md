@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `6059` commits and made `136` PRs.
+:people_hugging: I contributed to `42` repositories , made `6071` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1cc7331](https://github.com/pacholoamit/homelab-infrastructure/commit/1cc7331) feat: Update lastmodified timestamp in configmap file
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#ddec69d](https://github.com/pacholoamit/homelab-infrastructure/commit/ddec69d) docs: Update lastmodified field in configmap.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#a716fe0](https://github.com/pacholoamit/homelab-infrastructure/commit/a716fe0) feat: Update lastmodified field in configmap.yaml
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/intercept-statara-files`
-  * [#22844c5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/22844c5) feat: Add method to retrieve and decompress gzipped file
-* 🔃 Opened [#119 feat: Add method to check if file exists in S3](https://github.com/MediaJel/amplication-nestjs-microservices/pull/119) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 4 files changed `++99 --6`
+* 🔍 Reviewed [#4799 [FOR REVIEW] functions on backend and fix publisher images](https://github.com/MediaJel/mediajel-gql-service/pull/4799) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#d31676b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d31676b) Merge pull request #126 from MediaJel/fbl3-chore/non-dash-docker-compose-command
+
+CHORE: Include non-dash docker-compose commands in package.json
+  * [#d6bf726](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d6bf726) CHORE: Replace old way of running docker-compose
+  * [#1994cca](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1994cca) CHORE: Include non-dash docker-compose commands in package.json
+* 🔃 Merged [#126 CHORE: Include non-dash docker-compose commands in package.json](https://github.com/MediaJel/amplication-nestjs-microservices/pull/126) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++6 --6`
+* 🔍 Reviewed [#126 CHORE: Include non-dash docker-compose commands in package.json](https://github.com/MediaJel/amplication-nestjs-microservices/pull/126) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#126 CHORE: Include non-dash docker-compose commands in package.json](https://github.com/MediaJel/amplication-nestjs-microservices/pull/126) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
