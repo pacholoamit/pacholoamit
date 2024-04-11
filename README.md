@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `6071` commits and made `136` PRs.
+:people_hugging: I contributed to `42` repositories , made `6073` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#4799 [FOR REVIEW] functions on backend and fix publisher images](https://github.com/MediaJel/mediajel-gql-service/pull/4799) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#d31676b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d31676b) Merge pull request #126 from MediaJel/fbl3-chore/non-dash-docker-compose-command
-
-CHORE: Include non-dash docker-compose commands in package.json
-  * [#d6bf726](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d6bf726) CHORE: Replace old way of running docker-compose
-  * [#1994cca](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1994cca) CHORE: Include non-dash docker-compose commands in package.json
-* 🔃 Merged [#126 CHORE: Include non-dash docker-compose commands in package.json](https://github.com/MediaJel/amplication-nestjs-microservices/pull/126) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 2 files changed `++6 --6`
-* 🔍 Reviewed [#126 CHORE: Include non-dash docker-compose commands in package.json](https://github.com/MediaJel/amplication-nestjs-microservices/pull/126) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#126 CHORE: Include non-dash docker-compose commands in package.json](https://github.com/MediaJel/amplication-nestjs-microservices/pull/126) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jjy-monitoring-tool`
+  * [#e200f0a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e200f0a) refactor: Make target IP dynamic instead of static IP
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jjy-monitoring-tool`
+  * [#a153059](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a153059) feat(app): Add Prometheus monitoring to internal-service app
+* ➡️ Pushed 16 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jjy-monitoring-tool`
+  * [#997ac86](https://github.com/MediaJel/amplication-nestjs-microservices/commit/997ac86) Merge branch &#39;staging&#39; into jjy-monitoring-tool
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#2537378](https://github.com/MediaJel/mediajel-tracker/commit/2537378) Merge branch &#39;main&#39; into staging
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#06c0615](https://github.com/MediaJel/mediajel-tracker/commit/06c0615) refactor: Improve calculation of unit price for transaction items
 
 
 
