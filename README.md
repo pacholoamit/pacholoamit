@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `6074` commits and made `136` PRs.
+:people_hugging: I contributed to `42` repositories , made `6077` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,31 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#130 Create `/publish` endpoint in external service](https://github.com/MediaJel/amplication-nestjs-microservices/issues/130) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 15 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#fa76a83](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fa76a83) Merge pull request #100 from MediaJel/feat/DSP_adapters
-
-feat/DSP_adaptors
-  * [#1e4abe1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1e4abe1) feat/DSP_adaptors
-  * [#a02c5fc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a02c5fc) feat/DSP_adaptors
-  * [#bcee202](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bcee202) feat/DSP_adaptors - fix test
-  * [#38aecc4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/38aecc4) feat/DSP_adaptors - fix test
-  * [#4a82028](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4a82028) Merge branch &#39;feat/DSP_adapters&#39; of mediajel:MediaJel/amplication-nestjs-microservices into feat/DSP_adapters
-  * [#64a8c48](https://github.com/MediaJel/amplication-nestjs-microservices/commit/64a8c48) feat/DSP_adaptors - fix test
-  * [#e75ac69](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e75ac69) Merge branch &#39;staging&#39; into feat/DSP_adapters
-  * [#20878e7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/20878e7) feat/DSP_adaptors
-  * [#46d7bb7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/46d7bb7) feat/DSP_adaptors
-  * [#d35eaea](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d35eaea) feat/DSP_adaptors
-  * [#2a17804](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2a17804) feat/DSP_adaptors
-  * [#42e2f8e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/42e2f8e) feat/DSP_adaptors
-  * [#ec9efc3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ec9efc3) Merge branch &#39;staging&#39; into feat/DSP_adapters
-  * [#90a9d4e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/90a9d4e) feat/DSP_adaptors
-* 🔃 Merged [#100 feat/DSP_adaptors](https://github.com/MediaJel/amplication-nestjs-microservices/pull/100) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 15 files changed `++1013 --5`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jjy-monitoring-tool`
-  * [#e200f0a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e200f0a) refactor: Make target IP dynamic instead of static IP
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jjy-monitoring-tool`
-  * [#a153059](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a153059) feat(app): Add Prometheus monitoring to internal-service app
+* 💬 Commented on [#118 staging](https://github.com/MediaJel/amplication-nestjs-microservices/issues/118) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#114 DOCS: Improve instruction under external microservice README](https://github.com/MediaJel/amplication-nestjs-microservices/issues/114) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#100 feat/DSP_adaptors](https://github.com/MediaJel/amplication-nestjs-microservices/issues/100) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#126 CHORE: Include non-dash docker-compose commands in package.json](https://github.com/MediaJel/amplication-nestjs-microservices/issues/126) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 📦 Released **external-service-v1.1.1** of [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
