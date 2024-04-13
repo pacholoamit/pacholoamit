@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `6077` commits and made `136` PRs.
+:people_hugging: I contributed to `41` repositories , made `6077` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#118 staging](https://github.com/MediaJel/amplication-nestjs-microservices/issues/118) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#114 DOCS: Improve instruction under external microservice README](https://github.com/MediaJel/amplication-nestjs-microservices/issues/114) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#100 feat/DSP_adaptors](https://github.com/MediaJel/amplication-nestjs-microservices/issues/100) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#126 CHORE: Include non-dash docker-compose commands in package.json](https://github.com/MediaJel/amplication-nestjs-microservices/issues/126) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 📦 Released **external-service-v1.1.1** of [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `srr-getEvents`
+  * [#6f447d8](https://github.com/MediaJel/mediajel-gql-service/commit/6f447d8) feat: Add microservices integration for attributed events
+* 💬 Commented on [#132 CHORE: Ignore env file to prevent committing accidentally](https://github.com/MediaJel/amplication-nestjs-microservices/issues/132) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#131 FEATURE: Proof-of-concept of White-Label automation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/131) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#131 FEATURE: Proof-of-concept of White-Label automation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/131) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#131 FEATURE: Proof-of-concept of White-Label automation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/131) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
