@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 * ⏺️ Created new branch feat/monitoring-signoz in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 32 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jjy-monitoring-tool`
   * [#ab17e4c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ab17e4c) Merge pull request #127 from MediaJel/amplication-build-cluvnilw50028ydodcv07rdcv
@@ -67,8 +68,6 @@ CHORE: Include non-dash docker-compose commands in package.json
   * [#90a9d4e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/90a9d4e) feat/DSP_adaptors
 * 🌟 Starred [SigNoz/signoz](https://github.com/SigNoz/signoz)
 * 🌟 Starred [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#edfb15b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/edfb15b) feat: Add new settings for Bull module
 
 
 
