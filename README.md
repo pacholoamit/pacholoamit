@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `6085` commits and made `136` PRs.
+:people_hugging: I contributed to `40` repositories , made `6086` commits and made `132` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#133 Master Deployment](https://github.com/MediaJel/amplication-nestjs-microservices/pull/133) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
-  * [#6b4be81](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6b4be81) feat: Add LiquidM DSP adapter module and service
-* ⏺️ Created new branch feat/add-dsp-reports in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#a3fdca5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a3fdca5) perf: Update CPU and memory settings for staging environment
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#e92ab29](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e92ab29) refactor: Update resource limits in production.yaml
+  * [#91bb613](https://github.com/MediaJel/amplication-nestjs-microservices/commit/91bb613) refactor: Update method names and file structure
+* 🌟 Starred [cerbos/cerbos](https://github.com/cerbos/cerbos)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
+  * [#a9da8c4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a9da8c4) feat: Add LiquidM DSP adapter and service
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
+  * [#32f52a9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/32f52a9) feat: Add support for limiting array in reports output
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
+  * [#104f69b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/104f69b) refactor: Improve data processing in LiquidM DSP adapter
 
 
 
