@@ -30,15 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
-  * [#91bb613](https://github.com/MediaJel/amplication-nestjs-microservices/commit/91bb613) refactor: Update method names and file structure
-* 🌟 Starred [cerbos/cerbos](https://github.com/cerbos/cerbos)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
-  * [#a9da8c4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a9da8c4) feat: Add LiquidM DSP adapter and service
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
-  * [#32f52a9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/32f52a9) feat: Add support for limiting array in reports output
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
-  * [#104f69b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/104f69b) refactor: Improve data processing in LiquidM DSP adapter
+* 💬 Commented on [#6336 Create New Endpoint for All Transaction Events (formerly &#34;Add All Transaction to Attribution Chart&#34;)](https://github.com/MediaJel/mediajel-dashboard/issues/6336) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#141 Adding of Retail ID to Attributed Events Transactions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/141) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#141 Adding of Retail ID to Attributed Events Transactions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/141) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#141 Adding of Retail ID to Attributed Events Transactions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/141) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#141 Adding of Retail ID to Attributed Events Transactions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/141) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
