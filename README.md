@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `6089` commits and made `133` PRs.
+:people_hugging: I contributed to `40` repositories , made `6113` commits and made `133` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
-  * [#454fe6a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/454fe6a) chore: Remove DSP controller and service spec files
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
-  * [#39949ec](https://github.com/MediaJel/amplication-nestjs-microservices/commit/39949ec) fix: Update example value in DSPReportsParams
-* 🔃 Opened [#143 feat/add dsp reports (liquidm)](https://github.com/MediaJel/amplication-nestjs-microservices/pull/143) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 16 files changed `++789 --7`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
-  * [#fbf6c97](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fbf6c97) docs: Add decorators for swagger docs
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
-  * [#9d91606](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9d91606) feat: Update metricsBySegment structure
+* 💬 Commented on [#4819 [DRAFT/WIP] Attributed Events Transactions internal-service endpoint](https://github.com/MediaJel/mediajel-gql-service/issues/4819) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#148 Add `retailId` optional parameter to `/attributed-events/transactions`](https://github.com/MediaJel/amplication-nestjs-microservices/issues/148) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#147 Make ipMaxFrequenceTransactions and innerAttributionWindow optional in `attributed-events/transactions` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/147) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#146 Research into storing data from external APIs](https://github.com/MediaJel/amplication-nestjs-microservices/issues/146) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#48 Create REST API endpoint for DSP adapters](https://github.com/MediaJel/amplication-nestjs-microservices/issues/48) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
