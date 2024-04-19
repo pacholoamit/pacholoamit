@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `6113` commits and made `133` PRs.
+:people_hugging: I contributed to `40` repositories , made `6126` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
-  * [#9c46a15](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9c46a15) feat: Add pagination functionality to DSP reports
-* 💬 Commented on [#4819 [DRAFT/WIP] Attributed Events Transactions internal-service endpoint](https://github.com/MediaJel/mediajel-gql-service/issues/4819) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#148 Add `retailId` optional parameter to `/attributed-events/transactions`](https://github.com/MediaJel/amplication-nestjs-microservices/issues/148) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#147 Make ipMaxFrequenceTransactions and innerAttributionWindow optional in `attributed-events/transactions` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/147) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#146 Research into storing data from external APIs](https://github.com/MediaJel/amplication-nestjs-microservices/issues/146) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🌟 Starred [nalgeon/redka](https://github.com/nalgeon/redka)
+* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#1673d79](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1673d79) Merge pull request #164 from MediaJel/feat/add-swc
+
+feat/ add swc compiler
+  * [#a7da5e9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a7da5e9) refactor: Update SWC builder and add version in package.json
+  * [#bab1627](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bab1627) style: Update formatting in nest-cli and package.json files
+* 🔃 Merged [#164 feat/ add swc compiler](https://github.com/MediaJel/amplication-nestjs-microservices/pull/164) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 10 files changed `++906 --41`
+* 🔃 Opened [#164 feat/ add swc compiler](https://github.com/MediaJel/amplication-nestjs-microservices/pull/164) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 10 files changed `++906 --41`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-swc`
+  * [#a7da5e9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a7da5e9) refactor: Update SWC builder and add version in package.json
 
 
 
