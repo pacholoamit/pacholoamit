@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-dsp-reports`
+  * [#9c46a15](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9c46a15) feat: Add pagination functionality to DSP reports
 * 💬 Commented on [#4819 [DRAFT/WIP] Attributed Events Transactions internal-service endpoint](https://github.com/MediaJel/mediajel-gql-service/issues/4819) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Opened [#148 Add `retailId` optional parameter to `/attributed-events/transactions`](https://github.com/MediaJel/amplication-nestjs-microservices/issues/148) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#147 Make ipMaxFrequenceTransactions and innerAttributionWindow optional in `attributed-events/transactions` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/147) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#146 Research into storing data from external APIs](https://github.com/MediaJel/amplication-nestjs-microservices/issues/146) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#48 Create REST API endpoint for DSP adapters](https://github.com/MediaJel/amplication-nestjs-microservices/issues/48) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
