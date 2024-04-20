@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `6126` commits and made `136` PRs.
+:people_hugging: I contributed to `39` repositories , made `6126` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [n-riesco/ijavascript](https://github.com/n-riesco/ijavascript)
 * 🌟 Starred [nalgeon/redka](https://github.com/nalgeon/redka)
 * ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#1673d79](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1673d79) Merge pull request #164 from MediaJel/feat/add-swc
@@ -41,8 +42,6 @@ feat/ add swc compiler
   * 10 files changed `++906 --41`
 * 🔃 Opened [#164 feat/ add swc compiler](https://github.com/MediaJel/amplication-nestjs-microservices/pull/164) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 10 files changed `++906 --41`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-swc`
-  * [#a7da5e9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a7da5e9) refactor: Update SWC builder and add version in package.json
 
 
 
