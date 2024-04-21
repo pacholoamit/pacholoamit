@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `6126` commits and made `136` PRs.
+:people_hugging: I contributed to `41` repositories , made `6127` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,18 +30,67 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [n-riesco/ijavascript](https://github.com/n-riesco/ijavascript)
-* 🌟 Starred [nalgeon/redka](https://github.com/nalgeon/redka)
-* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#1673d79](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1673d79) Merge pull request #164 from MediaJel/feat/add-swc
+* ➡️ Pushed 568 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/clerk-auth`
+  * [#6bc0071](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6bc0071) [UPDATES] Add deployment for amplication internal service in K8&#39;s
+  * [#b5b502d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b5b502d) refactor(clickhouse): rename PrismaService to ClickhouseService
+  * [#8326828](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8326828) update deps
+  * [#45f2608](https://github.com/MediaJel/amplication-nestjs-microservices/commit/45f2608) add yarn lock
+  * [#465b18e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/465b18e) Amplication build # clsar0wo600mtydufr7vyzsti
 
-feat/ add swc compiler
-  * [#a7da5e9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a7da5e9) refactor: Update SWC builder and add version in package.json
-  * [#bab1627](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bab1627) style: Update formatting in nest-cli and package.json files
-* 🔃 Merged [#164 feat/ add swc compiler](https://github.com/MediaJel/amplication-nestjs-microservices/pull/164) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 10 files changed `++906 --41`
-* 🔃 Opened [#164 feat/ add swc compiler](https://github.com/MediaJel/amplication-nestjs-microservices/pull/164) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 10 files changed `++906 --41`
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/clsar0wo600mtydufr7vyzsti](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/clsar0wo600mtydufr7vyzsti)
+  * [#cb55138](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cb55138) Amplication build # clsar0wo400mnydufpfn1uzil
+Congratulations on your first commit with Amplication! 
+We encourage you to continue exploring the many ways Amplication can supercharge your development. 
+ 
+If you find Amplication useful, please show your support and give our GitHub repo a star ⭐️   
+This simple action helps our open-source project grow and reach more developers like you. 
+Thank you and happy coding!
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/clsar0fj600kbyduf9yukjsv8/builds/clsar0wo400mnydufpfn1uzil](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/clsar0fj600kbyduf9yukjsv8/builds/clsar0wo400mnydufpfn1uzil)
+  * [#cfab881](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cfab881) Amplication build # clsar0wo100mhydufc1c0sn1o
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bgmtm001myd03ddvp3fqw/builds/clsar0wo100mhydufc1c0sn1o](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bgmtm001myd03ddvp3fqw/builds/clsar0wo100mhydufc1c0sn1o)
+  * [#8ee7e4a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8ee7e4a) Merge pull request #13 from MediaJel/amplication-build-cls9h2rvx00h4yduf9lltw5s5
+
+Amplication build 9lltw5s5
+  * [#593a920](https://github.com/MediaJel/amplication-nestjs-microservices/commit/593a920) Amplication build # cls9h2rvx00h4yduf9lltw5s5
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls9h2rvx00h4yduf9lltw5s5](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls9h2rvx00h4yduf9lltw5s5)
+  * [#d420aee](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d420aee) Merge pull request #11 from MediaJel/amplication-build-cls9d7zbi00doydufk66hy7tq
+
+Amplication build k66hy7tq
+  * [#2765ab2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2765ab2) Amplication build # cls9d7zbi00doydufk66hy7tq
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls9d7zbi00doydufk66hy7tq](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls9d7zbi00doydufk66hy7tq)
+  * [#b613840](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b613840) Merge pull request #9 from MediaJel/amplication-build-cls9d4dr400a9yduf9gra92wz
+
+Amplication build 9gra92wz
+  * [#61ac547](https://github.com/MediaJel/amplication-nestjs-microservices/commit/61ac547) Amplication build # cls9d4dr400a9yduf9gra92wz
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls9d4dr400a9yduf9gra92wz](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls9d4dr400a9yduf9gra92wz)
+  * [#2a69a52](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2a69a52) Merge pull request #4 from MediaJel/amplication-build-cls9csuig0009ydufikqimcdk
+
+Amplication build ikqimcdk
+  * [#b25791d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b25791d) Amplication build # cls9csuig0009ydufikqimcdk
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls9csuig0009ydufikqimcdk](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls9csuig0009ydufikqimcdk)
+  * [#44a8c41](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44a8c41) Merge pull request #2 from MediaJel/amplication-build-cls0fabb60007yd41a9vidy5m
+
+Amplication build a9vidy5m
+  * [#6807d0a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6807d0a) Merge pull request #1 from MediaJel/amplication-build-cls0fabb20001yd41x7f0pid3
+
+Amplication build x7f0pid3
+  * [#1928325](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1928325) Amplication build # cls0fabb60007yd41a9vidy5m
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls0fabb60007yd41a9vidy5m](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bfisu0007yd03dy3ry7t3/builds/cls0fabb60007yd41a9vidy5m)
+  * [#49db5e3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/49db5e3) Amplication build # cls0fabb20001yd41x7f0pid3
+
+Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bgmtm001myd03ddvp3fqw/builds/cls0fabb20001yd41x7f0pid3](http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tukpozhk/cls0bgmtm001myd03ddvp3fqw/builds/cls0fabb20001yd41x7f0pid3)
+  * [#8e42cfa](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8e42cfa) Initial commit
+* ⏺️ Created new branch feat/clerk-auth in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [pacholoamit/nvim](https://github.com/pacholoamit/nvim) on branch `master`
+  * [#59e2ffc](https://github.com/pacholoamit/nvim/commit/59e2ffc) feat: Add initial project files and configurations
+* ⏺️ Created new branch master in [pacholoamit/nvim](https://github.com/pacholoamit/nvim)
+* ⏺️ Created new repository  [pacholoamit/nvim](https://github.com/pacholoamit/nvim)
 
 
 
