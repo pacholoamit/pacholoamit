@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `6127` commits and made `136` PRs.
+:people_hugging: I contributed to `41` repositories , made `6128` commits and made `135` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,24 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#fc97e09](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fc97e09) Merge pull request #165 from MediaJel/dependabot/npm_and_yarn/aws-sdk-2.1603.0
+
+chore(deps): bump aws-sdk from 2.1590.0 to 2.1603.0
+  * [#2e31cbe](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2e31cbe) chore(deps): bump aws-sdk from 2.1590.0 to 2.1603.0
+
+Bumps [aws-sdk](https://github.com/aws/aws-sdk-js) from 2.1590.0 to 2.1603.0.
+- [Release notes](https://github.com/aws/aws-sdk-js/releases)
+- [Commits](https://github.com/aws/aws-sdk-js/compare/v2.1590.0...v2.1603.0)
+
+---
+updated-dependencies:
+- dependency-name: aws-sdk
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * ➡️ Pushed 568 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/clerk-auth`
   * [#6bc0071](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6bc0071) [UPDATES] Add deployment for amplication internal service in K8&#39;s
   * [#b5b502d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b5b502d) refactor(clickhouse): rename PrismaService to ClickhouseService
@@ -90,7 +108,6 @@ Build URL: [http://localhost:3001/cls08pm8j0001ydve8nj097ob/cls0b8wb40000yd03tuk
 * ➡️ Pushed 1 commit in [pacholoamit/nvim](https://github.com/pacholoamit/nvim) on branch `master`
   * [#59e2ffc](https://github.com/pacholoamit/nvim/commit/59e2ffc) feat: Add initial project files and configurations
 * ⏺️ Created new branch master in [pacholoamit/nvim](https://github.com/pacholoamit/nvim)
-* ⏺️ Created new repository  [pacholoamit/nvim](https://github.com/pacholoamit/nvim)
 
 
 
