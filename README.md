@@ -30,47 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#166 Research on observability &amp; monitoring for microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/166) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/monitoring-signoz`
-  * [#8e5601c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8e5601c) style: Update .gitignore file with new pattern for .env files
-* #️⃣ Opened [#166 Implement Metrics tracking for microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/166) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#df35357](https://github.com/MediaJel/amplication-nestjs-microservices/commit/df35357) Merge pull request #159 from MediaJel/dependabot/npm_and_yarn/bull-board/api-5.16.0
-
-chore(deps): bump @bull-board/api from 5.15.3 to 5.16.0
-  * [#6173113](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6173113) chore(deps): bump @bull-board/api from 5.15.3 to 5.16.0
-
-Bumps [@bull-board/api](https://github.com/felixmosh/bull-board/tree/HEAD/packages/api) from 5.15.3 to 5.16.0.
-- [Release notes](https://github.com/felixmosh/bull-board/releases)
-- [Changelog](https://github.com/felixmosh/bull-board/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/felixmosh/bull-board/commits/v5.16.0/packages/api)
-
----
-updated-dependencies:
-- dependency-name: &#34;@bull-board/api&#34;
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#fc97e09](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fc97e09) Merge pull request #165 from MediaJel/dependabot/npm_and_yarn/aws-sdk-2.1603.0
-
-chore(deps): bump aws-sdk from 2.1590.0 to 2.1603.0
-  * [#2e31cbe](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2e31cbe) chore(deps): bump aws-sdk from 2.1590.0 to 2.1603.0
-
-Bumps [aws-sdk](https://github.com/aws/aws-sdk-js) from 2.1590.0 to 2.1603.0.
-- [Release notes](https://github.com/aws/aws-sdk-js/releases)
-- [Commits](https://github.com/aws/aws-sdk-js/compare/v2.1590.0...v2.1603.0)
-
----
-updated-dependencies:
-- dependency-name: aws-sdk
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+* #️⃣ Opened [#172 Create basketitems materialized views](https://github.com/MediaJel/amplication-nestjs-microservices/issues/172) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#171 Create signups materialized views](https://github.com/MediaJel/amplication-nestjs-microservices/issues/171) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#170 Create page_view materialized view](https://github.com/MediaJel/amplication-nestjs-microservices/issues/170) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#169 Authorization and Authentication architecture](https://github.com/MediaJel/amplication-nestjs-microservices/issues/169) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#169 Authorization and Authentication architecture](https://github.com/MediaJel/amplication-nestjs-microservices/issues/169) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
