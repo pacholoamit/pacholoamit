@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#172 Create basketitems materialized views](https://github.com/MediaJel/amplication-nestjs-microservices/issues/172) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#171 Create signups materialized views](https://github.com/MediaJel/amplication-nestjs-microservices/issues/171) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#170 Create page_view materialized view](https://github.com/MediaJel/amplication-nestjs-microservices/issues/170) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#169 Authorization and Authentication architecture](https://github.com/MediaJel/amplication-nestjs-microservices/issues/169) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#169 Authorization and Authentication architecture](https://github.com/MediaJel/amplication-nestjs-microservices/issues/169) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#174 Integrations confusions](https://github.com/MediaJel/amplication-nestjs-microservices/issues/174) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
