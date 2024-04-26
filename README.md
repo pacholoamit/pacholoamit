@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `6129` commits and made `135` PRs.
+:people_hugging: I contributed to `41` repositories , made `6130` commits and made `135` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,54 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [delta-io/delta](https://github.com/delta-io/delta)
-* 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🌟 Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)
+* 🔍 Reviewed [#6472 [HOTFIX] [FOR REVIEW] shopify update docs and new generated tag](https://github.com/MediaJel/mediajel-dashboard/pull/6472) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 53 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#a53ce7d](https://github.com/MediaJel/mediajel-tracker/commit/a53ce7d) Merge pull request #363 from MediaJel/srr-test-log-data-sources
+
+test
+  * [#dfb64b6](https://github.com/MediaJel/mediajel-tracker/commit/dfb64b6) test
+  * [#6b64e7d](https://github.com/MediaJel/mediajel-tracker/commit/6b64e7d) Merge pull request #362 from MediaJel/revert-361-srr-log-data-sources
+
+Revert &#34;added logger&#34;
+  * [#2fce863](https://github.com/MediaJel/mediajel-tracker/commit/2fce863) Revert &#34;added logger&#34;
+  * [#15111cb](https://github.com/MediaJel/mediajel-tracker/commit/15111cb) Merge pull request #361 from MediaJel/srr-log-data-sources
+
+added logger
+  * [#a5b27c8](https://github.com/MediaJel/mediajel-tracker/commit/a5b27c8) added logger
+  * [#31859b9](https://github.com/MediaJel/mediajel-tracker/commit/31859b9) Merge pull request #360 from MediaJel/jbjm-revert-shopify-new
+
+revert shopify new
+  * [#7291d3e](https://github.com/MediaJel/mediajel-tracker/commit/7291d3e) revert shopify new
+  * [#d6c7544](https://github.com/MediaJel/mediajel-tracker/commit/d6c7544) Merge pull request #359 from MediaJel/jbjm-shopify-new-one
+
+try shopify new implementation
+  * [#3f6adb2](https://github.com/MediaJel/mediajel-tracker/commit/3f6adb2) try shopify new implementation
+  * [#0d1c7a1](https://github.com/MediaJel/mediajel-tracker/commit/0d1c7a1) Merge pull request #358 from MediaJel/jbjm-shopify-new-one
+
+try shopify new implementation
+  * [#d9021af](https://github.com/MediaJel/mediajel-tracker/commit/d9021af) try shopify new implementation
+  * [#d67d94d](https://github.com/MediaJel/mediajel-tracker/commit/d67d94d) Merge pull request #357 from MediaJel/jbjm-shopify-new
+
+Jbjm shopify new
+  * [#4f7bbad](https://github.com/MediaJel/mediajel-tracker/commit/4f7bbad) try shopify new implementation
+  * [#98b3675](https://github.com/MediaJel/mediajel-tracker/commit/98b3675) try shopify new implementation
+  * [#b7ce571](https://github.com/MediaJel/mediajel-tracker/commit/b7ce571) Merge pull request #356 from MediaJel/revert-355-jbjm-new-shopify
+
+Revert &#34;try shopify new implementation&#34;
+  * [#6993c84](https://github.com/MediaJel/mediajel-tracker/commit/6993c84) Revert &#34;try shopify new implementation&#34;
+  * [#1759048](https://github.com/MediaJel/mediajel-tracker/commit/1759048) Merge pull request #355 from MediaJel/jbjm-new-shopify
+
+try shopify new implementation
+  * [#3da56b1](https://github.com/MediaJel/mediajel-tracker/commit/3da56b1) try shopify new implementation
+  * [#abbf888](https://github.com/MediaJel/mediajel-tracker/commit/abbf888) fix tymber unit price
+* 🔃 Merged [#369 merge to master](https://github.com/MediaJel/mediajel-tracker/pull/369) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 48 files changed `++1450 --1769`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#24386f5](https://github.com/MediaJel/mediajel-tracker/commit/24386f5) Merge pull request #389 from MediaJel/jbjm-shopify-update-tracker
+
+update shopify tracker for new shopify analytics subscribe tracking
+  * [#652ec78](https://github.com/MediaJel/mediajel-tracker/commit/652ec78) update shopify tracker for new shopify analytics subscribe tracking
 
 
 
