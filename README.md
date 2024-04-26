@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [delta-io/delta](https://github.com/delta-io/delta)
 * 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#174 Integrations confusions](https://github.com/MediaJel/amplication-nestjs-microservices/issues/174) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
