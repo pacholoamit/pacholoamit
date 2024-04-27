@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `6143` commits and made `137` PRs.
+:people_hugging: I contributed to `40` repositories , made `6144` commits and made `137` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#9858932](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9858932) Merge pull request #177 from MediaJel/srr-retailId-hotfix
+  * [#106138c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/106138c) fix(retailId-hotfix):modified query for multiple retail ids
+* 🔃 Merged [#177 Modified Query on Retail ID](https://github.com/MediaJel/amplication-nestjs-microservices/pull/177) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++3 --2`
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#ab5e34c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ab5e34c) style: Update conditional assignment for limit and offset
 * ➡️ Pushed 8 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
@@ -45,9 +50,6 @@ FEATURE: Proof-of-concept for fetching a single AWS CloudFront distribution by I
   * [#ea1491c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ea1491c) FEATURE: Fetch a single AWS CloudFront distribution by Id
 * 🔃 Merged [#173 FEATURE: Proof-of-concept for fetching a single AWS CloudFront distribution by Id](https://github.com/MediaJel/amplication-nestjs-microservices/pull/173) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 9 files changed `++14965 --11`
-* 🔍 Reviewed [#173 FEATURE: Proof-of-concept for fetching a single AWS CloudFront distribution by Id](https://github.com/MediaJel/amplication-nestjs-microservices/pull/173) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#862cbfd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/862cbfd) style: Update bull-board versions in package.json
 
 
 
