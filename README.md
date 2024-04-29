@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `6144` commits and made `137` PRs.
+:people_hugging: I contributed to `39` repositories , made `6144` commits and made `137` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,26 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [glanceapp/glance](https://github.com/glanceapp/glance)
+* 🌟 Starred [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
+* 🌟 Starred [winglang/wing](https://github.com/winglang/wing)
+* 🌟 Starred [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr)
 * ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#9858932](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9858932) Merge pull request #177 from MediaJel/srr-retailId-hotfix
   * [#106138c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/106138c) fix(retailId-hotfix):modified query for multiple retail ids
-* 🔃 Merged [#177 Modified Query on Retail ID](https://github.com/MediaJel/amplication-nestjs-microservices/pull/177) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 2 files changed `++3 --2`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#ab5e34c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ab5e34c) style: Update conditional assignment for limit and offset
-* ➡️ Pushed 8 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#2511aa0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2511aa0) Merge pull request #173 from MediaJel/fbl3-feature/white-label-get-cloudfront-distribution
-
-FEATURE: Proof-of-concept for fetching a single AWS CloudFront distribution by Id
-  * [#f78c3b0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f78c3b0) REFACTOR: Use @transform decorator for array, stringify error logger &amp; rename models to entities directory
-  * [#31676a3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/31676a3) CHORE: Merge updates from staging to working feature branch
-  * [#fb8a10d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fb8a10d) BUG: Aggressive linter always fails built-in NestJS type variable, use () symbol instead
-  * [#21ca406](https://github.com/MediaJel/amplication-nestjs-microservices/commit/21ca406) BUG: Type is defined but never used in aliases Cloudfront class
-  * [#e8e6bce](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e8e6bce) BUG: Int is defined but never used  @typescript-eslint/no-unused-vars
-  * [#20bea54](https://github.com/MediaJel/amplication-nestjs-microservices/commit/20bea54) BUG: Fix all lintint errors
-  * [#ea1491c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ea1491c) FEATURE: Fetch a single AWS CloudFront distribution by Id
-* 🔃 Merged [#173 FEATURE: Proof-of-concept for fetching a single AWS CloudFront distribution by Id](https://github.com/MediaJel/amplication-nestjs-microservices/pull/173) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 9 files changed `++14965 --11`
 
 
 
