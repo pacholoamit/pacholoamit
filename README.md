@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 * ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#90bc548](https://github.com/MediaJel/amplication-nestjs-microservices/commit/90bc548) Merge pull request #178 from MediaJel/fbl3-feature/delete-certificate
 
@@ -39,7 +40,6 @@ FEATURE: Delete ACM Certificate by ARN
 * 🔃 Merged [#178 FEATURE: Delete ACM Certificate by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/178) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 4 files changed `++46 --5`
 * 💬 Commented on [#178 FEATURE: Delete ACM Certificate by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/178) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#178 FEATURE: Delete ACM Certificate by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/178) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#178 FEATURE: Delete ACM Certificate by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/178) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
