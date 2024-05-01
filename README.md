@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `6148` commits and made `135` PRs.
+:people_hugging: I contributed to `39` repositories , made `6148` commits and made `136` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
-* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#90bc548](https://github.com/MediaJel/amplication-nestjs-microservices/commit/90bc548) Merge pull request #178 from MediaJel/fbl3-feature/delete-certificate
-
-FEATURE: Delete ACM Certificate by ARN
-  * [#f5eea3d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f5eea3d) BUG: Lint error, certificateArn description is defined but never used in white-label resolver
-  * [#893481c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/893481c) FEATURE: Delete ACM Certificate by ARN
-* 🔃 Merged [#178 FEATURE: Delete ACM Certificate by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/178) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 4 files changed `++46 --5`
-* 💬 Commented on [#178 FEATURE: Delete ACM Certificate by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/178) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#178 FEATURE: Delete ACM Certificate by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/178) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#144 [FOR REVIEW] feat/130 - `/dsp/publish`, `/dsp/publish/{id}/status`, `/dsp/segment` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/144) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
