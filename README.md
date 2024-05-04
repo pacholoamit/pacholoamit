@@ -30,29 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Closed [#168 MS-167 Organization basic info and hierarchy to orgnaization migration](https://github.com/MediaJel/amplication-nestjs-microservices/pull/168) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 8 files changed `++150 --21`
+* 🔍 Reviewed [#168 MS-167 Organization basic info and hierarchy to orgnaization migration](https://github.com/MediaJel/amplication-nestjs-microservices/pull/168) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#193 Take a look at Nexxen DSP issues](https://github.com/MediaJel/amplication-nestjs-microservices/issues/193) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔃 Merged [#186 FEATURE: Fetch AWS ACM by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/186) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 8 files changed `++267 --3`
 * ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#7b584d6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7b584d6) Merge branch &#39;fbl3-feature/update-cloudfront-distribution-function&#39; into staging
-* ➡️ Pushed 8 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `fbl3-feature/update-cloudfront-distribution-function`
-  * [#9f9acce](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9f9acce) feat: Add NexxenProvider module and NexxenProcessor class
-  * [#b95f999](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b95f999) FEATURE: Fetch AWS ACM by ARN
-  * [#8b59035](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8b59035) Merge pull request #155 from MediaJel/feat/dsp-adapter-Nexxen
-
-Feat/dsp adapter nexxen
-  * [#75ca183](https://github.com/MediaJel/amplication-nestjs-microservices/commit/75ca183) feat/DSP_adaptors-NEXXEN
-  * [#17386a6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/17386a6) feat/DSP_adaptors-NEXXEN
-  * [#526ebe9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/526ebe9) feat/DSP_adaptors-NEXXEN
-  * [#61c984d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/61c984d) feat/DSP_adaptors-NEXXEN
-  * [#274a39f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/274a39f) Merge pull request #133 from MediaJel/staging
-
-Master Deployment
-* 🔍 Reviewed [#186 FEATURE: Fetch AWS ACM by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/186) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#bc33f68](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bc33f68) Merge pull request #183 from MediaJel/fbl3-feature/update-cloudfront-distribution-function
-
-FEATURE: Update AWS Cloudfront by distribution Id &amp; refactor request certificate ACM
-  * [#b50ab32](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b50ab32) FEATURE: Update AWS Cloudfront by distribution Id &amp; refactor request certificate ACM
 
 
 
