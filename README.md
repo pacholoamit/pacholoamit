@@ -30,14 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons)
 * 🔃 Closed [#168 MS-167 Organization basic info and hierarchy to orgnaization migration](https://github.com/MediaJel/amplication-nestjs-microservices/pull/168) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 8 files changed `++150 --21`
 * 🔍 Reviewed [#168 MS-167 Organization basic info and hierarchy to orgnaization migration](https://github.com/MediaJel/amplication-nestjs-microservices/pull/168) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#193 Take a look at Nexxen DSP issues](https://github.com/MediaJel/amplication-nestjs-microservices/issues/193) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔃 Merged [#186 FEATURE: Fetch AWS ACM by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/186) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 8 files changed `++267 --3`
-* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#7b584d6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7b584d6) Merge branch &#39;fbl3-feature/update-cloudfront-distribution-function&#39; into staging
 
 
 
