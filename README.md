@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `38` repositories , made `6174` commits and made `137` PRs.
+:people_hugging: I contributed to `38` repositories , made `6186` commits and made `137` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,19 +30,45 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons)
-* 🔃 Closed [#168 MS-167 Organization basic info and hierarchy to orgnaization migration](https://github.com/MediaJel/amplication-nestjs-microservices/pull/168) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 8 files changed `++150 --21`
-* 🔍 Reviewed [#168 MS-167 Organization basic info and hierarchy to orgnaization migration](https://github.com/MediaJel/amplication-nestjs-microservices/pull/168) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#193 Take a look at Nexxen DSP issues](https://github.com/MediaJel/amplication-nestjs-microservices/issues/193) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Merged [#186 FEATURE: Fetch AWS ACM by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/186) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 8 files changed `++267 --3`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#f08e7d6](https://github.com/pacholoamit/homelab-infrastructure/commit/f08e7d6) Merge pull request #90 from pacholoamit/renovate/velero-velero-plugin-for-csi-0.7.x
+
+chore(deps): update container image velero/velero-plugin-for-csi to v0.7.1
+  * [#c644d1c](https://github.com/pacholoamit/homelab-infrastructure/commit/c644d1c) chore(deps): update container image velero/velero-plugin-for-csi to v0.7.1
+* 🔃 Merged [#90 chore(deps): update container image velero/velero-plugin-for-csi to v0.7.1](https://github.com/pacholoamit/homelab-infrastructure/pull/90) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 2 files changed `++2 --2`
+* 🔃 Closed [#82 chore(deps): update helm release rook-ceph to 1.14.x](https://github.com/pacholoamit/homelab-infrastructure/pull/82) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#3f2e662](https://github.com/pacholoamit/homelab-infrastructure/commit/3f2e662) Merge pull request #86 from pacholoamit/renovate/cloudflare-cloudflared-2024.x
+
+chore(deps): update container image cloudflare/cloudflared to v2024.4.1
+  * [#bf9364c](https://github.com/pacholoamit/homelab-infrastructure/commit/bf9364c) chore(deps): update container image cloudflare/cloudflared to v2024.4.1
+* 🔃 Merged [#86 chore(deps): update container image cloudflare/cloudflared to v2024.4.1](https://github.com/pacholoamit/homelab-infrastructure/pull/86) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
 
 
 
 ### Recent Articles & Youtube tutorials 📚
 
 **[✒️ Recent posts from dev.to](https://dev.to/pacholoamit)**
+<table>
+  <tr>
+    <td rowspan="2" width="280">
+      <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flge8esnf6tohremh681f.png" alt="" width="280">
+    </td>
+    <th>
+      <a href="https://dev.to/pacholoamit/getting-started-with-typescript-generics-40a">Getting started with Typescript Generics 🚀</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      TypeScript has revolutionized the way developers write and manage JavaScript code, offering type...
+      <br>
+      <i>Published on 5 May 2024</i>
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td rowspan="2" width="280">
@@ -74,23 +100,6 @@
       We&#39;re going to take a look at VS Code Server which is currently in private preview. I&#39;m going to walk...
       <br>
       <i>Published on 6 Sept 2022</i>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td rowspan="2" width="280">
-      <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fooly5198oq7rxhce94e7.png" alt="" width="280">
-    </td>
-    <th>
-      <a href="https://dev.to/pacholoamit/one-of-the-coolest-features-of-go-embed-reactjs-into-a-go-binary-41e9">One of the coolest features of Go. Embed ReactJS into a binary with Go</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Today we&#39;re going to attempt to embed a React Application into a Go binary. Please watch the youtube...
-      <br>
-      <i>Published on 18 Jul 2022</i>
     </td>
   </tr>
 </table>
