@@ -53,7 +53,7 @@ jobs:
           config_timezone: Asia/Manila
           output_condition: data-changed
           base: ""
-          config_order: achievements, posts, wakatime, stackoverflow, notable, stars
+          config_order: pagespeed, achievements, posts, wakatime, stackoverflow, notable, stars
           clean_workflows: all
           # Posts plugin
           #plugin_posts: yes
