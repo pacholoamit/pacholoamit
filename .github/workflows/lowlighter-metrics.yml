@@ -62,6 +62,11 @@ jobs:
           #plugin_posts_covers: yes
           #plugin_posts_limit: 5
           #plugin_posts_user: pacholoamit
+          # Pagespeed plugin
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_url: https://www.pacholoamit.com
+          
           # Achievements plugin
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -107,126 +112,3 @@ jobs:
           plugin_activity_skipped: pacholoamit, Hashnode-Blogs
 
 
-      # - name: Render Insights
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     config_output: insights
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-
-      # - name: Wakatime Plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/wakatime.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_wakatime: yes
-      #     plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-      #     plugin_wakatime_days: 30
-      #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
-      #     plugin_wakatime_limit: 0
-
-      # - name: Stackoverflow plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/stackoverflow.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_stackoverflow: yes
-      #     plugin_stackoverflow_user: 14199991
-      #     plugin_stackoverflow_sections: answers-top, answers-recent
-
-      # - name: Lines plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/lines.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_lines: yes
-
-      # - name: Notable contributions plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/notable.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_notable: yes
-      #     plugin_notable_indepth: yes
-      #     plugin_notable_types: commit, pull_request, issue
-      #     plugin_notable_repositories: yes
-
-      # - name: Achievements plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/achievements.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_achievements: yes
-
-      # - name: People plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/people.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_people: yes
-
-      # - name: Followup plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/followup.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_followup: yes
-      #     plugin_followup_indepth: yes
-
-      # - name: Habits plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/habits.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_habits: yes
-      #     plugin_habits_from: 1000
-      #     plugin_habits_days: 30
-      #     plugin_habits_facts: yes
-      #     plugin_habits_charts: yes
-      #     plugin_habits_charts_type: chartist
-      #     plugin_habits_trim: yes
-
-      # - name: Stars plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/stars.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_stars: yes
-
-      # - name: IsoCalendar plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/isocalendar.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_isocalendar: yes
-      #     plugin_isocalendar_duration: full-year
-
-      # - name: Languages plugin
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: assets/languages.svg
-      #     config_timezone: Asia/Manila
-      #     token: ${{ secrets.GH_TOKEN }}
-      #     base: ""
-      #     plugin_languages: yes
-      #     plugin_languages_indepth: yes
