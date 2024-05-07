@@ -30,6 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#190 FEATURE: Create dashboard &amp; collector Cloudfront Distribution create function](https://github.com/MediaJel/amplication-nestjs-microservices/pull/190) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#190 FEATURE: Create dashboard &amp; collector Cloudfront Distribution create function](https://github.com/MediaJel/amplication-nestjs-microservices/pull/190) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#190 FEATURE: Create dashboard &amp; collector Cloudfront Distribution create function](https://github.com/MediaJel/amplication-nestjs-microservices/pull/190) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#b3e1d98](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b3e1d98) Merge pull request #192 from MediaJel/fbl3-feature/fetch-aws-acm-by-arn
 
@@ -37,10 +40,6 @@ FEATURE: Get a single AWS ACM by ARN
   * [#a328235](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a328235) FEATURE: Get a single AWS ACM by ARN
 * 🔃 Merged [#192 FEATURE: Get a single AWS ACM by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/192) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 4 files changed `++94 --18`
-* 🔍 Reviewed [#192 FEATURE: Get a single AWS ACM by ARN](https://github.com/MediaJel/amplication-nestjs-microservices/pull/192) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#200 Research into Clickpipes for S3 data loading aside from Lambdas](https://github.com/MediaJel/amplication-nestjs-microservices/issues/200) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 35 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#9d604d9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9d604d9) Merge branch &#39;staging&#39; of github.com:MediaJel/amplication-nestjs-microservices into vlm-130-dsp-publish-endpoint
 
 
 
