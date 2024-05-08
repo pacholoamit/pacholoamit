@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [apache/hertzbeat](https://github.com/apache/hertzbeat)
 * ➡️ Pushed 16 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-identity`
   * [#50b3cd4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/50b3cd4) Merge branch &#39;staging&#39; into feat/add-identity
 * 🔃 Opened [#203 refactor: Remove unused code and update audience constants](https://github.com/MediaJel/amplication-nestjs-microservices/pull/203) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
@@ -37,8 +38,6 @@
 * ⏺️ Created new branch feat/add-identity in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#5a38635](https://github.com/MediaJel/mediajel-tracker/commit/5a38635) fix: Update error handling to stringify error messages
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#d5ff0d8](https://github.com/MediaJel/mediajel-tracker/commit/d5ff0d8) style: Update error tracking method in BigCommerce data source
 
 
 
