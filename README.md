@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `38` repositories , made `6203` commits and made `132` PRs.
+:people_hugging: I contributed to `38` repositories , made `6204` commits and made `132` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#a435283](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a435283) Merge pull request #199 from MediaJel/fbl3-feature/fetch-all-acm-and-cloudfront-distributions
+  * [#a7b7ec3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a7b7ec3) Fix merge conflicts
+  * [#488df25](https://github.com/MediaJel/amplication-nestjs-microservices/commit/488df25) FEATURE: List all AWS certificates &amp; cloudfront distributions
+* 🔃 Merged [#199 FEATURE: List all AWS certificates &amp; cloudfront distributions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/199) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 7 files changed `++201 --5`
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#12784f3](https://github.com/MediaJel/mediajel-tracker/commit/12784f3) feat: Add advertiserName to liquidm data
 * #️⃣ Closed [#6415 Update Shopify tracker documentation on dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/6415) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Closed [#148 Add `retailId` optional parameter to `/attributed-events/transactions`](https://github.com/MediaJel/amplication-nestjs-microservices/issues/148) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#147 Make ipMaxFrequenceTransactions and innerAttributionWindow optional in `attributed-events/transactions` endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/147) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#122 Add attributed-events endpoint to microservices library in gql-service](https://github.com/MediaJel/amplication-nestjs-microservices/issues/122) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
