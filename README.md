@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `38` repositories , made `6216` commits and made `133` PRs.
+:people_hugging: I contributed to `38` repositories , made `6223` commits and made `134` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,28 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [siglens/siglens](https://github.com/siglens/siglens)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#f5cf21c](https://github.com/MediaJel/mediajel-tracker/commit/f5cf21c) style: fix typo in currency variable name
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#eee5e7b](https://github.com/MediaJel/mediajel-tracker/commit/eee5e7b) remove track error
-* 🔍 Reviewed [#4916 flag for utilizing api and non api for processing dsp](https://github.com/MediaJel/mediajel-gql-service/pull/4916) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#4916 flag for utilizing api and non api for processing dsp](https://github.com/MediaJel/mediajel-gql-service/pull/4916) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#009dfaa](https://github.com/MediaJel/amplication-nestjs-microservices/commit/009dfaa) Merge pull request #219 from MediaJel/feat/audience-change-structure
+
+feat(audience)!: BREAKING CHANGE, change audience structure
+  * [#f370797](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f370797) feat(audience)!: BREAKING CHANGE, change audience structure
+* 🔃 Merged [#219 feat(audience)!: BREAKING CHANGE, change audience structure](https://github.com/MediaJel/amplication-nestjs-microservices/pull/219) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++6793 --52`
+* 🔃 Opened [#219 feat(audience)!: BREAKING CHANGE, change audience structure](https://github.com/MediaJel/amplication-nestjs-microservices/pull/219) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++6793 --52`
+* ⏺️ Created new branch feat/audience-change-structure in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 9 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#ca08f28](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ca08f28) Merge pull request #212 from MediaJel/jbjm-tracker-endpoints
+
+feat/tracker endpoints
+  * [#00b1169](https://github.com/MediaJel/amplication-nestjs-microservices/commit/00b1169) style: Remove unnecessary class-validator decorators
+  * [#8cdfac1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8cdfac1) feat: Add events tracker service and controller
+  * [#1a47bf5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1a47bf5) feat(tracker): add update tracker logic
+  * [#ea9bcd2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ea9bcd2) feat: Add ImpressionsTracker CRUD operations
+  * [#0a56115](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0a56115) refactor: environments on s3
+  * [#e70c555](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e70c555) refactor: tracker failing ci
+  * [#9d4e707](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9d4e707) feat(api): crud endpoints for tracker with impression and event tag
+  * [#157551d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/157551d) feat: tracking endpoints to be continued
 
 
 
