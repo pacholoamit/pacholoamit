@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `6798` commits and made `185` PRs.
+:people_hugging: I contributed to `39` repositories , made `6802` commits and made `185` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,32 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#2617c75](https://github.com/pacholoamit/pachtop/commit/2617c75) ci: Update GitHub Actions workflow settings
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#296a7f6](https://github.com/pacholoamit/pachtop/commit/296a7f6) fix: Update version to 0.9.8-1 in files
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#7202333](https://github.com/pacholoamit/pachtop/commit/7202333) ci: Update workflows for improved build configuration
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#db6518e](https://github.com/pacholoamit/pachtop/commit/db6518e) chore: Remove unnecessary branch in release workflow
 * 🔃 Opened [#185 master](https://github.com/pacholoamit/pachtop/pull/185) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
   * 34 files changed `++597 --128`
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#fe8dddc](https://github.com/pacholoamit/pachtop/commit/fe8dddc) feat: Update version to 0.9.8-alpha.1
-* ➡️ Pushed 15 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#c9cbc14](https://github.com/pacholoamit/pachtop/commit/c9cbc14) Merge pull request #184 from pacholoamit/feat/minor-ui-improvements
-
-feat/minor ui improvements
-  * [#5594d00](https://github.com/pacholoamit/pachtop/commit/5594d00) refactor: Remove console.log statements and optimize code
-  * [#faf3cb8](https://github.com/pacholoamit/pachtop/commit/faf3cb8) fix: Update navigation logic in NavbarOptions
-  * [#b0d7f97](https://github.com/pacholoamit/pachtop/commit/b0d7f97) feat: Add forward and backward history buttons
-  * [#d473537](https://github.com/pacholoamit/pachtop/commit/d473537) docs: Add TODO comment for navigation optimization
-  * [#beeb2ee](https://github.com/pacholoamit/pachtop/commit/beeb2ee) refactor: Improve canGoForward calculation efficiency
-  * [#3b98fda](https://github.com/pacholoamit/pachtop/commit/3b98fda) feat: Add navigation history component
-  * [#c287b70](https://github.com/pacholoamit/pachtop/commit/c287b70) style: Remove unnecessary code in NavbarOption component
-  * [#fc9cb7d](https://github.com/pacholoamit/pachtop/commit/fc9cb7d) feat: Enable auto-start on first run
-  * [#aaec098](https://github.com/pacholoamit/pachtop/commit/aaec098) docs: Add persistence implementation note
-  * [#ab0ff4a](https://github.com/pacholoamit/pachtop/commit/ab0ff4a) feat(preferences): Add swap resource widget to preferences store
-  * [#c691181](https://github.com/pacholoamit/pachtop/commit/c691181) refactor: Improve toggle functionality with createToggle function
-  * [#587b550](https://github.com/pacholoamit/pachtop/commit/587b550) feat: Add &#34;Used&#34; vs &#34;Free&#34; indicators for footer widgets
-  * [#30ad0de](https://github.com/pacholoamit/pachtop/commit/30ad0de) feat: Update footer component with new indicator in Mantine core
-  * [#b5cbd0b](https://github.com/pacholoamit/pachtop/commit/b5cbd0b) feat: Add free percentage to memory, swap, and disk structures
-* 🔃 Merged [#183 feat/implement persistent preferences](https://github.com/pacholoamit/pachtop/pull/183) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 23 files changed `++584 --115`
-* 🔃 Merged [#184 feat/minor ui improvements](https://github.com/pacholoamit/pachtop/pull/184) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 23 files changed `++584 --115`
 
 
 
