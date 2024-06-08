@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `6802` commits and made `185` PRs.
+:people_hugging: I contributed to `39` repositories , made `6809` commits and made `185` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#2617c75](https://github.com/pacholoamit/pachtop/commit/2617c75) ci: Update GitHub Actions workflow settings
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#296a7f6](https://github.com/pacholoamit/pachtop/commit/296a7f6) fix: Update version to 0.9.8-1 in files
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#7202333](https://github.com/pacholoamit/pachtop/commit/7202333) ci: Update workflows for improved build configuration
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#db6518e](https://github.com/pacholoamit/pachtop/commit/db6518e) chore: Remove unnecessary branch in release workflow
-* 🔃 Opened [#185 master](https://github.com/pacholoamit/pachtop/pull/185) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 34 files changed `++597 --128`
+* 🔃 Closed [#296 Scrape DSP Campaign](https://github.com/MediaJel/amplication-nestjs-microservices/pull/296) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 24 files changed `++990 --22`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `ScrapeDSPCampaigns-new`
+  * [#633aede](https://github.com/MediaJel/amplication-nestjs-microservices/commit/633aede) docs: Add interface implementation TODOs
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `ScrapeDSPCampaigns-new`
+  * [#c3a348f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c3a348f) refactor: Remove commented out code
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `ScrapeDSPCampaigns-new`
+  * [#5b906e5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5b906e5) feat: Add logging for campaign discovery
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `ScrapeDSPCampaigns-new`
+  * [#89a6b30](https://github.com/MediaJel/amplication-nestjs-microservices/commit/89a6b30) refactor: Update Nexxen DTOs and services to use Dtos
 
 
 
