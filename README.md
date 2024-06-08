@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `6809` commits and made `185` PRs.
+:people_hugging: I contributed to `39` repositories , made `6836` commits and made `190` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#296 Scrape DSP Campaign](https://github.com/MediaJel/amplication-nestjs-microservices/pull/296) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 24 files changed `++990 --22`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `ScrapeDSPCampaigns-new`
-  * [#633aede](https://github.com/MediaJel/amplication-nestjs-microservices/commit/633aede) docs: Add interface implementation TODOs
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `ScrapeDSPCampaigns-new`
-  * [#c3a348f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c3a348f) refactor: Remove commented out code
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `ScrapeDSPCampaigns-new`
-  * [#5b906e5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5b906e5) feat: Add logging for campaign discovery
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `ScrapeDSPCampaigns-new`
-  * [#89a6b30](https://github.com/MediaJel/amplication-nestjs-microservices/commit/89a6b30) refactor: Update Nexxen DTOs and services to use Dtos
+* 🔃 Opened [#190 chore/ui improvements](https://github.com/pacholoamit/pachtop/pull/190) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 8 files changed `++64 --64`
+* ⏺️ Created new branch chore/ui-improvements in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#196c373](https://github.com/pacholoamit/pachtop/commit/196c373) style: Update import statements to use single quotes
+* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#28e9fc5](https://github.com/pacholoamit/pachtop/commit/28e9fc5) Merge pull request #189 from pacholoamit/chore/add-eslintrc
+
+chore/add eslintrc
+  * [#61c37d2](https://github.com/pacholoamit/pachtop/commit/61c37d2) feat: Add eslint-plugin-no-relative-import-paths &#34;^1.5.4&#34;
+  * [#39c3817](https://github.com/pacholoamit/pachtop/commit/39c3817) feat: Add husky prepare script for linting and formatting
+  * [#2906ed4](https://github.com/pacholoamit/pachtop/commit/2906ed4) chore: remove unused commits
+  * [#3874c21](https://github.com/pacholoamit/pachtop/commit/3874c21) refactor: Remove unused dynamic route in useRouteHandler
+* 🔃 Merged [#189 chore/add eslintrc](https://github.com/pacholoamit/pachtop/pull/189) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 430 files changed `++4763 --259`
 
 
 
