@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `6847` commits and made `191` PRs.
+:people_hugging: I contributed to `39` repositories , made `6875` commits and made `193` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,26 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components)
-* 🔃 Opened [#191 feat/implement db](https://github.com/pacholoamit/pachtop/pull/191) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 6 files changed `++2041 --52`
-* ⏺️ Created new branch feat/implement-db in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 11 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#9666e7f](https://github.com/pacholoamit/pachtop/commit/9666e7f) Merge pull request #190 from pacholoamit/chore/ui-improvements
-
-chore/ui improvements
-  * [#7db4e6c](https://github.com/pacholoamit/pachtop/commit/7db4e6c) feat(pie-chart): Add plot options for pie chart
-  * [#f5c5dca](https://github.com/pacholoamit/pachtop/commit/f5c5dca) feat: Add ProcessesInsights component and MultiTables page
-  * [#3c4def1](https://github.com/pacholoamit/pachtop/commit/3c4def1) chore: add boilerplate for disk
-  * [#9241f54](https://github.com/pacholoamit/pachtop/commit/9241f54) style: Update import statements to use consistent quotes
-  * [#bc7a138](https://github.com/pacholoamit/pachtop/commit/bc7a138) refactor: Rename comparitor to comparator in file names and code
-  * [#8054a7c](https://github.com/pacholoamit/pachtop/commit/8054a7c) feat: make CPU usage work for metrics comparator
-  * [#f770e8a](https://github.com/pacholoamit/pachtop/commit/f770e8a) refactor: Update notification utility to use new notification library
-  * [#383e2b0](https://github.com/pacholoamit/pachtop/commit/383e2b0) fix(processes): Update method name to &#39;processes_by_name&#39;
-  * [#1497148](https://github.com/pacholoamit/pachtop/commit/1497148) fix: kill process function
-  * [#a6f6aed](https://github.com/pacholoamit/pachtop/commit/a6f6aed) style: Update import statements to use single quotes
-* 🔃 Merged [#190 chore/ui improvements](https://github.com/pacholoamit/pachtop/pull/190) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 19 files changed `++696 --524`
+* 🌟 Starred [Platane/snk](https://github.com/Platane/snk)
+* 🌟 Starred [Platane/snk](https://github.com/Platane/snk)
+* 🌟 Starred [Platane/snk](https://github.com/Platane/snk)
+* 🌟 Starred [Platane/snk](https://github.com/Platane/snk)
+* 🌟 Starred [Platane/snk](https://github.com/Platane/snk)
 
 
 
