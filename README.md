@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `6891` commits and made `194` PRs.
+:people_hugging: I contributed to `39` repositories , made `6898` commits and made `199` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,35 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 16 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#8f19f12](https://github.com/pacholoamit/pachtop/commit/8f19f12) Merge pull request #194 from pacholoamit/chore/tauri-v2
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#8c48096](https://github.com/pacholoamit/pachtop/commit/8c48096) Merge pull request #199 from pacholoamit/master
 
-chore/tauri v2
-  * [#8e2dbac](https://github.com/pacholoamit/pachtop/commit/8e2dbac) refactor: Remove idx property from routes array
-  * [#d20e23a](https://github.com/pacholoamit/pachtop/commit/d20e23a) style: update import statements and card background color
-  * [#756212a](https://github.com/pacholoamit/pachtop/commit/756212a) refactor: Simplify tray menu by removing unnecessary item
-  * [#913b600](https://github.com/pacholoamit/pachtop/commit/913b600) feat: Add tray icon to the application
-  * [#2830c6d](https://github.com/pacholoamit/pachtop/commit/2830c6d) feat: Add show functionality to tray menu and icon
-  * [#261cd36](https://github.com/pacholoamit/pachtop/commit/261cd36) feat: Update app descriptions for Pachtop
-  * [#33e71fd](https://github.com/pacholoamit/pachtop/commit/33e71fd) fix: Fix types in commands file
-  * [#844608a](https://github.com/pacholoamit/pachtop/commit/844608a) fix: Update import path for Tauri API to core
-  * [#6ba23fb](https://github.com/pacholoamit/pachtop/commit/6ba23fb) feat: Add &#39;store&#39; capability to migrated and schema files
-  * [#bb5d496](https://github.com/pacholoamit/pachtop/commit/bb5d496) refactor: Remove update checking and installation code
-  * [#f36beeb](https://github.com/pacholoamit/pachtop/commit/f36beeb) feat: Add tray icon with quit option
-  * [#e7c700d](https://github.com/pacholoamit/pachtop/commit/e7c700d) style: Update function parameters in app.rs
-  * [#3c6fe7b](https://github.com/pacholoamit/pachtop/commit/3c6fe7b) refactor: Refactor window emissions to use AppHandle
-  * [#66aa432](https://github.com/pacholoamit/pachtop/commit/66aa432) chore: migrate to v2
-  * [#21b6614](https://github.com/pacholoamit/pachtop/commit/21b6614) refactor: Update Tauri dependencies and plugins versions
-* 🔃 Merged [#194 chore/tauri v2](https://github.com/pacholoamit/pachtop/pull/194) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 38 files changed `++6078 --3817`
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `chore/tauri-v2`
-  * [#8e2dbac](https://github.com/pacholoamit/pachtop/commit/8e2dbac) refactor: Remove idx property from routes array
-  * [#d20e23a](https://github.com/pacholoamit/pachtop/commit/d20e23a) style: update import statements and card background color
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `chore/tauri-v2`
-  * [#756212a](https://github.com/pacholoamit/pachtop/commit/756212a) refactor: Simplify tray menu by removing unnecessary item
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `chore/tauri-v2`
-  * [#913b600](https://github.com/pacholoamit/pachtop/commit/913b600) feat: Add tray icon to the application
-  * [#2830c6d](https://github.com/pacholoamit/pachtop/commit/2830c6d) feat: Add show functionality to tray menu and icon
+refactor: Update type casting in commands functions
+  * [#f09f239](https://github.com/pacholoamit/pachtop/commit/f09f239) refactor: Update type casting in commands functions
+* 🔃 Merged [#199 refactor: Update type casting in commands functions](https://github.com/pacholoamit/pachtop/pull/199) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 1 file changed `++4 --4`
+* 🔃 Opened [#199 refactor: Update type casting in commands functions](https://github.com/pacholoamit/pachtop/pull/199) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 1 file changed `++4 --4`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#f09f239](https://github.com/pacholoamit/pachtop/commit/f09f239) refactor: Update type casting in commands functions
+* 🔃 Merged [#198 master](https://github.com/pacholoamit/pachtop/pull/198) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 493 files changed `++19727 --2758`
 
 
 
