@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `6900` commits and made `194` PRs.
+:people_hugging: I contributed to `39` repositories , made `6905` commits and made `197` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM)
-* 🌟 Starred [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX)
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#eff99cc](https://github.com/MediaJel/serverless-functions/commit/eff99cc) Merge pull request #44 from MediaJel/feat/failed-lambda-handler
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#d54fc03](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d54fc03) Merge pull request #301 from MediaJel/fbl3-refactor/set-american-price-class-only-on-cloudfront-distribution
 
-fix/ lambda destination not running on deployment
-  * [#df358a0](https://github.com/MediaJel/serverless-functions/commit/df358a0) fix/ lambda destination not running on deployment
-* 🔃 Merged [#44 fix/ lambda destination not running on deployment](https://github.com/MediaJel/serverless-functions/pull/44) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 1 file changed `++8 --2`
-* 🔍 Reviewed [#303 Comment demograph Services](https://github.com/MediaJel/amplication-nestjs-microservices/pull/303) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+REFACTOR: Set Price Class to America &amp; Europe only
+  * [#f7d6f79](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f7d6f79) REFACTOR: Set Price Class to America &amp; Europe only
+* 🔃 Merged [#301 REFACTOR: Set Price Class to America &amp; Europe only](https://github.com/MediaJel/amplication-nestjs-microservices/pull/301) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++1 --1`
+* 🔃 Opened [#315 feat/implement segment creation on the tag](https://github.com/MediaJel/amplication-nestjs-microservices/pull/315) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 7 files changed `++66 --35`
+* ⏺️ Created new branch feat/implement-segment-creation-on-the-tag in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#234 ICF Added app id on Impression tracker Entity](https://github.com/MediaJel/amplication-nestjs-microservices/issues/234) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
