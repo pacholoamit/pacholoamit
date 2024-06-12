@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [xander-codepunk/Hp-G4-Opencore-EFI-Sonoma](https://github.com/xander-codepunk/Hp-G4-Opencore-EFI-Sonoma)
 * ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#d54fc03](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d54fc03) Merge pull request #301 from MediaJel/fbl3-refactor/set-american-price-class-only-on-cloudfront-distribution
 
@@ -40,7 +41,6 @@ REFACTOR: Set Price Class to America &amp; Europe only
 * 🔃 Opened [#315 feat/implement segment creation on the tag](https://github.com/MediaJel/amplication-nestjs-microservices/pull/315) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 7 files changed `++66 --35`
 * ⏺️ Created new branch feat/implement-segment-creation-on-the-tag in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#234 ICF Added app id on Impression tracker Entity](https://github.com/MediaJel/amplication-nestjs-microservices/issues/234) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
