@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `6910` commits and made `197` PRs.
+:people_hugging: I contributed to `41` repositories , made `6911` commits and made `199` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#299 Research on adding the following to the `/tracker/environments/events` payload in microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/299) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#299 Research on adding the following to the `/tracker/environments/events` payload in microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/299) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#298 Research into how we can implement integrations documentation in the microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/298) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#320 Mirror Clickhouse tables/views with Snowflake tables/views](https://github.com/MediaJel/amplication-nestjs-microservices/issues/320) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#430 Research into custom integrations with fewer interactions](https://github.com/MediaJel/mediajel-tracker/issues/430) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/fixes-required-post-v2`
+  * [#8151b12](https://github.com/pacholoamit/pachtop/commit/8151b12) update macos windows management
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/fixes-required-post-v2`
+  * [#a4991e2](https://github.com/pacholoamit/pachtop/commit/a4991e2) style: Comment out unused steps in test workflow
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/fixes-required-post-v2`
+  * [#40eff23](https://github.com/pacholoamit/pachtop/commit/40eff23) style: update node version in GitHub Actions workflow
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/fixes-required-post-v2`
+  * [#3ba661e](https://github.com/pacholoamit/pachtop/commit/3ba661e) fix: Update tauri-action version and environment variables
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/fixes-required-post-v2`
+  * [#4f30a99](https://github.com/pacholoamit/pachtop/commit/4f30a99) build: Update tauri-action to dev version
 
 
 
