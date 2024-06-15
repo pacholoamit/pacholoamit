@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `6926` commits and made `202` PRs.
+:people_hugging: I contributed to `41` repositories , made `6926` commits and made `203` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#663d7d4](https://github.com/pacholoamit/pachtop/commit/663d7d4) Merge pull request #205 from pacholoamit/feat/improve-macos-support
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#cebf1eb](https://github.com/MediaJel/serverless-functions/commit/cebf1eb) Merge pull request #46 from MediaJel/fbl3-devops/prevent-recreation-of-manifest-manager-sns-topics
 
-refactor: Update platform settings for macOS and add new OS enums
-  * [#0f71f7e](https://github.com/pacholoamit/pachtop/commit/0f71f7e) refactor: Update platform settings for macOS and add new OS enums
-* 🔃 Merged [#205 refactor: Update platform settings for macOS and add new OS enums](https://github.com/pacholoamit/pachtop/pull/205) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 3 files changed `++122 --0`
-* 🔃 Opened [#205 refactor: Update platform settings for macOS and add new OS enums](https://github.com/pacholoamit/pachtop/pull/205) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 3 files changed `++122 --0`
-* ⏺️ Created new branch feat/improve-macos-support in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* 🌟 Starred [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
+DEVOPS: Prevent re-creation of Manifest Manager SNS topics
+  * [#9725dde](https://github.com/MediaJel/serverless-functions/commit/9725dde) DEVOPS: Prevent re-creation of Manifest Manager SNS topics
+* 🔃 Merged [#46 DEVOPS: Prevent re-creation of Manifest Manager SNS topics](https://github.com/MediaJel/serverless-functions/pull/46) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 1 file changed `++0 --20`
+* 🌟 Starred [warpstreamlabs/bento](https://github.com/warpstreamlabs/bento)
+* 🔃 Opened [#2 Feat/add device](https://github.com/MediaJel/snowplow-react-native-tracker/pull/2) in [MediaJel/snowplow-react-native-tracker](https://github.com/MediaJel/snowplow-react-native-tracker)
+  * 10 files changed `++18733 --26576`
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-react-native-tracker](https://github.com/MediaJel/snowplow-react-native-tracker) on branch `feat/add-device-id`
+  * [#9195dfc](https://github.com/MediaJel/snowplow-react-native-tracker/commit/9195dfc) fix: Update condition to check for ad tracking limitation
 
 
 
