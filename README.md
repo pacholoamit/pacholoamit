@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [microsoft/windows-rs](https://github.com/microsoft/windows-rs)
 * 🔃 Opened [#206 feat/mobile](https://github.com/pacholoamit/pachtop/pull/206) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
   * 51 files changed `++14065 --1`
 * ⏺️ Created new branch feat/mobile in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
@@ -40,7 +41,6 @@ DEVOPS: Prevent re-creation of Manifest Manager SNS topics
   * [#9725dde](https://github.com/MediaJel/serverless-functions/commit/9725dde) DEVOPS: Prevent re-creation of Manifest Manager SNS topics
 * 🔃 Merged [#46 DEVOPS: Prevent re-creation of Manifest Manager SNS topics](https://github.com/MediaJel/serverless-functions/pull/46) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
   * 1 file changed `++0 --20`
-* 🌟 Starred [warpstreamlabs/bento](https://github.com/warpstreamlabs/bento)
 
 
 
