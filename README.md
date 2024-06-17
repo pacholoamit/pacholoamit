@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `6926` commits and made `204` PRs.
+:people_hugging: I contributed to `41` repositories , made `6940` commits and made `206` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,31 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [microsoft/windows-rs](https://github.com/microsoft/windows-rs)
-* 🔃 Opened [#206 feat/mobile](https://github.com/pacholoamit/pachtop/pull/206) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 51 files changed `++14065 --1`
-* ⏺️ Created new branch feat/mobile in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#cebf1eb](https://github.com/MediaJel/serverless-functions/commit/cebf1eb) Merge pull request #46 from MediaJel/fbl3-devops/prevent-recreation-of-manifest-manager-sns-topics
+* ➡️ Pushed 14 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#44b61a1](https://github.com/pacholoamit/pachtop/commit/44b61a1) Merge pull request #207 from pacholoamit/fix/disk-analysis-ms-defender-exclusion
 
-DEVOPS: Prevent re-creation of Manifest Manager SNS topics
-  * [#9725dde](https://github.com/MediaJel/serverless-functions/commit/9725dde) DEVOPS: Prevent re-creation of Manifest Manager SNS topics
-* 🔃 Merged [#46 DEVOPS: Prevent re-creation of Manifest Manager SNS topics](https://github.com/MediaJel/serverless-functions/pull/46) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 1 file changed `++0 --20`
+fix/disk analysis ms defender exclusion
+  * [#ded3caa](https://github.com/pacholoamit/pachtop/commit/ded3caa) chore: add platform-specific blocks for macOS and Linux
+  * [#d70eaa4](https://github.com/pacholoamit/pachtop/commit/d70eaa4) refactor: Improve code readability and structure
+  * [#efff5a4](https://github.com/pacholoamit/pachtop/commit/efff5a4) style: Improve code formatting and update text in ExclusionModal
+  * [#6f8c32f](https://github.com/pacholoamit/pachtop/commit/6f8c32f) refactor: update store initialization and usage patterns
+  * [#8b0c0eb](https://github.com/pacholoamit/pachtop/commit/8b0c0eb) refactor: Remove unnecessary await keyword
+  * [#9cd1e2f](https://github.com/pacholoamit/pachtop/commit/9cd1e2f) feat: Add option for Windows users to enable defender exclusions
+  * [#8b05fe1](https://github.com/pacholoamit/pachtop/commit/8b05fe1) feat: Add error handling and loading state to add_pachtop_exclusion
+  * [#b635dbd](https://github.com/pacholoamit/pachtop/commit/b635dbd) feat: Add autostart permission and exclusion modal
+  * [#0b74ad3](https://github.com/pacholoamit/pachtop/commit/0b74ad3) refactor: Add dead code allow attribute, refactor useEffect
+  * [#dc35ff4](https://github.com/pacholoamit/pachtop/commit/dc35ff4) chore: add tauri command and store initialization
+  * [#81c9c53](https://github.com/pacholoamit/pachtop/commit/81c9c53) refactor: Remove unused function is_pachtop_excluded
+  * [#1c7253f](https://github.com/pacholoamit/pachtop/commit/1c7253f) feat: Add functions to manage Windows Defender exclusions
+  * [#f5bba18](https://github.com/pacholoamit/pachtop/commit/f5bba18) feat: Add tray icon functionality
+* 🔃 Merged [#207 fix/disk analysis ms defender exclusion](https://github.com/pacholoamit/pachtop/pull/207) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 19 files changed `++270 --86`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/disk-analysis-ms-defender-exclusion`
+  * [#ded3caa](https://github.com/pacholoamit/pachtop/commit/ded3caa) chore: add platform-specific blocks for macOS and Linux
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/disk-analysis-ms-defender-exclusion`
+  * [#d70eaa4](https://github.com/pacholoamit/pachtop/commit/d70eaa4) refactor: Improve code readability and structure
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/disk-analysis-ms-defender-exclusion`
+  * [#efff5a4](https://github.com/pacholoamit/pachtop/commit/efff5a4) style: Improve code formatting and update text in ExclusionModal
 
 
 
