@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `6940` commits and made `206` PRs.
+:people_hugging: I contributed to `42` repositories , made `6944` commits and made `208` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,31 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 14 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#44b61a1](https://github.com/pacholoamit/pachtop/commit/44b61a1) Merge pull request #207 from pacholoamit/fix/disk-analysis-ms-defender-exclusion
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#ce4d742](https://github.com/pacholoamit/homelab-infrastructure/commit/ce4d742) fix: Update imagePullPolicy to Always
+* ⏺️ Created new tag v3.0.0 in [pacholoamit/pachtop-server](https://github.com/pacholoamit/pachtop-server)
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop-server](https://github.com/pacholoamit/pachtop-server) on branch `master`
+  * [#5544adb](https://github.com/pacholoamit/pachtop-server/commit/5544adb) style: Update platform-specific release file names
+* ⏺️ Created new tag v1.0.0-1 in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#d3f742b](https://github.com/pacholoamit/pachtop/commit/d3f742b) Merge pull request #209 from pacholoamit/master
 
-fix/disk analysis ms defender exclusion
-  * [#ded3caa](https://github.com/pacholoamit/pachtop/commit/ded3caa) chore: add platform-specific blocks for macOS and Linux
-  * [#d70eaa4](https://github.com/pacholoamit/pachtop/commit/d70eaa4) refactor: Improve code readability and structure
-  * [#efff5a4](https://github.com/pacholoamit/pachtop/commit/efff5a4) style: Improve code formatting and update text in ExclusionModal
-  * [#6f8c32f](https://github.com/pacholoamit/pachtop/commit/6f8c32f) refactor: update store initialization and usage patterns
-  * [#8b0c0eb](https://github.com/pacholoamit/pachtop/commit/8b0c0eb) refactor: Remove unnecessary await keyword
-  * [#9cd1e2f](https://github.com/pacholoamit/pachtop/commit/9cd1e2f) feat: Add option for Windows users to enable defender exclusions
-  * [#8b05fe1](https://github.com/pacholoamit/pachtop/commit/8b05fe1) feat: Add error handling and loading state to add_pachtop_exclusion
-  * [#b635dbd](https://github.com/pacholoamit/pachtop/commit/b635dbd) feat: Add autostart permission and exclusion modal
-  * [#0b74ad3](https://github.com/pacholoamit/pachtop/commit/0b74ad3) refactor: Add dead code allow attribute, refactor useEffect
-  * [#dc35ff4](https://github.com/pacholoamit/pachtop/commit/dc35ff4) chore: add tauri command and store initialization
-  * [#81c9c53](https://github.com/pacholoamit/pachtop/commit/81c9c53) refactor: Remove unused function is_pachtop_excluded
-  * [#1c7253f](https://github.com/pacholoamit/pachtop/commit/1c7253f) feat: Add functions to manage Windows Defender exclusions
-  * [#f5bba18](https://github.com/pacholoamit/pachtop/commit/f5bba18) feat: Add tray icon functionality
-* 🔃 Merged [#207 fix/disk analysis ms defender exclusion](https://github.com/pacholoamit/pachtop/pull/207) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 19 files changed `++270 --86`
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/disk-analysis-ms-defender-exclusion`
-  * [#ded3caa](https://github.com/pacholoamit/pachtop/commit/ded3caa) chore: add platform-specific blocks for macOS and Linux
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/disk-analysis-ms-defender-exclusion`
-  * [#d70eaa4](https://github.com/pacholoamit/pachtop/commit/d70eaa4) refactor: Improve code readability and structure
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/disk-analysis-ms-defender-exclusion`
-  * [#efff5a4](https://github.com/pacholoamit/pachtop/commit/efff5a4) style: Improve code formatting and update text in ExclusionModal
+Update
+  * [#fbd1267](https://github.com/pacholoamit/pachtop/commit/fbd1267) feat: Update version to 1.0.0-1
 
 
 
