@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `6944` commits and made `208` PRs.
+:people_hugging: I contributed to `42` repositories , made `6974` commits and made `212` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#ce4d742](https://github.com/pacholoamit/homelab-infrastructure/commit/ce4d742) fix: Update imagePullPolicy to Always
-* ⏺️ Created new tag v3.0.0 in [pacholoamit/pachtop-server](https://github.com/pacholoamit/pachtop-server)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop-server](https://github.com/pacholoamit/pachtop-server) on branch `master`
-  * [#5544adb](https://github.com/pacholoamit/pachtop-server/commit/5544adb) style: Update platform-specific release file names
-* ⏺️ Created new tag v1.0.0-1 in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#d3f742b](https://github.com/pacholoamit/pachtop/commit/d3f742b) Merge pull request #209 from pacholoamit/master
-
-Update
-  * [#fbd1267](https://github.com/pacholoamit/pachtop/commit/fbd1267) feat: Update version to 1.0.0-1
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/updater`
+  * [#9572e03](https://github.com/pacholoamit/pachtop/commit/9572e03) feat: Implement better product analytics
+* ➡️ Pushed 10 commits in [MediaJel/snowplow-react-native-tracker](https://github.com/MediaJel/snowplow-react-native-tracker) on branch `master`
+  * [#3d80251](https://github.com/MediaJel/snowplow-react-native-tracker/commit/3d80251) doc: update readme
+  * [#f4663eb](https://github.com/MediaJel/snowplow-react-native-tracker/commit/f4663eb) fix: Update package.json version to 2.0.1
+  * [#cad575d](https://github.com/MediaJel/snowplow-react-native-tracker/commit/cad575d) docs: Remove redundant section in README
+  * [#6c39fcf](https://github.com/MediaJel/snowplow-react-native-tracker/commit/6c39fcf) refactor: Remove unnecessary item from transaction event tracking
+  * [#692bf87](https://github.com/MediaJel/snowplow-react-native-tracker/commit/692bf87) fix: Update path to TypeScript definition file
+  * [#5650f7e](https://github.com/MediaJel/snowplow-react-native-tracker/commit/5650f7e) refactor: Remove unused imports and code from index.ts
+  * [#d08c5e5](https://github.com/MediaJel/snowplow-react-native-tracker/commit/d08c5e5) refactor: Update package dependencies and tracker library name
+  * [#54122b5](https://github.com/MediaJel/snowplow-react-native-tracker/commit/54122b5) fix: Update package version to 2.0.0
+  * [#b7cda58](https://github.com/MediaJel/snowplow-react-native-tracker/commit/b7cda58) style: update version to 2.1.0 in package.json
+  * [#e4910bd](https://github.com/MediaJel/snowplow-react-native-tracker/commit/e4910bd) feat: Update package version to 2.0.0
+* ⏺️ Created new branch 2.0.2 in [MediaJel/snowplow-react-native-tracker](https://github.com/MediaJel/snowplow-react-native-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/snowplow-react-native-tracker](https://github.com/MediaJel/snowplow-react-native-tracker) on branch `2.0.1`
+  * [#f4663eb](https://github.com/MediaJel/snowplow-react-native-tracker/commit/f4663eb) fix: Update package.json version to 2.0.1
+* ⏺️ Created new branch 2.0.1 in [MediaJel/snowplow-react-native-tracker](https://github.com/MediaJel/snowplow-react-native-tracker)
 
 
 
