@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `6974` commits and made `204` PRs.
+:people_hugging: I contributed to `42` repositories , made `6995` commits and made `205` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,23 +30,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate)
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/updater`
-  * [#9572e03](https://github.com/pacholoamit/pachtop/commit/9572e03) feat: Implement better product analytics
-* ➡️ Pushed 10 commits in [MediaJel/snowplow-react-native-tracker](https://github.com/MediaJel/snowplow-react-native-tracker) on branch `master`
-  * [#3d80251](https://github.com/MediaJel/snowplow-react-native-tracker/commit/3d80251) doc: update readme
-  * [#f4663eb](https://github.com/MediaJel/snowplow-react-native-tracker/commit/f4663eb) fix: Update package.json version to 2.0.1
-  * [#cad575d](https://github.com/MediaJel/snowplow-react-native-tracker/commit/cad575d) docs: Remove redundant section in README
-  * [#6c39fcf](https://github.com/MediaJel/snowplow-react-native-tracker/commit/6c39fcf) refactor: Remove unnecessary item from transaction event tracking
-  * [#692bf87](https://github.com/MediaJel/snowplow-react-native-tracker/commit/692bf87) fix: Update path to TypeScript definition file
-  * [#5650f7e](https://github.com/MediaJel/snowplow-react-native-tracker/commit/5650f7e) refactor: Remove unused imports and code from index.ts
-  * [#d08c5e5](https://github.com/MediaJel/snowplow-react-native-tracker/commit/d08c5e5) refactor: Update package dependencies and tracker library name
-  * [#54122b5](https://github.com/MediaJel/snowplow-react-native-tracker/commit/54122b5) fix: Update package version to 2.0.0
-  * [#b7cda58](https://github.com/MediaJel/snowplow-react-native-tracker/commit/b7cda58) style: update version to 2.1.0 in package.json
-  * [#e4910bd](https://github.com/MediaJel/snowplow-react-native-tracker/commit/e4910bd) feat: Update package version to 2.0.0
-* ⏺️ Created new branch 2.0.2 in [MediaJel/snowplow-react-native-tracker](https://github.com/MediaJel/snowplow-react-native-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/snowplow-react-native-tracker](https://github.com/MediaJel/snowplow-react-native-tracker) on branch `2.0.1`
-  * [#f4663eb](https://github.com/MediaJel/snowplow-react-native-tracker/commit/f4663eb) fix: Update package.json version to 2.0.1
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#c1036f0](https://github.com/pacholoamit/homelab-infrastructure/commit/c1036f0) Merge pull request #115 from pacholoamit/renovate/imagerepository-1.0.x
+
+chore(deps): update dependency imagerepository to image.toolkit.fluxcd.io/v1beta2
+  * [#63932b7](https://github.com/pacholoamit/homelab-infrastructure/commit/63932b7) chore(deps): update dependency imagerepository to image.toolkit.fluxcd.io/v1beta2
+* 🔃 Merged [#115 chore(deps): update dependency imagerepository to image.toolkit.fluxcd.io/v1beta2](https://github.com/pacholoamit/homelab-infrastructure/pull/115) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#10f752d](https://github.com/pacholoamit/homelab-infrastructure/commit/10f752d) Merge pull request #117 from pacholoamit/renovate/velero-velero-plugin-for-aws-1.x
+
+chore(deps): update container image velero/velero-plugin-for-aws to v1.10.0
+  * [#1d2bad6](https://github.com/pacholoamit/homelab-infrastructure/commit/1d2bad6) chore(deps): update container image velero/velero-plugin-for-aws to v1.10.0
+* 🔃 Merged [#117 chore(deps): update container image velero/velero-plugin-for-aws to v1.10.0](https://github.com/pacholoamit/homelab-infrastructure/pull/117) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 2 files changed `++2 --2`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#0c229f3](https://github.com/pacholoamit/homelab-infrastructure/commit/0c229f3) Merge pull request #111 from pacholoamit/renovate/kube-prometheus-stack-60.x
+
+chore(deps): update helm release kube-prometheus-stack to v60
+  * [#5fc5a61](https://github.com/pacholoamit/homelab-infrastructure/commit/5fc5a61) chore(deps): update helm release kube-prometheus-stack to v60
 
 
 
