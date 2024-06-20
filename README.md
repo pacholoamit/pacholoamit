@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `7024` commits and made `211` PRs.
+:people_hugging: I contributed to `42` repositories , made `7024` commits and made `212` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#224 feat/improve chart performance](https://github.com/pacholoamit/pachtop/pull/224) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 3 files changed `++51 --17`
+* ⏺️ Created new branch feat/improve-chart-performance in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* 🌟 Starred [petkaantonov/deque](https://github.com/petkaantonov/deque)
 * ➡️ Pushed 22 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
   * [#ad93005](https://github.com/pacholoamit/pachtop/commit/ad93005) feat: Add iOS app icons and update Android icons
   * [#1f1a189](https://github.com/pacholoamit/pachtop/commit/1f1a189) Merge pull request #221 from pacholoamit/feat/code-improvements
@@ -55,15 +59,6 @@ feat/code improvements
   * [#5c3ee8c](https://github.com/pacholoamit/pachtop/commit/5c3ee8c) feat: Implement better icons for the app
 * 🔃 Merged [#223 update](https://github.com/pacholoamit/pachtop/pull/223) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
   * 254 files changed `++1597 --948`
-* 🔃 Opened [#223 update](https://github.com/pacholoamit/pachtop/pull/223) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 254 files changed `++1597 --948`
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#e3ceb37](https://github.com/pacholoamit/pachtop/commit/e3ceb37) Merge pull request #222 from pacholoamit/feat/change-icon
-
-feat: Add iOS app icons and update Android icons
-  * [#ad93005](https://github.com/pacholoamit/pachtop/commit/ad93005) feat: Add iOS app icons and update Android icons
-* 🔃 Merged [#222 feat: Add iOS app icons and update Android icons](https://github.com/pacholoamit/pachtop/pull/222) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 176 files changed `++2 --0`
 
 
 
