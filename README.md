@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `6995` commits and made `205` PRs.
+:people_hugging: I contributed to `42` repositories , made `7024` commits and made `211` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,25 +30,40 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#c1036f0](https://github.com/pacholoamit/homelab-infrastructure/commit/c1036f0) Merge pull request #115 from pacholoamit/renovate/imagerepository-1.0.x
+* ➡️ Pushed 22 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
+  * [#ad93005](https://github.com/pacholoamit/pachtop/commit/ad93005) feat: Add iOS app icons and update Android icons
+  * [#1f1a189](https://github.com/pacholoamit/pachtop/commit/1f1a189) Merge pull request #221 from pacholoamit/feat/code-improvements
 
-chore(deps): update dependency imagerepository to image.toolkit.fluxcd.io/v1beta2
-  * [#63932b7](https://github.com/pacholoamit/homelab-infrastructure/commit/63932b7) chore(deps): update dependency imagerepository to image.toolkit.fluxcd.io/v1beta2
-* 🔃 Merged [#115 chore(deps): update dependency imagerepository to image.toolkit.fluxcd.io/v1beta2](https://github.com/pacholoamit/homelab-infrastructure/pull/115) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#10f752d](https://github.com/pacholoamit/homelab-infrastructure/commit/10f752d) Merge pull request #117 from pacholoamit/renovate/velero-velero-plugin-for-aws-1.x
+feat/code improvements
+  * [#34f0d74](https://github.com/pacholoamit/pachtop/commit/34f0d74) refactor: Remove unused code and comments in CpusBarChart
+  * [#fa5aebc](https://github.com/pacholoamit/pachtop/commit/fa5aebc) style: Remove border color in cpus bar chart
+  * [#f7b4e33](https://github.com/pacholoamit/pachtop/commit/f7b4e33) refactor: Update chart animation duration based on performance mode
+  * [#7f3e81c](https://github.com/pacholoamit/pachtop/commit/7f3e81c) style: Remove unnecessary quotes around import paths
+  * [#0f513a2](https://github.com/pacholoamit/pachtop/commit/0f513a2) feat: Add animation based on performance mode status
+  * [#f7c47e7](https://github.com/pacholoamit/pachtop/commit/f7c47e7) feat: Add Performance mode to settings
+  * [#cd3eb23](https://github.com/pacholoamit/pachtop/commit/cd3eb23) feat: Added toggle for Performance mode
+  * [#81dc96d](https://github.com/pacholoamit/pachtop/commit/81dc96d) feat(src): add new BarChart component and useBarChartState function
+  * [#63eb641](https://github.com/pacholoamit/pachtop/commit/63eb641) feat: Add useRandomGreeting hook and update greeting on DashboardPage
+  * [#61a2d3e](https://github.com/pacholoamit/pachtop/commit/61a2d3e) refactor: Update progress bar interval and add disk percentage
+  * [#245ea37](https://github.com/pacholoamit/pachtop/commit/245ea37) style: Update disk directory treeview layout
+  * [#3e0e46f](https://github.com/pacholoamit/pachtop/commit/3e0e46f) style: Update component layout for disk directory treeview
+  * [#2bea3f1](https://github.com/pacholoamit/pachtop/commit/2bea3f1) style: Update treemap chart styles and configurations
+  * [#15e720a](https://github.com/pacholoamit/pachtop/commit/15e720a) feat: Improve UI of disk analysis page and memoize components
+  * [#4225b7d](https://github.com/pacholoamit/pachtop/commit/4225b7d) feat: Add shell execution capability for powershell
+  * [#8a8e0f5](https://github.com/pacholoamit/pachtop/commit/8a8e0f5) feat: Add DiskTurboScanInput struct
+  * [#8f2efe4](https://github.com/pacholoamit/pachtop/commit/8f2efe4) run eslint
+  * [#5c3ee8c](https://github.com/pacholoamit/pachtop/commit/5c3ee8c) feat: Implement better icons for the app
+* 🔃 Merged [#223 update](https://github.com/pacholoamit/pachtop/pull/223) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 254 files changed `++1597 --948`
+* 🔃 Opened [#223 update](https://github.com/pacholoamit/pachtop/pull/223) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 254 files changed `++1597 --948`
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#e3ceb37](https://github.com/pacholoamit/pachtop/commit/e3ceb37) Merge pull request #222 from pacholoamit/feat/change-icon
 
-chore(deps): update container image velero/velero-plugin-for-aws to v1.10.0
-  * [#1d2bad6](https://github.com/pacholoamit/homelab-infrastructure/commit/1d2bad6) chore(deps): update container image velero/velero-plugin-for-aws to v1.10.0
-* 🔃 Merged [#117 chore(deps): update container image velero/velero-plugin-for-aws to v1.10.0](https://github.com/pacholoamit/homelab-infrastructure/pull/117) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 2 files changed `++2 --2`
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0c229f3](https://github.com/pacholoamit/homelab-infrastructure/commit/0c229f3) Merge pull request #111 from pacholoamit/renovate/kube-prometheus-stack-60.x
-
-chore(deps): update helm release kube-prometheus-stack to v60
-  * [#5fc5a61](https://github.com/pacholoamit/homelab-infrastructure/commit/5fc5a61) chore(deps): update helm release kube-prometheus-stack to v60
+feat: Add iOS app icons and update Android icons
+  * [#ad93005](https://github.com/pacholoamit/pachtop/commit/ad93005) feat: Add iOS app icons and update Android icons
+* 🔃 Merged [#222 feat: Add iOS app icons and update Android icons](https://github.com/pacholoamit/pachtop/pull/222) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 176 files changed `++2 --0`
 
 
 
