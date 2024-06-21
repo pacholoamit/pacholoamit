@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `7024` commits and made `212` PRs.
+:people_hugging: I contributed to `42` repositories , made `7035` commits and made `213` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,35 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#224 feat/improve chart performance](https://github.com/pacholoamit/pachtop/pull/224) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 3 files changed `++51 --17`
-* ⏺️ Created new branch feat/improve-chart-performance in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* 🌟 Starred [petkaantonov/deque](https://github.com/petkaantonov/deque)
-* ➡️ Pushed 22 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#ad93005](https://github.com/pacholoamit/pachtop/commit/ad93005) feat: Add iOS app icons and update Android icons
-  * [#1f1a189](https://github.com/pacholoamit/pachtop/commit/1f1a189) Merge pull request #221 from pacholoamit/feat/code-improvements
-
-feat/code improvements
-  * [#34f0d74](https://github.com/pacholoamit/pachtop/commit/34f0d74) refactor: Remove unused code and comments in CpusBarChart
-  * [#fa5aebc](https://github.com/pacholoamit/pachtop/commit/fa5aebc) style: Remove border color in cpus bar chart
-  * [#f7b4e33](https://github.com/pacholoamit/pachtop/commit/f7b4e33) refactor: Update chart animation duration based on performance mode
-  * [#7f3e81c](https://github.com/pacholoamit/pachtop/commit/7f3e81c) style: Remove unnecessary quotes around import paths
-  * [#0f513a2](https://github.com/pacholoamit/pachtop/commit/0f513a2) feat: Add animation based on performance mode status
-  * [#f7c47e7](https://github.com/pacholoamit/pachtop/commit/f7c47e7) feat: Add Performance mode to settings
-  * [#cd3eb23](https://github.com/pacholoamit/pachtop/commit/cd3eb23) feat: Added toggle for Performance mode
-  * [#81dc96d](https://github.com/pacholoamit/pachtop/commit/81dc96d) feat(src): add new BarChart component and useBarChartState function
-  * [#63eb641](https://github.com/pacholoamit/pachtop/commit/63eb641) feat: Add useRandomGreeting hook and update greeting on DashboardPage
-  * [#61a2d3e](https://github.com/pacholoamit/pachtop/commit/61a2d3e) refactor: Update progress bar interval and add disk percentage
-  * [#245ea37](https://github.com/pacholoamit/pachtop/commit/245ea37) style: Update disk directory treeview layout
-  * [#3e0e46f](https://github.com/pacholoamit/pachtop/commit/3e0e46f) style: Update component layout for disk directory treeview
-  * [#2bea3f1](https://github.com/pacholoamit/pachtop/commit/2bea3f1) style: Update treemap chart styles and configurations
-  * [#15e720a](https://github.com/pacholoamit/pachtop/commit/15e720a) feat: Improve UI of disk analysis page and memoize components
-  * [#4225b7d](https://github.com/pacholoamit/pachtop/commit/4225b7d) feat: Add shell execution capability for powershell
-  * [#8a8e0f5](https://github.com/pacholoamit/pachtop/commit/8a8e0f5) feat: Add DiskTurboScanInput struct
-  * [#8f2efe4](https://github.com/pacholoamit/pachtop/commit/8f2efe4) run eslint
-  * [#5c3ee8c](https://github.com/pacholoamit/pachtop/commit/5c3ee8c) feat: Implement better icons for the app
-* 🔃 Merged [#223 update](https://github.com/pacholoamit/pachtop/pull/223) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 254 files changed `++1597 --948`
+* #️⃣ Opened [#63 Migrate data sources to `libs` folder in frictionless-custom-tags repo](https://github.com/MediaJel/mediajel-frictionless-custom-tag/issues/63) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
+  * [#ec7f2a6](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/ec7f2a6) style: Remove unnecessary option from s3 sync action
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
+  * [#3773fe6](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3773fe6) style: Update S3 sync action arguments in workflow
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `feat/build-step`
+  * [#9286faa](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/9286faa) feat: Update build script and add browserslist configuration
+* 🔍 Reviewed [#328 feat: Add config env variables for Statara repository](https://github.com/MediaJel/amplication-nestjs-microservices/pull/328) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
