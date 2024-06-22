@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `7044` commits and made `213` PRs.
+:people_hugging: I contributed to `42` repositories , made `7046` commits and made `214` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#332 chore: Add soapbox secrets in external-service](https://github.com/MediaJel/amplication-nestjs-microservices/pull/332) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#329 FEATURE: Soapbox DSP implementation in campaign-scrapers job](https://github.com/MediaJel/amplication-nestjs-microservices/pull/329) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#329 FEATURE: Soapbox DSP implementation in campaign-scrapers job](https://github.com/MediaJel/amplication-nestjs-microservices/pull/329) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#329 FEATURE: Soapbox DSP implementation in campaign-scrapers job](https://github.com/MediaJel/amplication-nestjs-microservices/pull/329) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#4c9dc25](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4c9dc25) Merge pull request #323 from MediaJel/jbjm-version-2-generated-script
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#166778d](https://github.com/pacholoamit/pachtop/commit/166778d) Merge pull request #225 from pacholoamit/feat/chart-perf
 
-refactor: add version 2 on generated scripts
-  * [#6245df1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6245df1) refactor: add version 2 on generated scripts
+chore: Add HighchartsBoost to area and bar chart components
+  * [#473ad62](https://github.com/pacholoamit/pachtop/commit/473ad62) chore: Add HighchartsBoost to area and bar chart components
+* 🔃 Merged [#225 chore: Add HighchartsBoost to area and bar chart components](https://github.com/pacholoamit/pachtop/pull/225) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 2 files changed `++11 --6`
+* 🔃 Opened [#225 chore: Add HighchartsBoost to area and bar chart components](https://github.com/pacholoamit/pachtop/pull/225) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 2 files changed `++11 --6`
+* ⏺️ Created new branch feat/chart-perf in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* 🌟 Starred [chris1111/Geforce-Kepler-patcher](https://github.com/chris1111/Geforce-Kepler-patcher)
 
 
 
