@@ -30,6 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#226 Implement FS Tauri module for creating config file and initiate config file in Rust](https://github.com/pacholoamit/pachtop/issues/226) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* 🌟 Starred [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls)
+* 🌟 Starred [clearlysid/tauri-plugin-decorum](https://github.com/clearlysid/tauri-plugin-decorum)
 * ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#166778d](https://github.com/pacholoamit/pachtop/commit/166778d) Merge pull request #225 from pacholoamit/feat/chart-perf
 
@@ -37,10 +40,6 @@ chore: Add HighchartsBoost to area and bar chart components
   * [#473ad62](https://github.com/pacholoamit/pachtop/commit/473ad62) chore: Add HighchartsBoost to area and bar chart components
 * 🔃 Merged [#225 chore: Add HighchartsBoost to area and bar chart components](https://github.com/pacholoamit/pachtop/pull/225) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
   * 2 files changed `++11 --6`
-* 🔃 Opened [#225 chore: Add HighchartsBoost to area and bar chart components](https://github.com/pacholoamit/pachtop/pull/225) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 2 files changed `++11 --6`
-* ⏺️ Created new branch feat/chart-perf in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* 🌟 Starred [chris1111/Geforce-Kepler-patcher](https://github.com/chris1111/Geforce-Kepler-patcher)
 
 
 
