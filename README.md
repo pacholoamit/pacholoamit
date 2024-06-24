@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7046` commits and made `214` PRs.
+:people_hugging: I contributed to `41` repositories , made `7051` commits and made `216` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#226 Implement FS Tauri module for creating config file and initiate config file in Rust](https://github.com/pacholoamit/pachtop/issues/226) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* 🌟 Starred [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls)
-* 🌟 Starred [clearlysid/tauri-plugin-decorum](https://github.com/clearlysid/tauri-plugin-decorum)
-* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#166778d](https://github.com/pacholoamit/pachtop/commit/166778d) Merge pull request #225 from pacholoamit/feat/chart-perf
-
-chore: Add HighchartsBoost to area and bar chart components
-  * [#473ad62](https://github.com/pacholoamit/pachtop/commit/473ad62) chore: Add HighchartsBoost to area and bar chart components
-* 🔃 Merged [#225 chore: Add HighchartsBoost to area and bar chart components](https://github.com/pacholoamit/pachtop/pull/225) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 2 files changed `++11 --6`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/implement-file-explorer-functionality`
+  * [#cea9556](https://github.com/pacholoamit/pachtop/commit/cea9556) feat: Add file explorer context menu functionality
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/implement-file-explorer-functionality`
+  * [#13202a2](https://github.com/pacholoamit/pachtop/commit/13202a2) feat: Add HighChartsBoost module
+* ➡️ Pushed 2 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/implement-file-explorer-functionality`
+  * [#7b3b11f](https://github.com/pacholoamit/pachtop/commit/7b3b11f) feat: Add open, show in terminal, delete file, delete folder commands
+  * [#39d6c0d](https://github.com/pacholoamit/pachtop/commit/39d6c0d) refactor: Remove unused imports and code, improve command functions
+* 🔃 Opened [#228 style: Add context menu to disk directory treeview nodes](https://github.com/pacholoamit/pachtop/pull/228) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 6 files changed `++78 --24`
+* ⏺️ Created new branch feat/implement-file-explorer-functionality in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 
 
