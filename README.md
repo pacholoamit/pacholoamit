@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7075` commits and made `218` PRs.
+:people_hugging: I contributed to `41` repositories , made `7080` commits and made `216` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [Worklenz/worklenz](https://github.com/Worklenz/worklenz)
+* 🌟 Starred [microsoft/sudo](https://github.com/microsoft/sudo)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
   * [#1935289](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1935289) fix: comment out version
 * ➡️ Pushed 26 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
@@ -60,10 +62,6 @@ Master
   * [#af532ff](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af532ff) feat: added centro to impression tags
   * [#438d80a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/438d80a) Revert new audience Schema
 * #️⃣ Opened [#441 Create adapter for Wix cart](https://github.com/MediaJel/mediajel-tracker/issues/441) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/wooocommerce-tracker`
-  * [#74c3bef](https://github.com/MediaJel/amplication-nestjs-microservices/commit/74c3bef) style: Update logger error message in catch block
-* 🔃 Opened [#334 hotfix/wooocommerce tracker](https://github.com/MediaJel/amplication-nestjs-microservices/pull/334) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++49 --15`
 
 
 
