@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7080` commits and made `216` PRs.
+:people_hugging: I contributed to `41` repositories , made `7089` commits and made `217` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,38 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [Worklenz/worklenz](https://github.com/Worklenz/worklenz)
-* 🌟 Starred [microsoft/sudo](https://github.com/microsoft/sudo)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#1935289](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1935289) fix: comment out version
-* ➡️ Pushed 26 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
-  * [#b3698e9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b3698e9) feature/326 - Fix merge conflicts from external-service.yaml
-  * [#6a7b47a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6a7b47a) feat: adding SpeakEasy impression tag
-  * [#e628474](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e628474) feat: adding TTD impression tag
-  * [#6070a27](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6070a27) feat: adding google ads manager impression tag
-  * [#ef4426c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ef4426c) feat: adding soapbox impression tag
-  * [#34b371e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/34b371e) Merge pull request #332 from MediaJel/fbl3-devops/soapbox-secrets-in-external-service
-
-chore: Add soapbox secrets in external-service
-  * [#7f5e6af](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7f5e6af) chore: Add soapbox secrets in external-service
-  * [#4c9dc25](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4c9dc25) Merge pull request #323 from MediaJel/jbjm-version-2-generated-script
-
-refactor: add version 2 on generated scripts
-  * [#88dc02a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/88dc02a) Merge pull request #331 from MediaJel/master
-
-Master
-  * [#942575e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/942575e) fix: url decoding of schema param on centro
-  * [#b0526d4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b0526d4) feature/326 - Add soapbox env variables to external-service.yaml
-  * [#c9b1dbd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c9b1dbd) feature/326 - Remove unused soapbox/index.ts
-  * [#c9f76c6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c9f76c6) feature/326 - remove unused import DSP
-  * [#47a966a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/47a966a) feature/326 - Remove soapbox for a while to other interfaces.
-  * [#6d0d3e7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6d0d3e7) feature/326 - Add soapbox DSP to campaign-scrapers feature.
-  * [#27699f5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/27699f5) feature/326 - Implement soapbox DSP to common/dsp directory
-  * [#b687207](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b687207) chore: Add soapbox environment variables to .env file
-  * [#6245df1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6245df1) refactor: add version 2 on generated scripts
-  * [#af532ff](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af532ff) feat: added centro to impression tags
-  * [#438d80a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/438d80a) Revert new audience Schema
-* #️⃣ Opened [#441 Create adapter for Wix cart](https://github.com/MediaJel/mediajel-tracker/issues/441) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#341 Mono Repo Deployment testing](https://github.com/MediaJel/amplication-nestjs-microservices/pull/341) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `srr-migrate-google`
+  * [#b50c3b9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b50c3b9) feat: Add method to run GA4 report
+* 💬 Commented on [#435 feature:generate environments on index file and upload to s3](https://github.com/MediaJel/mediajel-tracker/pull/435) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#435 feature:generate environments on index file and upload to s3](https://github.com/MediaJel/mediajel-tracker/pull/435) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#435 feature:generate environments on index file and upload to s3](https://github.com/MediaJel/mediajel-tracker/pull/435) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
