@@ -30,11 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#60 Implement fixes on frictionless-integrations repo](https://github.com/MediaJel/mediajel-frictionless-custom-tag/issues/60) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-* #️⃣ Closed [#5067 Adding 6 degrees account to mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service/issues/5067) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#707 Compile Ad Impression Tags](https://github.com/MediaJel/mediajel/issues/707) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#320 Mirror Clickhouse tables/views with Snowflake tables/views](https://github.com/MediaJel/amplication-nestjs-microservices/issues/320) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#704 Checking Basket Items if supported](https://github.com/MediaJel/mediajel/issues/704) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#63 Migrate data sources to `libs` folder in frictionless-custom-tags repo](https://github.com/MediaJel/mediajel-frictionless-custom-tag/issues/63) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
+  * [#e346f9f](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/e346f9f) Merge pull request #64 from MediaJel/srr-addDatasource
+
+Added datasources on library
+  * [#7ee93b8](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/7ee93b8) feat: added datasources as a library
+* 🔃 Merged [#64 Added datasources on library](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/64) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 7 files changed `++79 --0`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#315d0a2](https://github.com/MediaJel/mediajel-tracker/commit/315d0a2) Merge pull request #434 from MediaJel/srr-fixDispense
+
+Change orderId of dispense to name
+  * [#6ff9a12](https://github.com/MediaJel/mediajel-tracker/commit/6ff9a12) fix: orderId undefined changed to item_name
+* 🔃 Merged [#434 Change orderId of dispense to name](https://github.com/MediaJel/mediajel-tracker/pull/434) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++1 --1`
 
 
 
