@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `7089` commits and made `217` PRs.
+:people_hugging: I contributed to `40` repositories , made `7091` commits and made `217` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#341 Mono Repo Deployment testing](https://github.com/MediaJel/amplication-nestjs-microservices/pull/341) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `srr-migrate-google`
-  * [#b50c3b9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b50c3b9) feat: Add method to run GA4 report
-* 💬 Commented on [#435 feature:generate environments on index file and upload to s3](https://github.com/MediaJel/mediajel-tracker/pull/435) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#435 feature:generate environments on index file and upload to s3](https://github.com/MediaJel/mediajel-tracker/pull/435) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#435 feature:generate environments on index file and upload to s3](https://github.com/MediaJel/mediajel-tracker/pull/435) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#60 Implement fixes on frictionless-integrations repo](https://github.com/MediaJel/mediajel-frictionless-custom-tag/issues/60) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+* #️⃣ Closed [#5067 Adding 6 degrees account to mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service/issues/5067) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#707 Compile Ad Impression Tags](https://github.com/MediaJel/mediajel/issues/707) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#320 Mirror Clickhouse tables/views with Snowflake tables/views](https://github.com/MediaJel/amplication-nestjs-microservices/issues/320) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#704 Checking Basket Items if supported](https://github.com/MediaJel/mediajel/issues/704) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
