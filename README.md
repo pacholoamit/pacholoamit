@@ -30,6 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#ac96ec7](https://github.com/MediaJel/mediajel-tracker/commit/ac96ec7) refactor: Update Snowplow tracker creation function
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#9d9a8c4](https://github.com/MediaJel/mediajel-tracker/commit/9d9a8c4) fix: Update Snowplow tracker CDN URL
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#0deaf58](https://github.com/MediaJel/mediajel-tracker/commit/0deaf58) refactor: Update Snowplow tracking script initialization
 * ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
   * [#33266ab](https://github.com/MediaJel/serverless-functions/commit/33266ab) Merge pull request #52 from MediaJel/ez-clickhouseEventsLoaderFix
 
@@ -37,11 +43,6 @@ Fix for /t errors in loading Snowplow Events to Clickhouse
   * [#ed5ae99](https://github.com/MediaJel/serverless-functions/commit/ed5ae99) refactor: Update data conversion methods for specific columns
 * 🔃 Merged [#52 Fix for /t errors in loading Snowplow Events to Clickhouse](https://github.com/MediaJel/serverless-functions/pull/52) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
   * 1 file changed `++71 --71`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `srr-migrate-google`
-  * [#d878862](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d878862) chore: Remove unused Google Ads related files
-* 🌟 Starred [janl/mustache.js](https://github.com/janl/mustache.js)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jbjm-md-documentation`
-  * [#7f541d5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7f541d5) docs: Rename Magento.md to base.md and remove test.md
 
 
 
