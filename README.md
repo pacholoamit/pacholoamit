@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `7091` commits and made `217` PRs.
+:people_hugging: I contributed to `40` repositories , made `7094` commits and made `217` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,21 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#63 Migrate data sources to `libs` folder in frictionless-custom-tags repo](https://github.com/MediaJel/mediajel-frictionless-custom-tag/issues/63) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
-  * [#e346f9f](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/e346f9f) Merge pull request #64 from MediaJel/srr-addDatasource
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#33266ab](https://github.com/MediaJel/serverless-functions/commit/33266ab) Merge pull request #52 from MediaJel/ez-clickhouseEventsLoaderFix
 
-Added datasources on library
-  * [#7ee93b8](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/7ee93b8) feat: added datasources as a library
-* 🔃 Merged [#64 Added datasources on library](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/64) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 7 files changed `++79 --0`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#315d0a2](https://github.com/MediaJel/mediajel-tracker/commit/315d0a2) Merge pull request #434 from MediaJel/srr-fixDispense
-
-Change orderId of dispense to name
-  * [#6ff9a12](https://github.com/MediaJel/mediajel-tracker/commit/6ff9a12) fix: orderId undefined changed to item_name
-* 🔃 Merged [#434 Change orderId of dispense to name](https://github.com/MediaJel/mediajel-tracker/pull/434) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++1 --1`
+Fix for /t errors in loading Snowplow Events to Clickhouse
+  * [#ed5ae99](https://github.com/MediaJel/serverless-functions/commit/ed5ae99) refactor: Update data conversion methods for specific columns
+* 🔃 Merged [#52 Fix for /t errors in loading Snowplow Events to Clickhouse](https://github.com/MediaJel/serverless-functions/pull/52) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 1 file changed `++71 --71`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `srr-migrate-google`
+  * [#d878862](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d878862) chore: Remove unused Google Ads related files
+* 🌟 Starred [janl/mustache.js](https://github.com/janl/mustache.js)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jbjm-md-documentation`
+  * [#7f541d5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7f541d5) docs: Rename Magento.md to base.md and remove test.md
 
 
 
