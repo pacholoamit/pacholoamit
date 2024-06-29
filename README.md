@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `7094` commits and made `217` PRs.
+:people_hugging: I contributed to `40` repositories , made `7103` commits and made `218` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,19 +30,49 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#ac96ec7](https://github.com/MediaJel/mediajel-tracker/commit/ac96ec7) refactor: Update Snowplow tracker creation function
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#9d9a8c4](https://github.com/MediaJel/mediajel-tracker/commit/9d9a8c4) fix: Update Snowplow tracker CDN URL
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#0deaf58](https://github.com/MediaJel/mediajel-tracker/commit/0deaf58) refactor: Update Snowplow tracking script initialization
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#74dc48e](https://github.com/MediaJel/serverless-functions/commit/74dc48e) feat: Add permissions for S3 and Lambda in serverless.yml
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#cbcd5a0](https://github.com/MediaJel/serverless-functions/commit/cbcd5a0) chore(serverless.yml): remove commented out code and extra spaces
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#b5787f1](https://github.com/MediaJel/serverless-functions/commit/b5787f1) style: comment out unused resources in serverless.yml
+* ➡️ Pushed 21 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
   * [#33266ab](https://github.com/MediaJel/serverless-functions/commit/33266ab) Merge pull request #52 from MediaJel/ez-clickhouseEventsLoaderFix
 
 Fix for /t errors in loading Snowplow Events to Clickhouse
   * [#ed5ae99](https://github.com/MediaJel/serverless-functions/commit/ed5ae99) refactor: Update data conversion methods for specific columns
-* 🔃 Merged [#52 Fix for /t errors in loading Snowplow Events to Clickhouse](https://github.com/MediaJel/serverless-functions/pull/52) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 1 file changed `++71 --71`
+  * [#1a43805](https://github.com/MediaJel/serverless-functions/commit/1a43805) Merge pull request #49 from MediaJel/additional-server-config
+
+added some configs
+  * [#365d61a](https://github.com/MediaJel/serverless-functions/commit/365d61a) added some configs
+  * [#5de0644](https://github.com/MediaJel/serverless-functions/commit/5de0644) Remove test code
+  * [#2b1f620](https://github.com/MediaJel/serverless-functions/commit/2b1f620) Create new S3 Bucket
+  * [#bbe3975](https://github.com/MediaJel/serverless-functions/commit/bbe3975) Test
+  * [#c2304f4](https://github.com/MediaJel/serverless-functions/commit/c2304f4) test
+  * [#c16fe11](https://github.com/MediaJel/serverless-functions/commit/c16fe11) Failed lambda s3 bucket (#48)
+
+* added s3 failed lambda bucket
+
+* added s3 failed lambda bucket
+  * [#cebf1eb](https://github.com/MediaJel/serverless-functions/commit/cebf1eb) Merge pull request #46 from MediaJel/fbl3-devops/prevent-recreation-of-manifest-manager-sns-topics
+
+DEVOPS: Prevent re-creation of Manifest Manager SNS topics
+  * [#9725dde](https://github.com/MediaJel/serverless-functions/commit/9725dde) DEVOPS: Prevent re-creation of Manifest Manager SNS topics
+  * [#eff99cc](https://github.com/MediaJel/serverless-functions/commit/eff99cc) Merge pull request #44 from MediaJel/feat/failed-lambda-handler
+
+fix/ lambda destination not running on deployment
+  * [#df358a0](https://github.com/MediaJel/serverless-functions/commit/df358a0) fix/ lambda destination not running on deployment
+  * [#ddb2723](https://github.com/MediaJel/serverless-functions/commit/ddb2723) Merge pull request #41 from MediaJel/feat/failed-lambda-handler
+
+Feat/failed lambda handler
+  * [#9dd2256](https://github.com/MediaJel/serverless-functions/commit/9dd2256) Update serverless.yml
+  * [#4ca0e89](https://github.com/MediaJel/serverless-functions/commit/4ca0e89) Update serverless.yml
+  * [#157af75](https://github.com/MediaJel/serverless-functions/commit/157af75) Merge branch &#39;staging&#39; into feat/failed-lambda-handler
+  * [#819e193](https://github.com/MediaJel/serverless-functions/commit/819e193) serverless
+  * [#8d5eee1](https://github.com/MediaJel/serverless-functions/commit/8d5eee1) revision?
+  * [#affab41](https://github.com/MediaJel/serverless-functions/commit/affab41) initial failed lambda handler - resolve error add type
+* 🔃 Merged [#53 Staging](https://github.com/MediaJel/serverless-functions/pull/53) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 2 files changed `++107 --111`
 
 
 
