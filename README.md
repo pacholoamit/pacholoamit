@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `7108` commits and made `219` PRs.
+:people_hugging: I contributed to `40` repositories , made `7111` commits and made `219` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#15336da](https://github.com/pacholoamit/homelab-infrastructure/commit/15336da) feat: Update image repository and tag in release.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#6087a2a](https://github.com/pacholoamit/homelab-infrastructure/commit/6087a2a) style: Remove unnecessary annotations and fix indentation
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#9d0dd56](https://github.com/pacholoamit/homelab-infrastructure/commit/9d0dd56) fix: Correct typo in HelmRepository name
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#41b0e5f](https://github.com/pacholoamit/homelab-infrastructure/commit/41b0e5f) feat: Add zekker6 to resources in kustomization.yaml
-* 🌟 Starred [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#63df19f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/63df19f) feat: Update dev scripts to include Prisma generation
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
+  * [#ea9edcf](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/ea9edcf) Merge pull request #66 from MediaJel/budmary.com
+
+Budmary.com
+  * [#7cb6386](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/7cb6386) budmary
+* 🔃 Merged [#66 Budmary.com](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/66) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 2 files changed `++162 --0`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
+  * [#edc0553](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/edc0553) Merge pull request #65 from MediaJel/build-seaweedmaine.com-purchase
+
+TS for seaweedmaine.com purchase
+  * [#c893be0](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/c893be0) TS for seaweedmaine.com purchase
+* 🔃 Merged [#65 TS for seaweedmaine.com purchase](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/65) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++81 --0`
 
 
 
