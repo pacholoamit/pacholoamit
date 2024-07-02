@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `7111` commits and made `219` PRs.
+:people_hugging: I contributed to `39` repositories , made `7137` commits and made `218` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,22 +30,35 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 31 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#a8e95ec](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a8e95ec) fix: Fix error logging messages in Google Analytics service
+  * [#3d5ba8e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3d5ba8e) feat: Add Google Analytics batchGet and runReports endpoints
+  * [#6b5c0e2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6b5c0e2) update
+  * [#e194cb4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e194cb4) feat: Add Google Analytics API integration and service
+  * [#b50c3b9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b50c3b9) feat: Add method to run GA4 report
+  * [#9f9a72d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9f9a72d) feat: Update Prisma command in dev scripts
+  * [#aff65ed](https://github.com/MediaJel/amplication-nestjs-microservices/commit/aff65ed) refactor: Update SearchStreamDTO properties to use class-validator
+  * [#dc4a185](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dc4a185) fix: Update dev:all script to use correct service names
+  * [#0a97c87](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0a97c87) fix: Update return value in GoogleAdsService
+  * [#aad50c6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/aad50c6) refactor: Update searchStream method to improve readability and maintainability
+  * [#f898dc8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f898dc8) feat: Add ConnectionsModule for handling connections
+  * [#2b36df9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2b36df9) feat: Add Google module and services for external service
+  * [#1e7bdc2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1e7bdc2) Merge branch &#39;staging&#39; into srr-migrate-google
+  * [#3ac1c05](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3ac1c05) chore: remove nx
+  * [#04ea90b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/04ea90b) fix: conflicts
+  * [#c1a7f91](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c1a7f91) feat: Added config and google auth
+  * [#1122740](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1122740) fix: made fix on controller
+  * [#8002e51](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8002e51) fix: made googleAds work
+  * [#ed11e73](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ed11e73) feat: migration of google ads
+  * [#0f7ee9c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0f7ee9c) feat: migration of google library
+* 🔃 Merged [#291 Migration of Google and Bing libraries](https://github.com/MediaJel/amplication-nestjs-microservices/pull/291) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 21 files changed `++618 --51`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `srr-migrate-google`
+  * [#f6f7141](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f6f7141) chore: Remove unused JSON value validator spec file
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `srr-migrate-google`
+  * [#ffdd4fe](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ffdd4fe) refactor: Remove redundant code and optimize service calls
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#63df19f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/63df19f) feat: Update dev scripts to include Prisma generation
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
-  * [#ea9edcf](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/ea9edcf) Merge pull request #66 from MediaJel/budmary.com
-
-Budmary.com
-  * [#7cb6386](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/7cb6386) budmary
-* 🔃 Merged [#66 Budmary.com](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/66) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 2 files changed `++162 --0`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
-  * [#edc0553](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/edc0553) Merge pull request #65 from MediaJel/build-seaweedmaine.com-purchase
-
-TS for seaweedmaine.com purchase
-  * [#c893be0](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/c893be0) TS for seaweedmaine.com purchase
-* 🔃 Merged [#65 TS for seaweedmaine.com purchase](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/65) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++81 --0`
 
 
 
