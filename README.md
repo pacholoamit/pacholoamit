@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7152` commits and made `220` PRs.
+:people_hugging: I contributed to `39` repositories , made `7163` commits and made `220` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,20 +30,29 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#a71ac8f](https://github.com/MediaJel/mediajel-tracker/commit/a71ac8f) fix: Fix script type assignment in createStagingTag function
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#ef0ac23](https://github.com/MediaJel/mediajel-tracker/commit/ef0ac23) Merge pull request #447 from MediaJel/main-patch
+* ➡️ Pushed 12 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#0610dcd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0610dcd) Merge pull request #356 from MediaJel/feat/audience-improvements
 
-main patch
-  * [#0531b75](https://github.com/MediaJel/mediajel-tracker/commit/0531b75) fix: Update domain in createStagingTag function
-  * [#ecb14de](https://github.com/MediaJel/mediajel-tracker/commit/ecb14de) fix: Update script source to use HTTPS protocol
-  * [#c5298e3](https://github.com/MediaJel/mediajel-tracker/commit/c5298e3) style: update staging tag script source URL
-* 🔃 Merged [#447 main patch](https://github.com/MediaJel/mediajel-tracker/pull/447) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++10 --9`
-* 🔃 Opened [#447 main patch](https://github.com/MediaJel/mediajel-tracker/pull/447) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++10 --9`
-* ⏺️ Created new branch main-patch in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+feat: Audience improvements
+  * [#fa156ad](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fa156ad) Merge branch &#39;feat/audience-improvements&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into feat/audience-improvements
+  * [#de7084a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/de7084a) feat: Add functions to find and save audience files
+  * [#b259883](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b259883) refactor: Update friendly names
+  * [#8dff90c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8dff90c) refactor: Improve job metadata formatting and retrieval
+  * [#af927c0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af927c0) refactor: Update path type to string or null
+  * [#5e43695](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5e43695) feat: Update audience activation response fields
+  * [#7fa9ebb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7fa9ebb) feat(audience): Add check for ongoing activations
+  * [#8fe3f8f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8fe3f8f) feat: Implement saving audience feature with unique ID
+  * [#3b0751c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3b0751c) feat: Add path to activate audience response
+  * [#00e1a62](https://github.com/MediaJel/amplication-nestjs-microservices/commit/00e1a62) refactor: Improve query building in StataraAudienceRepository
+  * [#c3f3efc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c3f3efc) feat: Add SqlBuilderModule and SqlBuilderService
+* 🔃 Merged [#356 feat: Audience improvements](https://github.com/MediaJel/amplication-nestjs-microservices/pull/356) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 14 files changed `++951 --716`
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/audience-improvements`
+  * [#fa156ad](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fa156ad) Merge branch &#39;feat/audience-improvements&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into feat/audience-improvements
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/audience-improvements`
+  * [#8dff90c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8dff90c) refactor: Improve job metadata formatting and retrieval
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/audience-improvements`
+  * [#af927c0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af927c0) refactor: Update path type to string or null
 
 
 
