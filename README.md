@@ -30,13 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#366 Make tag creation endpoint isSaved a parameter](https://github.com/MediaJel/amplication-nestjs-microservices/issues/366) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-tag-endpoint-optionally-save`
-  * [#d68cc2f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d68cc2f) fix: Update default version value to 2
-* 🔃 Opened [#365 feat: make tag creation endpoints optionally save](https://github.com/MediaJel/amplication-nestjs-microservices/pull/365) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 6 files changed `++94 --73`
-* ⏺️ Created new branch feat/make-tag-endpoint-optionally-save in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#363 Improve Query performance of Demograph counts in clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/363) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#201 Go through custom integration Coda doc](https://github.com/MediaJel/amplication-nestjs-microservices/issues/201) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#101 Automate ad-hoc campaign optimizations via slackbot](https://github.com/MediaJel/jupyter-notebook/issues/101) in [MediaJel/jupyter-notebook](https://github.com/MediaJel/jupyter-notebook)
+* #️⃣ Opened [#367 Check version=2 of the trackers](https://github.com/MediaJel/amplication-nestjs-microservices/issues/367) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#319 Create process for automating white label emails (Document steps)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/319) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#318 Own Google Search SEO feature in collaboration with Paid search &amp; SEO team](https://github.com/MediaJel/amplication-nestjs-microservices/issues/318) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
