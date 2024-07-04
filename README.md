@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7163` commits and made `220` PRs.
+:people_hugging: I contributed to `39` repositories , made `7157` commits and made `221` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,29 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 12 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#0610dcd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0610dcd) Merge pull request #356 from MediaJel/feat/audience-improvements
-
-feat: Audience improvements
-  * [#fa156ad](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fa156ad) Merge branch &#39;feat/audience-improvements&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into feat/audience-improvements
-  * [#de7084a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/de7084a) feat: Add functions to find and save audience files
-  * [#b259883](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b259883) refactor: Update friendly names
-  * [#8dff90c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8dff90c) refactor: Improve job metadata formatting and retrieval
-  * [#af927c0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af927c0) refactor: Update path type to string or null
-  * [#5e43695](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5e43695) feat: Update audience activation response fields
-  * [#7fa9ebb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7fa9ebb) feat(audience): Add check for ongoing activations
-  * [#8fe3f8f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8fe3f8f) feat: Implement saving audience feature with unique ID
-  * [#3b0751c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3b0751c) feat: Add path to activate audience response
-  * [#00e1a62](https://github.com/MediaJel/amplication-nestjs-microservices/commit/00e1a62) refactor: Improve query building in StataraAudienceRepository
-  * [#c3f3efc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c3f3efc) feat: Add SqlBuilderModule and SqlBuilderService
-* 🔃 Merged [#356 feat: Audience improvements](https://github.com/MediaJel/amplication-nestjs-microservices/pull/356) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 14 files changed `++951 --716`
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/audience-improvements`
-  * [#fa156ad](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fa156ad) Merge branch &#39;feat/audience-improvements&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into feat/audience-improvements
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/audience-improvements`
-  * [#8dff90c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8dff90c) refactor: Improve job metadata formatting and retrieval
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/audience-improvements`
-  * [#af927c0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af927c0) refactor: Update path type to string or null
+* #️⃣ Opened [#366 Make tag creation endpoint isSaved a parameter](https://github.com/MediaJel/amplication-nestjs-microservices/issues/366) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-tag-endpoint-optionally-save`
+  * [#d68cc2f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d68cc2f) fix: Update default version value to 2
+* 🔃 Opened [#365 feat: make tag creation endpoints optionally save](https://github.com/MediaJel/amplication-nestjs-microservices/pull/365) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 6 files changed `++94 --73`
+* ⏺️ Created new branch feat/make-tag-endpoint-optionally-save in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#363 Improve Query performance of Demograph counts in clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/363) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
