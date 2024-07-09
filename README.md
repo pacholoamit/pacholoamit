@@ -30,6 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#612 Create enrichment to block unwanted app_ids](https://github.com/MediaJel/mediajel/issues/612) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#8849fdd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8849fdd) fix: Update path assignment with optional chaining
 * 🌟 Starred [tencentmusic/cube-studio](https://github.com/tencentmusic/cube-studio)
 * ➡️ Pushed 17 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
   * [#b4f2ca5](https://github.com/pacholoamit/pachtop/commit/b4f2ca5) Merge pull request #234 from pacholoamit/master
@@ -57,20 +60,6 @@ chore: Add HighchartsBoost to area and bar chart components
   * [#473ad62](https://github.com/pacholoamit/pachtop/commit/473ad62) chore: Add HighchartsBoost to area and bar chart components
 * 🔃 Merged [#234 update](https://github.com/pacholoamit/pachtop/pull/234) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
   * 23 files changed `++467 --134`
-* 🔃 Opened [#234 update](https://github.com/pacholoamit/pachtop/pull/234) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 23 files changed `++467 --134`
-* ➡️ Pushed 9 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#d5c5be8](https://github.com/pacholoamit/pachtop/commit/d5c5be8) Merge pull request #228 from pacholoamit/feat/implement-file-explorer-functionality
-
-style: Add context menu to disk directory treeview nodes
-  * [#8a574b5](https://github.com/pacholoamit/pachtop/commit/8a574b5) feat: Update disk directory treeview context menu items
-  * [#a6a5b1a](https://github.com/pacholoamit/pachtop/commit/a6a5b1a) fix: Improve error handling for deleting folders
-  * [#a7530d1](https://github.com/pacholoamit/pachtop/commit/a7530d1) feat: Add new permissions for autostart functionality
-  * [#cea9556](https://github.com/pacholoamit/pachtop/commit/cea9556) feat: Add file explorer context menu functionality
-  * [#13202a2](https://github.com/pacholoamit/pachtop/commit/13202a2) feat: Add HighChartsBoost module
-  * [#7b3b11f](https://github.com/pacholoamit/pachtop/commit/7b3b11f) feat: Add open, show in terminal, delete file, delete folder commands
-  * [#39d6c0d](https://github.com/pacholoamit/pachtop/commit/39d6c0d) refactor: Remove unused imports and code, improve command functions
-  * [#7155d9b](https://github.com/pacholoamit/pachtop/commit/7155d9b) style: Add context menu to disk directory treeview nodes
 
 
 
