@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7167` commits and made `222` PRs.
+:people_hugging: I contributed to `39` repositories , made `7170` commits and made `223` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,36 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#612 Create enrichment to block unwanted app_ids](https://github.com/MediaJel/mediajel/issues/612) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#8849fdd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8849fdd) fix: Update path assignment with optional chaining
-* 🌟 Starred [tencentmusic/cube-studio](https://github.com/tencentmusic/cube-studio)
-* ➡️ Pushed 17 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `release`
-  * [#b4f2ca5](https://github.com/pacholoamit/pachtop/commit/b4f2ca5) Merge pull request #234 from pacholoamit/master
+* 💬 Commented on [#353 Migrate Documentation for Tag installation from coda to the markdown endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/353) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#380 Research on conditionally rendering endpoints in swagger docs](https://github.com/MediaJel/amplication-nestjs-microservices/issues/380) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#379 Impression tracker endpoint changes](https://github.com/MediaJel/amplication-nestjs-microservices/issues/379) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#378 Add Nexxen dynamically generating segment ID in mediajel-tracker &amp; microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/378) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 3 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#a6b64be](https://github.com/MediaJel/serverless-functions/commit/a6b64be) Merge pull request #61 from MediaJel/debug/add-detail-for-handler
 
-update
-  * [#d5c5be8](https://github.com/pacholoamit/pachtop/commit/d5c5be8) Merge pull request #228 from pacholoamit/feat/implement-file-explorer-functionality
-
-style: Add context menu to disk directory treeview nodes
-  * [#8a574b5](https://github.com/pacholoamit/pachtop/commit/8a574b5) feat: Update disk directory treeview context menu items
-  * [#a6a5b1a](https://github.com/pacholoamit/pachtop/commit/a6a5b1a) fix: Improve error handling for deleting folders
-  * [#a7530d1](https://github.com/pacholoamit/pachtop/commit/a7530d1) feat: Add new permissions for autostart functionality
-  * [#cea9556](https://github.com/pacholoamit/pachtop/commit/cea9556) feat: Add file explorer context menu functionality
-  * [#13202a2](https://github.com/pacholoamit/pachtop/commit/13202a2) feat: Add HighChartsBoost module
-  * [#7b3b11f](https://github.com/pacholoamit/pachtop/commit/7b3b11f) feat: Add open, show in terminal, delete file, delete folder commands
-  * [#39d6c0d](https://github.com/pacholoamit/pachtop/commit/39d6c0d) refactor: Remove unused imports and code, improve command functions
-  * [#7155d9b](https://github.com/pacholoamit/pachtop/commit/7155d9b) style: Add context menu to disk directory treeview nodes
-  * [#b8c7efe](https://github.com/pacholoamit/pachtop/commit/b8c7efe) Merge pull request #227 from pacholoamit/feat/use-settings-provider
-  * [#f5adada](https://github.com/pacholoamit/pachtop/commit/f5adada) refactor: Migrate to use Settings context for managing settings state
-  * [#d3564ed](https://github.com/pacholoamit/pachtop/commit/d3564ed) fix: Update variable names in area-chart and spline-chart components
-  * [#643c96e](https://github.com/pacholoamit/pachtop/commit/643c96e) fix: Update button not stopping loading state
-  * [#971dfae](https://github.com/pacholoamit/pachtop/commit/971dfae) feat: Add autostart disable capability
-  * [#166778d](https://github.com/pacholoamit/pachtop/commit/166778d) Merge pull request #225 from pacholoamit/feat/chart-perf
-
-chore: Add HighchartsBoost to area and bar chart components
-  * [#473ad62](https://github.com/pacholoamit/pachtop/commit/473ad62) chore: Add HighchartsBoost to area and bar chart components
-* 🔃 Merged [#234 update](https://github.com/pacholoamit/pachtop/pull/234) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 23 files changed `++467 --134`
+Debug/add detail for handler
+  * [#29f85ff](https://github.com/MediaJel/serverless-functions/commit/29f85ff) change error logging
+  * [#4ddcc23](https://github.com/MediaJel/serverless-functions/commit/4ddcc23) change error logging
 
 
 
