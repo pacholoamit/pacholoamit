@@ -30,16 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#353 Migrate Documentation for Tag installation from coda to the markdown endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/353) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#380 Research on conditionally rendering endpoints in swagger docs](https://github.com/MediaJel/amplication-nestjs-microservices/issues/380) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#379 Impression tracker endpoint changes](https://github.com/MediaJel/amplication-nestjs-microservices/issues/379) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#378 Add Nexxen dynamically generating segment ID in mediajel-tracker &amp; microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/378) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 3 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#a6b64be](https://github.com/MediaJel/serverless-functions/commit/a6b64be) Merge pull request #61 from MediaJel/debug/add-detail-for-handler
-
-Debug/add detail for handler
-  * [#29f85ff](https://github.com/MediaJel/serverless-functions/commit/29f85ff) change error logging
-  * [#4ddcc23](https://github.com/MediaJel/serverless-functions/commit/4ddcc23) change error logging
+* #️⃣ Opened [#387 Rename `/api/segment`  -&gt; `/api/segment/liquidm`](https://github.com/MediaJel/amplication-nestjs-microservices/issues/387) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#6844 [PASS QA 1] google seo docs update](https://github.com/MediaJel/mediajel-dashboard/pull/6844) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#386 Make changes to the POST `/tracker/events` endpoint to use the endpoint in the external-microservice that creates the Beacon](https://github.com/MediaJel/amplication-nestjs-microservices/issues/386) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#385 Add additional code to the nexxen `dsp` folder in the external-microservice for generating a retargeting tag](https://github.com/MediaJel/amplication-nestjs-microservices/issues/385) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#384 Make changes to the mediajel-tracker to allow for nexxen segment id](https://github.com/MediaJel/amplication-nestjs-microservices/issues/384) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
