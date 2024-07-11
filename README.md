@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7170` commits and made `223` PRs.
+:people_hugging: I contributed to `39` repositories , made `7173` commits and made `224` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#7456c04](https://github.com/MediaJel/serverless-functions/commit/7456c04) Merge pull request #62 from MediaJel/debug/add-detail-for-handler
+  * [#f2bcbc7](https://github.com/MediaJel/serverless-functions/commit/f2bcbc7) change error logging
+* 🔃 Merged [#62 change error logging](https://github.com/MediaJel/serverless-functions/pull/62) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 1 file changed `++7 --7`
+* #️⃣ Opened [#388 Update Statara data loading job due to new changes](https://github.com/MediaJel/amplication-nestjs-microservices/issues/388) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#387 Rename `/api/segment`  -&gt; `/api/segment/liquidm`](https://github.com/MediaJel/amplication-nestjs-microservices/issues/387) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#6844 [PASS QA 1] google seo docs update](https://github.com/MediaJel/mediajel-dashboard/pull/6844) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#386 Make changes to the POST `/tracker/events` endpoint to use the endpoint in the external-microservice that creates the Beacon](https://github.com/MediaJel/amplication-nestjs-microservices/issues/386) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#385 Add additional code to the nexxen `dsp` folder in the external-microservice for generating a retargeting tag](https://github.com/MediaJel/amplication-nestjs-microservices/issues/385) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#384 Make changes to the mediajel-tracker to allow for nexxen segment id](https://github.com/MediaJel/amplication-nestjs-microservices/issues/384) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
