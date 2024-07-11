@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#7456c04](https://github.com/MediaJel/serverless-functions/commit/7456c04) Merge pull request #62 from MediaJel/debug/add-detail-for-handler
-  * [#f2bcbc7](https://github.com/MediaJel/serverless-functions/commit/f2bcbc7) change error logging
-* 🔃 Merged [#62 change error logging](https://github.com/MediaJel/serverless-functions/pull/62) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 1 file changed `++7 --7`
-* #️⃣ Opened [#388 Update Statara data loading job due to new changes](https://github.com/MediaJel/amplication-nestjs-microservices/issues/388) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#387 Rename `/api/segment`  -&gt; `/api/segment/liquidm`](https://github.com/MediaJel/amplication-nestjs-microservices/issues/387) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#6844 [PASS QA 1] google seo docs update](https://github.com/MediaJel/mediajel-dashboard/pull/6844) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#6885 [FOR REVIEW] white label docs seo](https://github.com/MediaJel/mediajel-dashboard/pull/6885) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#392 Create the fast tables](https://github.com/MediaJel/amplication-nestjs-microservices/issues/392) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#388 Update Statara data loading job due to new changes](https://github.com/MediaJel/amplication-nestjs-microservices/issues/388) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#704 Checking Basket Items if supported](https://github.com/MediaJel/mediajel/issues/704) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#363 Improve Query performance of Demograph counts in clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/363) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
