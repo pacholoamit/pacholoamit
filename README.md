@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7173` commits and made `224` PRs.
+:people_hugging: I contributed to `39` repositories , made `7179` commits and made `226` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,30 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#6885 [FOR REVIEW] white label docs seo](https://github.com/MediaJel/mediajel-dashboard/pull/6885) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#392 Create the fast tables](https://github.com/MediaJel/amplication-nestjs-microservices/issues/392) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#388 Update Statara data loading job due to new changes](https://github.com/MediaJel/amplication-nestjs-microservices/issues/388) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#704 Checking Basket Items if supported](https://github.com/MediaJel/mediajel/issues/704) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#363 Improve Query performance of Demograph counts in clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/363) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#779fbd0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/779fbd0) Merge pull request #368 from MediaJel/jbjm-ecom-events
+
+Jbjm ecom events
+  * [#bdd3ce9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bdd3ce9) refactor: tracker environment events update with additional fields
+  * [#16da7ae](https://github.com/MediaJel/amplication-nestjs-microservices/commit/16da7ae) refactor: tracker environment events update with additional fields
+  * [#f56b0c9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f56b0c9) refactor: tracker environment events update with additional fields
+* 🔃 Merged [#368 Jbjm ecom events](https://github.com/MediaJel/amplication-nestjs-microservices/pull/368) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 5 files changed `++74 --40`
+* 🔍 Reviewed [#368 Jbjm ecom events](https://github.com/MediaJel/amplication-nestjs-microservices/pull/368) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#317 Automate Statara pipeline for auto ingesting data via cron schedule](https://github.com/MediaJel/amplication-nestjs-microservices/issues/317) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 10 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#293a364](https://github.com/MediaJel/amplication-nestjs-microservices/commit/293a364) Merge pull request #374 from MediaJel/ez-stataraQueueAndCronjob
+
+ez stataraQueueAndCronjob
+  * [#9392b15](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9392b15) refactor: Rename method to setupCron
+  * [#4bc5d64](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4bc5d64) style: Remove unnecessary commented out code and switch quotes to single quotes
+  * [#ed4d63c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ed4d63c) feat: Add ConnectionsController for Connections module
+  * [#9c9b3f7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9c9b3f7) refactor: Update queue file names and processor names
+  * [#4d61878](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4d61878) Merge branch &#39;staging&#39; into ez-stataraQueueAndCronjob
+  * [#7f5e03e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7f5e03e) feat: Add STATARA data checking and handling logic
+  * [#ca34e8e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ca34e8e) feat: Add schedule module and cron job for Statara audience
+  * [#4e2e5a3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4e2e5a3) feat: Add Statara audience refresh queue with processing logic
+  * [#ddda585](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ddda585) refactor: Implement queue for statara refresh and improve error handling
 
 
 
