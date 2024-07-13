@@ -30,30 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#779fbd0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/779fbd0) Merge pull request #368 from MediaJel/jbjm-ecom-events
+* 🔃 Opened [#395 fix: Fix saving audience file with correct content type](https://github.com/MediaJel/amplication-nestjs-microservices/pull/395) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++4 --3`
+* ⏺️ Created new branch feat/fix-activate-encoding in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#394 Delete all created tags in the prisma database in the internal-service](https://github.com/MediaJel/amplication-nestjs-microservices/issues/394) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#0e38485](https://github.com/MediaJel/serverless-functions/commit/0e38485) Merge pull request #66 from MediaJel/feat/implement-fast-tables-data-loading
 
-Jbjm ecom events
-  * [#bdd3ce9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bdd3ce9) refactor: tracker environment events update with additional fields
-  * [#16da7ae](https://github.com/MediaJel/amplication-nestjs-microservices/commit/16da7ae) refactor: tracker environment events update with additional fields
-  * [#f56b0c9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f56b0c9) refactor: tracker environment events update with additional fields
-* 🔃 Merged [#368 Jbjm ecom events](https://github.com/MediaJel/amplication-nestjs-microservices/pull/368) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 5 files changed `++74 --40`
-* 🔍 Reviewed [#368 Jbjm ecom events](https://github.com/MediaJel/amplication-nestjs-microservices/pull/368) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#317 Automate Statara pipeline for auto ingesting data via cron schedule](https://github.com/MediaJel/amplication-nestjs-microservices/issues/317) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 10 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#293a364](https://github.com/MediaJel/amplication-nestjs-microservices/commit/293a364) Merge pull request #374 from MediaJel/ez-stataraQueueAndCronjob
-
-ez stataraQueueAndCronjob
-  * [#9392b15](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9392b15) refactor: Rename method to setupCron
-  * [#4bc5d64](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4bc5d64) style: Remove unnecessary commented out code and switch quotes to single quotes
-  * [#ed4d63c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ed4d63c) feat: Add ConnectionsController for Connections module
-  * [#9c9b3f7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9c9b3f7) refactor: Update queue file names and processor names
-  * [#4d61878](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4d61878) Merge branch &#39;staging&#39; into ez-stataraQueueAndCronjob
-  * [#7f5e03e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7f5e03e) feat: Add STATARA data checking and handling logic
-  * [#ca34e8e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ca34e8e) feat: Add schedule module and cron job for Statara audience
-  * [#4e2e5a3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4e2e5a3) feat: Add Statara audience refresh queue with processing logic
-  * [#ddda585](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ddda585) refactor: Implement queue for statara refresh and improve error handling
+feat: Add fast tables data loading
+  * [#950ed70](https://github.com/MediaJel/serverless-functions/commit/950ed70) feat: Add function to create Snowplow insert SQL
+* 🔃 Merged [#66 feat: Add fast tables data loading](https://github.com/MediaJel/serverless-functions/pull/66) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 2 files changed `++341 --288`
 
 
 
