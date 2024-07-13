@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [darrenburns/posting](https://github.com/darrenburns/posting)
 * 🔃 Opened [#395 fix: Fix saving audience file with correct content type](https://github.com/MediaJel/amplication-nestjs-microservices/pull/395) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 1 file changed `++4 --3`
 * ⏺️ Created new branch feat/fix-activate-encoding in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
@@ -39,8 +40,6 @@
 
 feat: Add fast tables data loading
   * [#950ed70](https://github.com/MediaJel/serverless-functions/commit/950ed70) feat: Add function to create Snowplow insert SQL
-* 🔃 Merged [#66 feat: Add fast tables data loading](https://github.com/MediaJel/serverless-functions/pull/66) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 2 files changed `++341 --288`
 
 
 
