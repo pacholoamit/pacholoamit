@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7179` commits and made `227` PRs.
+:people_hugging: I contributed to `38` repositories , made `7184` commits and made `227` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#c5d8355](https://github.com/pacholoamit/pachtop/commit/c5d8355) Merge pull request #240 from pacholoamit/fix/file-explorer
+
+fix/file explorer
+  * [#c33c1b1](https://github.com/pacholoamit/pachtop/commit/c33c1b1) fix: Add missing Emitter and Listener imports
+  * [#c4a033b](https://github.com/pacholoamit/pachtop/commit/c4a033b) feat: Add tooltips for opening directory and terminal
+  * [#c825f18](https://github.com/pacholoamit/pachtop/commit/c825f18) style: Remove unnecessary eslint-disable line
+  * [#558d115](https://github.com/pacholoamit/pachtop/commit/558d115) chore: update packages
+* 🔃 Merged [#240 fix/file explorer](https://github.com/pacholoamit/pachtop/pull/240) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 111 files changed `++1254 --999`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/file-explorer`
+  * [#c33c1b1](https://github.com/pacholoamit/pachtop/commit/c33c1b1) fix: Add missing Emitter and Listener imports
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/file-explorer`
+  * [#c4a033b](https://github.com/pacholoamit/pachtop/commit/c4a033b) feat: Add tooltips for opening directory and terminal
 * 🔃 Opened [#240 fix/file explorer](https://github.com/pacholoamit/pachtop/pull/240) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
   * 107 files changed `++1203 --977`
-* ⏺️ Created new branch fix/file-explorer in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-* 🌟 Starred [Levminer/cores](https://github.com/Levminer/cores)
-* 🌟 Starred [darrenburns/posting](https://github.com/darrenburns/posting)
-* 🔃 Opened [#395 fix: Fix saving audience file with correct content type](https://github.com/MediaJel/amplication-nestjs-microservices/pull/395) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++4 --3`
 
 
 
