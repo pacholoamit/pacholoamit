@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7179` commits and made `226` PRs.
+:people_hugging: I contributed to `39` repositories , made `7179` commits and made `227` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#240 fix/file explorer](https://github.com/pacholoamit/pachtop/pull/240) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 107 files changed `++1203 --977`
+* ⏺️ Created new branch fix/file-explorer in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+* 🌟 Starred [Levminer/cores](https://github.com/Levminer/cores)
 * 🌟 Starred [darrenburns/posting](https://github.com/darrenburns/posting)
 * 🔃 Opened [#395 fix: Fix saving audience file with correct content type](https://github.com/MediaJel/amplication-nestjs-microservices/pull/395) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 1 file changed `++4 --3`
-* ⏺️ Created new branch feat/fix-activate-encoding in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#394 Delete all created tags in the prisma database in the internal-service](https://github.com/MediaJel/amplication-nestjs-microservices/issues/394) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#0e38485](https://github.com/MediaJel/serverless-functions/commit/0e38485) Merge pull request #66 from MediaJel/feat/implement-fast-tables-data-loading
-
-feat: Add fast tables data loading
-  * [#950ed70](https://github.com/MediaJel/serverless-functions/commit/950ed70) feat: Add function to create Snowplow insert SQL
 
 
 
