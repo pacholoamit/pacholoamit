@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `38` repositories , made `7186` commits and made `228` PRs.
+:people_hugging: I contributed to `38` repositories , made `7186` commits and made `227` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,22 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 5 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#c5d8355](https://github.com/pacholoamit/pachtop/commit/c5d8355) Merge pull request #240 from pacholoamit/fix/file-explorer
-
-fix/file explorer
-  * [#c33c1b1](https://github.com/pacholoamit/pachtop/commit/c33c1b1) fix: Add missing Emitter and Listener imports
-  * [#c4a033b](https://github.com/pacholoamit/pachtop/commit/c4a033b) feat: Add tooltips for opening directory and terminal
-  * [#c825f18](https://github.com/pacholoamit/pachtop/commit/c825f18) style: Remove unnecessary eslint-disable line
-  * [#558d115](https://github.com/pacholoamit/pachtop/commit/558d115) chore: update packages
-* 🔃 Merged [#240 fix/file explorer](https://github.com/pacholoamit/pachtop/pull/240) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 111 files changed `++1254 --999`
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/file-explorer`
-  * [#c33c1b1](https://github.com/pacholoamit/pachtop/commit/c33c1b1) fix: Add missing Emitter and Listener imports
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `fix/file-explorer`
-  * [#c4a033b](https://github.com/pacholoamit/pachtop/commit/c4a033b) feat: Add tooltips for opening directory and terminal
-* 🔃 Opened [#240 fix/file explorer](https://github.com/pacholoamit/pachtop/pull/240) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 107 files changed `++1203 --977`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-multiple-docs-endpoints`
+  * [#8a5d92e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8a5d92e) feat: Add modules to public swagger docs include option
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-multiple-docs-endpoints`
+  * [#d8876fd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d8876fd) fix: Update basic auth credentials in config and middleware
+* 🔃 Opened [#400 refactor: Update Swagger setup for public and private paths](https://github.com/MediaJel/amplication-nestjs-microservices/pull/400) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++42 --11`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-multiple-docs-endpoints`
+  * [#863b4fd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/863b4fd) refactor: Update Swagger setup for public and private paths
+* ⏺️ Created new branch feat/implement-multiple-docs-endpoints in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
