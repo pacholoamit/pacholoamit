@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `38` repositories , made `7186` commits and made `227` PRs.
+:people_hugging: I contributed to `38` repositories , made `7203` commits and made `229` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,36 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 20 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#069e6ad](https://github.com/MediaJel/amplication-nestjs-microservices/commit/069e6ad) Merge pull request #342 from MediaJel/jbjm-md-documentation
+
+Jbjm md documentation
+  * [#4ff5daf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4ff5daf) feat: added jane docs
+  * [#59406fa](https://github.com/MediaJel/amplication-nestjs-microservices/commit/59406fa) feat: added dispense docs
+  * [#a9282a6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a9282a6) feat: added images for local use
+  * [#7ed8182](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7ed8182) refactor: remove auth for endpoint url and clean code
+  * [#11d6faa](https://github.com/MediaJel/amplication-nestjs-microservices/commit/11d6faa) feat: added wefunder md docs file
+  * [#6d97a15](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6d97a15) feat: added shopify md docs file
+  * [#4432e9a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4432e9a) feat: added woocommerce md docs file
+  * [#7bc86c3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7bc86c3) feat: added bigcommerce md docs file
+  * [#e4989f7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e4989f7) refactor: dynamic params and add auth routes to docs endpoint
+  * [#5e4cead](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5e4cead) refactor: dynamic params in docs endpoint
+  * [#a0710ab](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a0710ab) refactor: dynamic params for app id
+  * [#5788570](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5788570) docs: Rename Magento.md to base.md and remove test.md
+  * [#777d6d5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/777d6d5) style: Update stylesheet links and body padding in docs.controller
+  * [#fd0ac9e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fd0ac9e) refactor: clean code on md and make api to html
+  * [#f99b830](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f99b830) style: Add styling and link to CSS in markdown file rendering
+  * [#a9d08c8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a9d08c8) refactor: clean code
+  * [#6e213fc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6e213fc) refactor: dir for serve static
+  * [#6ff7070](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6ff7070) refactor: finalize markdown to html endpoint
+  * [#312730c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/312730c) refactor: work in progress to be continued
+* 🔃 Merged [#342 Jbjm md documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/342) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 48 files changed `++715 --2`
+* 🌟 Starred [GenFirst/nest-status-monitor](https://github.com/GenFirst/nest-status-monitor)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-multiple-docs-endpoints`
   * [#8a5d92e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8a5d92e) feat: Add modules to public swagger docs include option
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-multiple-docs-endpoints`
   * [#d8876fd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d8876fd) fix: Update basic auth credentials in config and middleware
-* 🔃 Opened [#400 refactor: Update Swagger setup for public and private paths](https://github.com/MediaJel/amplication-nestjs-microservices/pull/400) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 2 files changed `++42 --11`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-multiple-docs-endpoints`
-  * [#863b4fd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/863b4fd) refactor: Update Swagger setup for public and private paths
-* ⏺️ Created new branch feat/implement-multiple-docs-endpoints in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
