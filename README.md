@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `38` repositories , made `7204` commits and made `229` PRs.
+:people_hugging: I contributed to `38` repositories , made `7204` commits and made `231` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#717 Remove the existing CRUD operations on the /api/tracker endpoint](https://github.com/MediaJel/mediajel/issues/717) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#388 Update Statara data loading job due to new changes](https://github.com/MediaJel/amplication-nestjs-microservices/issues/388) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#704 Checking Basket Items if supported](https://github.com/MediaJel/mediajel/issues/704) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#363 Improve Query performance of Demograph counts in clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/363) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#363 Improve Query performance of Demograph counts in clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/363) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-fast-tables-pipelines`
+  * [#0080cdc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0080cdc) chore: Update logging messages and query params
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-fast-tables-pipelines`
+  * [#df2ea81](https://github.com/MediaJel/amplication-nestjs-microservices/commit/df2ea81) feat: Update snowplow fast tables service
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-fast-tables-pipelines`
+  * [#44a8b18](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44a8b18) feat: Add methods to check and manipulate Clickhouse tables
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#61e8404](https://github.com/MediaJel/serverless-functions/commit/61e8404) Merge pull request #67 from MediaJel/feat/implement-fast-tables-data-loading
+
+refactor: Comment out unused variables and simplify table names
+  * [#16e4596](https://github.com/MediaJel/serverless-functions/commit/16e4596) refactor: Comment out unused variables and simplify table names
+* 🔃 Merged [#67 refactor: Comment out unused variables and simplify table names](https://github.com/MediaJel/serverless-functions/pull/67) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 1 file changed `++5 --25`
 
 
 
