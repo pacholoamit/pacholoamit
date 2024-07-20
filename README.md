@@ -30,19 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#5145 Add PAGE_REFERRER field to check for Retail Ids](https://github.com/MediaJel/mediajel-gql-service/issues/5145) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🌟 Starred [oscartbeaumont/tauri-specta](https://github.com/oscartbeaumont/tauri-specta)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#fe00090](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/fe00090) feat: Add AWS_REGION to deployment config
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#d21ab48](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/d21ab48) Merge branch &#39;master&#39; of https://github.com/MediaJel/mediajel-frictionless-custom-tag
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-fast-tables-pipelines`
   * [#0080cdc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0080cdc) chore: Update logging messages and query params
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-fast-tables-pipelines`
-  * [#df2ea81](https://github.com/MediaJel/amplication-nestjs-microservices/commit/df2ea81) feat: Update snowplow fast tables service
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-fast-tables-pipelines`
-  * [#44a8b18](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44a8b18) feat: Add methods to check and manipulate Clickhouse tables
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#61e8404](https://github.com/MediaJel/serverless-functions/commit/61e8404) Merge pull request #67 from MediaJel/feat/implement-fast-tables-data-loading
-
-refactor: Comment out unused variables and simplify table names
-  * [#16e4596](https://github.com/MediaJel/serverless-functions/commit/16e4596) refactor: Comment out unused variables and simplify table names
-* 🔃 Merged [#67 refactor: Comment out unused variables and simplify table names](https://github.com/MediaJel/serverless-functions/pull/67) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 1 file changed `++5 --25`
 
 
 
