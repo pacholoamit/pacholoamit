@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7204` commits and made `231` PRs.
+:people_hugging: I contributed to `36` repositories , made `7206` commits and made `232` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#5145 Add PAGE_REFERRER field to check for Retail Ids](https://github.com/MediaJel/mediajel-gql-service/issues/5145) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🌟 Starred [oscartbeaumont/tauri-specta](https://github.com/oscartbeaumont/tauri-specta)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#fe00090](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/fe00090) feat: Add AWS_REGION to deployment config
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#d21ab48](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/d21ab48) Merge branch &#39;master&#39; of https://github.com/MediaJel/mediajel-frictionless-custom-tag
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-fast-tables-pipelines`
-  * [#0080cdc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0080cdc) chore: Update logging messages and query params
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#3b1450d](https://github.com/MediaJel/mediajel-tracker/commit/3b1450d) Merge pull request #467 from MediaJel/fix/466
+
+Fix/466
+  * [#2e84aba](https://github.com/MediaJel/mediajel-tracker/commit/2e84aba) Fix 403 error when mediajel-tracker loads a non-existing frictionless tag
+  * [#09d896a](https://github.com/MediaJel/mediajel-tracker/commit/09d896a) Merge pull request #464 from MediaJel/staging
+
+Update Staging to Main
+  * [#d8c83cc](https://github.com/MediaJel/mediajel-tracker/commit/d8c83cc) Merge pull request #462 from MediaJel/staging
+
+update
+* 🔃 Merged [#467 Fix/466](https://github.com/MediaJel/mediajel-tracker/pull/467) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++4 --2`
+* 🔃 Opened [#5148 fix/audience count](https://github.com/MediaJel/mediajel-gql-service/pull/5148) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 1 file changed `++12 --2`
+* ⏺️ Created new branch fix/audience-count in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#466 Fix 403 error when mediajel-tracker loads a non-existing frictionless tag](https://github.com/MediaJel/mediajel-tracker/issues/466) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
