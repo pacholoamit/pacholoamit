@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [hasura/gitkube](https://github.com/hasura/gitkube)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `edward`
   * [#e80d5fe](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e80d5fe) style: Update JSON formatting in package.json
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `edward`
@@ -37,8 +38,6 @@
 * ⏺️ Created new branch edward in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-fast-tables-pipelines`
   * [#db8601f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/db8601f) style: add missing semicolon after SQL statement
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/implement-fast-tables-pipelines`
-  * [#be11c14](https://github.com/MediaJel/amplication-nestjs-microservices/commit/be11c14) refactor: Update method parameter name in SnowplowFastTablesRepository
 
 
 
