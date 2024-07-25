@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7221` commits and made `230` PRs.
+:people_hugging: I contributed to `36` repositories , made `7227` commits and made `231` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,92 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 280 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `ez-campaignLauncher`
-  * [#702c865](https://github.com/MediaJel/amplication-nestjs-microservices/commit/702c865) ScrapeDSPCampaigns
-  * [#3a76d2b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3a76d2b) ScrapeDSPCampaigns
-  * [#24c7a91](https://github.com/MediaJel/amplication-nestjs-microservices/commit/24c7a91) Merge pull request #287 from MediaJel/dependabot/npm_and_yarn/passport-0.7.0
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#6e58327](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6e58327) refactor: Update audience filters in DTO class
+* ➡️ Pushed 5 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#f23fb55](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f23fb55) Merge pull request #419 from MediaJel/feat/improve-endpoints-v2
 
-chore(deps): bump passport from 0.6.0 to 0.7.0
-  * [#09dab5b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/09dab5b) chore(deps): bump passport from 0.6.0 to 0.7.0
-
-Bumps [passport](https://github.com/jaredhanson/passport) from 0.6.0 to 0.7.0.
-- [Changelog](https://github.com/jaredhanson/passport/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/jaredhanson/passport/compare/v0.6.0...v0.7.0)
-
----
-updated-dependencies:
-- dependency-name: passport
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-  * [#262c7fe](https://github.com/MediaJel/amplication-nestjs-microservices/commit/262c7fe) Merge pull request #286 from MediaJel/dependabot/npm_and_yarn/types/lodash-4.17.4
-
-chore(deps-dev): bump @types/lodash from 4.17.0 to 4.17.4
-  * [#472ebeb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/472ebeb) Merge pull request #272 from MediaJel/jbjm-environment-endpoints
-
-feat: environment endpoints
-  * [#5c8d079](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5c8d079) Merge pull request #295 from MediaJel/fbl3-test/explicitly-define-aws-access-keys-in-white-label
-
-TEST: Explicitly define AWS Access Key env var in white-label
-  * [#d6d3a08](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d6d3a08) TEST: Explicitly define AWS Access Key env var in white-label
-  * [#1122740](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1122740) fix: made fix on controller
-  * [#8002e51](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8002e51) fix: made googleAds work
-  * [#54ac2c6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/54ac2c6) refactor: clean code unused variable
-  * [#d49603c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d49603c) refactor: clean code unused variable
-  * [#439b976](https://github.com/MediaJel/amplication-nestjs-microservices/commit/439b976) refactor: clean code for event and impression endpoints also clean code for generate environments to have a friendly name
-  * [#03e7f3e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/03e7f3e) refactor: shopify and woocommerce generated tag enhancements
-  * [#44b11b0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/44b11b0) feat: environment endpoints
-  * [#ed11e73](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ed11e73) feat: migration of google ads
-  * [#4ffac1a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4ffac1a) chore(deps): bump type-fest from 2.19.0 to 4.18.3
-
-Bumps [type-fest](https://github.com/sindresorhus/type-fest) from 2.19.0 to 4.18.3.
-- [Release notes](https://github.com/sindresorhus/type-fest/releases)
-- [Commits](https://github.com/sindresorhus/type-fest/compare/v2.19.0...v4.18.3)
-
----
-updated-dependencies:
-- dependency-name: type-fest
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-  * [#026b5a1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/026b5a1) chore(deps-dev): bump typescript from 5.4.3 to 5.4.5
-
-Bumps [typescript](https://github.com/Microsoft/TypeScript) from 5.4.3 to 5.4.5.
-- [Release notes](https://github.com/Microsoft/TypeScript/releases)
-- [Changelog](https://github.com/microsoft/TypeScript/blob/main/azure-pipelines.release.yml)
-- [Commits](https://github.com/Microsoft/TypeScript/compare/v5.4.3...v5.4.5)
-
----
-updated-dependencies:
-- dependency-name: typescript
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-  * [#34a34bf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/34a34bf) chore(deps-dev): bump @types/lodash from 4.17.0 to 4.17.4
-
-Bumps [@types/lodash](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/lodash) from 4.17.0 to 4.17.4.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/lodash)
-
----
-updated-dependencies:
-- dependency-name: &#34;@types/lodash&#34;
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-  * [#0f7ee9c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0f7ee9c) feat: migration of google library
-* 💬 Commented on [#293 [Ext] Campaign Management API: Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#389 Audit manifest manager deprecation](https://github.com/MediaJel/amplication-nestjs-microservices/issues/389) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#456 Create data structure for storing multiple segment ids in mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/456) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#388 Update Statara data loading job due to new changes](https://github.com/MediaJel/amplication-nestjs-microservices/issues/388) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+Enhancement: Add logical OR and AND in audiences endpoint
+  * [#e281095](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e281095) style: Update type assertion to use `any` instead of `unknown`
+  * [#d667485](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d667485) feat: Add IsOnlyOnePropertyPopulated decorator
+  * [#69367d2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/69367d2) refactor: Add StataraQueryArgumentsRequestParser class
+  * [#3370201](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3370201) refactor: Update class properties in DTO file
+* 🔃 Merged [#419 Enhancement: Add logical OR and AND in audiences endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/419) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 5 files changed `++167 --49`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/improve-endpoints-v2`
+  * [#e281095](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e281095) style: Update type assertion to use `any` instead of `unknown`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/improve-endpoints-v2`
+  * [#d667485](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d667485) feat: Add IsOnlyOnePropertyPopulated decorator
 
 
 
