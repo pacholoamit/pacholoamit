@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7231` commits and made `231` PRs.
+:people_hugging: I contributed to `36` repositories , made `7249` commits and made `234` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,33 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 11 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#8b4c945](https://github.com/MediaJel/mediajel-tracker/commit/8b4c945) Merge pull request #471 from MediaJel/staging
-
-Update
-  * [#4946762](https://github.com/MediaJel/mediajel-tracker/commit/4946762) Merge pull request #470 from MediaJel/update/466
-
-move response text
-  * [#e38a318](https://github.com/MediaJel/mediajel-tracker/commit/e38a318) Merge branch &#39;staging&#39; into update/466
-  * [#03c6b82](https://github.com/MediaJel/mediajel-tracker/commit/03c6b82) move response text
-  * [#46bd2d5](https://github.com/MediaJel/mediajel-tracker/commit/46bd2d5) Merge pull request #465 from MediaJel/srr-lowkeyDispensary
-
-Added more use cases for dispense cart
-  * [#b12e010](https://github.com/MediaJel/mediajel-tracker/commit/b12e010) fix: fixed OR value of tax and total
-  * [#705ef5a](https://github.com/MediaJel/mediajel-tracker/commit/705ef5a) fix: fixed mapping
-  * [#3b1450d](https://github.com/MediaJel/mediajel-tracker/commit/3b1450d) Merge pull request #467 from MediaJel/fix/466
-
-Fix/466
-  * [#2e84aba](https://github.com/MediaJel/mediajel-tracker/commit/2e84aba) Fix 403 error when mediajel-tracker loads a non-existing frictionless tag
-  * [#a5701bd](https://github.com/MediaJel/mediajel-tracker/commit/a5701bd) fix: added another use case for dispense cart with fetchSource
-  * [#36694d1](https://github.com/MediaJel/mediajel-tracker/commit/36694d1) fix: refactored fetch source for more stability
-* 🔃 Merged [#471 Update](https://github.com/MediaJel/mediajel-tracker/pull/471) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++76 --10`
-* 🔃 Opened [#471 Update](https://github.com/MediaJel/mediajel-tracker/pull/471) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++76 --10`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#7bfea3b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7bfea3b) fix: types
-* 🔍 Reviewed [#406 refactor: impression tag enhancements](https://github.com/MediaJel/amplication-nestjs-microservices/pull/406) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#faa5c16](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/faa5c16) feat: Add console log for tracker loading
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#7d48a65](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/7d48a65) refactor: Update event listener and data processing
+* 💬 Commented on [#368 Jbjm ecom events](https://github.com/MediaJel/amplication-nestjs-microservices/issues/368) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#376 FEATURE: Switch mediajel.io domain from production to prod-stage vice-versa](https://github.com/MediaJel/amplication-nestjs-microservices/issues/376) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#395 fix: Fix saving audience file with correct content type](https://github.com/MediaJel/amplication-nestjs-microservices/issues/395) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
