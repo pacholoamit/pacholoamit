@@ -30,13 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#473 Create Wix ecommerce cart adapter](https://github.com/MediaJel/mediajel-tracker/issues/473) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#faa5c16](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/faa5c16) feat: Add console log for tracker loading
+  * [#8f5e40a](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/8f5e40a) style: comment out unused code in www.hypnoticherb.com.ts
+* 🔍 Reviewed [#422 FEATURE: Real-time update in internal-service QQL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/422) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#7d48a65](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/7d48a65) refactor: Update event listener and data processing
-* 💬 Commented on [#368 Jbjm ecom events](https://github.com/MediaJel/amplication-nestjs-microservices/issues/368) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#376 FEATURE: Switch mediajel.io domain from production to prod-stage vice-versa](https://github.com/MediaJel/amplication-nestjs-microservices/issues/376) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#395 fix: Fix saving audience file with correct content type](https://github.com/MediaJel/amplication-nestjs-microservices/issues/395) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * [#181bd61](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/181bd61) feat: Add fetchSource function for www.hypnoticherb.com
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#6a551d2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/6a551d2) chore: Comment out unused code in www.hypnoticherb.com.ts
 
 
 
