@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7249` commits and made `234` PRs.
+:people_hugging: I contributed to `36` repositories , made `7257` commits and made `238` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#473 Create Wix ecommerce cart adapter](https://github.com/MediaJel/mediajel-tracker/issues/473) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#8f5e40a](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/8f5e40a) style: comment out unused code in www.hypnoticherb.com.ts
-* 🔍 Reviewed [#422 FEATURE: Real-time update in internal-service QQL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/422) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#181bd61](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/181bd61) feat: Add fetchSource function for www.hypnoticherb.com
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#6a551d2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/6a551d2) chore: Comment out unused code in www.hypnoticherb.com.ts
+* 🌟 Starred [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+* 💬 Commented on [#427 feat: Add queue implementation for Snowplow Fast Tables Scheduler](https://github.com/MediaJel/amplication-nestjs-microservices/issues/427) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 📦 Released **internal-service-v1.15.0** of [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ⏺️ Created new tag internal-service-v1.15.0 in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `master`
+  * [#7e7b2bd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7e7b2bd) Merge pull request #427 from MediaJel/staging
+
+feat: Add queue implementation for Snowplow Fast Tables Scheduler
+  * [#08ccb57](https://github.com/MediaJel/amplication-nestjs-microservices/commit/08ccb57) feat: Add queue implementation for Snowplow Fast Tables Scheduler
 
 
 
