@@ -30,15 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app)
-* 🔃 Opened [#438 Update to Master](https://github.com/MediaJel/amplication-nestjs-microservices/pull/438) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 12 files changed `++267 --36`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning`
-  * [#6a59880](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6a59880) style: Remove unnecessary job progress update
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning`
-  * [#c3e591c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c3e591c) feat: Add Snowplow Fast Tables input constant
-* 🔃 Opened [#437 feat: Add pruning functionality for fast tables](https://github.com/MediaJel/amplication-nestjs-microservices/pull/437) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 5 files changed `++143 --47`
+* 💬 Commented on [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
