@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7259` commits and made `240` PRs.
+:people_hugging: I contributed to `36` repositories , made `7260` commits and made `240` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#417 implement unit testing and e2e testing for microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/417) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#425 Add &#34;THIRDPARTY&#34; for both universal tracker and microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/425) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#468 Sign up schema changes](https://github.com/MediaJel/mediajel-tracker/issues/468) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#726 Reinsert Old data into Fast tables in Clickhouse](https://github.com/MediaJel/mediajel/issues/726) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#11 Create workflow to recover failed lambda function executions](https://github.com/MediaJel/serverless-functions/issues/11) from [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
 
 
 
