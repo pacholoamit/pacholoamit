@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7263` commits and made `241` PRs.
+:people_hugging: I contributed to `36` repositories , made `7263` commits and made `242` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,28 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#481 feat/add multiple segment id support](https://github.com/MediaJel/mediajel-tracker/pull/481) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 9 files changed `++67 --6`
+* ⏺️ Created new branch feat/add-multiple-segment-id-support in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#a03e331](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a03e331) feat: Add &#39;Wix&#39; to EventEnvironmentsEnum
 * 🌟 Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
-* 🌟 Starred [DiceDB/dice](https://github.com/DiceDB/dice)
-* #️⃣ Opened [#442 [Ext] Campaign Management API: Insertion Order (Soapbox)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/442) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 10 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#a11bf1b](https://github.com/MediaJel/mediajel-tracker/commit/a11bf1b) Merge pull request #478 from MediaJel/staging
-
-Update to Master
-  * [#b9a9fee](https://github.com/MediaJel/mediajel-tracker/commit/b9a9fee) feat: Add wix developers analytics listener
-  * [#5588d83](https://github.com/MediaJel/mediajel-tracker/commit/5588d83) Merge pull request #477 from MediaJel/jbjm-wix-adapter
-
-wix adapter and v2 carts fixes
-  * [#571b36f](https://github.com/MediaJel/mediajel-tracker/commit/571b36f) Wix adapter and fixes for some v2 carts
-  * [#87428f5](https://github.com/MediaJel/mediajel-tracker/commit/87428f5) wix adapter to be continued
-  * [#8c38056](https://github.com/MediaJel/mediajel-tracker/commit/8c38056) Merge pull request #476 from MediaJel/srr-dispenseUpdate2
-
-Dispense Update to Handle Multiple Use Cases
-  * [#4370bcd](https://github.com/MediaJel/mediajel-tracker/commit/4370bcd) refactor: Improve transaction caching for dispense data source
-  * [#2a11403](https://github.com/MediaJel/mediajel-tracker/commit/2a11403) fix: added sessionStorage remover
-  * [#a7ce5f8](https://github.com/MediaJel/mediajel-tracker/commit/a7ce5f8) feat: Added runOnce on sources/utils
-  * [#f7b2f9a](https://github.com/MediaJel/mediajel-tracker/commit/f7b2f9a) fix: New implementation for handling duplication
 
 
 
