@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7266` commits and made `242` PRs.
+:people_hugging: I contributed to `36` repositories , made `7272` commits and made `242` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,33 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 6 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#a6db5cb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a6db5cb) Merge pull request #437 from MediaJel/feat/add-pruning
+
+feat: Add pruning functionality for fast tables
+  * [#4209ad4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4209ad4) refactor: Refactor SnowplowFastTablesQueue process function
+  * [#31432f0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/31432f0) refactor: Update error handling in SnowplowFastTablesQueue
+  * [#6a59880](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6a59880) style: Remove unnecessary job progress update
+  * [#c3e591c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c3e591c) feat: Add Snowplow Fast Tables input constant
+  * [#ae7ab6f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ae7ab6f) feat: Add pruning functionality for fast tables
+* 🔃 Merged [#437 feat: Add pruning functionality for fast tables](https://github.com/MediaJel/amplication-nestjs-microservices/pull/437) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 5 files changed `++182 --135`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning`
+  * [#4209ad4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4209ad4) refactor: Refactor SnowplowFastTablesQueue process function
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning`
+  * [#31432f0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/31432f0) refactor: Update error handling in SnowplowFastTablesQueue
 * #️⃣ Closed [#375 QA attribution events endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/issues/375) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 27 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#d21f851](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d21f851) adjusted code to support object response and use current s3 implementation
-  * [#65c65c6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/65c65c6) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into icf-dynamic-attributed-events
-  * [#5fb184c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5fb184c) Merge branch &#39;icf-dynamic-attributed-events&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into icf-dynamic-attributed-events
-  * [#793bc1a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/793bc1a) feat save report on s3
-  * [#41be82e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/41be82e) [UPDATES] Add attribution bucket env&#39;s
-  * [#6c5a33e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6c5a33e) add max old space
-  * [#247e42d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/247e42d) feat changed data format to JSONRow
-  * [#5e23662](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5e23662) COMPLETE: Fix heap memory issue
-  * [#23e61aa](https://github.com/MediaJel/amplication-nestjs-microservices/commit/23e61aa) feat changed the ipcount from 10 to 201
-  * [#da8021a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/da8021a) feat Removed MV endpoints and added optimized settings
-  * [#74f45c8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/74f45c8) feat: Added working samples to endpoints
-  * [#15ad715](https://github.com/MediaJel/amplication-nestjs-microservices/commit/15ad715) test
-  * [#f5240f3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f5240f3) Fix Deployment error
-  * [#6a6816d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6a6816d) Merge branch &#39;icf-dynamic-attributed-events&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into icf-dynamic-attributed-events
-  * [#4f31cb1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4f31cb1) feat: Attribution events endpoints
-  * [#83153ce](https://github.com/MediaJel/amplication-nestjs-microservices/commit/83153ce) feat: Attribution Endpoints
-  * [#b9a00e8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b9a00e8) Merge branch &#39;staging&#39; into icf-dynamic-attributed-events
-  * [#9d166d5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9d166d5) COMPLETE: Attribution endpoints
-  * [#fba7958](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fba7958) CLEANUP: Complete cleanup
-  * [#e44b28b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e44b28b) WIP: Dynamic attributed events
-* 🔃 Merged [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 20 files changed `++1944 --71`
-* 🔍 Reviewed [#362 Attribution Events Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/362) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `icf-dynamic-attributed-events`
-  * [#4a740df](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4a740df) feat: Add new S3 bucket creation in docker-compose file
 
 
 
