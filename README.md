@@ -30,19 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#452 Microservices Docs UI](https://github.com/MediaJel/amplication-nestjs-microservices/issues/452) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
+  * [#cdc7cc6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cdc7cc6) Delete test.sql
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
+  * [#697f775](https://github.com/MediaJel/amplication-nestjs-microservices/commit/697f775) Delete test.json
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
   * [#f15cf2e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f15cf2e) style: Remove unused IsArray decorator
 * 🔃 Opened [#451 feat/add enhancements to audience querying](https://github.com/MediaJel/amplication-nestjs-microservices/pull/451) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 4 files changed `++416 --83`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
-  * [#f326038](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f326038) style: Remove unnecessary IsArray from class AudienceCountBodyDTO
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#4f6b602](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4f6b602) Merge pull request #450 from MediaJel/feat/add-enhancements-to-audience-querying
-
-feat: Add PIPELINE_SNOWPLOW_FAST_TABLES_ENABLED config option
-  * [#e6ce73f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e6ce73f) feat: Add PIPELINE_SNOWPLOW_FAST_TABLES_ENABLED config option
-* 🔃 Merged [#450 feat: Add PIPELINE_SNOWPLOW_FAST_TABLES_ENABLED config option](https://github.com/MediaJel/amplication-nestjs-microservices/pull/450) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 2 files changed `++13 --2`
 
 
 
