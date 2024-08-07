@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7272` commits and made `240` PRs.
+:people_hugging: I contributed to `36` repositories , made `7275` commits and made `242` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,22 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 6 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#a6db5cb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a6db5cb) Merge pull request #437 from MediaJel/feat/add-pruning
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
+  * [#f15cf2e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f15cf2e) style: Remove unused IsArray decorator
+* 🔃 Opened [#451 feat/add enhancements to audience querying](https://github.com/MediaJel/amplication-nestjs-microservices/pull/451) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 4 files changed `++416 --83`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
+  * [#f326038](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f326038) style: Remove unnecessary IsArray from class AudienceCountBodyDTO
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#4f6b602](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4f6b602) Merge pull request #450 from MediaJel/feat/add-enhancements-to-audience-querying
 
-feat: Add pruning functionality for fast tables
-  * [#4209ad4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4209ad4) refactor: Refactor SnowplowFastTablesQueue process function
-  * [#31432f0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/31432f0) refactor: Update error handling in SnowplowFastTablesQueue
-  * [#6a59880](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6a59880) style: Remove unnecessary job progress update
-  * [#c3e591c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c3e591c) feat: Add Snowplow Fast Tables input constant
-  * [#ae7ab6f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ae7ab6f) feat: Add pruning functionality for fast tables
-* 🔃 Merged [#437 feat: Add pruning functionality for fast tables](https://github.com/MediaJel/amplication-nestjs-microservices/pull/437) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 5 files changed `++182 --135`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning`
-  * [#4209ad4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4209ad4) refactor: Refactor SnowplowFastTablesQueue process function
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning`
-  * [#31432f0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/31432f0) refactor: Update error handling in SnowplowFastTablesQueue
-* #️⃣ Closed [#375 QA attribution events endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/issues/375) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+feat: Add PIPELINE_SNOWPLOW_FAST_TABLES_ENABLED config option
+  * [#e6ce73f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e6ce73f) feat: Add PIPELINE_SNOWPLOW_FAST_TABLES_ENABLED config option
+* 🔃 Merged [#450 feat: Add PIPELINE_SNOWPLOW_FAST_TABLES_ENABLED config option](https://github.com/MediaJel/amplication-nestjs-microservices/pull/450) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++13 --2`
 
 
 
