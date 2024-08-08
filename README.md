@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7275` commits and made `242` PRs.
+:people_hugging: I contributed to `36` repositories , made `7285` commits and made `242` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#452 Microservices Docs UI](https://github.com/MediaJel/amplication-nestjs-microservices/issues/452) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
-  * [#cdc7cc6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cdc7cc6) Delete test.sql
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
-  * [#697f775](https://github.com/MediaJel/amplication-nestjs-microservices/commit/697f775) Delete test.json
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
-  * [#f15cf2e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f15cf2e) style: Remove unused IsArray decorator
-* 🔃 Opened [#451 feat/add enhancements to audience querying](https://github.com/MediaJel/amplication-nestjs-microservices/pull/451) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 4 files changed `++416 --83`
+* #️⃣ Closed [#441 Create adapter for Wix cart](https://github.com/MediaJel/mediajel-tracker/issues/441) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#461 Coordinate with the TAM team on adding their documentation to the microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/461) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#468 Sign up schema changes](https://github.com/MediaJel/mediajel-tracker/issues/468) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#704 Checking Basket Items if supported](https://github.com/MediaJel/mediajel/issues/704) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#484 Provide support to Devops on upgrading snowplow pipelines up until last version of open source license](https://github.com/MediaJel/mediajel-tracker/issues/484) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
