@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
+  * [#00b7446](https://github.com/MediaJel/amplication-nestjs-microservices/commit/00b7446) fix: Update snowplow-fast-tables scheduler config check
 * #️⃣ Closed [#441 Create adapter for Wix cart](https://github.com/MediaJel/mediajel-tracker/issues/441) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Opened [#461 Coordinate with the TAM team on adding their documentation to the microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/461) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#468 Sign up schema changes](https://github.com/MediaJel/mediajel-tracker/issues/468) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#704 Checking Basket Items if supported](https://github.com/MediaJel/mediajel/issues/704) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#484 Provide support to Devops on upgrading snowplow pipelines up until last version of open source license](https://github.com/MediaJel/mediajel-tracker/issues/484) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
