@@ -30,37 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#9108430](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9108430) Merge pull request #465 from MediaJel/nexxenBeaconTag
-
-feat: added tag shopify
-  * [#b58beaa](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b58beaa) feat: added tag shopify
-* 🔃 Merged [#465 feat: added tag shopify](https://github.com/MediaJel/amplication-nestjs-microservices/pull/465) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++1 --0`
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#305fc44](https://github.com/pacholoamit/homelab-infrastructure/commit/305fc44) chore: Update kustomization.yaml configurations
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d24910b](https://github.com/pacholoamit/homelab-infrastructure/commit/d24910b) style: Remove commented out code and trailing newline at end of file
-* ➡️ Pushed 11 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#50a3efd](https://github.com/MediaJel/mediajel-tracker/commit/50a3efd) Merge pull request #486 from MediaJel/staging
-
-Update to master
-  * [#fe08690](https://github.com/MediaJel/mediajel-tracker/commit/fe08690) Merge pull request #485 from MediaJel/feat/add-multiple-segment-id-support
-
-fix: Update window segments to cnnaSegments
-  * [#ae36d94](https://github.com/MediaJel/mediajel-tracker/commit/ae36d94) Merge pull request #481 from MediaJel/feat/add-multiple-segment-id-support
-
-feat/add multiple segment id support
-  * [#5ff8c7a](https://github.com/MediaJel/mediajel-tracker/commit/5ff8c7a) fix: Update window segments to cnnaSegments
-  * [#9a160e8](https://github.com/MediaJel/mediajel-tracker/commit/9a160e8) style: Update index.html and nexxen.ts files
-  * [#1823bb2](https://github.com/MediaJel/mediajel-tracker/commit/1823bb2) feat: Expose segments to window in v1 and v2 index files
-  * [#109b4c0](https://github.com/MediaJel/mediajel-tracker/commit/109b4c0) Merge pull request #483 from MediaJel/advertiserNameLiquidM
-
-Advertiser name liquidM
-  * [#ccf7c6f](https://github.com/MediaJel/mediajel-tracker/commit/ccf7c6f) feat: add nexxen auto transaction tracking
-  * [#92adb13](https://github.com/MediaJel/mediajel-tracker/commit/92adb13) feat: added advertiserName in liquidM impression
-  * [#ff78df1](https://github.com/MediaJel/mediajel-tracker/commit/ff78df1) feat: Add buildNexxenSegment function for nexxen segment
-  * [#4e0ff3a](https://github.com/MediaJel/mediajel-tracker/commit/4e0ff3a) feat: Add segment builder with Liquidm and Nexxen segments
+* 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
