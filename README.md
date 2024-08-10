@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7299` commits and made `244` PRs.
+:people_hugging: I contributed to `36` repositories , made `7300` commits and made `244` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,7 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#1c6d4c0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1c6d4c0) fix: Update snowplow-fast-tables scheduler to boolean value
 * 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
