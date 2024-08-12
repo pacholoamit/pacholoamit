@@ -30,9 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [pock/pock](https://github.com/pock/pock)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#1c6d4c0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1c6d4c0) fix: Update snowplow-fast-tables scheduler to boolean value
-* 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
