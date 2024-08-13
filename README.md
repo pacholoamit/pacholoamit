@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7300` commits and made `244` PRs.
+:people_hugging: I contributed to `36` repositories , made `7309` commits and made `244` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [pock/pock](https://github.com/pock/pock)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#1c6d4c0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1c6d4c0) fix: Update snowplow-fast-tables scheduler to boolean value
-* 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#467 [DO NOT MERGE] HelloWorld Module and Custom Resolver](https://github.com/MediaJel/amplication-nestjs-microservices/pull/467) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#6b5e258](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/6b5e258) Merge branch &#39;master&#39; of https://github.com/MediaJel/mediajel-frictionless-custom-tag
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#336628d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/336628d) Merge branch &#39;master&#39; of https://github.com/MediaJel/mediajel-frictionless-custom-tag
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#389037a](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/389037a) feat: Add window.EcommDataLayer to dispatch events
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#49d1f78](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/49d1f78) feat: Add event listener for dataLayer push event
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#42105c2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/42105c2) refactor: Update and simplify data layer polling function
 
 
 
