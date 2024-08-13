@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7309` commits and made `244` PRs.
+:people_hugging: I contributed to `36` repositories , made `7309` commits and made `245` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#6b5e258](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/6b5e258) Merge branch &#39;master&#39; of https://github.com/MediaJel/mediajel-frictionless-custom-tag
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#336628d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/336628d) Merge branch &#39;master&#39; of https://github.com/MediaJel/mediajel-frictionless-custom-tag
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#389037a](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/389037a) feat: Add window.EcommDataLayer to dispatch events
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#49d1f78](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/49d1f78) feat: Add event listener for dataLayer push event
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#42105c2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/42105c2) refactor: Update and simplify data layer polling function
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/allow-for-remote-docker`
+  * [#1cab447](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1cab447) style: Update start, db, prisma scripts with dotenv
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/allow-for-remote-docker`
+  * [#bda4c04](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bda4c04) fix: Update start scripts in package.json for dotenv integration
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/allow-for-remote-docker`
+  * [#b77eee0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b77eee0) test: Remove StataraQueryArgumentsRequestParser test file
+* 🔃 Opened [#480 feat: allow reading for .env.local for prisma commands](https://github.com/MediaJel/amplication-nestjs-microservices/pull/480) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 4 files changed `++83 --8`
+* ⏺️ Created new branch feat/allow-for-remote-docker in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
