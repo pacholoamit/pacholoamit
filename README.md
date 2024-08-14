@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7311` commits and made `245` PRs.
+:people_hugging: I contributed to `36` repositories , made `7311` commits and made `246` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#485 feat: Add OpenTelemetry and Prisma instrumentations](https://github.com/MediaJel/amplication-nestjs-microservices/pull/485) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 4 files changed `++128 --26`
+* ⏺️ Created new branch feat/add-logs-to-signoz in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#17f6bbc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/17f6bbc) feat: Add migration command for CI deployment
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#ae3eb49](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ae3eb49) feat: Add new script for generating Prisma client in CI
 * #️⃣ Opened [#482 Research on how we can implement statara validations on statara data loading against statara dictionary](https://github.com/MediaJel/amplication-nestjs-microservices/issues/482) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#487 Misconfigured tag issues](https://github.com/MediaJel/mediajel-tracker/issues/487) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#481 Add TAM team documentation to microservices documentation](https://github.com/MediaJel/amplication-nestjs-microservices/issues/481) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#470 FEATURE: Insertion Order API for Soapbox DSP (MVP)](https://github.com/MediaJel/amplication-nestjs-microservices/pull/470) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
