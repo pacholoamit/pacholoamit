@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7311` commits and made `246` PRs.
+:people_hugging: I contributed to `36` repositories , made `7320` commits and made `247` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#485 feat: Add OpenTelemetry and Prisma instrumentations](https://github.com/MediaJel/amplication-nestjs-microservices/pull/485) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 4 files changed `++128 --26`
-* ⏺️ Created new branch feat/add-logs-to-signoz in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#17f6bbc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/17f6bbc) feat: Add migration command for CI deployment
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#ae3eb49](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ae3eb49) feat: Add new script for generating Prisma client in CI
-* #️⃣ Opened [#482 Research on how we can implement statara validations on statara data loading against statara dictionary](https://github.com/MediaJel/amplication-nestjs-microservices/issues/482) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#62a1f94](https://github.com/MediaJel/mediajel-tracker/commit/62a1f94) Merge pull request #488 from MediaJel/weaveAdapter
+
+Created Weave Adapter
+  * [#666da2c](https://github.com/MediaJel/mediajel-tracker/commit/666da2c) feat: added adapter for weave cart
+* #️⃣ Closed [#431 Weave cart adapter for Seed of life](https://github.com/MediaJel/mediajel-tracker/issues/431) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔃 Merged [#488 Created Weave Adapter](https://github.com/MediaJel/mediajel-tracker/pull/488) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 6 files changed `++138 --1`
+* 🔍 Reviewed [#488 Created Weave Adapter](https://github.com/MediaJel/mediajel-tracker/pull/488) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#385 Add additional code to the nexxen `dsp` folder in the external-microservice for generating a retargeting tag](https://github.com/MediaJel/amplication-nestjs-microservices/issues/385) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
