@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7320` commits and made `247` PRs.
+:people_hugging: I contributed to `36` repositories , made `7330` commits and made `251` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#62a1f94](https://github.com/MediaJel/mediajel-tracker/commit/62a1f94) Merge pull request #488 from MediaJel/weaveAdapter
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#45b22cf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/45b22cf) style: improve query performance by adding max_block_size=512
+* 💬 Commented on [#470 FEATURE: Insertion Order API for Soapbox DSP (MVP)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/470) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#4d8f475](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4d8f475) feat: Add SnowplowFastTablesScheduler to exports
+* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#f6572a5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f6572a5) Merge pull request #495 from MediaJel/feat/optimize-fast-tables
 
-Created Weave Adapter
-  * [#666da2c](https://github.com/MediaJel/mediajel-tracker/commit/666da2c) feat: added adapter for weave cart
-* #️⃣ Closed [#431 Weave cart adapter for Seed of life](https://github.com/MediaJel/mediajel-tracker/issues/431) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔃 Merged [#488 Created Weave Adapter](https://github.com/MediaJel/mediajel-tracker/pull/488) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 6 files changed `++138 --1`
-* 🔍 Reviewed [#488 Created Weave Adapter](https://github.com/MediaJel/mediajel-tracker/pull/488) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#385 Add additional code to the nexxen `dsp` folder in the external-microservice for generating a retargeting tag](https://github.com/MediaJel/amplication-nestjs-microservices/issues/385) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+feat/optimize fast tables
+  * [#d5aa334](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d5aa334) refactor: Remove unused imports and constructor parameters
+  * [#dd2e170](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dd2e170) feat: Update SnowplowFastTablesService to use Scheduler
+* 🔃 Merged [#495 feat/optimize fast tables](https://github.com/MediaJel/amplication-nestjs-microservices/pull/495) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++10 --23`
 
 
 
