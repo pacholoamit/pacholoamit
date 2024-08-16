@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7330` commits and made `251` PRs.
+:people_hugging: I contributed to `36` repositories , made `7331` commits and made `251` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,6 +31,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#7687f98](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7687f98) style: Update code formatting and comments
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
   * [#45b22cf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/45b22cf) style: improve query performance by adding max_block_size=512
 * 💬 Commented on [#470 FEATURE: Insertion Order API for Soapbox DSP (MVP)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/470) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
@@ -41,8 +43,6 @@
 feat/optimize fast tables
   * [#d5aa334](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d5aa334) refactor: Remove unused imports and constructor parameters
   * [#dd2e170](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dd2e170) feat: Update SnowplowFastTablesService to use Scheduler
-* 🔃 Merged [#495 feat/optimize fast tables](https://github.com/MediaJel/amplication-nestjs-microservices/pull/495) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 3 files changed `++10 --23`
 
 
 
