@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7331` commits and made `251` PRs.
+:people_hugging: I contributed to `36` repositories , made `7339` commits and made `251` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,19 +30,27 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#7687f98](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7687f98) style: Update code formatting and comments
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#45b22cf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/45b22cf) style: improve query performance by adding max_block_size=512
-* 💬 Commented on [#470 FEATURE: Insertion Order API for Soapbox DSP (MVP)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/470) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#4d8f475](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4d8f475) feat: Add SnowplowFastTablesScheduler to exports
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#333e716](https://github.com/MediaJel/amplication-nestjs-microservices/commit/333e716) Merge branch &#39;staging&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into staging
 * ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#f6572a5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f6572a5) Merge pull request #495 from MediaJel/feat/optimize-fast-tables
+  * [#49966bd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/49966bd) Merge pull request #496 from MediaJel/jbjm-shopify-docs-improvements
 
-feat/optimize fast tables
-  * [#d5aa334](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d5aa334) refactor: Remove unused imports and constructor parameters
-  * [#dd2e170](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dd2e170) feat: Update SnowplowFastTablesService to use Scheduler
+refactor: shopify docs improvements
+  * [#bd682f0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bd682f0) Update shopify.md
+  * [#4a05eca](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4a05eca) refactor: shopify docs improvements
+* 🔃 Merged [#496 refactor: shopify docs improvements](https://github.com/MediaJel/amplication-nestjs-microservices/pull/496) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++11 --6`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jbjm-shopify-docs-improvements`
+  * [#bd682f0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bd682f0) Update shopify.md
+* ➡️ Pushed 6 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#98b3d54](https://github.com/MediaJel/amplication-nestjs-microservices/commit/98b3d54) Merge pull request #485 from MediaJel/feat/add-logs-to-signoz
+
+feat: Add OpenTelemetry and Prisma instrumentations
+  * [#d509d39](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d509d39) refactor: improve code for open telemetry
+  * [#0262369](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0262369) refactor: open telemetry for internal and external microservice
+  * [#c71c4df](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c71c4df) style: Update logger configuration to use node environment
+  * [#6ee5e2b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6ee5e2b) refactor: Update logger configuration and add tracing feature
+  * [#3522655](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3522655) feat: Add OpenTelemetry and Prisma instrumentations
 
 
 
