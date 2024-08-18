@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7342` commits and made `251` PRs.
+:people_hugging: I contributed to `39` repositories , made `7355` commits and made `251` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/ratatui-async-example](https://github.com/pacholoamit/ratatui-async-example) on branch `main`
-  * [#ced52fc](https://github.com/pacholoamit/ratatui-async-example/commit/ced52fc) feat: Add sysinfo crate to retrieve system information
-* ⏺️ Created new branch main in [pacholoamit/ratatui-async-example](https://github.com/pacholoamit/ratatui-async-example)
-* ⏺️ Created new repository  [pacholoamit/ratatui-async-example](https://github.com/pacholoamit/ratatui-async-example)
-* ⏺️ Created new repository  [pacholoamit/rust-tui-async](https://github.com/pacholoamit/rust-tui-async)
-* 🌟 Starred [ratatui-org/templates](https://github.com/ratatui-org/templates)
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#80b595d](https://github.com/pacholoamit/homelab-infrastructure/commit/80b595d) Merge pull request #120 from pacholoamit/renovate/velero-7.x
+
+chore(deps): update helm release velero to v7
+  * [#2641ec3](https://github.com/pacholoamit/homelab-infrastructure/commit/2641ec3) chore(deps): update helm release velero to v7
+* 🔃 Merged [#120 chore(deps): update helm release velero to v7](https://github.com/pacholoamit/homelab-infrastructure/pull/120) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 2 files changed `++2 --2`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#ecf7275](https://github.com/pacholoamit/homelab-infrastructure/commit/ecf7275) Merge pull request #127 from pacholoamit/renovate/wordpress-23.x
+
+chore(deps): update helm release wordpress to v23
+  * [#c1a5f6f](https://github.com/pacholoamit/homelab-infrastructure/commit/c1a5f6f) chore(deps): update helm release wordpress to v23
+* 🔃 Merged [#127 chore(deps): update helm release wordpress to v23](https://github.com/pacholoamit/homelab-infrastructure/pull/127) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
+* 🔃 Merged [#125 chore(deps): update container image vaultwarden/server to v1.32.0](https://github.com/pacholoamit/homelab-infrastructure/pull/125) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 2 files changed `++2 --2`
 
 
 
