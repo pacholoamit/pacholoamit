@@ -30,6 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#af2adce](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af2adce) Merge pull request #504 from MediaJel/ez-stataraRefreshFix
+
+Statara refresh fix for loading data
+  * [#a6340f1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a6340f1) style: Update SQL query parameter in repository file
+* 🔃 Merged [#504 Statara refresh fix for loading data](https://github.com/MediaJel/amplication-nestjs-microservices/pull/504) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++8 --7`
 * ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#80b595d](https://github.com/pacholoamit/homelab-infrastructure/commit/80b595d) Merge pull request #120 from pacholoamit/renovate/velero-7.x
 
@@ -42,10 +49,6 @@ chore(deps): update helm release velero to v7
 
 chore(deps): update helm release wordpress to v23
   * [#c1a5f6f](https://github.com/pacholoamit/homelab-infrastructure/commit/c1a5f6f) chore(deps): update helm release wordpress to v23
-* 🔃 Merged [#127 chore(deps): update helm release wordpress to v23](https://github.com/pacholoamit/homelab-infrastructure/pull/127) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1 --1`
-* 🔃 Merged [#125 chore(deps): update container image vaultwarden/server to v1.32.0](https://github.com/pacholoamit/homelab-infrastructure/pull/125) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 2 files changed `++2 --2`
 
 
 
