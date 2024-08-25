@@ -30,6 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
+  * [#eeac1e7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/eeac1e7) style: Improve logical group condition formatting
+  * [#dbf7332](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dbf7332) refactor: Simplify code by removing unnecessary string concatenation
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
+  * [#cd01e4d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cd01e4d) test: update SQL query string for valid input
+  * [#a950be6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a950be6) feat: Add Statara Audience Repository tests
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#062c24f](https://github.com/MediaJel/mediajel-tracker/commit/062c24f) Merge pull request #496 from MediaJel/staging
 
@@ -39,10 +45,6 @@ feat: Add google datalayer source to dutchie plus data source
   * 1 file changed `++30 --1`
 * 🔃 Opened [#496 feat: Add google datalayer source to dutchie plus data source](https://github.com/MediaJel/mediajel-tracker/pull/496) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 1 file changed `++30 --1`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#cbf2a22](https://github.com/MediaJel/mediajel-tracker/commit/cbf2a22) feat: Add google datalayer source to dutchie plus data source
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#2816e2a](https://github.com/pacholoamit/homelab-infrastructure/commit/2816e2a) feat: Add new Longhorn features in release.yaml
 
 
 
