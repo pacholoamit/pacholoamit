@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7381` commits and made `254` PRs.
+:people_hugging: I contributed to `39` repositories , made `7404` commits and made `254` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,21 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
-  * [#eeac1e7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/eeac1e7) style: Improve logical group condition formatting
-  * [#dbf7332](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dbf7332) refactor: Simplify code by removing unnecessary string concatenation
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
-  * [#cd01e4d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cd01e4d) test: update SQL query string for valid input
-  * [#a950be6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a950be6) feat: Add Statara Audience Repository tests
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#062c24f](https://github.com/MediaJel/mediajel-tracker/commit/062c24f) Merge pull request #496 from MediaJel/staging
-
-feat: Add google datalayer source to dutchie plus data source
-  * [#cbf2a22](https://github.com/MediaJel/mediajel-tracker/commit/cbf2a22) feat: Add google datalayer source to dutchie plus data source
-* 🔃 Merged [#496 feat: Add google datalayer source to dutchie plus data source](https://github.com/MediaJel/mediajel-tracker/pull/496) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++30 --1`
-* 🔃 Opened [#496 feat: Add google datalayer source to dutchie plus data source](https://github.com/MediaJel/mediajel-tracker/pull/496) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++30 --1`
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#45f8bcc](https://github.com/pacholoamit/homelab-infrastructure/commit/45f8bcc) style: Update kustomization.yaml with nextjs-developer-portfolio
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#753f9a1](https://github.com/pacholoamit/homelab-infrastructure/commit/753f9a1) style: Update kustomization.yaml formatting
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#756e36a](https://github.com/pacholoamit/homelab-infrastructure/commit/756e36a) fix: Update target recovery time for mariadb-operator
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#ea8634e](https://github.com/pacholoamit/homelab-infrastructure/commit/ea8634e) style: Comment out speedtest-tracker in kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#041e962](https://github.com/pacholoamit/homelab-infrastructure/commit/041e962) style: Remove unnecessary space in kustomization.yaml
 
 
 
