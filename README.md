@@ -30,15 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#b742b7d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b742b7d) chore: Comment out unused ClickHouse services
+* 💬 Commented on [#526 Verify SEO integrations for SMServices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/526) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#526 Verify SEO integrations for SMServices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/526) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
-  * [#5b3760e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5b3760e) style: Improve code formatting and quotes usage
-* #️⃣ Opened [#523 Cortney&#39;s Request for reports](https://github.com/MediaJel/amplication-nestjs-microservices/issues/523) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
-  * [#e31216c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e31216c) refactor: Update value property to non-nullable in DTO
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
-  * [#b69dfed](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b69dfed) fix: Update error message for IsNumberOrStringOrBoolean
+  * [#0ca44f6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0ca44f6) style: Update quotes to use double quotes consistently
+* 🌟 Starred [actions/starter-workflows](https://github.com/actions/starter-workflows)
+* #️⃣ Opened [#497 Onboarding mediajel.com to dashboard (SEO)](https://github.com/MediaJel/mediajel-tracker/issues/497) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
