@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7407` commits and made `252` PRs.
+:people_hugging: I contributed to `38` repositories , made `7413` commits and made `252` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [docmost/docmost](https://github.com/docmost/docmost)
+* 🌟 Starred [realvjy/nxt-lnk](https://github.com/realvjy/nxt-lnk)
+* 🌟 Starred [instantdb/instant](https://github.com/instantdb/instant)
 * 💬 Commented on [#526 Verify SEO integrations for SMServices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/526) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#526 Verify SEO integrations for SMServices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/526) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-audience-querying`
-  * [#0ca44f6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0ca44f6) style: Update quotes to use double quotes consistently
-* 🌟 Starred [actions/starter-workflows](https://github.com/actions/starter-workflows)
-* #️⃣ Opened [#497 Onboarding mediajel.com to dashboard (SEO)](https://github.com/MediaJel/mediajel-tracker/issues/497) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#209 Migrate Snowflake Charts to Apache Superset](https://github.com/MediaJel/amplication-nestjs-microservices/issues/209) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
