@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7457` commits and made `249` PRs.
+:people_hugging: I contributed to `36` repositories , made `7470` commits and made `250` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,24 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 7 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#c1a873e](https://github.com/MediaJel/mediajel-tracker/commit/c1a873e) Merge pull request #498 from MediaJel/feat/allow-multiple-nexxen-segments
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#67d7e27](https://github.com/pacholoamit/homelab-infrastructure/commit/67d7e27) fix: Enable wordpress-dev-portfolio deployment
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#a0c449b](https://github.com/pacholoamit/homelab-infrastructure/commit/a0c449b) Merge pull request #139 from pacholoamit/renovate/lscr.io-linuxserver-freshrss-1.24.x
 
-feat/allow multiple nexxen segments
-  * [#598016f](https://github.com/MediaJel/mediajel-tracker/commit/598016f) style: Update logger debug color styling
-  * [#8227b32](https://github.com/MediaJel/mediajel-tracker/commit/8227b32) style: Update color styles for log messages
-  * [#f36b13c](https://github.com/MediaJel/mediajel-tracker/commit/f36b13c) refactor: use logger
-  * [#21de8c3](https://github.com/MediaJel/mediajel-tracker/commit/21de8c3) fix: Update script src URL with placeholder values
-  * [#0b6178f](https://github.com/MediaJel/mediajel-tracker/commit/0b6178f) fix: Add conditional check before logging s2 segmentId
-  * [#4a1c90a](https://github.com/MediaJel/mediajel-tracker/commit/4a1c90a) feat: Add Nexxen segment builder for tracking events
-* 🔃 Merged [#498 feat/allow multiple nexxen segments](https://github.com/MediaJel/mediajel-tracker/pull/498) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 77 files changed `++544 --333`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/allow-multiple-nexxen-segments`
-  * [#598016f](https://github.com/MediaJel/mediajel-tracker/commit/598016f) style: Update logger debug color styling
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/allow-multiple-nexxen-segments`
-  * [#8227b32](https://github.com/MediaJel/mediajel-tracker/commit/8227b32) style: Update color styles for log messages
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/allow-multiple-nexxen-segments`
-  * [#f36b13c](https://github.com/MediaJel/mediajel-tracker/commit/f36b13c) refactor: use logger
+chore(deps): update container image lscr.io/linuxserver/freshrss to v1.24.2
+  * [#fe98d90](https://github.com/pacholoamit/homelab-infrastructure/commit/fe98d90) chore(deps): update container image lscr.io/linuxserver/freshrss to v1.24.2
+* 🔃 Merged [#139 chore(deps): update container image lscr.io/linuxserver/freshrss to v1.24.2](https://github.com/pacholoamit/homelab-infrastructure/pull/139) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#27e8abb](https://github.com/pacholoamit/homelab-infrastructure/commit/27e8abb) Merge pull request #138 from pacholoamit/renovate/cloudflare-cloudflared-2024.8.x
+
+chore(deps): update container image cloudflare/cloudflared to v2024.8.3
+  * [#8fec4f1](https://github.com/pacholoamit/homelab-infrastructure/commit/8fec4f1) chore(deps): update container image cloudflare/cloudflared to v2024.8.3
+* 🔃 Merged [#138 chore(deps): update container image cloudflare/cloudflared to v2024.8.3](https://github.com/pacholoamit/homelab-infrastructure/pull/138) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
 
 
 
