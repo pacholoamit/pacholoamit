@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#67d7e27](https://github.com/pacholoamit/homelab-infrastructure/commit/67d7e27) fix: Enable wordpress-dev-portfolio deployment
 * ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
@@ -44,8 +45,6 @@ chore(deps): update container image lscr.io/linuxserver/freshrss to v1.24.2
 
 chore(deps): update container image cloudflare/cloudflared to v2024.8.3
   * [#8fec4f1](https://github.com/pacholoamit/homelab-infrastructure/commit/8fec4f1) chore(deps): update container image cloudflare/cloudflared to v2024.8.3
-* 🔃 Merged [#138 chore(deps): update container image cloudflare/cloudflared to v2024.8.3](https://github.com/pacholoamit/homelab-infrastructure/pull/138) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1 --1`
 
 
 
