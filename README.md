@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#5318 hotfix: remove ip 100.x.x.x on Eaze campaigns](https://github.com/MediaJel/mediajel-gql-service/pull/5318) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 1 file changed `++42 --5`
+* ⏺️ Created new branch hotfix/implement-blocklist-on-ip in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#435 Add Weave Docs on coda and microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/435) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#704 Checking Basket Items if supported](https://github.com/MediaJel/mediajel/issues/704) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 💬 Commented on [#488 Makde modifications to /tracker endpoint to be more configurable for segments](https://github.com/MediaJel/amplication-nestjs-microservices/issues/488) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#378 Implement dynamically created nexxen retargeting pixel in the mediajel-tracker](https://github.com/MediaJel/amplication-nestjs-microservices/issues/378) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#293 [Ext] Campaign Management API: Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#416 Implement Signoz logs and metrics on the microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/416) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
