@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7470` commits and made `250` PRs.
+:people_hugging: I contributed to `36` repositories , made `7471` commits and made `251` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,21 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#67d7e27](https://github.com/pacholoamit/homelab-infrastructure/commit/67d7e27) fix: Enable wordpress-dev-portfolio deployment
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#a0c449b](https://github.com/pacholoamit/homelab-infrastructure/commit/a0c449b) Merge pull request #139 from pacholoamit/renovate/lscr.io-linuxserver-freshrss-1.24.x
-
-chore(deps): update container image lscr.io/linuxserver/freshrss to v1.24.2
-  * [#fe98d90](https://github.com/pacholoamit/homelab-infrastructure/commit/fe98d90) chore(deps): update container image lscr.io/linuxserver/freshrss to v1.24.2
-* 🔃 Merged [#139 chore(deps): update container image lscr.io/linuxserver/freshrss to v1.24.2](https://github.com/pacholoamit/homelab-infrastructure/pull/139) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#27e8abb](https://github.com/pacholoamit/homelab-infrastructure/commit/27e8abb) Merge pull request #138 from pacholoamit/renovate/cloudflare-cloudflared-2024.8.x
-
-chore(deps): update container image cloudflare/cloudflared to v2024.8.3
-  * [#8fec4f1](https://github.com/pacholoamit/homelab-infrastructure/commit/8fec4f1) chore(deps): update container image cloudflare/cloudflared to v2024.8.3
+* 💬 Commented on [#704 Checking Basket Items if supported](https://github.com/MediaJel/mediajel/issues/704) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#488 Makde modifications to /tracker endpoint to be more configurable for segments](https://github.com/MediaJel/amplication-nestjs-microservices/issues/488) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#378 Implement dynamically created nexxen retargeting pixel in the mediajel-tracker](https://github.com/MediaJel/amplication-nestjs-microservices/issues/378) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#293 [Ext] Campaign Management API: Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#416 Implement Signoz logs and metrics on the microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/416) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
