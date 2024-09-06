@@ -30,12 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Closed [#5318 hotfix: remove ip 100.x.x.x on Eaze campaigns (I hope we don&#39;t have to use this)](https://github.com/MediaJel/mediajel-gql-service/pull/5318) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 1 file changed `++42 --5`
 * 🔍 Reviewed [#745 Revert collector loadbalancer](https://github.com/MediaJel/mediajel/pull/745) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * 🔃 Opened [#5318 hotfix: remove ip 100.x.x.x on Eaze campaigns](https://github.com/MediaJel/mediajel-gql-service/pull/5318) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
   * 1 file changed `++42 --5`
 * ⏺️ Created new branch hotfix/implement-blocklist-on-ip in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Closed [#435 Add Weave Docs on coda and microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/435) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#704 Checking Basket Items if supported](https://github.com/MediaJel/mediajel/issues/704) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
