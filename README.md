@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `36` repositories , made `7471` commits and made `251` PRs.
+:people_hugging: I contributed to `37` repositories , made `7478` commits and made `251` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#5318 hotfix: remove ip 100.x.x.x on Eaze campaigns (I hope we don&#39;t have to use this)](https://github.com/MediaJel/mediajel-gql-service/pull/5318) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 1 file changed `++42 --5`
-* 🔍 Reviewed [#745 Revert collector loadbalancer](https://github.com/MediaJel/mediajel/pull/745) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 🔃 Opened [#5318 hotfix: remove ip 100.x.x.x on Eaze campaigns](https://github.com/MediaJel/mediajel-gql-service/pull/5318) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 1 file changed `++42 --5`
-* ⏺️ Created new branch hotfix/implement-blocklist-on-ip in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#435 Add Weave Docs on coda and microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/435) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests) on branch `feat/cypress`
+  * [#1456611](https://github.com/MediaJel/e2e-tests/commit/1456611) test: Add test to check Snowplow XHR requests
+* ➡️ Pushed 1 commit in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests) on branch `feat/cypress`
+  * [#a0e4140](https://github.com/MediaJel/e2e-tests/commit/a0e4140) chore: Update server file and test script commands
+* ➡️ Pushed 1 commit in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests) on branch `feat/cypress`
+  * [#9fefdd5](https://github.com/MediaJel/e2e-tests/commit/9fefdd5) chore: Update file paths in .gitignore and server.ts
+* ⏺️ Created new branch feat/cypress in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests)
+* ➡️ Pushed 1 commit in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests) on branch `master`
+  * [#8111ad9](https://github.com/MediaJel/e2e-tests/commit/8111ad9) style: Update import statements to use double quotes
 
 
 
