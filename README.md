@@ -30,15 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [ValueMelody/melody-auth](https://github.com/ValueMelody/melody-auth)
+* 🌟 Starred [gizm00/oreilly_dataeng_book](https://github.com/gizm00/oreilly_dataeng_book)
 * 🌟 Starred [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#7c893a4](https://github.com/pacholoamit/homelab-infrastructure/commit/7c893a4) fix: Update volume mount path in deployment.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#54dc55a](https://github.com/pacholoamit/homelab-infrastructure/commit/54dc55a) fix: Update service name and port number in ingress.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1202711](https://github.com/pacholoamit/homelab-infrastructure/commit/1202711) fix: Update host in ingress.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#17d26f6](https://github.com/pacholoamit/homelab-infrastructure/commit/17d26f6) style: improve deployment.yaml formatting
 
 
 
