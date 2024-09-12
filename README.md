@@ -30,6 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#61f2357](https://github.com/MediaJel/mediajel-tracker/commit/61f2357) Merge pull request #508 from MediaJel/jbjm-hotfix-datalayer-dutchieplus
+  * [#5d2c75e](https://github.com/MediaJel/mediajel-tracker/commit/5d2c75e) hotfix datalayer dutchie plug
+* 🔃 Merged [#508 HOTFIX datalayer dutchie plus](https://github.com/MediaJel/mediajel-tracker/pull/508) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++8 --5`
 * 💬 Commented on [#523 Cortney&#39;s Request for reports](https://github.com/MediaJel/amplication-nestjs-microservices/issues/523) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#385 Add additional code to the nexxen `dsp` folder in the external-microservice for generating a retargeting tag](https://github.com/MediaJel/amplication-nestjs-microservices/issues/385) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 15 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
@@ -50,9 +55,6 @@ Generate Nexxen Retargeting Tag
   * [#e4b80c0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e4b80c0) feat: added types and base code for list
   * [#90d3783](https://github.com/MediaJel/amplication-nestjs-microservices/commit/90d3783) fix: remove unnecessary code
   * [#dd66316](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dd66316) feat: added base code for nexxen retargeting
-* 🔃 Merged [#506 Generate Nexxen Retargeting Tag](https://github.com/MediaJel/amplication-nestjs-microservices/pull/506) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 11 files changed `++256 --25`
-* 🔍 Reviewed [#506 Generate Nexxen Retargeting Tag](https://github.com/MediaJel/amplication-nestjs-microservices/pull/506) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
