@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `37` repositories , made `7491` commits and made `251` PRs.
+:people_hugging: I contributed to `37` repositories , made `7493` commits and made `251` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,31 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#4288510](https://github.com/pacholoamit/homelab-infrastructure/commit/4288510) refactor: Update file paths for mariadb-operator in archives
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#1157a62](https://github.com/pacholoamit/homelab-infrastructure/commit/1157a62) docs: Update .sopsrc with platform-specific ageKeyFile paths
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#61f2357](https://github.com/MediaJel/mediajel-tracker/commit/61f2357) Merge pull request #508 from MediaJel/jbjm-hotfix-datalayer-dutchieplus
   * [#5d2c75e](https://github.com/MediaJel/mediajel-tracker/commit/5d2c75e) hotfix datalayer dutchie plug
 * 🔃 Merged [#508 HOTFIX datalayer dutchie plus](https://github.com/MediaJel/mediajel-tracker/pull/508) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 1 file changed `++8 --5`
 * 💬 Commented on [#523 Cortney&#39;s Request for reports](https://github.com/MediaJel/amplication-nestjs-microservices/issues/523) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#385 Add additional code to the nexxen `dsp` folder in the external-microservice for generating a retargeting tag](https://github.com/MediaJel/amplication-nestjs-microservices/issues/385) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 15 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
-  * [#8eaee2a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8eaee2a) Merge pull request #506 from MediaJel/nexxenRetargeting
-
-Generate Nexxen Retargeting Tag
-  * [#05683f8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/05683f8) feat: resolved conflicts
-  * [#f35fdaf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f35fdaf) feat: resolved conflicts
-  * [#1cfaf90](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1cfaf90) feat: made list beacons work
-  * [#aa033a4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/aa033a4) feat: made create beacon work
-  * [#6709267](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6709267) feat: added types and request body
-  * [#acb9b66](https://github.com/MediaJel/amplication-nestjs-microservices/commit/acb9b66) feat: added nexxen beacon on segment endpoint
-  * [#1625273](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1625273) feat: added create function for beacon
-  * [#416ee05](https://github.com/MediaJel/amplication-nestjs-microservices/commit/416ee05) fix: added routes and fixed interface naming
-  * [#38d0223](https://github.com/MediaJel/amplication-nestjs-microservices/commit/38d0223) fix: fixed exported names
-  * [#4ace5ef](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4ace5ef) fix: fixed naming convention and using different implementation for token to not expire
-  * [#aa28142](https://github.com/MediaJel/amplication-nestjs-microservices/commit/aa28142) feat: added nexxen campaign to module
-  * [#e4b80c0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e4b80c0) feat: added types and base code for list
-  * [#90d3783](https://github.com/MediaJel/amplication-nestjs-microservices/commit/90d3783) fix: remove unnecessary code
-  * [#dd66316](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dd66316) feat: added base code for nexxen retargeting
 
 
 
