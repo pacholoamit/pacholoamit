@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `37` repositories , made `7493` commits and made `251` PRs.
+:people_hugging: I contributed to `37` repositories , made `7500` commits and made `251` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,15 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#4288510](https://github.com/pacholoamit/homelab-infrastructure/commit/4288510) refactor: Update file paths for mariadb-operator in archives
+  * [#1bd3fb1](https://github.com/pacholoamit/homelab-infrastructure/commit/1bd3fb1) refactor: Remove unused apps and move to archives
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1157a62](https://github.com/pacholoamit/homelab-infrastructure/commit/1157a62) docs: Update .sopsrc with platform-specific ageKeyFile paths
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#61f2357](https://github.com/MediaJel/mediajel-tracker/commit/61f2357) Merge pull request #508 from MediaJel/jbjm-hotfix-datalayer-dutchieplus
-  * [#5d2c75e](https://github.com/MediaJel/mediajel-tracker/commit/5d2c75e) hotfix datalayer dutchie plug
-* 🔃 Merged [#508 HOTFIX datalayer dutchie plus](https://github.com/MediaJel/mediajel-tracker/pull/508) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++8 --5`
-* 💬 Commented on [#523 Cortney&#39;s Request for reports](https://github.com/MediaJel/amplication-nestjs-microservices/issues/523) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * [#fab0c49](https://github.com/pacholoamit/homelab-infrastructure/commit/fab0c49) style: Remove commented out resource entry for wordpress-dev-portfolio
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#ce91b7c](https://github.com/pacholoamit/homelab-infrastructure/commit/ce91b7c) refactor: Rename directories for archiving purposes
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#c80c720](https://github.com/pacholoamit/homelab-infrastructure/commit/c80c720) chore: Update file paths and add Cloudflare resource
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#68ad28a](https://github.com/pacholoamit/homelab-infrastructure/commit/68ad28a) style: Comment out cloudflare in kustomization.yaml
 
 
 
