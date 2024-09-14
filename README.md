@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `37` repositories , made `7500` commits and made `251` PRs.
+:people_hugging: I contributed to `37` repositories , made `7519` commits and made `251` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,15 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#1bd3fb1](https://github.com/pacholoamit/homelab-infrastructure/commit/1bd3fb1) refactor: Remove unused apps and move to archives
+  * [#150f631](https://github.com/pacholoamit/homelab-infrastructure/commit/150f631) fix: Update service name in ingress.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#fab0c49](https://github.com/pacholoamit/homelab-infrastructure/commit/fab0c49) style: Remove commented out resource entry for wordpress-dev-portfolio
+  * [#65f84d1](https://github.com/pacholoamit/homelab-infrastructure/commit/65f84d1) fix: Update icon URL for Maybe Finance app
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#ce91b7c](https://github.com/pacholoamit/homelab-infrastructure/commit/ce91b7c) refactor: Rename directories for archiving purposes
+  * [#dfe136d](https://github.com/pacholoamit/homelab-infrastructure/commit/dfe136d) fix: Update POSTGRES_DB and POSTGRES_USER values
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#c80c720](https://github.com/pacholoamit/homelab-infrastructure/commit/c80c720) chore: Update file paths and add Cloudflare resource
+  * [#0c77314](https://github.com/pacholoamit/homelab-infrastructure/commit/0c77314) refactor: Update kind to Service in ingress.yaml
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#68ad28a](https://github.com/pacholoamit/homelab-infrastructure/commit/68ad28a) style: Comment out cloudflare in kustomization.yaml
+  * [#d436a69](https://github.com/pacholoamit/homelab-infrastructure/commit/d436a69) style: Update resources in kustomization.yaml
 
 
 
