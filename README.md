@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `37` repositories , made `7519` commits and made `252` PRs.
+:people_hugging: I contributed to `37` repositories , made `7530` commits and made `252` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,30 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/improve-get-count-when-inclusions-are-not-present`
+* ➡️ Pushed 6 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#dc60666](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dc60666) Merge pull request #539 from MediaJel/icf-added-moving-filters
+
+ICF Added moving filters
+  * [#900318b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/900318b) Added: Filters and fix for page views
+  * [#c119d70](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c119d70) COMPLETE: Added IP Filter for 100.x
+  * [#aaddd6f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/aaddd6f) Merge branch &#39;staging&#39; of github.com:MediaJel/amplication-nestjs-microservices into icf-added-moving-filters
+  * [#18f1604](https://github.com/MediaJel/amplication-nestjs-microservices/commit/18f1604) COMPLETE: Debug cleanup
+  * [#2eaf3d0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2eaf3d0) COMPLETE: Added moving filters
+* 🔃 Merged [#539 ICF Added moving filters](https://github.com/MediaJel/amplication-nestjs-microservices/pull/539) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++33 --9`
+* 🔍 Reviewed [#539 ICF Added moving filters](https://github.com/MediaJel/amplication-nestjs-microservices/pull/539) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 7 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#ecc671f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ecc671f) Merge pull request #552 from MediaJel/feat/improve-get-count-when-inclusions-are-not-present
+
+feat/improve get count when inclusions are not present &amp; optimizations
+  * [#5c42d82](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5c42d82) refactor: Remove commented out code in StataraAudienceRepository tests
+  * [#8fb0b0a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8fb0b0a) style: Improve SQL formatting in tests and repository
   * [#f3f2847](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f3f2847) refactor: Improve conditions logic in StataraDemographFiltersSqlBuilder
-* 🔃 Opened [#552 feat/improve get count when inclusions are not present](https://github.com/MediaJel/amplication-nestjs-microservices/pull/552) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 5 files changed `++221 --80`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/improve-get-count-when-inclusions-are-not-present`
   * [#ec0f2c3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ec0f2c3) fix: Fix syntax error in Statara audience repository test
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/improve-get-count-when-inclusions-are-not-present`
   * [#0a5ca2d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0a5ca2d) chore: update SQL queries in repository test file
-* ⏺️ Created new branch feat/improve-get-count-when-inclusions-are-not-present in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * [#3fd2aab](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3fd2aab) refactor: Fix typo in test description for mutation #7
+* 🔃 Merged [#552 feat/improve get count when inclusions are not present &amp; optimizations](https://github.com/MediaJel/amplication-nestjs-microservices/pull/552) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 5 files changed `++145 --90`
 
 
 
