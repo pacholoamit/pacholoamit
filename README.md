@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `37` repositories , made `7519` commits and made `251` PRs.
+:people_hugging: I contributed to `37` repositories , made `7519` commits and made `252` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#150f631](https://github.com/pacholoamit/homelab-infrastructure/commit/150f631) fix: Update service name in ingress.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#65f84d1](https://github.com/pacholoamit/homelab-infrastructure/commit/65f84d1) fix: Update icon URL for Maybe Finance app
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#dfe136d](https://github.com/pacholoamit/homelab-infrastructure/commit/dfe136d) fix: Update POSTGRES_DB and POSTGRES_USER values
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#0c77314](https://github.com/pacholoamit/homelab-infrastructure/commit/0c77314) refactor: Update kind to Service in ingress.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d436a69](https://github.com/pacholoamit/homelab-infrastructure/commit/d436a69) style: Update resources in kustomization.yaml
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/improve-get-count-when-inclusions-are-not-present`
+  * [#f3f2847](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f3f2847) refactor: Improve conditions logic in StataraDemographFiltersSqlBuilder
+* 🔃 Opened [#552 feat/improve get count when inclusions are not present](https://github.com/MediaJel/amplication-nestjs-microservices/pull/552) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 5 files changed `++221 --80`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/improve-get-count-when-inclusions-are-not-present`
+  * [#ec0f2c3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ec0f2c3) fix: Fix syntax error in Statara audience repository test
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/improve-get-count-when-inclusions-are-not-present`
+  * [#0a5ca2d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0a5ca2d) chore: update SQL queries in repository test file
+* ⏺️ Created new branch feat/improve-get-count-when-inclusions-are-not-present in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
