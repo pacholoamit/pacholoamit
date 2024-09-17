@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `37` repositories , made `7530` commits and made `252` PRs.
+:people_hugging: I contributed to `37` repositories , made `7533` commits and made `252` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,14 +31,14 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
+  * [#5ce4509](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5ce4509) feat: Add authentication method to GoogleAuthService
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
   * [#2703bba](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2703bba) feat: Add Google Ads Manager network service and XML file generation
 * 🌟 Starred [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
   * [#04251dc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/04251dc) yarn.lock changes
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
   * [#fe7dd13](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fe7dd13) feat: Add xml2json library for parsing XML data
-* 🔃 Opened [#555 feat: Add Google Ad Manager service and auth functionality](https://github.com/MediaJel/amplication-nestjs-microservices/pull/555) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 12 files changed `++243 --77`
 
 
 
