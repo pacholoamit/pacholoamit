@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `37` repositories , made `7533` commits and made `252` PRs.
+:people_hugging: I contributed to `38` repositories , made `7534` commits and made `252` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
+  * [#cbe699c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cbe699c) chore: Rename service account file for consistency
+  * [#727991e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/727991e) refactor: Update GoogleAuthService method signature
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
-  * [#5ce4509](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5ce4509) feat: Add authentication method to GoogleAuthService
+  * [#4e11f4f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4e11f4f) style: Remove unnecessary comments and update import quotes
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
-  * [#2703bba](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2703bba) feat: Add Google Ads Manager network service and XML file generation
-* 🌟 Starred [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs)
+  * [#4659f8c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4659f8c) style: Update import paths in google types file
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
-  * [#04251dc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/04251dc) yarn.lock changes
+  * [#dcdf9be](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dcdf9be) style: Update import statements to use single quotes
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
-  * [#fe7dd13](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fe7dd13) feat: Add xml2json library for parsing XML data
+  * [#f255156](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f255156) feat: Add Google authentication with web client and service account
 
 
 
