@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `38` repositories , made `7535` commits and made `252` PRs.
+:people_hugging: I contributed to `38` repositories , made `7539` commits and made `253` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [vitodeploy/vito](https://github.com/vitodeploy/vito)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
-  * [#3e23e07](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3e23e07) feat: Add applicationName field to getCurrentNetwork call
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
-  * [#cc1540f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cc1540f) fix: Correct XML structure for getCurrentNetwork request
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
-  * [#e79acd7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e79acd7) docs: Update SOAP service error logging message
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-google-ad-manager-api`
-  * [#5cbef2b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5cbef2b) refactor: Update import statements to use single quotes
+* 🌟 Starred [HelgeSverre/supersaw](https://github.com/HelgeSverre/supersaw)
+* ➡️ Pushed 3 commits in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
+  * [#ead4ce6](https://github.com/MediaJel/snowplow-operations/commit/ead4ce6) Merge pull request #3 from MediaJel/feat/get-eaze-adapter-recovery
+
+feat/get eaze adapter recovery
+  * [#218d483](https://github.com/MediaJel/snowplow-operations/commit/218d483) fix: Update event IDs in processed data file
+  * [#8c3c794](https://github.com/MediaJel/snowplow-operations/commit/8c3c794) feat: Update enrichment failure messages for tr_tt values
+* 🔃 Merged [#3 feat/get eaze adapter recovery](https://github.com/MediaJel/snowplow-operations/pull/3) in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
+  * 4 files changed `++35 --4`
+* 🔃 Opened [#3 feat/get eaze adapter recovery](https://github.com/MediaJel/snowplow-operations/pull/3) in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
+  * 4 files changed `++35 --4`
+* ⏺️ Created new branch feat/get-eaze-adapter-recovery in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
 
 
 
