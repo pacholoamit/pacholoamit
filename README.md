@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `38` repositories , made `7539` commits and made `253` PRs.
+:people_hugging: I contributed to `38` repositories , made `7546` commits and made `254` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,18 +30,39 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [HelgeSverre/supersaw](https://github.com/HelgeSverre/supersaw)
-* ➡️ Pushed 3 commits in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations) on branch `master`
-  * [#ead4ce6](https://github.com/MediaJel/snowplow-operations/commit/ead4ce6) Merge pull request #3 from MediaJel/feat/get-eaze-adapter-recovery
+* 🌟 Starred [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy)
+* ➡️ Pushed 19 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#5a63b5a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5a63b5a) Merge pull request #476 from MediaJel/feat/nexxen-reporting
 
-feat/get eaze adapter recovery
-  * [#218d483](https://github.com/MediaJel/snowplow-operations/commit/218d483) fix: Update event IDs in processed data file
-  * [#8c3c794](https://github.com/MediaJel/snowplow-operations/commit/8c3c794) feat: Update enrichment failure messages for tr_tt values
-* 🔃 Merged [#3 feat/get eaze adapter recovery](https://github.com/MediaJel/snowplow-operations/pull/3) in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
-  * 4 files changed `++35 --4`
-* 🔃 Opened [#3 feat/get eaze adapter recovery](https://github.com/MediaJel/snowplow-operations/pull/3) in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
-  * 4 files changed `++35 --4`
-* ⏺️ Created new branch feat/get-eaze-adapter-recovery in [MediaJel/snowplow-operations](https://github.com/MediaJel/snowplow-operations)
+Feat/nexxen reporting
+  * [#e2017a6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e2017a6) Note: support only upto 15 days else nexxen will error out
+  * [#7b3e216](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7b3e216) No Timeout Request
+  * [#0e75615](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0e75615) Merge branch &#39;feat/nexxen-reporting&#39; of mediajel:MediaJel/amplication-nestjs-microservices into feat/nexxen-reporting
+  * [#9f3bcd3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9f3bcd3) Extend timeout
+  * [#b093431](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b093431) log: error logging
+  * [#ffbb7b2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ffbb7b2) Merge branch &#39;staging&#39; into feat/nexxen-reporting
+  * [#f9c516f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f9c516f) mapping request
+  * [#2169e54](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2169e54) Nexxen Marketing API adjustments
+  * [#71b2801](https://github.com/MediaJel/amplication-nestjs-microservices/commit/71b2801) Nexxen Marketing API adjustments
+  * [#7b9d05e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7b9d05e) Nexxen Marketing API adjustments
+  * [#2c5b8ef](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2c5b8ef) Nexxen Marketing API adjustments
+  * [#72e0776](https://github.com/MediaJel/amplication-nestjs-microservices/commit/72e0776) Nexxen Marketing API adjustments
+  * [#ec1de65](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ec1de65) Changes on the Marketing Report new source
+  * [#4064d3a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4064d3a) Nexxen Marketing API adjustments
+  * [#8290eea](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8290eea) Merge branch &#39;feat/nexxen-reporting&#39; of mediajel:MediaJel/amplication-nestjs-microservices into feat/nexxen-reporting
+  * [#7e7e44c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7e7e44c) Nexxen Reports
+  * [#04c1d56](https://github.com/MediaJel/amplication-nestjs-microservices/commit/04c1d56) Merge branch &#39;staging&#39; into feat/nexxen-reporting
+  * [#f522522](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f522522) Nexxen Reports
+* 🔃 Merged [#476 Feat/nexxen reporting](https://github.com/MediaJel/amplication-nestjs-microservices/pull/476) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 21 files changed `++1406 --51`
+* 🔍 Reviewed [#476 Feat/nexxen reporting](https://github.com/MediaJel/amplication-nestjs-microservices/pull/476) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `staging`
+  * [#3f61ba0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3f61ba0) Merge pull request #556 from MediaJel/icf-fix-error-500-empty
+
+ICF Added defensive code for empty results
+  * [#25bfccb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/25bfccb) COMPLETE: Added Fix on advertiser query
+  * [#7277506](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7277506) CLEANUP
+  * [#a35c0ed](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a35c0ed) COMPLETE: Added defensive code for empty results
 
 
 
