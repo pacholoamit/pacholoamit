@@ -30,19 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
+* 🌟 Starred [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template)
+* 🌟 Starred [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit)
+* 🌟 Starred [MadcowD/ell](https://github.com/MadcowD/ell)
 * ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
   * [#0457139](https://github.com/pacholoamit/pachtop/commit/0457139) Merge pull request #263 from pacholoamit/chore/upgrade-to-v2
 
 upgrade: v2
   * [#d29c1e0](https://github.com/pacholoamit/pachtop/commit/d29c1e0) style: Use single quotes for string literals consistently
   * [#63a86b8](https://github.com/pacholoamit/pachtop/commit/63a86b8) upgrade: v2
-* 🔃 Merged [#263 upgrade: v2](https://github.com/pacholoamit/pachtop/pull/263) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 21 files changed `++6428 --9440`
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `chore/upgrade-to-v2`
-  * [#d29c1e0](https://github.com/pacholoamit/pachtop/commit/d29c1e0) style: Use single quotes for string literals consistently
-* 🔃 Opened [#263 upgrade: v2](https://github.com/pacholoamit/pachtop/pull/263) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 21 files changed `++6420 --9432`
-* ⏺️ Created new branch chore/upgrade-to-v2 in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 
 
