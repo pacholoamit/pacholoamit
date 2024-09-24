@@ -30,12 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub)
 * 🌟 Starred [getzep/graphiti](https://github.com/getzep/graphiti)
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#fdadece](https://github.com/pacholoamit/homelab-infrastructure/commit/fdadece) style: Comment out unused resources in kustomization.yaml
 * 🌟 Starred [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
 * 🌟 Starred [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template)
-* 🌟 Starred [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit)
 
 
 
