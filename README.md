@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `38` repositories , made `7552` commits and made `256` PRs.
+:people_hugging: I contributed to `38` repositories , made `7553` commits and made `254` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [getzep/graphiti](https://github.com/getzep/graphiti)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#fdadece](https://github.com/pacholoamit/homelab-infrastructure/commit/fdadece) style: Comment out unused resources in kustomization.yaml
 * 🌟 Starred [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
 * 🌟 Starred [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template)
 * 🌟 Starred [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit)
-* 🌟 Starred [MadcowD/ell](https://github.com/MadcowD/ell)
-* ➡️ Pushed 3 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
-  * [#0457139](https://github.com/pacholoamit/pachtop/commit/0457139) Merge pull request #263 from pacholoamit/chore/upgrade-to-v2
-
-upgrade: v2
-  * [#d29c1e0](https://github.com/pacholoamit/pachtop/commit/d29c1e0) style: Use single quotes for string literals consistently
-  * [#63a86b8](https://github.com/pacholoamit/pachtop/commit/63a86b8) upgrade: v2
 
 
 
