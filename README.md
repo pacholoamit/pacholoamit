@@ -30,32 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [grampelberg/kty](https://github.com/grampelberg/kty)
-* ➡️ Pushed 7 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#b036b05](https://github.com/MediaJel/mediajel-tracker/commit/b036b05) Merge pull request #523 from MediaJel/staging
-
-Update main
-  * [#5d374ff](https://github.com/MediaJel/mediajel-tracker/commit/5d374ff) Merge pull request #520 from MediaJel/dstillerySegment
-
-Adding Dstillery Segment
-  * [#56f24fc](https://github.com/MediaJel/mediajel-tracker/commit/56f24fc) feat: added emitPurchase for dstillery segment on carts
-  * [#26220b8](https://github.com/MediaJel/mediajel-tracker/commit/26220b8) feat: added dstillery segment on builder for v2
-  * [#46e4305](https://github.com/MediaJel/mediajel-tracker/commit/46e4305) feat: added dstillery segment on builder
-  * [#e636cb1](https://github.com/MediaJel/mediajel-tracker/commit/e636cb1) feat: provided type for dstillery segment
-  * [#07609ce](https://github.com/MediaJel/mediajel-tracker/commit/07609ce) feat: added code for dstillery segment
-* 🔃 Merged [#523 Update main](https://github.com/MediaJel/mediajel-tracker/pull/523) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 58 files changed `++337 --5`
-* 🔃 Opened [#523 Update main](https://github.com/MediaJel/mediajel-tracker/pull/523) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 58 files changed `++337 --5`
-* ➡️ Pushed 6 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#5d374ff](https://github.com/MediaJel/mediajel-tracker/commit/5d374ff) Merge pull request #520 from MediaJel/dstillerySegment
-
-Adding Dstillery Segment
-  * [#56f24fc](https://github.com/MediaJel/mediajel-tracker/commit/56f24fc) feat: added emitPurchase for dstillery segment on carts
-  * [#26220b8](https://github.com/MediaJel/mediajel-tracker/commit/26220b8) feat: added dstillery segment on builder for v2
-  * [#46e4305](https://github.com/MediaJel/mediajel-tracker/commit/46e4305) feat: added dstillery segment on builder
-  * [#e636cb1](https://github.com/MediaJel/mediajel-tracker/commit/e636cb1) feat: provided type for dstillery segment
-  * [#07609ce](https://github.com/MediaJel/mediajel-tracker/commit/07609ce) feat: added code for dstillery segment
+* #️⃣ Opened [#573 Document snowplow event recovery](https://github.com/MediaJel/amplication-nestjs-microservices/issues/573) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#572 deduplication wnc-cbd data](https://github.com/MediaJel/amplication-nestjs-microservices/issues/572) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#546 Set IP addresses to null for Aug 30 to Sep 5](https://github.com/MediaJel/amplication-nestjs-microservices/issues/546) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#524 Add Dstillery on the tracker](https://github.com/MediaJel/mediajel-tracker/issues/524) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#378 Implement dynamically created nexxen retargeting pixel in the mediajel-tracker](https://github.com/MediaJel/amplication-nestjs-microservices/issues/378) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
