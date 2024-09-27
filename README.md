@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7567` commits and made `256` PRs.
+:people_hugging: I contributed to `39` repositories , made `7572` commits and made `257` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#573 Document snowplow event recovery](https://github.com/MediaJel/amplication-nestjs-microservices/issues/573) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#572 deduplication wnc-cbd data](https://github.com/MediaJel/amplication-nestjs-microservices/issues/572) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#546 Set IP addresses to null for Aug 30 to Sep 5](https://github.com/MediaJel/amplication-nestjs-microservices/issues/546) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#524 Add Dstillery on the tracker](https://github.com/MediaJel/mediajel-tracker/issues/524) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#378 Implement dynamically created nexxen retargeting pixel in the mediajel-tracker](https://github.com/MediaJel/amplication-nestjs-microservices/issues/378) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
+  * [#41ec28f](https://github.com/pacholoamit/kubekle/commit/41ec28f) feat: Add agent initialization and pass to server creation
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#e5efb66](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/e5efb66) Merge branch &#39;master&#39; of https://github.com/MediaJel/mediajel-frictionless-custom-tag
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#f25f3f0](https://github.com/MediaJel/mediajel-tracker/commit/f25f3f0) Merge pull request #525 from MediaJel/jbjm-hotfix-sweed-google-bing
+
+hotfix add sweed google and bing imports
+  * [#98835ff](https://github.com/MediaJel/mediajel-tracker/commit/98835ff) add index sweed cart in bing and google ads also kpi add and remove to cart updated carts
+  * [#f2cd60d](https://github.com/MediaJel/mediajel-tracker/commit/f2cd60d) hotfix add sweed google and bing imports
+* 🔃 Merged [#525 hotfix add sweed google and bing imports](https://github.com/MediaJel/mediajel-tracker/pull/525) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 5 files changed `++60 --2`
+* 🔍 Reviewed [#525 hotfix add sweed google and bing imports](https://github.com/MediaJel/mediajel-tracker/pull/525) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
