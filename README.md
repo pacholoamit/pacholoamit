@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7578` commits and made `257` PRs.
+:people_hugging: I contributed to `39` repositories , made `7579` commits and made `257` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,20 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/connect-grpc`
+  * [#570a2d4](https://github.com/pacholoamit/kubekle/commit/570a2d4) feat: Add auth interceptor to server agent route
+* ⏺️ Created new branch feat/connect-grpc in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
 * ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
-  * [#9a2721b](https://github.com/pacholoamit/kubekle/commit/9a2721b) chore: Update Makefile and add Kubernetes dashboard page
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
-  * [#1967fb6](https://github.com/pacholoamit/kubekle/commit/1967fb6) feat: Add aggregated resources handler for server
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
-  * [#41ec28f](https://github.com/pacholoamit/kubekle/commit/41ec28f) feat: Add agent initialization and pass to server creation
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#e5efb66](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/e5efb66) Merge branch &#39;master&#39; of https://github.com/MediaJel/mediajel-frictionless-custom-tag
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#f25f3f0](https://github.com/MediaJel/mediajel-tracker/commit/f25f3f0) Merge pull request #525 from MediaJel/jbjm-hotfix-sweed-google-bing
-
-hotfix add sweed google and bing imports
-  * [#98835ff](https://github.com/MediaJel/mediajel-tracker/commit/98835ff) add index sweed cart in bing and google ads also kpi add and remove to cart updated carts
-  * [#f2cd60d](https://github.com/MediaJel/mediajel-tracker/commit/f2cd60d) hotfix add sweed google and bing imports
+  * [#087a742](https://github.com/pacholoamit/kubekle/commit/087a742) refactor: Update Makefile to build and run agent instead of API
+* 🌟 Starred [twitchtv/twirp](https://github.com/twitchtv/twirp)
+* 🌟 Starred [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
 
 
 
