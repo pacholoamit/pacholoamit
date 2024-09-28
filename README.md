@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7579` commits and made `257` PRs.
+:people_hugging: I contributed to `39` repositories , made `7583` commits and made `257` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/connect-grpc`
-  * [#570a2d4](https://github.com/pacholoamit/kubekle/commit/570a2d4) feat: Add auth interceptor to server agent route
-* ⏺️ Created new branch feat/connect-grpc in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
+* 🌟 Starred [r3labs/sse](https://github.com/r3labs/sse)
 * ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
-  * [#087a742](https://github.com/pacholoamit/kubekle/commit/087a742) refactor: Update Makefile to build and run agent instead of API
-* 🌟 Starred [twitchtv/twirp](https://github.com/twitchtv/twirp)
-* 🌟 Starred [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
+  * [#0c81f09](https://github.com/pacholoamit/kubekle/commit/0c81f09) feat: Add CORS middleware and update resource route parameter
+* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
+  * [#b22f21a](https://github.com/pacholoamit/kubekle/commit/b22f21a) feat: Add agent module for handling API requests
+* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
+  * [#6eca8bd](https://github.com/pacholoamit/kubekle/commit/6eca8bd) refactor: Improve structure and dependencies in agent code
+* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
+  * [#7959ce8](https://github.com/pacholoamit/kubekle/commit/7959ce8) change dir
 
 
 
