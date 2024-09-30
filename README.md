@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7585` commits and made `257` PRs.
+:people_hugging: I contributed to `39` repositories , made `7590` commits and made `259` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
-  * [#69384b9](https://github.com/pacholoamit/kubekle/commit/69384b9) add websockets
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
-  * [#08d4d46](https://github.com/pacholoamit/kubekle/commit/08d4d46) create Pods table
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/use-webhooks`
-  * [#93baa3b](https://github.com/pacholoamit/kubekle/commit/93baa3b) refactor: Update payload marshalling to use json.Marshal
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/use-webhooks`
-  * [#31ef80e](https://github.com/pacholoamit/kubekle/commit/31ef80e) refactor: Improve JSON canonicalization function
-* ⏺️ Created new branch feat/use-webhooks in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
+* ➡️ Pushed 2 commits in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
+  * [#f67ff49](https://github.com/pacholoamit/kubekle/commit/f67ff49) Merge pull request #2 from pacholoamit/feat/add-websocket-to-dashboard
+
+feat/add websocket to dashboard
+  * [#b30f6c7](https://github.com/pacholoamit/kubekle/commit/b30f6c7) refactor: Modify Page component to use searchParams for pagination
+* 🔃 Merged [#2 feat/add websocket to dashboard](https://github.com/pacholoamit/kubekle/pull/2) in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
+  * 2 files changed `++17 --32`
+* 🔃 Opened [#2 feat/add websocket to dashboard](https://github.com/pacholoamit/kubekle/pull/2) in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
+  * 2 files changed `++17 --32`
+* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/add-websocket-to-dashboard`
+  * [#b30f6c7](https://github.com/pacholoamit/kubekle/commit/b30f6c7) refactor: Modify Page component to use searchParams for pagination
+* 🌟 Starred [uixmat/onborda](https://github.com/uixmat/onborda)
 
 
 
