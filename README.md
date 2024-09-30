@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7590` commits and made `259` PRs.
+:people_hugging: I contributed to `39` repositories , made `7597` commits and made `263` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,18 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
-  * [#f67ff49](https://github.com/pacholoamit/kubekle/commit/f67ff49) Merge pull request #2 from pacholoamit/feat/add-websocket-to-dashboard
+* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/add-sections-to-navbar`
+  * [#18a88dd](https://github.com/pacholoamit/kubekle/commit/18a88dd) style: Change containers to uppercase
+* 🔃 Opened [#6 feat/add sections to navbar](https://github.com/pacholoamit/kubekle/pull/6) in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
+  * 3 files changed `++71 --38`
+* ⏺️ Created new branch feat/add-sections-to-navbar in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
+* ➡️ Pushed 3 commits in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/add-metrics-to-pods`
+  * [#a66f42f](https://github.com/pacholoamit/kubekle/commit/a66f42f) Merge pull request #5 from pacholoamit/feat/add-metrics-to-pods-2
 
-feat/add websocket to dashboard
-  * [#b30f6c7](https://github.com/pacholoamit/kubekle/commit/b30f6c7) refactor: Modify Page component to use searchParams for pagination
-* 🔃 Merged [#2 feat/add websocket to dashboard](https://github.com/pacholoamit/kubekle/pull/2) in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
-  * 2 files changed `++17 --32`
-* 🔃 Opened [#2 feat/add websocket to dashboard](https://github.com/pacholoamit/kubekle/pull/2) in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
-  * 2 files changed `++17 --32`
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/add-websocket-to-dashboard`
-  * [#b30f6c7](https://github.com/pacholoamit/kubekle/commit/b30f6c7) refactor: Modify Page component to use searchParams for pagination
-* 🌟 Starred [uixmat/onborda](https://github.com/uixmat/onborda)
+refactor: Simplify fetching and processing pod metrics
+  * [#44696d9](https://github.com/pacholoamit/kubekle/commit/44696d9) fix: Remove extra line breaks
+  * [#311b2e3](https://github.com/pacholoamit/kubekle/commit/311b2e3) refactor: Simplify fetching and processing pod metrics
+* 🔃 Merged [#5 refactor: Simplify fetching and processing pod metrics](https://github.com/pacholoamit/kubekle/pull/5) in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
+  * 1 file changed `++24 --34`
 
 
 
