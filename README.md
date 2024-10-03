@@ -30,17 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#501 Investigate the cause of the issues in the Transaction Values Monitoring Dashboard](https://github.com/MediaJel/mediajel-tracker/issues/501) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#595 Add Statara clickhouse columns](https://github.com/MediaJel/amplication-nestjs-microservices/issues/595) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#388 Update Statara data loading job due to new changes](https://github.com/MediaJel/amplication-nestjs-microservices/issues/388) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#3d86a70](https://github.com/MediaJel/mediajel-tracker/commit/3d86a70) Merge pull request #533 from MediaJel/mj-507/new-use-case-tymber
-
-Add a new use case for tymber
-  * [#01aeb81](https://github.com/MediaJel/mediajel-tracker/commit/01aeb81) Add a new use case for tymber
-  * [#9697640](https://github.com/MediaJel/mediajel-tracker/commit/9697640) Add a new use case for tymber
-* 🔃 Merged [#533 Add a new use case for tymber](https://github.com/MediaJel/mediajel-tracker/pull/533) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++43 --0`
+* #️⃣ Opened [#597 Improve the basket items maintenance](https://github.com/MediaJel/amplication-nestjs-microservices/issues/597) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#596 Modify SEO documentation to be whitelabel](https://github.com/MediaJel/amplication-nestjs-microservices/issues/596) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1 Complete Snowplow e2e test](https://github.com/MediaJel/e2e-tests/issues/1) from [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests)
+* #️⃣ Closed [#547 Create e2e tests for snowplow pipeline upgrades](https://github.com/MediaJel/amplication-nestjs-microservices/issues/547) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#497 Onboarding mediajel.com to dashboard (SEO)](https://github.com/MediaJel/mediajel-tracker/issues/497) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
