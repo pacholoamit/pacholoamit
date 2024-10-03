@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7642` commits and made `264` PRs.
+:people_hugging: I contributed to `39` repositories , made `7643` commits and made `264` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,33 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 16 commits in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
-  * [#05770f8](https://github.com/pacholoamit/kubekle/commit/05770f8) Merge pull request #6 from pacholoamit/feat/add-sections-to-navbar
+* #️⃣ Closed [#501 Investigate the cause of the issues in the Transaction Values Monitoring Dashboard](https://github.com/MediaJel/mediajel-tracker/issues/501) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#595 Add Statara clickhouse columns](https://github.com/MediaJel/amplication-nestjs-microservices/issues/595) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#388 Update Statara data loading job due to new changes](https://github.com/MediaJel/amplication-nestjs-microservices/issues/388) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#3d86a70](https://github.com/MediaJel/mediajel-tracker/commit/3d86a70) Merge pull request #533 from MediaJel/mj-507/new-use-case-tymber
 
-feat/add sections to navbar
-  * [#69d9999](https://github.com/pacholoamit/kubekle/commit/69d9999) feat: Add useStore hook and usePodStore for pods access
-  * [#4a8dc40](https://github.com/pacholoamit/kubekle/commit/4a8dc40) refactor: Remove commented-out code and initialize state in usePodsWebsocket
-  * [#88414fb](https://github.com/pacholoamit/kubekle/commit/88414fb) refactor: Update Pods method to return PodWithMetrics array
-  * [#91e8f04](https://github.com/pacholoamit/kubekle/commit/91e8f04) style: Update border radius class in DashboardLayout
-  * [#1ac0ae5](https://github.com/pacholoamit/kubekle/commit/1ac0ae5) fix: search
-  * [#c63fc6d](https://github.com/pacholoamit/kubekle/commit/c63fc6d) fix: search functionality
-  * [#94f4645](https://github.com/pacholoamit/kubekle/commit/94f4645) style: Update code formatting for better readability
-  * [#97949a4](https://github.com/pacholoamit/kubekle/commit/97949a4) refactor: Update agent import paths
-  * [#47ce1b8](https://github.com/pacholoamit/kubekle/commit/47ce1b8) feat: Add new sections for Network and Storage
-  * [#c7b4c30](https://github.com/pacholoamit/kubekle/commit/c7b4c30) docs: Update sidebarNavItems with Kubernetes icons
-  * [#f66fd81](https://github.com/pacholoamit/kubekle/commit/f66fd81) feat: add sections to navbar
-  * [#18a88dd](https://github.com/pacholoamit/kubekle/commit/18a88dd) style: Change containers to uppercase
-  * [#54a6fc5](https://github.com/pacholoamit/kubekle/commit/54a6fc5) chore: Add PodWithMetrics interface definition
-  * [#44696d9](https://github.com/pacholoamit/kubekle/commit/44696d9) fix: Remove extra line breaks
-  * [#311b2e3](https://github.com/pacholoamit/kubekle/commit/311b2e3) refactor: Simplify fetching and processing pod metrics
-* 🔃 Merged [#6 feat/add sections to navbar](https://github.com/pacholoamit/kubekle/pull/6) in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
-  * 20 files changed `++681 --348`
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/add-sections-to-navbar`
-  * [#69d9999](https://github.com/pacholoamit/kubekle/commit/69d9999) feat: Add useStore hook and usePodStore for pods access
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/add-sections-to-navbar`
-  * [#4a8dc40](https://github.com/pacholoamit/kubekle/commit/4a8dc40) refactor: Remove commented-out code and initialize state in usePodsWebsocket
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/add-sections-to-navbar`
-  * [#88414fb](https://github.com/pacholoamit/kubekle/commit/88414fb) refactor: Update Pods method to return PodWithMetrics array
+Add a new use case for tymber
+  * [#01aeb81](https://github.com/MediaJel/mediajel-tracker/commit/01aeb81) Add a new use case for tymber
+  * [#9697640](https://github.com/MediaJel/mediajel-tracker/commit/9697640) Add a new use case for tymber
+* 🔃 Merged [#533 Add a new use case for tymber](https://github.com/MediaJel/mediajel-tracker/pull/533) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++43 --0`
 
 
 
