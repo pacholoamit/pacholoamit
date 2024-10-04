@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `39` repositories , made `7643` commits and made `264` PRs.
+:people_hugging: I contributed to `41` repositories , made `7643` commits and made `264` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🍽️ Forked [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) to [pacholoamit/mediajel-frictionless-custom-tag](https://github.com/pacholoamit/mediajel-frictionless-custom-tag)
+* 🍽️ Forked [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) to [pacholoamit/mediajel-tracker](https://github.com/pacholoamit/mediajel-tracker)
+* 🌟 Starred [exo-explore/exo](https://github.com/exo-explore/exo)
 * #️⃣ Opened [#597 Improve the basket items maintenance](https://github.com/MediaJel/amplication-nestjs-microservices/issues/597) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#596 Modify SEO documentation to be whitelabel](https://github.com/MediaJel/amplication-nestjs-microservices/issues/596) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#1 Complete Snowplow e2e test](https://github.com/MediaJel/e2e-tests/issues/1) from [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests)
-* #️⃣ Closed [#547 Create e2e tests for snowplow pipeline upgrades](https://github.com/MediaJel/amplication-nestjs-microservices/issues/547) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#497 Onboarding mediajel.com to dashboard (SEO)](https://github.com/MediaJel/mediajel-tracker/issues/497) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flge8esnf6tohremh681f.png" alt="" width="280">
+      <img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flge8esnf6tohremh681f.png" alt="" width="280">
     </td>
     <th>
       <a href="https://dev.to/pacholoamit/getting-started-with-typescript-generics-40a">Getting started with Typescript Generics 🚀</a>
@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94xlhw1wcbyjdwfi75le.png" alt="" width="280">
+      <img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94xlhw1wcbyjdwfi75le.png" alt="" width="280">
     </td>
     <th>
       <a href="https://dev.to/pacholoamit/use-over-140-amazing-chatgpt-prompts-in-10-minutes-na3">Use over 140+ amazing ChatGPT prompts in 10 minutes 🚀</a>
@@ -78,7 +78,7 @@
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftvvesouje29b7h2gw0dm.png" alt="" width="280">
+      <img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftvvesouje29b7h2gw0dm.png" alt="" width="280">
     </td>
     <th>
       <a href="https://dev.to/pacholoamit/is-this-the-end-of-localhost-vs-code-server-preview-36ln">Is this the end of localhost? VS Code Server Preview</a>
