@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [tmc/langchaingo](https://github.com/tmc/langchaingo)
 * ➡️ Pushed 4 commits in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
   * [#7779ed2](https://github.com/pacholoamit/kubekle/commit/7779ed2) Merge pull request #8 from pacholoamit/feat/add-namespace-selector
 
@@ -43,8 +44,6 @@ feat/add namespace selector
   * [#a2598e8](https://github.com/pacholoamit/kubekle/commit/a2598e8) refactor: Update namespace handling in namespace-store
 * ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/add-namespace-selector`
   * [#8b244b5](https://github.com/pacholoamit/kubekle/commit/8b244b5) refactor: Refactor useNamespaceStore to handle selected namespace better
-* 🔃 Opened [#8 feat/add namespace selector](https://github.com/pacholoamit/kubekle/pull/8) in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
-  * 12 files changed `++287 --199`
 
 
 
