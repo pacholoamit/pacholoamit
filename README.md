@@ -30,21 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#603 Fix/integrations md file images (left over images)](https://github.com/MediaJel/amplication-nestjs-microservices/pull/603) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#880c93b](https://github.com/MediaJel/mediajel-tracker/commit/880c93b) Merge pull request #534 from MediaJel/jbjm-kpi-update-events
-
-update kpi events
-  * [#fb9c90a](https://github.com/MediaJel/mediajel-tracker/commit/fb9c90a) update kpi events
-* 🔃 Merged [#534 update kpi events](https://github.com/MediaJel/mediajel-tracker/pull/534) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#48ca024](https://github.com/MediaJel/mediajel-tracker/commit/48ca024) Merge pull request #538 from MediaJel/bigcommerceErrorCatching
-
-Added try/catch on bigcommerce adapter
-  * [#30445fa](https://github.com/MediaJel/mediajel-tracker/commit/30445fa) fix: added try/catch on bigcommerce adapter
-* 🔃 Merged [#538 Added try/catch on bigcommerce adapter](https://github.com/MediaJel/mediajel-tracker/pull/538) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++23 --21`
+* 🔃 Opened [#611 feat/swap audience view](https://github.com/MediaJel/amplication-nestjs-microservices/pull/611) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++28 --24`
+* ⏺️ Created new branch feat/swap-audience-view in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Opened [#610 style: Improve consistency in Dockerfile comments](https://github.com/MediaJel/amplication-nestjs-microservices/pull/610) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++6 --4`
+* ⏺️ Created new branch fix/node-gyp-issues in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Opened [#608 refactor: Remove unused &#39;soap&#39; dependency](https://github.com/MediaJel/amplication-nestjs-microservices/pull/608) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++2 --97`
 
 
 
