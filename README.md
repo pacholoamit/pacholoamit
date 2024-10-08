@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7651` commits and made `266` PRs.
+:people_hugging: I contributed to `41` repositories , made `7657` commits and made `265` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,19 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `feat/work-on-pods`
-  * [#0e5895d](https://github.com/pacholoamit/kubekle/commit/0e5895d) feat: add informer
-* ⏺️ Created new branch feat/work-on-pods in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
-* 🌟 Starred [tmc/langchaingo](https://github.com/tmc/langchaingo)
-* ➡️ Pushed 4 commits in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle) on branch `main`
-  * [#7779ed2](https://github.com/pacholoamit/kubekle/commit/7779ed2) Merge pull request #8 from pacholoamit/feat/add-namespace-selector
+* 🔍 Reviewed [#603 Fix/integrations md file images (left over images)](https://github.com/MediaJel/amplication-nestjs-microservices/pull/603) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#880c93b](https://github.com/MediaJel/mediajel-tracker/commit/880c93b) Merge pull request #534 from MediaJel/jbjm-kpi-update-events
 
-feat/add namespace selector
-  * [#a2598e8](https://github.com/pacholoamit/kubekle/commit/a2598e8) refactor: Update namespace handling in namespace-store
-  * [#8b244b5](https://github.com/pacholoamit/kubekle/commit/8b244b5) refactor: Refactor useNamespaceStore to handle selected namespace better
-  * [#454a28c](https://github.com/pacholoamit/kubekle/commit/454a28c) feat: Add namespaces response and write to file
-* 🔃 Merged [#8 feat/add namespace selector](https://github.com/pacholoamit/kubekle/pull/8) in [pacholoamit/kubekle](https://github.com/pacholoamit/kubekle)
-  * 12 files changed `++297 --199`
+update kpi events
+  * [#fb9c90a](https://github.com/MediaJel/mediajel-tracker/commit/fb9c90a) update kpi events
+* 🔃 Merged [#534 update kpi events](https://github.com/MediaJel/mediajel-tracker/pull/534) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++1 --1`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#48ca024](https://github.com/MediaJel/mediajel-tracker/commit/48ca024) Merge pull request #538 from MediaJel/bigcommerceErrorCatching
+
+Added try/catch on bigcommerce adapter
+  * [#30445fa](https://github.com/MediaJel/mediajel-tracker/commit/30445fa) fix: added try/catch on bigcommerce adapter
+* 🔃 Merged [#538 Added try/catch on bigcommerce adapter](https://github.com/MediaJel/mediajel-tracker/pull/538) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++23 --21`
 
 
 
