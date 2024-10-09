@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7657` commits and made `265` PRs.
+:people_hugging: I contributed to `41` repositories , made `7657` commits and made `267` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#379 Implement log error handling in mediajel-tracker to catch code errors](https://github.com/MediaJel/mediajel-tracker/issues/379) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 🔃 Opened [#611 feat/swap audience view](https://github.com/MediaJel/amplication-nestjs-microservices/pull/611) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 3 files changed `++28 --24`
 * ⏺️ Created new branch feat/swap-audience-view in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔃 Opened [#610 style: Improve consistency in Dockerfile comments](https://github.com/MediaJel/amplication-nestjs-microservices/pull/610) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 1 file changed `++6 --4`
 * ⏺️ Created new branch fix/node-gyp-issues in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Opened [#608 refactor: Remove unused &#39;soap&#39; dependency](https://github.com/MediaJel/amplication-nestjs-microservices/pull/608) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 2 files changed `++2 --97`
 
 
 
