@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7657` commits and made `267` PRs.
+:people_hugging: I contributed to `41` repositories , made `7665` commits and made `267` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#379 Implement log error handling in mediajel-tracker to catch code errors](https://github.com/MediaJel/mediajel-tracker/issues/379) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔃 Opened [#611 feat/swap audience view](https://github.com/MediaJel/amplication-nestjs-microservices/pull/611) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 3 files changed `++28 --24`
-* ⏺️ Created new branch feat/swap-audience-view in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Opened [#610 style: Improve consistency in Dockerfile comments](https://github.com/MediaJel/amplication-nestjs-microservices/pull/610) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++6 --4`
-* ⏺️ Created new branch fix/node-gyp-issues in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Merged [#264 chore/upgrade to v2](https://github.com/pacholoamit/pachtop/pull/264) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 63 files changed `++1274 --1117`
+* ➡️ Pushed 8 commits in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `master`
+  * [#b20ff8d](https://github.com/pacholoamit/pachtop/commit/b20ff8d) Merge pull request #265 from pacholoamit/feat/change-window-management
+
+feat/change window management
+  * [#cc54e2e](https://github.com/pacholoamit/pachtop/commit/cc54e2e) style: Remove unnecessary comments and update traffic lights inset
+  * [#70d3cbe](https://github.com/pacholoamit/pachtop/commit/70d3cbe) feat: Update plugin versions and add new permissions
+  * [#1be3528](https://github.com/pacholoamit/pachtop/commit/1be3528) refactor: Update Tauri CLI to version 2.0.2 and simplify macOS window code
+  * [#c9e56aa](https://github.com/pacholoamit/pachtop/commit/c9e56aa) fix: window management
+  * [#a28e3a7](https://github.com/pacholoamit/pachtop/commit/a28e3a7) feat: changes
+  * [#8c1818e](https://github.com/pacholoamit/pachtop/commit/8c1818e) chore: updates
+  * [#e8a1f2b](https://github.com/pacholoamit/pachtop/commit/e8a1f2b) refactor: Rename lib name to &#34;app&#34; in Cargo.toml
+* 🔃 Merged [#265 feat/change window management](https://github.com/pacholoamit/pachtop/pull/265) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 73 files changed `++4642 --6412`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-window-management`
+  * [#cc54e2e](https://github.com/pacholoamit/pachtop/commit/cc54e2e) style: Remove unnecessary comments and update traffic lights inset
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-window-management`
+  * [#70d3cbe](https://github.com/pacholoamit/pachtop/commit/70d3cbe) feat: Update plugin versions and add new permissions
 
 
 
