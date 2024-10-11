@@ -30,22 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#7f7d035](https://github.com/pacholoamit/homelab-infrastructure/commit/7f7d035) Merge pull request #157 from pacholoamit/renovate/postgresql-16.x
-
-chore(deps): update helm release postgresql to v16
-  * [#cfa256c](https://github.com/pacholoamit/homelab-infrastructure/commit/cfa256c) chore(deps): update helm release postgresql to v16
-* 🔃 Merged [#157 chore(deps): update helm release postgresql to v16](https://github.com/pacholoamit/homelab-infrastructure/pull/157) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#d3168eb](https://github.com/pacholoamit/homelab-infrastructure/commit/d3168eb) Merge pull request #143 from pacholoamit/renovate/velero-7.x
-
-chore(deps): update helm release velero to 7.2.x
-  * [#0d492d9](https://github.com/pacholoamit/homelab-infrastructure/commit/0d492d9) chore(deps): update helm release velero to 7.2.x
-* 🔃 Merged [#143 chore(deps): update helm release velero to 7.2.x](https://github.com/pacholoamit/homelab-infrastructure/pull/143) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 2 files changed `++2 --2`
-* 🔃 Merged [#159 chore(deps): update container image vaultwarden/server to v1.32.1](https://github.com/pacholoamit/homelab-infrastructure/pull/159) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
-  * 2 files changed `++2 --2`
+* 🌟 Starred [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher)
+* 🌟 Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+* 🔃 Opened [#619 feat: Add endpoints for starting loading and pruning jobs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/619) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++92 --43`
+* ⏺️ Created new branch feat/add-pruning-ft in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/pruning-fast-tables-weekly`
+  * [#a69b0f0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a69b0f0) feat: Add SnowplowFastTablesPruningModule to imports
 
 
 
