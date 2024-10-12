@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7682` commits and made `269` PRs.
+:people_hugging: I contributed to `41` repositories , made `7682` commits and made `270` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher)
-* 🌟 Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-* 🔃 Opened [#619 feat: Add endpoints for starting loading and pruning jobs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/619) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 3 files changed `++92 --43`
-* ⏺️ Created new branch feat/add-pruning-ft in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/pruning-fast-tables-weekly`
-  * [#a69b0f0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a69b0f0) feat: Add SnowplowFastTablesPruningModule to imports
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
+  * [#df0d6b9](https://github.com/pacholoamit/pachtop/commit/df0d6b9) style: update height of Card in CpusBarChart
+* 🔃 Opened [#623 fix: implement batch inserts for data loading](https://github.com/MediaJel/amplication-nestjs-microservices/pull/623) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 4 files changed `++55 --28`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
+  * [#a31b7d3](https://github.com/pacholoamit/pachtop/commit/a31b7d3) refactor: Update size and structure of StatsRing component
+* ⏺️ Created new branch fix/fast-tables-batch-insert in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning-ft`
+  * [#2c6b232](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2c6b232) refactor: Update function parameters and method calls
 
 
 
