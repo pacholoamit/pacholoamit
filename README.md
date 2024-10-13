@@ -31,14 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
-  * [#df0d6b9](https://github.com/pacholoamit/pachtop/commit/df0d6b9) style: update height of Card in CpusBarChart
-* 🔃 Opened [#623 fix: implement batch inserts for data loading](https://github.com/MediaJel/amplication-nestjs-microservices/pull/623) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 4 files changed `++55 --28`
+  * [#9ba2e08](https://github.com/pacholoamit/pachtop/commit/9ba2e08) feat: Add memory and swap information to system widget
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
-  * [#a31b7d3](https://github.com/pacholoamit/pachtop/commit/a31b7d3) refactor: Update size and structure of StatsRing component
-* ⏺️ Created new branch fix/fast-tables-batch-insert in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning-ft`
-  * [#2c6b232](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2c6b232) refactor: Update function parameters and method calls
+  * [#83e78a6](https://github.com/pacholoamit/pachtop/commit/83e78a6) feat: Update tauri version to 2.0.3 and sysinfo to 0.30.12
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
+  * [#ef76a32](https://github.com/pacholoamit/pachtop/commit/ef76a32) feat: Add formatStats util function
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
+  * [#640fc10](https://github.com/pacholoamit/pachtop/commit/640fc10) feat: Add new memory area chart component
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
+  * [#2d71826](https://github.com/pacholoamit/pachtop/commit/2d71826) style: Update span value in GlobalCpuAreaChart
 
 
 
