@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `7682` commits and made `270` PRs.
+:people_hugging: I contributed to `40` repositories , made `7682` commits and made `271` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#267 feat/change metrics components](https://github.com/pacholoamit/pachtop/pull/267) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
+  * 154 files changed `++1204 --690`
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
+  * [#4ad4325](https://github.com/pacholoamit/pachtop/commit/4ad4325) feat: update deps
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
+  * [#3820da9](https://github.com/pacholoamit/pachtop/commit/3820da9) style: Update import statements to use single quotes
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
   * [#9ba2e08](https://github.com/pacholoamit/pachtop/commit/9ba2e08) feat: Add memory and swap information to system widget
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
   * [#83e78a6](https://github.com/pacholoamit/pachtop/commit/83e78a6) feat: Update tauri version to 2.0.3 and sysinfo to 0.30.12
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
-  * [#ef76a32](https://github.com/pacholoamit/pachtop/commit/ef76a32) feat: Add formatStats util function
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
-  * [#640fc10](https://github.com/pacholoamit/pachtop/commit/640fc10) feat: Add new memory area chart component
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
-  * [#2d71826](https://github.com/pacholoamit/pachtop/commit/2d71826) style: Update span value in GlobalCpuAreaChart
 
 
 
