@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `7682` commits and made `267` PRs.
+:people_hugging: I contributed to `42` repositories , made `7708` commits and made `271` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
-  * [#848c8a9](https://github.com/pacholoamit/pachtop/commit/848c8a9) refactor: Update usage of platform plugin in store.ts and platform.provider
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
-  * [#75637dd](https://github.com/pacholoamit/pachtop/commit/75637dd) style: Update import paths and header styles
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
-  * [#aaa24ca](https://github.com/pacholoamit/pachtop/commit/aaa24ca) chore: Update plugin versions and dependencies
-* 🔃 Opened [#267 feat/change metrics components](https://github.com/pacholoamit/pachtop/pull/267) in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
-  * 154 files changed `++1204 --690`
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) on branch `feat/change-metrics-components`
-  * [#4ad4325](https://github.com/pacholoamit/pachtop/commit/4ad4325) feat: update deps
+* 🌟 Starred [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps)
+* 🔃 Opened [#382 feat: Add Pachtop to the list of projects](https://github.com/tauri-apps/awesome-tauri/pull/382) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+  * 1 file changed `++1 --0`
+* ➡️ Pushed 1 commit in [pacholoamit/awesome-tauri](https://github.com/pacholoamit/awesome-tauri) on branch `dev`
+  * [#35a00d8](https://github.com/pacholoamit/awesome-tauri/commit/35a00d8) fix: Change description based on contributing guidelines
+* ➡️ Pushed 1 commit in [pacholoamit/awesome-tauri](https://github.com/pacholoamit/awesome-tauri) on branch `dev`
+  * [#73562db](https://github.com/pacholoamit/awesome-tauri/commit/73562db) feat: Add Pachtop to the list of projects
+* 🍽️ Forked [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) to [pacholoamit/awesome-tauri](https://github.com/pacholoamit/awesome-tauri)
 
 
 
