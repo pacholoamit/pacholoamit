@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `7708` commits and made `271` PRs.
+:people_hugging: I contributed to `43` repositories , made `7711` commits and made `271` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,31 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#6adf4c1](https://github.com/pacholoamit/homelab-infrastructure/commit/6adf4c1) chore: Update kustomization.yaml for Longhorn deployment
+* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
+  * [#b96924b](https://github.com/pacholoamit/chatgpt-prompts/commit/b96924b) Merge pull request #72 from pacholoamit/dependabot/npm_and_yarn/types/lodash-4.14.197
+
+Bump @types/lodash from 4.14.194 to 4.14.197
+  * [#0962486](https://github.com/pacholoamit/chatgpt-prompts/commit/0962486) Bump @types/lodash from 4.14.194 to 4.14.197
+
+Bumps [@types/lodash](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/lodash) from 4.14.194 to 4.14.197.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/lodash)
+
+---
+updated-dependencies:
+- dependency-name: &#34;@types/lodash&#34;
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 * 🌟 Starred [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps)
 * 🔃 Opened [#382 feat: Add Pachtop to the list of projects](https://github.com/tauri-apps/awesome-tauri/pull/382) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
   * 1 file changed `++1 --0`
 * ➡️ Pushed 1 commit in [pacholoamit/awesome-tauri](https://github.com/pacholoamit/awesome-tauri) on branch `dev`
   * [#35a00d8](https://github.com/pacholoamit/awesome-tauri/commit/35a00d8) fix: Change description based on contributing guidelines
-* ➡️ Pushed 1 commit in [pacholoamit/awesome-tauri](https://github.com/pacholoamit/awesome-tauri) on branch `dev`
-  * [#73562db](https://github.com/pacholoamit/awesome-tauri/commit/73562db) feat: Add Pachtop to the list of projects
-* 🍽️ Forked [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) to [pacholoamit/awesome-tauri](https://github.com/pacholoamit/awesome-tauri)
 
 
 
