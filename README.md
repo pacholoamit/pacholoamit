@@ -30,31 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#6adf4c1](https://github.com/pacholoamit/homelab-infrastructure/commit/6adf4c1) chore: Update kustomization.yaml for Longhorn deployment
-* ➡️ Pushed 2 commits in [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) on branch `main`
-  * [#b96924b](https://github.com/pacholoamit/chatgpt-prompts/commit/b96924b) Merge pull request #72 from pacholoamit/dependabot/npm_and_yarn/types/lodash-4.14.197
+* 🔃 Merged [#539 add dutchie plus add and remove cart](https://github.com/MediaJel/mediajel-tracker/pull/539) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++74 --2`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#9dcfc91](https://github.com/MediaJel/mediajel-tracker/commit/9dcfc91) Merge pull request #539 from MediaJel/jbjm-dutchie-plus-add-and-remove-cart
 
-Bump @types/lodash from 4.14.194 to 4.14.197
-  * [#0962486](https://github.com/pacholoamit/chatgpt-prompts/commit/0962486) Bump @types/lodash from 4.14.194 to 4.14.197
-
-Bumps [@types/lodash](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/lodash) from 4.14.194 to 4.14.197.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/lodash)
-
----
-updated-dependencies:
-- dependency-name: &#34;@types/lodash&#34;
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* 🌟 Starred [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps)
-* 🔃 Opened [#382 feat: Add Pachtop to the list of projects](https://github.com/tauri-apps/awesome-tauri/pull/382) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
-  * 1 file changed `++1 --0`
-* ➡️ Pushed 1 commit in [pacholoamit/awesome-tauri](https://github.com/pacholoamit/awesome-tauri) on branch `dev`
-  * [#35a00d8](https://github.com/pacholoamit/awesome-tauri/commit/35a00d8) fix: Change description based on contributing guidelines
+add dutchie plus add and remove cart
+  * [#6bcb285](https://github.com/MediaJel/mediajel-tracker/commit/6bcb285) add dutchie plus add and remove cart
+* 💬 Commented on [#488 Makde modifications to /tracker endpoint to be more configurable for segments](https://github.com/MediaJel/amplication-nestjs-microservices/issues/488) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#444 Add improvements to dutchie-iframe tracker to support more use cases](https://github.com/MediaJel/mediajel-tracker/issues/444) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#625 Coordinate w/ Devops to restore Signoz](https://github.com/MediaJel/amplication-nestjs-microservices/issues/625) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
