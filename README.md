@@ -30,16 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#7582 [HOTFIX] [FOR REVIEW] Jbjm hotfix seo docs onboarding](https://github.com/MediaJel/mediajel-dashboard/pull/7582) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔃 Merged [#539 add dutchie plus add and remove cart](https://github.com/MediaJel/mediajel-tracker/pull/539) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 4 files changed `++74 --2`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#9dcfc91](https://github.com/MediaJel/mediajel-tracker/commit/9dcfc91) Merge pull request #539 from MediaJel/jbjm-dutchie-plus-add-and-remove-cart
-
-add dutchie plus add and remove cart
-  * [#6bcb285](https://github.com/MediaJel/mediajel-tracker/commit/6bcb285) add dutchie plus add and remove cart
-* 💬 Commented on [#488 Makde modifications to /tracker endpoint to be more configurable for segments](https://github.com/MediaJel/amplication-nestjs-microservices/issues/488) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#444 Add improvements to dutchie-iframe tracker to support more use cases](https://github.com/MediaJel/mediajel-tracker/issues/444) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#7592 [Enhancement] &#39;Mgmt&#39; as occupation](https://github.com/MediaJel/mediajel-dashboard/issues/7592) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#7591 [Enhancement] Demograph incorrect Min and Max values](https://github.com/MediaJel/mediajel-dashboard/issues/7591) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#7592 [Enhancement] &#39;Mgmt&#39; as occupation](https://github.com/MediaJel/mediajel-dashboard/issues/7592) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔃 Opened [#632 fix: add limit to nexxen](https://github.com/MediaJel/amplication-nestjs-microservices/pull/632) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++97 --97`
+* ⏺️ Created new branch fix/nexxen-limit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
