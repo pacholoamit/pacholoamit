@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `7712` commits and made `271` PRs.
+:people_hugging: I contributed to `43` repositories , made `7713` commits and made `272` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#7582 [HOTFIX] [FOR REVIEW] Jbjm hotfix seo docs onboarding](https://github.com/MediaJel/mediajel-dashboard/pull/7582) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 🔃 Merged [#539 add dutchie plus add and remove cart](https://github.com/MediaJel/mediajel-tracker/pull/539) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 4 files changed `++74 --2`
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
@@ -39,7 +40,6 @@ add dutchie plus add and remove cart
   * [#6bcb285](https://github.com/MediaJel/mediajel-tracker/commit/6bcb285) add dutchie plus add and remove cart
 * 💬 Commented on [#488 Makde modifications to /tracker endpoint to be more configurable for segments](https://github.com/MediaJel/amplication-nestjs-microservices/issues/488) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#444 Add improvements to dutchie-iframe tracker to support more use cases](https://github.com/MediaJel/mediajel-tracker/issues/444) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#625 Coordinate w/ Devops to restore Signoz](https://github.com/MediaJel/amplication-nestjs-microservices/issues/625) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
