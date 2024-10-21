@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `7713` commits and made `272` PRs.
+:people_hugging: I contributed to `43` repositories , made `7713` commits and made `274` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#7592 [Enhancement] &#39;Mgmt&#39; as occupation](https://github.com/MediaJel/mediajel-dashboard/issues/7592) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#7591 [Enhancement] Demograph incorrect Min and Max values](https://github.com/MediaJel/mediajel-dashboard/issues/7591) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#7592 [Enhancement] &#39;Mgmt&#39; as occupation](https://github.com/MediaJel/mediajel-dashboard/issues/7592) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔃 Opened [#632 fix: add limit to nexxen](https://github.com/MediaJel/amplication-nestjs-microservices/pull/632) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 3 files changed `++97 --97`
-* ⏺️ Created new branch fix/nexxen-limit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning-fast-tables`
+  * [#73d13dc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/73d13dc) refactor: Update Snowplow Fast Tables queue process name
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning-fast-tables`
+  * [#c1f9354](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c1f9354) style: Update cron expression in scheduler
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning-fast-tables`
+  * [#1836364](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1836364) refactor: Rearrange import statements in SnowplowFastTablesService
+* 🔃 Opened [#635 Feat: Improve pruning of fast tables to be async](https://github.com/MediaJel/amplication-nestjs-microservices/pull/635) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++148 --48`
+* ⏺️ Created new branch feat/add-pruning-fast-tables in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
