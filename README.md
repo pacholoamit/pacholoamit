@@ -30,15 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#639 Research into creating proper environments for clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/639) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#638 Mirror Staging clickhouse resources with Production clickhouse resources](https://github.com/MediaJel/amplication-nestjs-microservices/issues/638) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#542 feat: Add datalayersource to magento cart](https://github.com/MediaJel/mediajel-tracker/pull/542) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning-fast-tables`
   * [#73d13dc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/73d13dc) refactor: Update Snowplow Fast Tables queue process name
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning-fast-tables`
   * [#c1f9354](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c1f9354) style: Update cron expression in scheduler
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-pruning-fast-tables`
-  * [#1836364](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1836364) refactor: Rearrange import statements in SnowplowFastTablesService
-* 🔃 Opened [#635 Feat: Improve pruning of fast tables to be async](https://github.com/MediaJel/amplication-nestjs-microservices/pull/635) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 3 files changed `++148 --48`
-* ⏺️ Created new branch feat/add-pruning-fast-tables in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
@@ -48,7 +46,7 @@
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flge8esnf6tohremh681f.png" alt="" width="280">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flge8esnf6tohremh681f.png" alt="" width="280">
     </td>
     <th>
       <a href="https://dev.to/pacholoamit/getting-started-with-typescript-generics-40a">Getting started with Typescript Generics 🚀</a>
@@ -65,7 +63,7 @@
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94xlhw1wcbyjdwfi75le.png" alt="" width="280">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94xlhw1wcbyjdwfi75le.png" alt="" width="280">
     </td>
     <th>
       <a href="https://dev.to/pacholoamit/use-over-140-amazing-chatgpt-prompts-in-10-minutes-na3">Use over 140+ amazing ChatGPT prompts in 10 minutes 🚀</a>
@@ -82,7 +80,7 @@
 <table>
   <tr>
     <td rowspan="2" width="280">
-      <img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftvvesouje29b7h2gw0dm.png" alt="" width="280">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftvvesouje29b7h2gw0dm.png" alt="" width="280">
     </td>
     <th>
       <a href="https://dev.to/pacholoamit/is-this-the-end-of-localhost-vs-code-server-preview-36ln">Is this the end of localhost? VS Code Server Preview</a>
