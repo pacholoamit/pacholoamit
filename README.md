@@ -31,12 +31,13 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-clickhouse-fast-tables-run-one-at-a-time`
+  * [#13d03e4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/13d03e4) chore: Add a TODO comment for setting key to false
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-clickhouse-fast-tables-run-one-at-a-time`
   * [#b7e379f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b7e379f) style: Update ClickHouse import statements
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-clickhouse-fast-tables-run-one-at-a-time`
   * [#7cfe4c3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7cfe4c3) refactor: Update ClickhouseStorageService methods to improve clarity and consistency
 * ⏺️ Created new branch feat/make-clickhouse-fast-tables-run-one-at-a-time in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#639 Research into creating proper environments for clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/639) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#638 Mirror Staging clickhouse resources with Production clickhouse resources](https://github.com/MediaJel/amplication-nestjs-microservices/issues/638) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
