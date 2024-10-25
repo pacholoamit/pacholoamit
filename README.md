@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#646 POST MORTEM, Clickhouse Statara only had 6 million rows](https://github.com/MediaJel/amplication-nestjs-microservices/issues/646) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🌟 Starred [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
 * 🔃 Opened [#645 feat/make clickhouse fast tables run one at a time](https://github.com/MediaJel/amplication-nestjs-microservices/pull/645) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 13 files changed `++564 --242`
@@ -37,8 +38,6 @@
   * [#a64596e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a64596e) refactor: Improve Clickhouse storage service methods
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-clickhouse-fast-tables-run-one-at-a-time`
   * [#ab0499d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ab0499d) docs: Add README for ClickHouse Storage Service
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-clickhouse-fast-tables-run-one-at-a-time`
-  * [#9fe7805](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9fe7805) refactor: Update Clickhouse database and table names
 
 
 
