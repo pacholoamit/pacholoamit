@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `7720` commits and made `273` PRs.
+:people_hugging: I contributed to `43` repositories , made `7720` commits and made `274` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
+* 🔃 Opened [#645 feat/make clickhouse fast tables run one at a time](https://github.com/MediaJel/amplication-nestjs-microservices/pull/645) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 13 files changed `++564 --242`
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-clickhouse-fast-tables-run-one-at-a-time`
-  * [#13d03e4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/13d03e4) chore: Add a TODO comment for setting key to false
+  * [#a64596e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a64596e) refactor: Improve Clickhouse storage service methods
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-clickhouse-fast-tables-run-one-at-a-time`
-  * [#b7e379f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b7e379f) style: Update ClickHouse import statements
+  * [#ab0499d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ab0499d) docs: Add README for ClickHouse Storage Service
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-clickhouse-fast-tables-run-one-at-a-time`
-  * [#7cfe4c3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7cfe4c3) refactor: Update ClickhouseStorageService methods to improve clarity and consistency
-* ⏺️ Created new branch feat/make-clickhouse-fast-tables-run-one-at-a-time in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#639 Research into creating proper environments for clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/639) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * [#9fe7805](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9fe7805) refactor: Update Clickhouse database and table names
 
 
 
