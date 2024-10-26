@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `7720` commits and made `274` PRs.
+:people_hugging: I contributed to `42` repositories , made `7721` commits and made `275` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [homebridge-panasonic-ac-platform/homebridge-panasonic-ac-platform](https://github.com/homebridge-panasonic-ac-platform/homebridge-panasonic-ac-platform)
 * #️⃣ Opened [#646 POST MORTEM, Clickhouse Statara only had 6 million rows](https://github.com/MediaJel/amplication-nestjs-microservices/issues/646) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🌟 Starred [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
 * 🔃 Opened [#645 feat/make clickhouse fast tables run one at a time](https://github.com/MediaJel/amplication-nestjs-microservices/pull/645) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 13 files changed `++564 --242`
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-clickhouse-fast-tables-run-one-at-a-time`
   * [#a64596e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a64596e) refactor: Improve Clickhouse storage service methods
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/make-clickhouse-fast-tables-run-one-at-a-time`
-  * [#ab0499d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ab0499d) docs: Add README for ClickHouse Storage Service
 
 
 
