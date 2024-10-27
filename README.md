@@ -30,6 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Closed [#623 fix: implement batch inserts for data loading](https://github.com/MediaJel/amplication-nestjs-microservices/pull/623) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 4 files changed `++55 --28`
+* 🔍 Reviewed [#648 test tag tracker activity](https://github.com/MediaJel/amplication-nestjs-microservices/pull/648) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 27 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#dc4d191](https://github.com/MediaJel/mediajel-tracker/commit/dc4d191) refactor: Remove unused code and event listeners
   * [#4b9b480](https://github.com/MediaJel/mediajel-tracker/commit/4b9b480) refactor: Improve sessionStorage handling in magentoDataSource
@@ -69,22 +72,6 @@ Main to Staging
   * 9 files changed `++262 --79`
 * 🔃 Opened [#546 Update to main](https://github.com/MediaJel/mediajel-tracker/pull/546) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 9 files changed `++262 --79`
-* ➡️ Pushed 12 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#c1bb70b](https://github.com/MediaJel/mediajel-tracker/commit/c1bb70b) Merge pull request #542 from MediaJel/magentoTransactionFix
-
-feat: Add datalayersource to magento cart
-  * [#f19d52b](https://github.com/MediaJel/mediajel-tracker/commit/f19d52b) refactor: Simplify magento data source logic
-  * [#31045e1](https://github.com/MediaJel/mediajel-tracker/commit/31045e1) feat: Add trans-deduplicator utility and sessionStorage usage
-  * [#abe9c40](https://github.com/MediaJel/mediajel-tracker/commit/abe9c40) feat: added transaction deduplicator
-  * [#2dcb046](https://github.com/MediaJel/mediajel-tracker/commit/2dcb046) refactor: Fix magento ILGM datalayersource looping
-  * [#35e2d27](https://github.com/MediaJel/mediajel-tracker/commit/35e2d27) fix: added remove key statement after tracking for next transaction
-  * [#dc4d191](https://github.com/MediaJel/mediajel-tracker/commit/dc4d191) refactor: Remove unused code and event listeners
-  * [#4b9b480](https://github.com/MediaJel/mediajel-tracker/commit/4b9b480) refactor: Improve sessionStorage handling in magentoDataSource
-  * [#38e480a](https://github.com/MediaJel/mediajel-tracker/commit/38e480a) refactor: removed success boolean for magento cart
-  * [#52474c4](https://github.com/MediaJel/mediajel-tracker/commit/52474c4) feat: Update magento datalayersource with success boolean
-  * [#233e779](https://github.com/MediaJel/mediajel-tracker/commit/233e779) feat: Add or values and toString to magento datalayersource
-  * [#0d6f18f](https://github.com/MediaJel/mediajel-tracker/commit/0d6f18f) feat: Add datalayersource to magento cart
-* #️⃣ Closed [#544 Add new use case for Magento adapter](https://github.com/MediaJel/mediajel-tracker/issues/544) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
