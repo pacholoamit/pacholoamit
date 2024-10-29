@@ -30,47 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI)
-* 🔃 Closed [#623 fix: implement batch inserts for data loading](https://github.com/MediaJel/amplication-nestjs-microservices/pull/623) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 4 files changed `++55 --28`
+* 🌟 Starred [scalar/scalar](https://github.com/scalar/scalar)
 * 🔍 Reviewed [#648 test tag tracker activity](https://github.com/MediaJel/amplication-nestjs-microservices/pull/648) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 27 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#dc4d191](https://github.com/MediaJel/mediajel-tracker/commit/dc4d191) refactor: Remove unused code and event listeners
-  * [#4b9b480](https://github.com/MediaJel/mediajel-tracker/commit/4b9b480) refactor: Improve sessionStorage handling in magentoDataSource
-  * [#38e480a](https://github.com/MediaJel/mediajel-tracker/commit/38e480a) refactor: removed success boolean for magento cart
-  * [#52474c4](https://github.com/MediaJel/mediajel-tracker/commit/52474c4) feat: Update magento datalayersource with success boolean
-  * [#233e779](https://github.com/MediaJel/mediajel-tracker/commit/233e779) feat: Add or values and toString to magento datalayersource
-  * [#0d6f18f](https://github.com/MediaJel/mediajel-tracker/commit/0d6f18f) feat: Add datalayersource to magento cart
-  * [#9dcfc91](https://github.com/MediaJel/mediajel-tracker/commit/9dcfc91) Merge pull request #539 from MediaJel/jbjm-dutchie-plus-add-and-remove-cart
-
-add dutchie plus add and remove cart
-  * [#6bcb285](https://github.com/MediaJel/mediajel-tracker/commit/6bcb285) add dutchie plus add and remove cart
-  * [#880c93b](https://github.com/MediaJel/mediajel-tracker/commit/880c93b) Merge pull request #534 from MediaJel/jbjm-kpi-update-events
-
-update kpi events
-  * [#48ca024](https://github.com/MediaJel/mediajel-tracker/commit/48ca024) Merge pull request #538 from MediaJel/bigcommerceErrorCatching
-
-Added try/catch on bigcommerce adapter
-  * [#3918b7c](https://github.com/MediaJel/mediajel-tracker/commit/3918b7c) Merge pull request #535 from MediaJel/dispenseFix
-
-2nd Use Case for Dispense Adapter
-  * [#30445fa](https://github.com/MediaJel/mediajel-tracker/commit/30445fa) fix: added try/catch on bigcommerce adapter
-  * [#31895f5](https://github.com/MediaJel/mediajel-tracker/commit/31895f5) fix: removed spaces
-  * [#36dd282](https://github.com/MediaJel/mediajel-tracker/commit/36dd282) refactor: modified 2nd use case for dispense
-  * [#fb9c90a](https://github.com/MediaJel/mediajel-tracker/commit/fb9c90a) update kpi events
-  * [#3d86a70](https://github.com/MediaJel/mediajel-tracker/commit/3d86a70) Merge pull request #533 from MediaJel/mj-507/new-use-case-tymber
-
-Add a new use case for tymber
-  * [#01aeb81](https://github.com/MediaJel/mediajel-tracker/commit/01aeb81) Add a new use case for tymber
-  * [#9697640](https://github.com/MediaJel/mediajel-tracker/commit/9697640) Add a new use case for tymber
-  * [#002e03e](https://github.com/MediaJel/mediajel-tracker/commit/002e03e) Merge pull request #532 from MediaJel/main
-
-Main to Staging
-  * [#ef5db6d](https://github.com/MediaJel/mediajel-tracker/commit/ef5db6d) Merge pull request #526 from MediaJel/main
-
-Main to Staging
-* 🔃 Merged [#546 Update to main](https://github.com/MediaJel/mediajel-tracker/pull/546) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 9 files changed `++262 --79`
+* 🔍 Reviewed [#648 test tag tracker activity](https://github.com/MediaJel/amplication-nestjs-microservices/pull/648) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#648 test tag tracker activity](https://github.com/MediaJel/amplication-nestjs-microservices/pull/648) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `fix/logical-operator`
+  * [#3d67d0c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3d67d0c) test: Add test for using &#39;AND&#39; logical operator
 
 
 
