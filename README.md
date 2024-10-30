@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `7723` commits and made `275` PRs.
+:people_hugging: I contributed to `42` repositories , made `7732` commits and made `277` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [scalar/scalar](https://github.com/scalar/scalar)
-* 🔍 Reviewed [#648 test tag tracker activity](https://github.com/MediaJel/amplication-nestjs-microservices/pull/648) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#648 test tag tracker activity](https://github.com/MediaJel/amplication-nestjs-microservices/pull/648) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#648 test tag tracker activity](https://github.com/MediaJel/amplication-nestjs-microservices/pull/648) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `fix/logical-operator`
-  * [#3d67d0c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3d67d0c) test: Add test for using &#39;AND&#39; logical operator
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/use-scalar-docs`
+  * [#2c5140e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2c5140e) feat: Integrate &#39;@scalar/nestjs-api-reference&#39; package
+* 🔃 Opened [#653 feat: Add @scalar/nestjs-api-reference to main.ts](https://github.com/MediaJel/amplication-nestjs-microservices/pull/653) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++78 --30`
+* ⏺️ Created new branch feat/use-scalar-docs in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#87ac614](https://github.com/pacholoamit/homelab-infrastructure/commit/87ac614) fix: Update accessModes to ReadWriteOnce in PVC files
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#d285475](https://github.com/pacholoamit/homelab-infrastructure/commit/d285475) Merge pull request #160 from pacholoamit/renovate/cloudflare-cloudflared-2024.x
+
+chore(deps): update container image cloudflare/cloudflared to v2024.10.1
+  * [#ead8ae5](https://github.com/pacholoamit/homelab-infrastructure/commit/ead8ae5) chore(deps): update container image cloudflare/cloudflared to v2024.10.1
 
 
 
