@@ -30,13 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [Permify/permify](https://github.com/Permify/permify)
-* 🔍 Reviewed [#644 update: add docker prod script](https://github.com/MediaJel/amplication-nestjs-microservices/pull/644) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#621 ICF Publisher signups](https://github.com/MediaJel/amplication-nestjs-microservices/pull/621) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jbjm-activity-test-tracker`
-  * [#4bb5ad0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4bb5ad0) style: Update import paths in tracker events service file
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jbjm-activity-test-tracker`
-  * [#0253675](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0253675) refactor: Update EventsTrackerResult interface definition
+* 💬 Commented on [#592 Handle duplicate transactions in attributed events](https://github.com/MediaJel/amplication-nestjs-microservices/issues/592) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#626 Create hotfix for audience /save endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/626) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#2 Initial: commit. Purchase tag spec test](https://github.com/MediaJel/e2e-tests/pull/2) in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests)
+* 💬 Commented on [#1 Complete Snowplow e2e test](https://github.com/MediaJel/e2e-tests/issues/1) from [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests)
+* #️⃣ Closed [#378 Implement dynamically created nexxen retargeting pixel in the mediajel-tracker](https://github.com/MediaJel/amplication-nestjs-microservices/issues/378) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
