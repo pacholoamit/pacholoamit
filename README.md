@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
-* #️⃣ Opened [#659 Research into microservices authentication/authorization](https://github.com/MediaJel/amplication-nestjs-microservices/issues/659) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#628 Review apache superset dashboards for monitoring](https://github.com/MediaJel/amplication-nestjs-microservices/issues/628) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#641 Audience json fix for model scores](https://github.com/MediaJel/amplication-nestjs-microservices/issues/641) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#293 [Ext] Campaign Management API: CREATE Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🌟 Starred [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine)
+* 🌟 Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)
+* 🔍 Reviewed [#656 refactor: docs update ui to be compatible on dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/pull/656) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#644 update: add docker prod script](https://github.com/MediaJel/amplication-nestjs-microservices/pull/644) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#660 Optimize Superset charts](https://github.com/MediaJel/amplication-nestjs-microservices/issues/660) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
