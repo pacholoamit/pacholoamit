@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7738` commits and made `277` PRs.
+:people_hugging: I contributed to `41` repositories , made `7738` commits and made `278` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#592 Handle duplicate transactions in attributed events](https://github.com/MediaJel/amplication-nestjs-microservices/issues/592) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#626 Create hotfix for audience /save endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/626) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#2 Initial: commit. Purchase tag spec test](https://github.com/MediaJel/e2e-tests/pull/2) in [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests)
-* 💬 Commented on [#1 Complete Snowplow e2e test](https://github.com/MediaJel/e2e-tests/issues/1) from [MediaJel/e2e-tests](https://github.com/MediaJel/e2e-tests)
-* #️⃣ Closed [#378 Implement dynamically created nexxen retargeting pixel in the mediajel-tracker](https://github.com/MediaJel/amplication-nestjs-microservices/issues/378) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🌟 Starred [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
+* #️⃣ Opened [#659 Research into microservices authentication/authorization](https://github.com/MediaJel/amplication-nestjs-microservices/issues/659) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#628 Review apache superset dashboards for monitoring](https://github.com/MediaJel/amplication-nestjs-microservices/issues/628) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#641 Audience json fix for model scores](https://github.com/MediaJel/amplication-nestjs-microservices/issues/641) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#293 [Ext] Campaign Management API: CREATE Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
