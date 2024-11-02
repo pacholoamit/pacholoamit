@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#548 fix: Google Ads plugin us to not track for display sometimes](https://github.com/MediaJel/mediajel-tracker/pull/548) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 6 files changed `++218 --95`
+* ⏺️ Created new branch feat/fix-googleads-plugin in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 🌟 Starred [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine)
 * 🌟 Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)
 * 🔍 Reviewed [#656 refactor: docs update ui to be compatible on dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/pull/656) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#644 update: add docker prod script](https://github.com/MediaJel/amplication-nestjs-microservices/pull/644) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#660 Optimize Superset charts](https://github.com/MediaJel/amplication-nestjs-microservices/issues/660) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
