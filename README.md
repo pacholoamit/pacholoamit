@@ -30,12 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#548 fix: Google Ads plugin us to not track for display sometimes](https://github.com/MediaJel/mediajel-tracker/pull/548) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 6 files changed `++218 --95`
-* ⏺️ Created new branch feat/fix-googleads-plugin in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🌟 Starred [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine)
-* 🌟 Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)
-* 🔍 Reviewed [#656 refactor: docs update ui to be compatible on dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/pull/656) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
+  * [#c6d83a5](https://github.com/MediaJel/mediajel-tracker/commit/c6d83a5) chore: remove unused plugin files
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
+  * [#bd86f2d](https://github.com/MediaJel/mediajel-tracker/commit/bd86f2d) feat: Add Google Ads and Bing Ads extensions
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
+  * [#ad8cc85](https://github.com/MediaJel/mediajel-tracker/commit/ad8cc85) refactor: Update import paths to use single quotes
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
+  * [#30b244f](https://github.com/MediaJel/mediajel-tracker/commit/30b244f) feat: Implement tracking logic for version 1 cart
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
+  * [#4c0ccb2](https://github.com/MediaJel/mediajel-tracker/commit/4c0ccb2) feat: Add &#39;tag&#39; property in SnowplowParams
 
 
 
