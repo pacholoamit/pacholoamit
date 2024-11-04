@@ -31,15 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
-  * [#c6d83a5](https://github.com/MediaJel/mediajel-tracker/commit/c6d83a5) chore: remove unused plugin files
+  * [#0be97c1](https://github.com/MediaJel/mediajel-tracker/commit/0be97c1) feat: Add tracking for add to cart and remove from cart events
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
-  * [#bd86f2d](https://github.com/MediaJel/mediajel-tracker/commit/bd86f2d) feat: Add Google Ads and Bing Ads extensions
+  * [#0d982f0](https://github.com/MediaJel/mediajel-tracker/commit/0d982f0) refactor: Remove v1 and v2 carts
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
-  * [#ad8cc85](https://github.com/MediaJel/mediajel-tracker/commit/ad8cc85) refactor: Update import paths to use single quotes
+  * [#202f9ee](https://github.com/MediaJel/mediajel-tracker/commit/202f9ee) chore: Apply observable pattern to transaction adapter
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
-  * [#30b244f](https://github.com/MediaJel/mediajel-tracker/commit/30b244f) feat: Implement tracking logic for version 1 cart
+  * [#71e0735](https://github.com/MediaJel/mediajel-tracker/commit/71e0735) refactor: Update applyExtensions signature and usage
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
-  * [#4c0ccb2](https://github.com/MediaJel/mediajel-tracker/commit/4c0ccb2) feat: Add &#39;tag&#39; property in SnowplowParams
+  * [#d24666c](https://github.com/MediaJel/mediajel-tracker/commit/d24666c) feat: Add async import for googleAds and bingAds extensions
 
 
 
