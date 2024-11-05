@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7738` commits and made `278` PRs.
+:people_hugging: I contributed to `41` repositories , made `7783` commits and made `273` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
-  * [#0be97c1](https://github.com/MediaJel/mediajel-tracker/commit/0be97c1) feat: Add tracking for add to cart and remove from cart events
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
-  * [#0d982f0](https://github.com/MediaJel/mediajel-tracker/commit/0d982f0) refactor: Remove v1 and v2 carts
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
-  * [#202f9ee](https://github.com/MediaJel/mediajel-tracker/commit/202f9ee) chore: Apply observable pattern to transaction adapter
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
-  * [#71e0735](https://github.com/MediaJel/mediajel-tracker/commit/71e0735) refactor: Update applyExtensions signature and usage
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `feat/fix-googleads-plugin`
-  * [#d24666c](https://github.com/MediaJel/mediajel-tracker/commit/d24666c) feat: Add async import for googleAds and bingAds extensions
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
+  * [#f797076](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/f797076) feat: Add logging for domain without frictionless tag
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#438dded](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/438dded) style: Fix typo in console log message
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#e2173e5](https://github.com/MediaJel/mediajel-tracker/commit/e2173e5) chore: comment out unused code blocks
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#b01eff9](https://github.com/MediaJel/mediajel-tracker/commit/b01eff9) refactor: Update import statements to use double quotes
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#15ff755](https://github.com/MediaJel/mediajel-tracker/commit/15ff755) Merge pull request #550 from MediaJel/fix/upgrades
+
+feat: Update package dependencies and TypeScript config
+  * [#2e7525b](https://github.com/MediaJel/mediajel-tracker/commit/2e7525b) feat: Update package dependencies and TypeScript config
 
 
 
