@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7784` commits and made `273` PRs.
+:people_hugging: I contributed to `41` repositories , made `7799` commits and made `273` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#664 Jbjm add download pdf markdown docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/664) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#7761df1](https://github.com/MediaJel/mediajel-tracker/commit/7761df1) Merge pull request #552 from MediaJel/jbjm-generated-environments-update
+
+ecommerce generated environments update
+  * [#a82cef4](https://github.com/MediaJel/mediajel-tracker/commit/a82cef4) ecommerce generated environments update
+* 🔃 Merged [#552 ecommerce generated environments update](https://github.com/MediaJel/mediajel-tracker/pull/552) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 2 files changed `++93 --42`
+* 💬 Commented on [#331 Precondition Failed](https://github.com/sockless-coding/panasonic_cc/issues/331) from [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc)
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#e542da9](https://github.com/MediaJel/mediajel-tracker/commit/e542da9) style: Use single quotes for consistency in imports
   * [#be4b0b5](https://github.com/MediaJel/mediajel-tracker/commit/be4b0b5) refactor: Remove unnecessary script tag from index.html
-* #️⃣ Opened [#551 Create supported environments for adapters](https://github.com/MediaJel/mediajel-tracker/issues/551) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔃 Closed [#191 Test](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/191) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++1 --0`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
-  * [#f797076](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/f797076) feat: Add logging for domain without frictionless tag
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#438dded](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/438dded) style: Fix typo in console log message
 
 
 
