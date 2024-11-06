@@ -30,18 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#664 Jbjm add download pdf markdown docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/664) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#7761df1](https://github.com/MediaJel/mediajel-tracker/commit/7761df1) Merge pull request #552 from MediaJel/jbjm-generated-environments-update
-
-ecommerce generated environments update
-  * [#a82cef4](https://github.com/MediaJel/mediajel-tracker/commit/a82cef4) ecommerce generated environments update
-* 🔃 Merged [#552 ecommerce generated environments update](https://github.com/MediaJel/mediajel-tracker/pull/552) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++93 --42`
-* 💬 Commented on [#331 Precondition Failed](https://github.com/sockless-coding/panasonic_cc/issues/331) from [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#e542da9](https://github.com/MediaJel/mediajel-tracker/commit/e542da9) style: Use single quotes for consistency in imports
-  * [#be4b0b5](https://github.com/MediaJel/mediajel-tracker/commit/be4b0b5) refactor: Remove unnecessary script tag from index.html
+* 🔍 Reviewed [#5550 Recreated Jon PR to HOTFIX on master branch](https://github.com/MediaJel/mediajel-gql-service/pull/5550) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🌟 Starred [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)
+* 🔃 Closed [#5390 [FOR REVIEW] implement opentelemetry on gql-service and prisma](https://github.com/MediaJel/mediajel-gql-service/pull/5390) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 2 files changed `++51 --0`
+* 🌟 Starred [openfga/openfga](https://github.com/openfga/openfga)
+* 💬 Commented on [#5523 [FOR REVIEW] Jbjm migrate test tag endpoint microservice](https://github.com/MediaJel/mediajel-gql-service/pull/5523) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
