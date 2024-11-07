@@ -30,23 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#555 Mediajel tracker major upgrades](https://github.com/MediaJel/mediajel-tracker/issues/555) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#597 Migrate `testTag` endpoint to microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/597) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#8805aea](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/8805aea) Merge pull request #192 from MediaJel/ticketMasterDeduplicator
-
-Added TicketMaster deduplicator
-  * [#0abe4ed](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/0abe4ed) Added deduplicator for ticketMaster
-  * [#388d700](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/388d700) test
-* 🔃 Merged [#192 Added TicketMaster deduplicator](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/192) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++11 --2`
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#e360f7b](https://github.com/MediaJel/mediajel-tracker/commit/e360f7b) Merge pull request #554 from MediaJel/deduplicationExtension
-
-Add transaction deduplicator that checks transaction ID
-  * [#90ccaa7](https://github.com/MediaJel/mediajel-tracker/commit/90ccaa7) removed import
-  * [#d70ae64](https://github.com/MediaJel/mediajel-tracker/commit/d70ae64) Add export to type
-  * [#3eaeeca](https://github.com/MediaJel/mediajel-tracker/commit/3eaeeca) Add transaction deduplicator that checks transaction ID
+* 💬 Commented on [#331 Precondition Failed](https://github.com/sockless-coding/panasonic_cc/issues/331) from [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#246a412](https://github.com/MediaJel/mediajel-tracker/commit/246a412) feat: Add transaction deduplication extension
+* #️⃣ Closed [#502 Research on measuring bundle size &amp; performance of the mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/502) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#5297 Assess Optouts pipelines](https://github.com/MediaJel/mediajel-gql-service/issues/5297) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Closed [#548 Create Video on how to set up SEO on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/548) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
