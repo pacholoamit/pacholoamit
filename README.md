@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7799` commits and made `273` PRs.
+:people_hugging: I contributed to `41` repositories , made `7802` commits and made `273` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#5550 Recreated Jon PR to HOTFIX on master branch](https://github.com/MediaJel/mediajel-gql-service/pull/5550) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🌟 Starred [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)
-* 🔃 Closed [#5390 [FOR REVIEW] implement opentelemetry on gql-service and prisma](https://github.com/MediaJel/mediajel-gql-service/pull/5390) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 2 files changed `++51 --0`
-* 🌟 Starred [openfga/openfga](https://github.com/openfga/openfga)
-* 💬 Commented on [#5523 [FOR REVIEW] Jbjm migrate test tag endpoint microservice](https://github.com/MediaJel/mediajel-gql-service/pull/5523) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#555 Mediajel tracker major upgrades](https://github.com/MediaJel/mediajel-tracker/issues/555) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#597 Migrate `testTag` endpoint to microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/597) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#8805aea](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/8805aea) Merge pull request #192 from MediaJel/ticketMasterDeduplicator
+
+Added TicketMaster deduplicator
+  * [#0abe4ed](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/0abe4ed) Added deduplicator for ticketMaster
+  * [#388d700](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/388d700) test
+* 🔃 Merged [#192 Added TicketMaster deduplicator](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/192) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++11 --2`
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#e360f7b](https://github.com/MediaJel/mediajel-tracker/commit/e360f7b) Merge pull request #554 from MediaJel/deduplicationExtension
+
+Add transaction deduplicator that checks transaction ID
+  * [#90ccaa7](https://github.com/MediaJel/mediajel-tracker/commit/90ccaa7) removed import
+  * [#d70ae64](https://github.com/MediaJel/mediajel-tracker/commit/d70ae64) Add export to type
+  * [#3eaeeca](https://github.com/MediaJel/mediajel-tracker/commit/3eaeeca) Add transaction deduplicator that checks transaction ID
 
 
 
