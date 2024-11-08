@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `7802` commits and made `273` PRs.
+:people_hugging: I contributed to `41` repositories , made `7829` commits and made `273` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#a61169a](https://github.com/MediaJel/mediajel-tracker/commit/a61169a) style: Update import statements and format code
 * 💬 Commented on [#331 Precondition Failed](https://github.com/sockless-coding/panasonic_cc/issues/331) from [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#246a412](https://github.com/MediaJel/mediajel-tracker/commit/246a412) feat: Add transaction deduplication extension
 * #️⃣ Closed [#502 Research on measuring bundle size &amp; performance of the mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/502) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Closed [#5297 Assess Optouts pipelines](https://github.com/MediaJel/mediajel-gql-service/issues/5297) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Closed [#548 Create Video on how to set up SEO on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/548) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
