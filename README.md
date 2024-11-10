@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8078` commits and made `274` PRs.
+:people_hugging: I contributed to `42` repositories , made `8107` commits and made `276` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,30 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch master in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* ⏺️ Created new repository  [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
-  * [#490f459](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/490f459) feat: Add new tag message
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#bec413a](https://github.com/MediaJel/mediajel-tracker/commit/bec413a) chore: Update code formatting and add TODO comments
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `staging`
-  * [#d746150](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/d746150) refactor: Improve code formatting and structure
+* ➡️ Pushed 12 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#ac70e4a](https://github.com/MediaJel/salesforce-automation/commit/ac70e4a) Merge pull request #2 from MediaJel/feat/update
+
+Chore: Make this work somehow
+  * [#61867ab](https://github.com/MediaJel/salesforce-automation/commit/61867ab) feat: Add OpportunityLineItem to SalesforceClosedWonResource
+  * [#3988d37](https://github.com/MediaJel/salesforce-automation/commit/3988d37) fix: Rename function opportunityLineItemById to opportunityLineItemByOpportunityId
+  * [#64f0e35](https://github.com/MediaJel/salesforce-automation/commit/64f0e35) feat: Add opportunityLineItemsByOpportunityId method
+  * [#7a4560c](https://github.com/MediaJel/salesforce-automation/commit/7a4560c) style: Update comments in SalesforceClosedWonResource interface
+  * [#1124a61](https://github.com/MediaJel/salesforce-automation/commit/1124a61) refactor: Remove unnecessary &#39;description&#39; properties
+  * [#351ff23](https://github.com/MediaJel/salesforce-automation/commit/351ff23) refactor: Update function calls in processor.ts
+  * [#6a06880](https://github.com/MediaJel/salesforce-automation/commit/6a06880) style: fix typo in interface name
+  * [#ddd948f](https://github.com/MediaJel/salesforce-automation/commit/ddd948f) refactor: Update variable and function names
+  * [#7fcc5b1](https://github.com/MediaJel/salesforce-automation/commit/7fcc5b1) refactor: Update variable names in processor functions
+  * [#223a763](https://github.com/MediaJel/salesforce-automation/commit/223a763) feat: Improve logging for data processing
+  * [#40de418](https://github.com/MediaJel/salesforce-automation/commit/40de418) refactor: Improve logging and event listener in Salesforce orgs
+* 🔃 Merged [#2 Chore: Make this work somehow](https://github.com/MediaJel/salesforce-automation/pull/2) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 7 files changed `++145 --114`
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/update`
+  * [#61867ab](https://github.com/MediaJel/salesforce-automation/commit/61867ab) feat: Add OpportunityLineItem to SalesforceClosedWonResource
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/update`
+  * [#3988d37](https://github.com/MediaJel/salesforce-automation/commit/3988d37) fix: Rename function opportunityLineItemById to opportunityLineItemByOpportunityId
+  * [#64f0e35](https://github.com/MediaJel/salesforce-automation/commit/64f0e35) feat: Add opportunityLineItemsByOpportunityId method
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/update`
+  * [#7a4560c](https://github.com/MediaJel/salesforce-automation/commit/7a4560c) style: Update comments in SalesforceClosedWonResource interface
 
 
 
