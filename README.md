@@ -30,30 +30,28 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 12 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#ac70e4a](https://github.com/MediaJel/salesforce-automation/commit/ac70e4a) Merge pull request #2 from MediaJel/feat/update
+* ➡️ Pushed 11 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#925805d](https://github.com/MediaJel/salesforce-automation/commit/925805d) Merge pull request #3 from MediaJel/feat/add-intuit-service
 
-Chore: Make this work somehow
-  * [#61867ab](https://github.com/MediaJel/salesforce-automation/commit/61867ab) feat: Add OpportunityLineItem to SalesforceClosedWonResource
-  * [#3988d37](https://github.com/MediaJel/salesforce-automation/commit/3988d37) fix: Rename function opportunityLineItemById to opportunityLineItemByOpportunityId
-  * [#64f0e35](https://github.com/MediaJel/salesforce-automation/commit/64f0e35) feat: Add opportunityLineItemsByOpportunityId method
-  * [#7a4560c](https://github.com/MediaJel/salesforce-automation/commit/7a4560c) style: Update comments in SalesforceClosedWonResource interface
-  * [#1124a61](https://github.com/MediaJel/salesforce-automation/commit/1124a61) refactor: Remove unnecessary &#39;description&#39; properties
-  * [#351ff23](https://github.com/MediaJel/salesforce-automation/commit/351ff23) refactor: Update function calls in processor.ts
-  * [#6a06880](https://github.com/MediaJel/salesforce-automation/commit/6a06880) style: fix typo in interface name
-  * [#ddd948f](https://github.com/MediaJel/salesforce-automation/commit/ddd948f) refactor: Update variable and function names
-  * [#7fcc5b1](https://github.com/MediaJel/salesforce-automation/commit/7fcc5b1) refactor: Update variable names in processor functions
-  * [#223a763](https://github.com/MediaJel/salesforce-automation/commit/223a763) feat: Improve logging for data processing
-  * [#40de418](https://github.com/MediaJel/salesforce-automation/commit/40de418) refactor: Improve logging and event listener in Salesforce orgs
-* 🔃 Merged [#2 Chore: Make this work somehow](https://github.com/MediaJel/salesforce-automation/pull/2) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 7 files changed `++145 --114`
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/update`
-  * [#61867ab](https://github.com/MediaJel/salesforce-automation/commit/61867ab) feat: Add OpportunityLineItem to SalesforceClosedWonResource
-* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/update`
-  * [#3988d37](https://github.com/MediaJel/salesforce-automation/commit/3988d37) fix: Rename function opportunityLineItemById to opportunityLineItemByOpportunityId
-  * [#64f0e35](https://github.com/MediaJel/salesforce-automation/commit/64f0e35) feat: Add opportunityLineItemsByOpportunityId method
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/update`
-  * [#7a4560c](https://github.com/MediaJel/salesforce-automation/commit/7a4560c) style: Update comments in SalesforceClosedWonResource interface
+feat/add intuit service
+  * [#2e2d71e](https://github.com/MediaJel/salesforce-automation/commit/2e2d71e) style: Improve processing resource logging
+  * [#27eae34](https://github.com/MediaJel/salesforce-automation/commit/27eae34) feat: Add Quickbooks estimate creation functionality
+  * [#d5d527e](https://github.com/MediaJel/salesforce-automation/commit/d5d527e) feat: Add realmId to IntuitConfig and update processor
+  * [#152ae9a](https://github.com/MediaJel/salesforce-automation/commit/152ae9a) feat: Add Intuit OAuth2 integration and token handling
+  * [#693d70b](https://github.com/MediaJel/salesforce-automation/commit/693d70b) refactor: Update variable name for OAuth2 object
+  * [#a2f4f3c](https://github.com/MediaJel/salesforce-automation/commit/a2f4f3c) feat: add quickbooks modules
+  * [#9555283](https://github.com/MediaJel/salesforce-automation/commit/9555283) refactor: Rename GraphQL processor to Mediajel processor
+  * [#6640aaa](https://github.com/MediaJel/salesforce-automation/commit/6640aaa) docs: Add comment explaining Live vs Test logic
+  * [#31549ad](https://github.com/MediaJel/salesforce-automation/commit/31549ad) refactor: Update variable and function names
+  * [#8b2a26e](https://github.com/MediaJel/salesforce-automation/commit/8b2a26e) style: Fix import path formatting in app.ts and index.ts
+* 🔃 Merged [#3 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/3) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 18 files changed `++843 --78`
+* 🔃 Opened [#3 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/3) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 18 files changed `++843 --78`
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/add-intuit-service`
+  * [#2e2d71e](https://github.com/MediaJel/salesforce-automation/commit/2e2d71e) style: Improve processing resource logging
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/add-intuit-service`
+  * [#27eae34](https://github.com/MediaJel/salesforce-automation/commit/27eae34) feat: Add Quickbooks estimate creation functionality
 
 
 
