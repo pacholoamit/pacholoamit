@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8112` commits and made `277` PRs.
+:people_hugging: I contributed to `42` repositories , made `8117` commits and made `278` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,21 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/add-intuit-service`
+  * [#d11201f](https://github.com/MediaJel/salesforce-automation/commit/d11201f) fix: Update processor to await for Intuit processing
 * ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#c190667](https://github.com/MediaJel/salesforce-automation/commit/c190667) Merge pull request #4 from MediaJel/feat/add-intuit-service
+  * [#976a4e1](https://github.com/MediaJel/salesforce-automation/commit/976a4e1) Merge pull request #5 from MediaJel/feat/add-intuit-service
 
 feat/add intuit service
-  * [#6062cda](https://github.com/MediaJel/salesforce-automation/commit/6062cda) feat: completing mappings (sorta)
-  * [#b8b231e](https://github.com/MediaJel/salesforce-automation/commit/b8b231e) refactor: Improve QuickBooks integration with new node-quickbooks lib
-  * [#28d369c](https://github.com/MediaJel/salesforce-automation/commit/28d369c) refactor: Remove unnecessary imports and declarations
-  * [#b0f21ac](https://github.com/MediaJel/salesforce-automation/commit/b0f21ac) feat(intuit): Implement createIntuitService function
-* 🔃 Merged [#4 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/4) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 5 files changed `++138 --18`
-* 🔃 Opened [#4 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/4) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 5 files changed `++138 --18`
+  * [#51a8d6c](https://github.com/MediaJel/salesforce-automation/commit/51a8d6c) style: Update task completion status in TODO.md
+  * [#21953a0](https://github.com/MediaJel/salesforce-automation/commit/21953a0) feat: Handle refreshing of tokens for intuit service
+  * [#6ec1b44](https://github.com/MediaJel/salesforce-automation/commit/6ec1b44) feat(service): Add Intuit OAuth2 token refresh functionality
+  * [#35c977c](https://github.com/MediaJel/salesforce-automation/commit/35c977c) refactor: Simplify createIntuitProcessor and handleResourcesHierarchy
+* 🔃 Merged [#5 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/5) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 7 files changed `++182 --122`
+* 🔃 Opened [#5 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/5) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 7 files changed `++182 --122`
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/add-intuit-service`
-  * [#6062cda](https://github.com/MediaJel/salesforce-automation/commit/6062cda) feat: completing mappings (sorta)
+  * [#51a8d6c](https://github.com/MediaJel/salesforce-automation/commit/51a8d6c) style: Update task completion status in TODO.md
 
 
 
