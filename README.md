@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8107` commits and made `276` PRs.
+:people_hugging: I contributed to `42` repositories , made `8112` commits and made `277` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,28 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 11 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#925805d](https://github.com/MediaJel/salesforce-automation/commit/925805d) Merge pull request #3 from MediaJel/feat/add-intuit-service
+* 🌟 Starred [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)
+* ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#c190667](https://github.com/MediaJel/salesforce-automation/commit/c190667) Merge pull request #4 from MediaJel/feat/add-intuit-service
 
 feat/add intuit service
-  * [#2e2d71e](https://github.com/MediaJel/salesforce-automation/commit/2e2d71e) style: Improve processing resource logging
-  * [#27eae34](https://github.com/MediaJel/salesforce-automation/commit/27eae34) feat: Add Quickbooks estimate creation functionality
-  * [#d5d527e](https://github.com/MediaJel/salesforce-automation/commit/d5d527e) feat: Add realmId to IntuitConfig and update processor
-  * [#152ae9a](https://github.com/MediaJel/salesforce-automation/commit/152ae9a) feat: Add Intuit OAuth2 integration and token handling
-  * [#693d70b](https://github.com/MediaJel/salesforce-automation/commit/693d70b) refactor: Update variable name for OAuth2 object
-  * [#a2f4f3c](https://github.com/MediaJel/salesforce-automation/commit/a2f4f3c) feat: add quickbooks modules
-  * [#9555283](https://github.com/MediaJel/salesforce-automation/commit/9555283) refactor: Rename GraphQL processor to Mediajel processor
-  * [#6640aaa](https://github.com/MediaJel/salesforce-automation/commit/6640aaa) docs: Add comment explaining Live vs Test logic
-  * [#31549ad](https://github.com/MediaJel/salesforce-automation/commit/31549ad) refactor: Update variable and function names
-  * [#8b2a26e](https://github.com/MediaJel/salesforce-automation/commit/8b2a26e) style: Fix import path formatting in app.ts and index.ts
-* 🔃 Merged [#3 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/3) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 18 files changed `++843 --78`
-* 🔃 Opened [#3 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/3) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 18 files changed `++843 --78`
+  * [#6062cda](https://github.com/MediaJel/salesforce-automation/commit/6062cda) feat: completing mappings (sorta)
+  * [#b8b231e](https://github.com/MediaJel/salesforce-automation/commit/b8b231e) refactor: Improve QuickBooks integration with new node-quickbooks lib
+  * [#28d369c](https://github.com/MediaJel/salesforce-automation/commit/28d369c) refactor: Remove unnecessary imports and declarations
+  * [#b0f21ac](https://github.com/MediaJel/salesforce-automation/commit/b0f21ac) feat(intuit): Implement createIntuitService function
+* 🔃 Merged [#4 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/4) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 5 files changed `++138 --18`
+* 🔃 Opened [#4 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/4) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 5 files changed `++138 --18`
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/add-intuit-service`
-  * [#2e2d71e](https://github.com/MediaJel/salesforce-automation/commit/2e2d71e) style: Improve processing resource logging
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/add-intuit-service`
-  * [#27eae34](https://github.com/MediaJel/salesforce-automation/commit/27eae34) feat: Add Quickbooks estimate creation functionality
+  * [#6062cda](https://github.com/MediaJel/salesforce-automation/commit/6062cda) feat: completing mappings (sorta)
 
 
 
