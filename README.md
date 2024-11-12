@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8117` commits and made `278` PRs.
+:people_hugging: I contributed to `42` repositories , made `8127` commits and made `276` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,22 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/add-intuit-service`
-  * [#d11201f](https://github.com/MediaJel/salesforce-automation/commit/d11201f) fix: Update processor to await for Intuit processing
-* ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#976a4e1](https://github.com/MediaJel/salesforce-automation/commit/976a4e1) Merge pull request #5 from MediaJel/feat/add-intuit-service
-
-feat/add intuit service
-  * [#51a8d6c](https://github.com/MediaJel/salesforce-automation/commit/51a8d6c) style: Update task completion status in TODO.md
-  * [#21953a0](https://github.com/MediaJel/salesforce-automation/commit/21953a0) feat: Handle refreshing of tokens for intuit service
-  * [#6ec1b44](https://github.com/MediaJel/salesforce-automation/commit/6ec1b44) feat(service): Add Intuit OAuth2 token refresh functionality
-  * [#35c977c](https://github.com/MediaJel/salesforce-automation/commit/35c977c) refactor: Simplify createIntuitProcessor and handleResourcesHierarchy
-* 🔃 Merged [#5 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/5) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 7 files changed `++182 --122`
-* 🔃 Opened [#5 feat/add intuit service](https://github.com/MediaJel/salesforce-automation/pull/5) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 7 files changed `++182 --122`
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/add-intuit-service`
-  * [#51a8d6c](https://github.com/MediaJel/salesforce-automation/commit/51a8d6c) style: Update task completion status in TODO.md
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/improve-intuit-service`
+  * [#77b1b6b](https://github.com/MediaJel/salesforce-automation/commit/77b1b6b) refactor: Update processing logic for Salesforce data
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/improve-intuit-service`
+  * [#28d93b4](https://github.com/MediaJel/salesforce-automation/commit/28d93b4) refactor: Update processing logic for creating estimates
+* #️⃣ Opened [#679 Create superset dashboard for transactions-observer](https://github.com/MediaJel/amplication-nestjs-microservices/issues/679) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#a9015b6](https://github.com/MediaJel/mediajel-tracker/commit/a9015b6) feat: Add debug log for Integrations In Progress
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#1af190b](https://github.com/MediaJel/mediajel-tracker/commit/1af190b) style: Update import formatting in ecommerce files
 
 
 
