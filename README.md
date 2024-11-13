@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8153` commits and made `278` PRs.
+:people_hugging: I contributed to `42` repositories , made `8164` commits and made `278` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,31 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 14 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#5d2b16e](https://github.com/MediaJel/salesforce-automation/commit/5d2b16e) Merge pull request #8 from MediaJel/feat/improve-intuit-service
-
-feat/improve intuit service
-  * [#5dc3123](https://github.com/MediaJel/salesforce-automation/commit/5dc3123) feat: Implement async/await in createApp and createIntuitProcessor
-  * [#69f6cbb](https://github.com/MediaJel/salesforce-automation/commit/69f6cbb) refactor: Simplify processing logic and improve readability
-  * [#7ce27c0](https://github.com/MediaJel/salesforce-automation/commit/7ce27c0) docs: Add TODO comment for creating customer if not exists
-  * [#a6d34c0](https://github.com/MediaJel/salesforce-automation/commit/a6d34c0) feat: Add functionality to create customers with hierarchy
-  * [#ade8b16](https://github.com/MediaJel/salesforce-automation/commit/ade8b16) feat: Add function to process customer hierarchy
-  * [#c5c6fb2](https://github.com/MediaJel/salesforce-automation/commit/c5c6fb2) style: fix incorrect capitalization in AVFSQB__Quickbooks_Id__C
-  * [#e0cffdd](https://github.com/MediaJel/salesforce-automation/commit/e0cffdd) feat: Add salesforceChannel to SalesforceConfig type
-  * [#d7939aa](https://github.com/MediaJel/salesforce-automation/commit/d7939aa) refactor(intuit): Update return type in processEstimate function
-  * [#5cc0644](https://github.com/MediaJel/salesforce-automation/commit/5cc0644) feat: add updating of opportunity id
-  * [#77b1b6b](https://github.com/MediaJel/salesforce-automation/commit/77b1b6b) refactor: Update processing logic for Salesforce data
-  * [#28d93b4](https://github.com/MediaJel/salesforce-automation/commit/28d93b4) refactor: Update processing logic for creating estimates
-  * [#db4abe4](https://github.com/MediaJel/salesforce-automation/commit/db4abe4) style: improve code formatting and consistency
-  * [#1c474c6](https://github.com/MediaJel/salesforce-automation/commit/1c474c6) style: Update import paths to use single quotes
-* 🔃 Merged [#8 feat/improve intuit service](https://github.com/MediaJel/salesforce-automation/pull/8) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 18 files changed `++502 --112`
-* 🔃 Opened [#8 feat/improve intuit service](https://github.com/MediaJel/salesforce-automation/pull/8) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 18 files changed `++502 --112`
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/improve-intuit-service`
-  * [#5dc3123](https://github.com/MediaJel/salesforce-automation/commit/5dc3123) feat: Implement async/await in createApp and createIntuitProcessor
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/improve-intuit-service`
-  * [#69f6cbb](https://github.com/MediaJel/salesforce-automation/commit/69f6cbb) refactor: Simplify processing logic and improve readability
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#4001d2b](https://github.com/pacholoamit/homelab-infrastructure/commit/4001d2b) refactor: Update PostgreSQL resource description
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#06ff197](https://github.com/pacholoamit/homelab-infrastructure/commit/06ff197) style: Update resource list in kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#cce50f9](https://github.com/pacholoamit/homelab-infrastructure/commit/cce50f9) style: remove unnecessary comment and image tag in yaml files
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#f070866](https://github.com/pacholoamit/homelab-infrastructure/commit/f070866) style: Update resources in kustomization.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#2b9cd56](https://github.com/pacholoamit/homelab-infrastructure/commit/2b9cd56) style: Update kustomization.yaml resource comments
 
 
 
