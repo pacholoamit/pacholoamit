@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8164` commits and made `278` PRs.
+:people_hugging: I contributed to `42` repositories , made `8169` commits and made `282` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#4001d2b](https://github.com/pacholoamit/homelab-infrastructure/commit/4001d2b) refactor: Update PostgreSQL resource description
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#06ff197](https://github.com/pacholoamit/homelab-infrastructure/commit/06ff197) style: Update resource list in kustomization.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#cce50f9](https://github.com/pacholoamit/homelab-infrastructure/commit/cce50f9) style: remove unnecessary comment and image tag in yaml files
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f070866](https://github.com/pacholoamit/homelab-infrastructure/commit/f070866) style: Update resources in kustomization.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#2b9cd56](https://github.com/pacholoamit/homelab-infrastructure/commit/2b9cd56) style: Update kustomization.yaml resource comments
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#b310dd2](https://github.com/MediaJel/salesforce-automation/commit/b310dd2) Merge pull request #17 from MediaJel/feat/finalize-hierarchy
+
+chore: Update Dockerfile paths and add Redis service
+  * [#993dd63](https://github.com/MediaJel/salesforce-automation/commit/993dd63) chore: Update Dockerfile paths and add Redis service
+* 🔃 Merged [#17 chore: Update Dockerfile paths and add Redis service](https://github.com/MediaJel/salesforce-automation/pull/17) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 4 files changed `++8 --3`
+* 🔃 Opened [#17 chore: Update Dockerfile paths and add Redis service](https://github.com/MediaJel/salesforce-automation/pull/17) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 4 files changed `++8 --3`
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/finalize-hierarchy`
+  * [#993dd63](https://github.com/MediaJel/salesforce-automation/commit/993dd63) chore: Update Dockerfile paths and add Redis service
+* ➡️ Pushed 3 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#7f253eb](https://github.com/MediaJel/salesforce-automation/commit/7f253eb) Merge pull request #16 from MediaJel/feat/finalize-hierarchy
+
+feat/finalize hierarchy
+  * [#9bea591](https://github.com/MediaJel/salesforce-automation/commit/9bea591) refactor: Improve hierarchy processing in Intuit processor
+  * [#ff0a08d](https://github.com/MediaJel/salesforce-automation/commit/ff0a08d) feat: Update imports to use double quotes and refactor object destructuring and spacing
 
 
 
