@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8169` commits and made `282` PRs.
+:people_hugging: I contributed to `42` repositories , made `8182` commits and made `283` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,23 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#b310dd2](https://github.com/MediaJel/salesforce-automation/commit/b310dd2) Merge pull request #17 from MediaJel/feat/finalize-hierarchy
-
-chore: Update Dockerfile paths and add Redis service
-  * [#993dd63](https://github.com/MediaJel/salesforce-automation/commit/993dd63) chore: Update Dockerfile paths and add Redis service
-* 🔃 Merged [#17 chore: Update Dockerfile paths and add Redis service](https://github.com/MediaJel/salesforce-automation/pull/17) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 4 files changed `++8 --3`
-* 🔃 Opened [#17 chore: Update Dockerfile paths and add Redis service](https://github.com/MediaJel/salesforce-automation/pull/17) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 4 files changed `++8 --3`
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/finalize-hierarchy`
-  * [#993dd63](https://github.com/MediaJel/salesforce-automation/commit/993dd63) chore: Update Dockerfile paths and add Redis service
-* ➡️ Pushed 3 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#7f253eb](https://github.com/MediaJel/salesforce-automation/commit/7f253eb) Merge pull request #16 from MediaJel/feat/finalize-hierarchy
-
-feat/finalize hierarchy
-  * [#9bea591](https://github.com/MediaJel/salesforce-automation/commit/9bea591) refactor: Improve hierarchy processing in Intuit processor
-  * [#ff0a08d](https://github.com/MediaJel/salesforce-automation/commit/ff0a08d) feat: Update imports to use double quotes and refactor object destructuring and spacing
+* 🌟 Starred [dockur/macos](https://github.com/dockur/macos)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#b313413](https://github.com/MediaJel/mediajel-tracker/commit/b313413) fix: Update type checking command in CircleCI config
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#94c95c2](https://github.com/MediaJel/mediajel-tracker/commit/94c95c2) fix: Update npm commands to yarn in CircleCI config
+* ➡️ Pushed 14 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#5e4f824](https://github.com/MediaJel/mediajel-tracker/commit/5e4f824) Merge branch &#39;main&#39; into staging
+* 🔃 Opened [#565 staging](https://github.com/MediaJel/mediajel-tracker/pull/565) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++105 --1`
 
 
 
