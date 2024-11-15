@@ -30,14 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN)
-* 🌟 Starred [dockur/macos](https://github.com/dockur/macos)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+* ➡️ Pushed 7 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#968f664](https://github.com/MediaJel/mediajel-tracker/commit/968f664) Merge pull request #565 from MediaJel/staging
   * [#b313413](https://github.com/MediaJel/mediajel-tracker/commit/b313413) fix: Update type checking command in CircleCI config
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#94c95c2](https://github.com/MediaJel/mediajel-tracker/commit/94c95c2) fix: Update npm commands to yarn in CircleCI config
-* ➡️ Pushed 14 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#5e4f824](https://github.com/MediaJel/mediajel-tracker/commit/5e4f824) Merge branch &#39;main&#39; into staging
+  * [#7f56273](https://github.com/MediaJel/mediajel-tracker/commit/7f56273) Merge pull request #560 from MediaJel/jbjm-foxy-cart
+
+add foxy environment
+  * [#badb03c](https://github.com/MediaJel/mediajel-tracker/commit/badb03c) feat: Update Node.js version to 22.11.0
+  * [#a5ffcae](https://github.com/MediaJel/mediajel-tracker/commit/a5ffcae) add foxy environment
+* 🔃 Merged [#565 staging](https://github.com/MediaJel/mediajel-tracker/pull/565) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++110 --6`
+* 🌟 Starred [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer)
+* 🔍 Reviewed [#685 feature/684 - Greencheck Audience Activation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/685) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#545 All the google ads with datalayer source is not working](https://github.com/MediaJel/mediajel-tracker/issues/545) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
