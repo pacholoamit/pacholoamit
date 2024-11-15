@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN)
 * 🌟 Starred [dockur/macos](https://github.com/dockur/macos)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#b313413](https://github.com/MediaJel/mediajel-tracker/commit/b313413) fix: Update type checking command in CircleCI config
@@ -37,8 +38,6 @@
   * [#94c95c2](https://github.com/MediaJel/mediajel-tracker/commit/94c95c2) fix: Update npm commands to yarn in CircleCI config
 * ➡️ Pushed 14 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#5e4f824](https://github.com/MediaJel/mediajel-tracker/commit/5e4f824) Merge branch &#39;main&#39; into staging
-* 🔃 Opened [#565 staging](https://github.com/MediaJel/mediajel-tracker/pull/565) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++105 --1`
 
 
 
