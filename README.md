@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8185` commits and made `283` PRs.
+:people_hugging: I contributed to `42` repositories , made `8187` commits and made `283` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,22 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#f5f0086](https://github.com/pacholoamit/homelab-infrastructure/commit/f5f0086) feat: Add N8N_EDITOR_BASE_URL to release.yaml
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#310651c](https://github.com/pacholoamit/homelab-infrastructure/commit/310651c) feat: Add new webhook URL for n8n integration
 * ➡️ Pushed 1 commit in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution) on branch `master`
   * [#76d81ec](https://github.com/MediaJel/landing-dutchie-attribution/commit/76d81ec) fixes
 * ➡️ Pushed 1 commit in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution) on branch `master`
   * [#a85ced5](https://github.com/MediaJel/landing-dutchie-attribution/commit/a85ced5) changes
 * ⏺️ Created new branch master in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution)
-* ⏺️ Created new repository  [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution)
-* ➡️ Pushed 7 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#968f664](https://github.com/MediaJel/mediajel-tracker/commit/968f664) Merge pull request #565 from MediaJel/staging
-  * [#b313413](https://github.com/MediaJel/mediajel-tracker/commit/b313413) fix: Update type checking command in CircleCI config
-  * [#94c95c2](https://github.com/MediaJel/mediajel-tracker/commit/94c95c2) fix: Update npm commands to yarn in CircleCI config
-  * [#5e4f824](https://github.com/MediaJel/mediajel-tracker/commit/5e4f824) Merge branch &#39;main&#39; into staging
-  * [#7f56273](https://github.com/MediaJel/mediajel-tracker/commit/7f56273) Merge pull request #560 from MediaJel/jbjm-foxy-cart
-
-add foxy environment
-  * [#badb03c](https://github.com/MediaJel/mediajel-tracker/commit/badb03c) feat: Update Node.js version to 22.11.0
-  * [#a5ffcae](https://github.com/MediaJel/mediajel-tracker/commit/a5ffcae) add foxy environment
 
 
 
