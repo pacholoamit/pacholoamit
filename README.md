@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8187` commits and made `283` PRs.
+:people_hugging: I contributed to `42` repositories , made `8191` commits and made `283` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,14 +31,21 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#f5f0086](https://github.com/pacholoamit/homelab-infrastructure/commit/f5f0086) feat: Add N8N_EDITOR_BASE_URL to release.yaml
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#310651c](https://github.com/pacholoamit/homelab-infrastructure/commit/310651c) feat: Add new webhook URL for n8n integration
-* ➡️ Pushed 1 commit in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution) on branch `master`
-  * [#76d81ec](https://github.com/MediaJel/landing-dutchie-attribution/commit/76d81ec) fixes
-* ➡️ Pushed 1 commit in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution) on branch `master`
-  * [#a85ced5](https://github.com/MediaJel/landing-dutchie-attribution/commit/a85ced5) changes
-* ⏺️ Created new branch master in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution)
+  * [#5cc633b](https://github.com/pacholoamit/homelab-infrastructure/commit/5cc633b) fix: Update n8n image tag to 1.66.0
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#491b3c9](https://github.com/pacholoamit/homelab-infrastructure/commit/491b3c9) Merge pull request #173 from pacholoamit/renovate/cloudflare-cloudflared-2024.x
+
+chore(deps): update container image cloudflare/cloudflared to v2024.11.0
+  * [#89aae09](https://github.com/pacholoamit/homelab-infrastructure/commit/89aae09) chore(deps): update container image cloudflare/cloudflared to v2024.11.0
+* 🔃 Merged [#173 chore(deps): update container image cloudflare/cloudflared to v2024.11.0](https://github.com/pacholoamit/homelab-infrastructure/pull/173) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
+* 🔃 Closed [#172 chore(deps): update container image velero/velero-plugin-for-aws to v1.11.0](https://github.com/pacholoamit/homelab-infrastructure/pull/172) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 2 files changed `++2 --2`
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#85848b0](https://github.com/pacholoamit/homelab-infrastructure/commit/85848b0) Merge pull request #171 from pacholoamit/renovate/twinproduction-gatus-5.13.x
+
+chore(deps): update container image twinproduction/gatus to v5.13.1
+  * [#5f74cb8](https://github.com/pacholoamit/homelab-infrastructure/commit/5f74cb8) chore(deps): update container image twinproduction/gatus to v5.13.1
 
 
 
