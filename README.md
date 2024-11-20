@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8192` commits and made `283` PRs.
+:people_hugging: I contributed to `42` repositories , made `8192` commits and made `284` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,20 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#83dd0c6](https://github.com/MediaJel/salesforce-automation/commit/83dd0c6) Merge pull request #19 from MediaJel/feat/finalize-hierarchy
+* #️⃣ Opened [#574 Task 1](https://github.com/MediaJel/mediajel-tracker/issues/574) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#573 Test](https://github.com/MediaJel/mediajel-tracker/issues/573) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#d74583e](https://github.com/MediaJel/mediajel-tracker/commit/d74583e) Merge pull request #571 from MediaJel/jbjm-fix-tymber-cart
 
-feat/finalize hierarchy
-  * [#e124f94](https://github.com/MediaJel/salesforce-automation/commit/e124f94) refactor: Update import paths and refactor customer processing
-  * [#fa4226f](https://github.com/MediaJel/salesforce-automation/commit/fa4226f) fix: recursive estimates
-* 🔃 Merged [#19 feat/finalize hierarchy](https://github.com/MediaJel/salesforce-automation/pull/19) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 3 files changed `++69 --61`
-* 🔃 Opened [#19 feat/finalize hierarchy](https://github.com/MediaJel/salesforce-automation/pull/19) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 3 files changed `++69 --61`
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/finalize-hierarchy`
-  * [#e124f94](https://github.com/MediaJel/salesforce-automation/commit/e124f94) refactor: Update import paths and refactor customer processing
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/finalize-hierarchy`
-  * [#fa4226f](https://github.com/MediaJel/salesforce-automation/commit/fa4226f) fix: recursive estimates
+try fix tymber cart issue
+  * [#c56191a](https://github.com/MediaJel/mediajel-tracker/commit/c56191a) fix tymber cart issue
+* 🔃 Merged [#571 try fix tymber cart issue](https://github.com/MediaJel/mediajel-tracker/pull/571) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++6 --5`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#0ea3ee7](https://github.com/MediaJel/mediajel-tracker/commit/0ea3ee7) feat: Add createImagePixel utility function
 
 
 
