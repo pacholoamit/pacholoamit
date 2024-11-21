@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8192` commits and made `284` PRs.
+:people_hugging: I contributed to `42` repositories , made `8196` commits and made `285` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#574 Task 1](https://github.com/MediaJel/mediajel-tracker/issues/574) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#573 Test](https://github.com/MediaJel/mediajel-tracker/issues/573) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#d74583e](https://github.com/MediaJel/mediajel-tracker/commit/d74583e) Merge pull request #571 from MediaJel/jbjm-fix-tymber-cart
-
-try fix tymber cart issue
-  * [#c56191a](https://github.com/MediaJel/mediajel-tracker/commit/c56191a) fix tymber cart issue
-* 🔃 Merged [#571 try fix tymber cart issue](https://github.com/MediaJel/mediajel-tracker/pull/571) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++6 --5`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#0ea3ee7](https://github.com/MediaJel/mediajel-tracker/commit/0ea3ee7) feat: Add createImagePixel utility function
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
+  * [#5413cad](https://github.com/MediaJel/salesforce-automation/commit/5413cad) style: Update import paths and code formatting
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
+  * [#3e01350](https://github.com/MediaJel/salesforce-automation/commit/3e01350) fix: Handle errors in finding and updating tasks
+* 🔃 Opened [#20 feat/completion](https://github.com/MediaJel/salesforce-automation/pull/20) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 7 files changed `++219 --222`
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
+  * [#0667162](https://github.com/MediaJel/salesforce-automation/commit/0667162) feat: Add logic to update Salesforce account with Quickbooks Id
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
+  * [#981bc08](https://github.com/MediaJel/salesforce-automation/commit/981bc08) refactor: Update Salesforce and Quickbooks Id handling
 
 
 
