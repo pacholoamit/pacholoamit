@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [ChartsOrg/Charts](https://github.com/ChartsOrg/Charts)
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
   * [#5413cad](https://github.com/MediaJel/salesforce-automation/commit/5413cad) style: Update import paths and code formatting
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
@@ -38,8 +39,6 @@
   * 7 files changed `++219 --222`
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
   * [#0667162](https://github.com/MediaJel/salesforce-automation/commit/0667162) feat: Add logic to update Salesforce account with Quickbooks Id
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
-  * [#981bc08](https://github.com/MediaJel/salesforce-automation/commit/981bc08) refactor: Update Salesforce and Quickbooks Id handling
 
 
 
