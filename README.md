@@ -30,15 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [ChartsOrg/Charts](https://github.com/ChartsOrg/Charts)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
-  * [#5413cad](https://github.com/MediaJel/salesforce-automation/commit/5413cad) style: Update import paths and code formatting
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
-  * [#3e01350](https://github.com/MediaJel/salesforce-automation/commit/3e01350) fix: Handle errors in finding and updating tasks
-* 🔃 Opened [#20 feat/completion](https://github.com/MediaJel/salesforce-automation/pull/20) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 7 files changed `++219 --222`
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
-  * [#0667162](https://github.com/MediaJel/salesforce-automation/commit/0667162) feat: Add logic to update Salesforce account with Quickbooks Id
+* 🌟 Starred [stack-auth/stack](https://github.com/stack-auth/stack)
+* 🌟 Starred [Avaiga/taipy](https://github.com/Avaiga/taipy)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#7dfca2d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/7dfca2d) docs: Update console log message
+* ➡️ Pushed 7 commits in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution) on branch `master`
+  * [#1aa8b47](https://github.com/MediaJel/landing-dutchie-attribution/commit/1aa8b47) Merge pull request #1 from MediaJel/ds-new-and-returning
+
+ds add customers
+  * [#449739f](https://github.com/MediaJel/landing-dutchie-attribution/commit/449739f) Merge branch &#39;master&#39; into ds-new-and-returning
+  * [#aeba563](https://github.com/MediaJel/landing-dutchie-attribution/commit/aeba563) style: Update variable names and comments
+  * [#0f94b16](https://github.com/MediaJel/landing-dutchie-attribution/commit/0f94b16) feat: Add functionality to retrieve customers incrementally
+  * [#d48a35d](https://github.com/MediaJel/landing-dutchie-attribution/commit/d48a35d) adds in all locations
+  * [#de39d18](https://github.com/MediaJel/landing-dutchie-attribution/commit/de39d18) completes date handling per location for Dutchie transactions
+  * [#4815cf7](https://github.com/MediaJel/landing-dutchie-attribution/commit/4815cf7) creates dutchieTransactions file
+* 🔃 Merged [#1 ds add customers](https://github.com/MediaJel/landing-dutchie-attribution/pull/1) in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution)
+  * 7 files changed `++495 --220`
 
 
 
