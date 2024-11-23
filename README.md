@@ -30,13 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [automatisch/automatisch](https://github.com/automatisch/automatisch)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
-  * [#3e889ba](https://github.com/MediaJel/salesforce-automation/commit/3e889ba) style: update import statements and code formatting
-* 🌟 Starred [stack-auth/stack](https://github.com/stack-auth/stack)
-* 🌟 Starred [Avaiga/taipy](https://github.com/Avaiga/taipy)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#7dfca2d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/7dfca2d) docs: Update console log message
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#f0ab320](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/f0ab320) Merge pull request #203 from MediaJel/stmCannaUpdate5
+
+Stm canna update
+  * [#cc24897](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/cc24897) fix: fix conditions on stm canna
+* 🔃 Merged [#203 Stm canna update](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/203) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++20 --21`
+* #️⃣ Opened [#693 Update the `/audience/activate` endpoint to optionally publish &amp; chunk uploads in 40mb](https://github.com/MediaJel/amplication-nestjs-microservices/issues/693) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#293 [Ext] Campaign Management API: CREATE Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#595 Add Statara clickhouse columns](https://github.com/MediaJel/amplication-nestjs-microservices/issues/595) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
