@@ -30,16 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
+  * [#b2f5f7a](https://github.com/MediaJel/salesforce-automation/commit/b2f5f7a) refactor: Improve processCustomer function readability
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
+  * [#6b877f3](https://github.com/MediaJel/salesforce-automation/commit/6b877f3) refactor: Update processing of customer and estimate data
+* ⏺️ Created new branch feat/competions-2 in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
+  * [#f6e45a9](https://github.com/MediaJel/salesforce-automation/commit/f6e45a9) changes
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
   * [#f0ab320](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/f0ab320) Merge pull request #203 from MediaJel/stmCannaUpdate5
 
 Stm canna update
   * [#cc24897](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/cc24897) fix: fix conditions on stm canna
-* 🔃 Merged [#203 Stm canna update](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/203) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++20 --21`
-* #️⃣ Opened [#693 Update the `/audience/activate` endpoint to optionally publish &amp; chunk uploads in 40mb](https://github.com/MediaJel/amplication-nestjs-microservices/issues/693) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#293 [Ext] Campaign Management API: CREATE Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#595 Add Statara clickhouse columns](https://github.com/MediaJel/amplication-nestjs-microservices/issues/595) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
