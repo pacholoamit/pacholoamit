@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8196` commits and made `285` PRs.
+:people_hugging: I contributed to `41` repositories , made `8196` commits and made `285` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,18 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [adamdecaf/deadcheck](https://github.com/adamdecaf/deadcheck)
+* 🌟 Starred [yorukot/superfile](https://github.com/yorukot/superfile)
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
   * [#b2f5f7a](https://github.com/MediaJel/salesforce-automation/commit/b2f5f7a) refactor: Improve processCustomer function readability
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
   * [#6b877f3](https://github.com/MediaJel/salesforce-automation/commit/6b877f3) refactor: Update processing of customer and estimate data
 * ⏺️ Created new branch feat/competions-2 in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/completion`
-  * [#f6e45a9](https://github.com/MediaJel/salesforce-automation/commit/f6e45a9) changes
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#f0ab320](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/f0ab320) Merge pull request #203 from MediaJel/stmCannaUpdate5
-
-Stm canna update
-  * [#cc24897](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/cc24897) fix: fix conditions on stm canna
 
 
 
