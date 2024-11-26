@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `8196` commits and made `285` PRs.
+:people_hugging: I contributed to `40` repositories , made `8197` commits and made `287` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [adamdecaf/deadcheck](https://github.com/adamdecaf/deadcheck)
-* 🌟 Starred [yorukot/superfile](https://github.com/yorukot/superfile)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
-  * [#b2f5f7a](https://github.com/MediaJel/salesforce-automation/commit/b2f5f7a) refactor: Improve processCustomer function readability
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
-  * [#6b877f3](https://github.com/MediaJel/salesforce-automation/commit/6b877f3) refactor: Update processing of customer and estimate data
-* ⏺️ Created new branch feat/competions-2 in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#df51130](https://github.com/MediaJel/mediajel-tracker/commit/df51130) Merge pull request #576 from MediaJel/staging
+
+Update main
+  * [#d74583e](https://github.com/MediaJel/mediajel-tracker/commit/d74583e) Merge pull request #571 from MediaJel/jbjm-fix-tymber-cart
+
+try fix tymber cart issue
+  * [#c56191a](https://github.com/MediaJel/mediajel-tracker/commit/c56191a) fix tymber cart issue
+* 🔃 Merged [#576 Update main](https://github.com/MediaJel/mediajel-tracker/pull/576) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++6 --5`
+* 🔃 Opened [#576 Update main](https://github.com/MediaJel/mediajel-tracker/pull/576) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++6 --5`
+* 🔃 Closed [#536 Track Transactions for All Segments Dynamically](https://github.com/MediaJel/mediajel-tracker/pull/536) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++53 --0`
+* 🔃 Closed [#491 weaver tracker adding](https://github.com/MediaJel/mediajel-tracker/pull/491) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++30 --0`
 
 
 
