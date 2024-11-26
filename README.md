@@ -30,22 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#df51130](https://github.com/MediaJel/mediajel-tracker/commit/df51130) Merge pull request #576 from MediaJel/staging
-
-Update main
-  * [#d74583e](https://github.com/MediaJel/mediajel-tracker/commit/d74583e) Merge pull request #571 from MediaJel/jbjm-fix-tymber-cart
-
-try fix tymber cart issue
-  * [#c56191a](https://github.com/MediaJel/mediajel-tracker/commit/c56191a) fix tymber cart issue
-* 🔃 Merged [#576 Update main](https://github.com/MediaJel/mediajel-tracker/pull/576) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++6 --5`
-* 🔃 Opened [#576 Update main](https://github.com/MediaJel/mediajel-tracker/pull/576) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++6 --5`
-* 🔃 Closed [#536 Track Transactions for All Segments Dynamically](https://github.com/MediaJel/mediajel-tracker/pull/536) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++53 --0`
-* 🔃 Closed [#491 weaver tracker adding](https://github.com/MediaJel/mediajel-tracker/pull/491) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++30 --0`
+* 🌟 Starred [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/campaign-scraper-recursive-changes`
+  * [#465f008](https://github.com/MediaJel/amplication-nestjs-microservices/commit/465f008) refactor: Remove redundant fs writeFileSync calls
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/campaign-scraper-recursive-changes`
+  * [#a081fee](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a081fee) feat: fix values not being outputted
+* 🌟 Starred [itsnitinr/vscode-portfolio](https://github.com/itsnitinr/vscode-portfolio)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/campaign-scraper-recursive-changes`
+  * [#c498366](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c498366) feat: Add retry utility for handling API retries
 
 
 
