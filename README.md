@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `8197` commits and made `287` PRs.
+:people_hugging: I contributed to `40` repositories , made `8197` commits and made `288` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
+  * [#4d252ce](https://github.com/MediaJel/salesforce-automation/commit/4d252ce) refactor: Update processCustomer function parameters
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
+  * [#f911573](https://github.com/MediaJel/salesforce-automation/commit/f911573) refactor: Remove unnecessary comments and fix spacing
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
+  * [#dca2793](https://github.com/MediaJel/salesforce-automation/commit/dca2793) feat: Add isProduction check to use correct IDs
+* ⏺️ Created new branch pa-new-versus-returning in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution)
 * 🌟 Starred [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/campaign-scraper-recursive-changes`
-  * [#465f008](https://github.com/MediaJel/amplication-nestjs-microservices/commit/465f008) refactor: Remove redundant fs writeFileSync calls
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/campaign-scraper-recursive-changes`
-  * [#a081fee](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a081fee) feat: fix values not being outputted
-* 🌟 Starred [itsnitinr/vscode-portfolio](https://github.com/itsnitinr/vscode-portfolio)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/campaign-scraper-recursive-changes`
-  * [#c498366](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c498366) feat: Add retry utility for handling API retries
 
 
 
