@@ -30,14 +30,24 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
+* 🔃 Closed [#20 feat/completion](https://github.com/MediaJel/salesforce-automation/pull/20) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 12 files changed `++1883 --289`
+* 🌟 Starred [prsyahmi/v380](https://github.com/prsyahmi/v380)
+* 🌟 Starred [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
+* ➡️ Pushed 9 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#21a38ae](https://github.com/MediaJel/salesforce-automation/commit/21a38ae) Merge pull request #21 from MediaJel/feat/competions-2
+
+feat/competions 2
+  * [#6659211](https://github.com/MediaJel/salesforce-automation/commit/6659211) refactor: Update SalesforceService creation to be a singleton
   * [#4d252ce](https://github.com/MediaJel/salesforce-automation/commit/4d252ce) refactor: Update processCustomer function parameters
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
   * [#f911573](https://github.com/MediaJel/salesforce-automation/commit/f911573) refactor: Remove unnecessary comments and fix spacing
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/competions-2`
   * [#dca2793](https://github.com/MediaJel/salesforce-automation/commit/dca2793) feat: Add isProduction check to use correct IDs
-* ⏺️ Created new branch pa-new-versus-returning in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution)
-* 🌟 Starred [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)
+  * [#b2f5f7a](https://github.com/MediaJel/salesforce-automation/commit/b2f5f7a) refactor: Improve processCustomer function readability
+  * [#6b877f3](https://github.com/MediaJel/salesforce-automation/commit/6b877f3) refactor: Update processing of customer and estimate data
+  * [#3d2069c](https://github.com/MediaJel/salesforce-automation/commit/3d2069c) refactor: Update import paths and code formatting
+  * [#2fc7ca3](https://github.com/MediaJel/salesforce-automation/commit/2fc7ca3) refactor: Update import paths and object destructuring in processors
+* 🔃 Merged [#21 feat/competions 2](https://github.com/MediaJel/salesforce-automation/pull/21) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 10 files changed `++421 --304`
 
 
 
