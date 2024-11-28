@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `8197` commits and made `288` PRs.
+:people_hugging: I contributed to `40` repositories , made `8197` commits and made `289` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,24 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#20 feat/completion](https://github.com/MediaJel/salesforce-automation/pull/20) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 12 files changed `++1883 --289`
-* 🌟 Starred [prsyahmi/v380](https://github.com/prsyahmi/v380)
-* 🌟 Starred [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
-* ➡️ Pushed 9 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#21a38ae](https://github.com/MediaJel/salesforce-automation/commit/21a38ae) Merge pull request #21 from MediaJel/feat/competions-2
-
-feat/competions 2
-  * [#6659211](https://github.com/MediaJel/salesforce-automation/commit/6659211) refactor: Update SalesforceService creation to be a singleton
-  * [#4d252ce](https://github.com/MediaJel/salesforce-automation/commit/4d252ce) refactor: Update processCustomer function parameters
-  * [#f911573](https://github.com/MediaJel/salesforce-automation/commit/f911573) refactor: Remove unnecessary comments and fix spacing
-  * [#dca2793](https://github.com/MediaJel/salesforce-automation/commit/dca2793) feat: Add isProduction check to use correct IDs
-  * [#b2f5f7a](https://github.com/MediaJel/salesforce-automation/commit/b2f5f7a) refactor: Improve processCustomer function readability
-  * [#6b877f3](https://github.com/MediaJel/salesforce-automation/commit/6b877f3) refactor: Update processing of customer and estimate data
-  * [#3d2069c](https://github.com/MediaJel/salesforce-automation/commit/3d2069c) refactor: Update import paths and code formatting
-  * [#2fc7ca3](https://github.com/MediaJel/salesforce-automation/commit/2fc7ca3) refactor: Update import paths and object destructuring in processors
-* 🔃 Merged [#21 feat/competions 2](https://github.com/MediaJel/salesforce-automation/pull/21) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 10 files changed `++421 --304`
+* 🔍 Reviewed [#686 feature: prisma ERD](https://github.com/MediaJel/amplication-nestjs-microservices/pull/686) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#661 ez stataraAudienceSchemaScoresFix](https://github.com/MediaJel/amplication-nestjs-microservices/pull/661) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#65c1feb](https://github.com/MediaJel/salesforce-automation/commit/65c1feb) style: Remove unnecessary comments and valueFrom blocks
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#9e5a6f2](https://github.com/MediaJel/salesforce-automation/commit/9e5a6f2) docs: Update Salesforce redirect URI for ngrok workaround
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#10a28fe](https://github.com/MediaJel/salesforce-automation/commit/10a28fe) fix: Update targetPort and containerPort to 1234
 
 
 
