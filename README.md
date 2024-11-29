@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#686 feature: prisma ERD](https://github.com/MediaJel/amplication-nestjs-microservices/pull/686) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#661 ez stataraAudienceSchemaScoresFix](https://github.com/MediaJel/amplication-nestjs-microservices/pull/661) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#65c1feb](https://github.com/MediaJel/salesforce-automation/commit/65c1feb) style: Remove unnecessary comments and valueFrom blocks
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#9e5a6f2](https://github.com/MediaJel/salesforce-automation/commit/9e5a6f2) docs: Update Salesforce redirect URI for ngrok workaround
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#10a28fe](https://github.com/MediaJel/salesforce-automation/commit/10a28fe) fix: Update targetPort and containerPort to 1234
+* 🌟 Starred [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)
+* 🌟 Starred [alifarooq9/rapidlaunch](https://github.com/alifarooq9/rapidlaunch)
+* 🌟 Starred [horizon-ui/shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate)
+* 🌟 Starred [payloadcms/payload](https://github.com/payloadcms/payload)
+* 🌟 Starred [documenso/documenso](https://github.com/documenso/documenso)
 
 
 
