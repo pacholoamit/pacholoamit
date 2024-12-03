@@ -30,14 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#683 ICF improve connections endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/683) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#698 Weave cart docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/698) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
-  * [#5b059d6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5b059d6) style: Update partitions property to be optional
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
-  * [#76c4190](https://github.com/MediaJel/amplication-nestjs-microservices/commit/76c4190) feat: Add AudiencePartition class to AudienceSave dto
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
-  * [#64cbb03](https://github.com/MediaJel/amplication-nestjs-microservices/commit/64cbb03) feat: Add paths and sources to Audience and AudiencePartition
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feature/ext-293-nexxen-campaign-service`
+  * [#379c3f1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/379c3f1) refactor: add structure
+* 🔍 Reviewed [#694 feature: simplifi on impression tracker](https://github.com/MediaJel/amplication-nestjs-microservices/pull/694) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#701 [FOR REVIEW] Feature/ext 293 google places api service](https://github.com/MediaJel/amplication-nestjs-microservices/issues/701) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#682 Added endpoint for advertiser total impressions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/682) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#682 Added endpoint for advertiser total impressions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/682) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
