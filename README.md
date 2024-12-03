@@ -30,11 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)
-* 🌟 Starred [alifarooq9/rapidlaunch](https://github.com/alifarooq9/rapidlaunch)
-* 🌟 Starred [horizon-ui/shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate)
-* 🌟 Starred [payloadcms/payload](https://github.com/payloadcms/payload)
-* 🌟 Starred [documenso/documenso](https://github.com/documenso/documenso)
+* 🔍 Reviewed [#683 ICF improve connections endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/683) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#698 Weave cart docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/698) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
+  * [#5b059d6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5b059d6) style: Update partitions property to be optional
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
+  * [#76c4190](https://github.com/MediaJel/amplication-nestjs-microservices/commit/76c4190) feat: Add AudiencePartition class to AudienceSave dto
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
+  * [#64cbb03](https://github.com/MediaJel/amplication-nestjs-microservices/commit/64cbb03) feat: Add paths and sources to Audience and AudiencePartition
 
 
 
