@@ -30,17 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#7783 Tag Generator &gt; Additional Fields for NXN &amp; Dstillery Beacons](https://github.com/MediaJel/mediajel-dashboard/issues/7783) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
+  * [#68e48fd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/68e48fd) feat: Add GetAudienceParamsDto for audience retrieval
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
+  * [#48ad072](https://github.com/MediaJel/amplication-nestjs-microservices/commit/48ad072) fix: dtos
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
+  * [#f570460](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f570460) feat: Update error handling and add pagination function
+  * [#23a6059](https://github.com/MediaJel/amplication-nestjs-microservices/commit/23a6059) feat: add nestjs dto generator
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
   * [#d2fb189](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d2fb189) refactor: Improve logging and update audience partition status
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
-  * [#dd0dffc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dd0dffc) refactor: Remove redundant &#34;isSaved&#34; column from Audience table
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
-  * [#2468712](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2468712) refactor: Update Audience and AudiencePartition models
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
-  * [#97e4dea](https://github.com/MediaJel/amplication-nestjs-microservices/commit/97e4dea) docs: Remove dump.rdb binary file
-  * [#9916319](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9916319) feat: add chunking functionality to audience activate endpoint
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feature/ext-293-nexxen-campaign-service`
-  * [#379c3f1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/379c3f1) refactor: add structure
 
 
 
