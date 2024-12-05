@@ -30,16 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#7783 Tag Generator &gt; Additional Fields for NXN &amp; Dstillery Beacons](https://github.com/MediaJel/mediajel-dashboard/issues/7783) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
-  * [#68e48fd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/68e48fd) feat: Add GetAudienceParamsDto for audience retrieval
+  * [#3746cc1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3746cc1) feat: Add name property to SaveAudienceParams
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
-  * [#48ad072](https://github.com/MediaJel/amplication-nestjs-microservices/commit/48ad072) fix: dtos
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
-  * [#f570460](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f570460) feat: Update error handling and add pagination function
-  * [#23a6059](https://github.com/MediaJel/amplication-nestjs-microservices/commit/23a6059) feat: add nestjs dto generator
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
-  * [#d2fb189](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d2fb189) refactor: Improve logging and update audience partition status
+  * [#43b9376](https://github.com/MediaJel/amplication-nestjs-microservices/commit/43b9376) style: Remove unused import and file write statement
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#d26d68f](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/d26d68f) Merge pull request #217 from MediaJel/seedlessMediaUpdate
+
+fix: modified addeventlistener for seedless media
+  * [#993c352](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/993c352) fix: modified addeventlistener for seedless media
+* 🔃 Merged [#217 fix: modified addeventlistener for seedless media](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/217) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++31 --28`
+* #️⃣ Opened [#705 Implement Signoz alerting via slack channel](https://github.com/MediaJel/amplication-nestjs-microservices/issues/705) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
