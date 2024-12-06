@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `8197` commits and made `290` PRs.
+:people_hugging: I contributed to `40` repositories , made `8199` commits and made `290` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,6 +31,10 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
+  * [#8299636](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8299636) style: Add optional decorator for audience name field
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
+  * [#26dad5d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/26dad5d) style: update audience-save-params dto description
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
   * [#3746cc1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3746cc1) feat: Add name property to SaveAudienceParams
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/chunk-audience`
   * [#43b9376](https://github.com/MediaJel/amplication-nestjs-microservices/commit/43b9376) style: Remove unused import and file write statement
@@ -39,9 +43,6 @@
 
 fix: modified addeventlistener for seedless media
   * [#993c352](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/993c352) fix: modified addeventlistener for seedless media
-* 🔃 Merged [#217 fix: modified addeventlistener for seedless media](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/217) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++31 --28`
-* #️⃣ Opened [#705 Implement Signoz alerting via slack channel](https://github.com/MediaJel/amplication-nestjs-microservices/issues/705) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
