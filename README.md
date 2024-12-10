@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `8199` commits and made `291` PRs.
+:people_hugging: I contributed to `40` repositories , made `8209` commits and made `291` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feature/ext-293-nexxen-campaign-service`
+  * [#2b5aca8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2b5aca8) feat: Add methods to create insertion order and package
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feature/ext-293-nexxen-campaign-service`
+  * [#f834059](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f834059) fix: conflicts
+  * [#bf8136c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bf8136c) fix: use nestjs dto for validations
+* #️⃣ Opened [#758 Create Superset alternative for Transactions Observer](https://github.com/MediaJel/mediajel/issues/758) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * ➡️ Pushed 4 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
   * [#2fbfacb](https://github.com/MediaJel/salesforce-automation/commit/2fbfacb) Merge pull request #23 from MediaJel/feat/add-line-items-reference
 
@@ -39,11 +45,6 @@ Feat: Make reference between products/services work
   * [#eafb95b](https://github.com/MediaJel/salesforce-automation/commit/eafb95b) refactor: Improve processing logic for opportunity line items and products
 * 🔃 Merged [#23 Feat: Make reference between products/services work](https://github.com/MediaJel/salesforce-automation/pull/23) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
   * 7 files changed `++372 --40`
-* 🔃 Opened [#23 Feat: Make reference between products/services work](https://github.com/MediaJel/salesforce-automation/pull/23) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 7 files changed `++372 --40`
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `feat/add-line-items-reference`
-  * [#adc6461](https://github.com/MediaJel/salesforce-automation/commit/adc6461) refactor: Improve error handling in find method
-* 🌟 Starred [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase)
 
 
 
