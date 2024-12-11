@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `8209` commits and made `291` PRs.
+:people_hugging: I contributed to `40` repositories , made `8214` commits and made `292` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,21 +30,46 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feature/ext-293-nexxen-campaign-service`
-  * [#2b5aca8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2b5aca8) feat: Add methods to create insertion order and package
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feature/ext-293-nexxen-campaign-service`
-  * [#f834059](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f834059) fix: conflicts
-  * [#bf8136c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bf8136c) fix: use nestjs dto for validations
-* #️⃣ Opened [#758 Create Superset alternative for Transactions Observer](https://github.com/MediaJel/mediajel/issues/758) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* ➡️ Pushed 4 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#2fbfacb](https://github.com/MediaJel/salesforce-automation/commit/2fbfacb) Merge pull request #23 from MediaJel/feat/add-line-items-reference
+* ➡️ Pushed 8 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#b47100d](https://github.com/MediaJel/mediajel-tracker/commit/b47100d) Merge pull request #599 from MediaJel/staging
 
-Feat: Make reference between products/services work
-  * [#adc6461](https://github.com/MediaJel/salesforce-automation/commit/adc6461) refactor: Improve error handling in find method
-  * [#f05a6af](https://github.com/MediaJel/salesforce-automation/commit/f05a6af) refactor: Update item reference handling in Quickbooks integration
-  * [#eafb95b](https://github.com/MediaJel/salesforce-automation/commit/eafb95b) refactor: Improve processing logic for opportunity line items and products
-* 🔃 Merged [#23 Feat: Make reference between products/services work](https://github.com/MediaJel/salesforce-automation/pull/23) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 7 files changed `++372 --40`
+Update main
+  * [#c4ca9cc](https://github.com/MediaJel/mediajel-tracker/commit/c4ca9cc) Merge pull request #598 from MediaJel/imagePixelFix
+
+Fix on Image Pixels for Segments
+  * [#0d37d9a](https://github.com/MediaJel/mediajel-tracker/commit/0d37d9a) fix: append img pixel outside function
+  * [#955e247](https://github.com/MediaJel/mediajel-tracker/commit/955e247) Merge pull request #588 from MediaJel/jbjm-google-fix-aw
+
+Jbjm google fix aw
+  * [#c9b0833](https://github.com/MediaJel/mediajel-tracker/commit/c9b0833) Merge pull request #586 from MediaJel/jbjm-fix-wix
+
+try fix wix display not tracking issue
+  * [#d9e70b5](https://github.com/MediaJel/mediajel-tracker/commit/d9e70b5) try fix AW issue on googleads
+  * [#7ee8502](https://github.com/MediaJel/mediajel-tracker/commit/7ee8502) try fix AW issue on googleads
+  * [#b3f15f3](https://github.com/MediaJel/mediajel-tracker/commit/b3f15f3) try fix wix display not tracking issue
+* 🔃 Merged [#599 Update main](https://github.com/MediaJel/mediajel-tracker/pull/599) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 6 files changed `++69 --62`
+* 🔃 Opened [#599 Update main](https://github.com/MediaJel/mediajel-tracker/pull/599) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 6 files changed `++69 --62`
+* 🔃 Merged [#598 Fix on Image Pixels for Segments](https://github.com/MediaJel/mediajel-tracker/pull/598) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 8 files changed `++232 --31`
+* ➡️ Pushed 10 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#c4ca9cc](https://github.com/MediaJel/mediajel-tracker/commit/c4ca9cc) Merge pull request #598 from MediaJel/imagePixelFix
+
+Fix on Image Pixels for Segments
+  * [#0d37d9a](https://github.com/MediaJel/mediajel-tracker/commit/0d37d9a) fix: append img pixel outside function
+  * [#df51130](https://github.com/MediaJel/mediajel-tracker/commit/df51130) Merge pull request #576 from MediaJel/staging
+
+Update main
+  * [#0ea3ee7](https://github.com/MediaJel/mediajel-tracker/commit/0ea3ee7) feat: Add createImagePixel utility function
+  * [#968f664](https://github.com/MediaJel/mediajel-tracker/commit/968f664) Merge pull request #565 from MediaJel/staging
+  * [#1d24d89](https://github.com/MediaJel/mediajel-tracker/commit/1d24d89) Merge pull request #569 from MediaJel/simplifyAdapter
+
+Simplifi Adapter
+  * [#c04dd9a](https://github.com/MediaJel/mediajel-tracker/commit/c04dd9a) fix: change value of lineItemId to simplify
+  * [#dcbd455](https://github.com/MediaJel/mediajel-tracker/commit/dcbd455) fix: revert value of message in errorTracking
+  * [#06f4ec1](https://github.com/MediaJel/mediajel-tracker/commit/06f4ec1) feat: created simplifi adapter for impression
+  * [#df112eb](https://github.com/MediaJel/mediajel-tracker/commit/df112eb) fix: changed value of message in errorTracking
 
 
 
