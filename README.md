@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `8246` commits and made `293` PRs.
+:people_hugging: I contributed to `40` repositories , made `8252` commits and made `294` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,27 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#695 feat/515: A360 insertion order creation with creatives, flights, and targeting countries](https://github.com/MediaJel/amplication-nestjs-microservices/pull/695) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#695 feat/515: A360 insertion order creation with creatives, flights, and targeting countries](https://github.com/MediaJel/amplication-nestjs-microservices/pull/695) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#683 ICF improve connections endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/683) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 7 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#8bf32ea](https://github.com/MediaJel/mediajel-tracker/commit/8bf32ea) Merge pull request #603 from MediaJel/staging
-
-Update staging
-  * [#8104ed9](https://github.com/MediaJel/mediajel-tracker/commit/8104ed9) Merge pull request #597 from MediaJel/jbjm-try-fix-wix
-
-jbjm-try-fix-wix
-  * [#9e2b381](https://github.com/MediaJel/mediajel-tracker/commit/9e2b381) Merge pull request #584 from MediaJel/simplifiFix
-
-Simplifi fix
-  * [#319e161](https://github.com/MediaJel/mediajel-tracker/commit/319e161) Merge pull request #600 from MediaJel/jbjm-hotfix-thirdparty-cart
-
-fix thirdparty cart missing
-  * [#c548bb9](https://github.com/MediaJel/mediajel-tracker/commit/c548bb9) fix thirdparty cart missing
-  * [#6194802](https://github.com/MediaJel/mediajel-tracker/commit/6194802) jbjm-try-fix-wix
-  * [#733e5c5](https://github.com/MediaJel/mediajel-tracker/commit/733e5c5) removed extra maxmind geo ids
-* 🔃 Merged [#603 Update staging](https://github.com/MediaJel/mediajel-tracker/pull/603) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 6 files changed `++201 --126`
+* #️⃣ Opened [#717 Dashboard UI must query clickhouse for the location ids](https://github.com/MediaJel/amplication-nestjs-microservices/issues/717) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#716 Optimizations for Region groups in microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/716) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#7906 Audience activation workflow includes publishing to Nexxen](https://github.com/MediaJel/mediajel-dashboard/issues/7906) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#7905 Demograph v1](https://github.com/MediaJel/mediajel-dashboard/issues/7905) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#715 ATTENTION SIGNALS](https://github.com/MediaJel/amplication-nestjs-microservices/issues/715) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
