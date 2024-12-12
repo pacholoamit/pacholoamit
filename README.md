@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `8214` commits and made `292` PRs.
+:people_hugging: I contributed to `40` repositories , made `8246` commits and made `293` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,46 +30,27 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 8 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#b47100d](https://github.com/MediaJel/mediajel-tracker/commit/b47100d) Merge pull request #599 from MediaJel/staging
+* 🔍 Reviewed [#695 feat/515: A360 insertion order creation with creatives, flights, and targeting countries](https://github.com/MediaJel/amplication-nestjs-microservices/pull/695) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#695 feat/515: A360 insertion order creation with creatives, flights, and targeting countries](https://github.com/MediaJel/amplication-nestjs-microservices/pull/695) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#683 ICF improve connections endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/683) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 7 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#8bf32ea](https://github.com/MediaJel/mediajel-tracker/commit/8bf32ea) Merge pull request #603 from MediaJel/staging
 
-Update main
-  * [#c4ca9cc](https://github.com/MediaJel/mediajel-tracker/commit/c4ca9cc) Merge pull request #598 from MediaJel/imagePixelFix
+Update staging
+  * [#8104ed9](https://github.com/MediaJel/mediajel-tracker/commit/8104ed9) Merge pull request #597 from MediaJel/jbjm-try-fix-wix
 
-Fix on Image Pixels for Segments
-  * [#0d37d9a](https://github.com/MediaJel/mediajel-tracker/commit/0d37d9a) fix: append img pixel outside function
-  * [#955e247](https://github.com/MediaJel/mediajel-tracker/commit/955e247) Merge pull request #588 from MediaJel/jbjm-google-fix-aw
+jbjm-try-fix-wix
+  * [#9e2b381](https://github.com/MediaJel/mediajel-tracker/commit/9e2b381) Merge pull request #584 from MediaJel/simplifiFix
 
-Jbjm google fix aw
-  * [#c9b0833](https://github.com/MediaJel/mediajel-tracker/commit/c9b0833) Merge pull request #586 from MediaJel/jbjm-fix-wix
+Simplifi fix
+  * [#319e161](https://github.com/MediaJel/mediajel-tracker/commit/319e161) Merge pull request #600 from MediaJel/jbjm-hotfix-thirdparty-cart
 
-try fix wix display not tracking issue
-  * [#d9e70b5](https://github.com/MediaJel/mediajel-tracker/commit/d9e70b5) try fix AW issue on googleads
-  * [#7ee8502](https://github.com/MediaJel/mediajel-tracker/commit/7ee8502) try fix AW issue on googleads
-  * [#b3f15f3](https://github.com/MediaJel/mediajel-tracker/commit/b3f15f3) try fix wix display not tracking issue
-* 🔃 Merged [#599 Update main](https://github.com/MediaJel/mediajel-tracker/pull/599) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 6 files changed `++69 --62`
-* 🔃 Opened [#599 Update main](https://github.com/MediaJel/mediajel-tracker/pull/599) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 6 files changed `++69 --62`
-* 🔃 Merged [#598 Fix on Image Pixels for Segments](https://github.com/MediaJel/mediajel-tracker/pull/598) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 8 files changed `++232 --31`
-* ➡️ Pushed 10 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#c4ca9cc](https://github.com/MediaJel/mediajel-tracker/commit/c4ca9cc) Merge pull request #598 from MediaJel/imagePixelFix
-
-Fix on Image Pixels for Segments
-  * [#0d37d9a](https://github.com/MediaJel/mediajel-tracker/commit/0d37d9a) fix: append img pixel outside function
-  * [#df51130](https://github.com/MediaJel/mediajel-tracker/commit/df51130) Merge pull request #576 from MediaJel/staging
-
-Update main
-  * [#0ea3ee7](https://github.com/MediaJel/mediajel-tracker/commit/0ea3ee7) feat: Add createImagePixel utility function
-  * [#968f664](https://github.com/MediaJel/mediajel-tracker/commit/968f664) Merge pull request #565 from MediaJel/staging
-  * [#1d24d89](https://github.com/MediaJel/mediajel-tracker/commit/1d24d89) Merge pull request #569 from MediaJel/simplifyAdapter
-
-Simplifi Adapter
-  * [#c04dd9a](https://github.com/MediaJel/mediajel-tracker/commit/c04dd9a) fix: change value of lineItemId to simplify
-  * [#dcbd455](https://github.com/MediaJel/mediajel-tracker/commit/dcbd455) fix: revert value of message in errorTracking
-  * [#06f4ec1](https://github.com/MediaJel/mediajel-tracker/commit/06f4ec1) feat: created simplifi adapter for impression
-  * [#df112eb](https://github.com/MediaJel/mediajel-tracker/commit/df112eb) fix: changed value of message in errorTracking
+fix thirdparty cart missing
+  * [#c548bb9](https://github.com/MediaJel/mediajel-tracker/commit/c548bb9) fix thirdparty cart missing
+  * [#6194802](https://github.com/MediaJel/mediajel-tracker/commit/6194802) jbjm-try-fix-wix
+  * [#733e5c5](https://github.com/MediaJel/mediajel-tracker/commit/733e5c5) removed extra maxmind geo ids
+* 🔃 Merged [#603 Update staging](https://github.com/MediaJel/mediajel-tracker/pull/603) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 6 files changed `++201 --126`
 
 
 
