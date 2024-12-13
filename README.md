@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `8252` commits and made `294` PRs.
+:people_hugging: I contributed to `40` repositories , made `8255` commits and made `295` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#8eee45b](https://github.com/MediaJel/salesforce-automation/commit/8eee45b) refactor: Improve processing logic in intuit.processor
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#f03d14d](https://github.com/MediaJel/salesforce-automation/commit/f03d14d) style: Use &#39;undefined&#39; instead of &#39;null&#39; for default values
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#4813ee4](https://github.com/MediaJel/salesforce-automation/commit/4813ee4) chore: Add debug log for creating Quickbooks customer
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/audience-schema`
-  * [#4fb1c1a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4fb1c1a) refactor: Remove unused import statement
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/audience-schema`
-  * [#1a470ce](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1a470ce) style: Update class-validator imports in audience-get-params.dto
+* #️⃣ Opened [#721 Create way to not trigger 429 errors when calliing the nexxen api endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/issues/721) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#575 Correspondence with media Ops team on using Version checker dashboard in superset](https://github.com/MediaJel/mediajel-tracker/issues/575) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#591 Enable the mediajel-tracker to accept 3rd party trackers](https://github.com/MediaJel/mediajel-tracker/issues/591) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#688 Add dstillery segment to tracker endpoint on the microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/688) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#716 Optimizations for Region groups in microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/716) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
