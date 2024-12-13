@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#717 Dashboard UI must query clickhouse for the location ids](https://github.com/MediaJel/amplication-nestjs-microservices/issues/717) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#716 Optimizations for Region groups in microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/716) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#7906 Audience activation workflow includes publishing to Nexxen](https://github.com/MediaJel/mediajel-dashboard/issues/7906) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#7905 Demograph v1](https://github.com/MediaJel/mediajel-dashboard/issues/7905) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#715 ATTENTION SIGNALS](https://github.com/MediaJel/amplication-nestjs-microservices/issues/715) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#8eee45b](https://github.com/MediaJel/salesforce-automation/commit/8eee45b) refactor: Improve processing logic in intuit.processor
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#f03d14d](https://github.com/MediaJel/salesforce-automation/commit/f03d14d) style: Use &#39;undefined&#39; instead of &#39;null&#39; for default values
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#4813ee4](https://github.com/MediaJel/salesforce-automation/commit/4813ee4) chore: Add debug log for creating Quickbooks customer
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/audience-schema`
+  * [#4fb1c1a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4fb1c1a) refactor: Remove unused import statement
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/audience-schema`
+  * [#1a470ce](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1a470ce) style: Update class-validator imports in audience-get-params.dto
 
 
 
