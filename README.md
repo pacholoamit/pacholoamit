@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `40` repositories , made `8255` commits and made `295` PRs.
+:people_hugging: I contributed to `40` repositories , made `8258` commits and made `298` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/improve-handling-of-rate-limiting`
+  * [#eb4756c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/eb4756c) refactor: Rename functions for clarity and consistency
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/improve-handling-of-rate-limiting`
+  * [#470f332](https://github.com/MediaJel/amplication-nestjs-microservices/commit/470f332) refactor: modify services to use nexxen client
+* 🔃 Opened [#722 hotfix: Nexxen 429 rate limiting handler](https://github.com/MediaJel/amplication-nestjs-microservices/pull/722) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 5 files changed `++157 --22`
+* ⏺️ Created new branch hotfix/improve-handling-of-rate-limiting in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#721 Create way to not trigger 429 errors when calliing the nexxen api endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/issues/721) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#575 Correspondence with media Ops team on using Version checker dashboard in superset](https://github.com/MediaJel/mediajel-tracker/issues/575) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#591 Enable the mediajel-tracker to accept 3rd party trackers](https://github.com/MediaJel/mediajel-tracker/issues/591) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#688 Add dstillery segment to tracker endpoint on the microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/688) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#716 Optimizations for Region groups in microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/716) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
