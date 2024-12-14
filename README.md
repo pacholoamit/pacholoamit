@@ -30,14 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/improve-handling-of-rate-limiting`
-  * [#eb4756c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/eb4756c) refactor: Rename functions for clarity and consistency
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/improve-handling-of-rate-limiting`
-  * [#470f332](https://github.com/MediaJel/amplication-nestjs-microservices/commit/470f332) refactor: modify services to use nexxen client
-* 🔃 Opened [#722 hotfix: Nexxen 429 rate limiting handler](https://github.com/MediaJel/amplication-nestjs-microservices/pull/722) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 5 files changed `++157 --22`
-* ⏺️ Created new branch hotfix/improve-handling-of-rate-limiting in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#721 Create way to not trigger 429 errors when calliing the nexxen api endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/issues/721) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
+  * [#6fd1ad4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6fd1ad4) refactor: Remove unused import statement
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
+  * [#b011517](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b011517) feat: Add import for DspService
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
+  * [#b07d98d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b07d98d) refactor: Remove unused OnModuleInit interface
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
+  * [#1cad9e6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1cad9e6) fix: nexxen servers go brrrrttt!!!
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
+  * [#172bccc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/172bccc) feat: Add rate limiting functionality with cache management
 
 
 
