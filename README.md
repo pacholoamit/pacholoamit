@@ -30,16 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#176c5a9](https://github.com/MediaJel/mediajel-tracker/commit/176c5a9) Merge pull request #614 from MediaJel/blazeAdapter
+  * [#44f50d8](https://github.com/MediaJel/mediajel-tracker/commit/44f50d8) feat: added blaze adapter
+* 🔃 Merged [#614 Added blaze adapter](https://github.com/MediaJel/mediajel-tracker/pull/614) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 2 files changed `++57 --0`
+* 💬 Commented on [#614 Added blaze adapter](https://github.com/MediaJel/mediajel-tracker/issues/614) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
   * [#6fd1ad4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6fd1ad4) refactor: Remove unused import statement
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
   * [#b011517](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b011517) feat: Add import for DspService
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
-  * [#b07d98d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b07d98d) refactor: Remove unused OnModuleInit interface
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
-  * [#1cad9e6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1cad9e6) fix: nexxen servers go brrrrttt!!!
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
-  * [#172bccc](https://github.com/MediaJel/amplication-nestjs-microservices/commit/172bccc) feat: Add rate limiting functionality with cache management
 
 
 
