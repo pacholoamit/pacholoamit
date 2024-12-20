@@ -30,16 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [nextacular/nextacular](https://github.com/nextacular/nextacular)
+* 🌟 Starred [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates)
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#176c5a9](https://github.com/MediaJel/mediajel-tracker/commit/176c5a9) Merge pull request #614 from MediaJel/blazeAdapter
   * [#44f50d8](https://github.com/MediaJel/mediajel-tracker/commit/44f50d8) feat: added blaze adapter
 * 🔃 Merged [#614 Added blaze adapter](https://github.com/MediaJel/mediajel-tracker/pull/614) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 2 files changed `++57 --0`
 * 💬 Commented on [#614 Added blaze adapter](https://github.com/MediaJel/mediajel-tracker/issues/614) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
-  * [#6fd1ad4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6fd1ad4) refactor: Remove unused import statement
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/hotfix-routes`
-  * [#b011517](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b011517) feat: Add import for DspService
 
 
 
