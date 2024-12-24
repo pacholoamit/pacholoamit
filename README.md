@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `8280` commits and made `296` PRs.
+:people_hugging: I contributed to `41` repositories , made `8281` commits and made `296` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,17 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#2b023a7](https://github.com/pacholoamit/lawher/commit/2b023a7) feat: Add ConsultationCard component
+  * [#1b342d7](https://github.com/pacholoamit/lawher/commit/1b342d7) feat: Add Google Calendar integration for consultations
 * ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#330aed9](https://github.com/pacholoamit/lawher/commit/330aed9) basic update on auth
-* ⏺️ Created new branch master in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-* ⏺️ Created new repository  [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#b44ccae](https://github.com/MediaJel/mediajel-tracker/commit/b44ccae) Merge pull request #615 from MediaJel/drupalAdapter
-
-Added drupal adapter
-  * [#65d3f00](https://github.com/MediaJel/mediajel-tracker/commit/65d3f00) feat: Add new environment entry for &#34;Drupal&#34;
-  * [#34abd7a](https://github.com/MediaJel/mediajel-tracker/commit/34abd7a) feat: Add drupal data source for ecommerce adapter
+  * [#5806cd9](https://github.com/pacholoamit/lawher/commit/5806cd9) refactor: Update user retrieval method in AppSidebar
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#020b52b](https://github.com/pacholoamit/lawher/commit/020b52b) refactor: Update URL paths in components and sidebar
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#da3bf21](https://github.com/pacholoamit/lawher/commit/da3bf21) add dynamic breadcrumbs
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#10fd500](https://github.com/pacholoamit/lawher/commit/10fd500) add loading indicators
 
 
 
