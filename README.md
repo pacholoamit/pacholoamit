@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `41` repositories , made `8281` commits and made `296` PRs.
+:people_hugging: I contributed to `42` repositories , made `8295` commits and made `296` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#1b342d7](https://github.com/pacholoamit/lawher/commit/1b342d7) feat: Add Google Calendar integration for consultations
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#5806cd9](https://github.com/pacholoamit/lawher/commit/5806cd9) refactor: Update user retrieval method in AppSidebar
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#020b52b](https://github.com/pacholoamit/lawher/commit/020b52b) refactor: Update URL paths in components and sidebar
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#da3bf21](https://github.com/pacholoamit/lawher/commit/da3bf21) add dynamic breadcrumbs
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#10fd500](https://github.com/pacholoamit/lawher/commit/10fd500) add loading indicators
+* ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
+  * [#10b430c](https://github.com/pacholoamit/dev-portfolio/commit/10b430c) style: Update image style in og route file
+* ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
+  * [#f8d5177](https://github.com/pacholoamit/dev-portfolio/commit/f8d5177) style: use const instead of let for blogs, works, routes
+* ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
+  * [#873c777](https://github.com/pacholoamit/dev-portfolio/commit/873c777) feat: Add @vercel/speed-insights to improve performance
+* ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
+  * [#e34f9bc](https://github.com/pacholoamit/dev-portfolio/commit/e34f9bc) feat: Add Analytics component to RootLayout
+* ➡️ Pushed 2 commits in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
+  * [#a325906](https://github.com/pacholoamit/dev-portfolio/commit/a325906) fix: Update gallery route to disable access
+  * [#b05dcac](https://github.com/pacholoamit/dev-portfolio/commit/b05dcac) style: Update image file paths in content.js
 
 
 
