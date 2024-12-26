@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `42` repositories , made `8295` commits and made `296` PRs.
+:people_hugging: I contributed to `43` repositories , made `8314` commits and made `298` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,16 +31,18 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
-  * [#10b430c](https://github.com/pacholoamit/dev-portfolio/commit/10b430c) style: Update image style in og route file
+  * [#e355fa3](https://github.com/pacholoamit/dev-portfolio/commit/e355fa3) feat: Add function to fetch videos from YouTube API
 * ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
-  * [#f8d5177](https://github.com/pacholoamit/dev-portfolio/commit/f8d5177) style: use const instead of let for blogs, works, routes
-* ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
-  * [#873c777](https://github.com/pacholoamit/dev-portfolio/commit/873c777) feat: Add @vercel/speed-insights to improve performance
-* ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
-  * [#e34f9bc](https://github.com/pacholoamit/dev-portfolio/commit/e34f9bc) feat: Add Analytics component to RootLayout
+  * [#d625831](https://github.com/pacholoamit/dev-portfolio/commit/d625831) refactor: Remove unnecessary code for determining API base URL
 * ➡️ Pushed 2 commits in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
-  * [#a325906](https://github.com/pacholoamit/dev-portfolio/commit/a325906) fix: Update gallery route to disable access
-  * [#b05dcac](https://github.com/pacholoamit/dev-portfolio/commit/b05dcac) style: Update image file paths in content.js
+  * [#1dfb266](https://github.com/pacholoamit/dev-portfolio/commit/1dfb266) Merge pull request #2 from pacholoamit/feat/add-youtube
+
+chore: Add logic to determine base API URL
+  * [#cbfcb2f](https://github.com/pacholoamit/dev-portfolio/commit/cbfcb2f) chore: Add logic to determine base API URL
+* 🔃 Merged [#2 chore: Add logic to determine base API URL](https://github.com/pacholoamit/dev-portfolio/pull/2) in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio)
+  * 1 file changed `++6 --1`
+* 🔃 Opened [#2 chore: Add logic to determine base API URL](https://github.com/pacholoamit/dev-portfolio/pull/2) in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio)
+  * 1 file changed `++6 --1`
 
 
 
