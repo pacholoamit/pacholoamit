@@ -30,6 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#740 PROPOSAL: Use `packages` to reduce code duplication in the microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/740) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#739 Implement async microservices helper class](https://github.com/MediaJel/amplication-nestjs-microservices/issues/739) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
   * [#e355fa3](https://github.com/pacholoamit/dev-portfolio/commit/e355fa3) feat: Add function to fetch videos from YouTube API
 * ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
@@ -39,10 +41,6 @@
 
 chore: Add logic to determine base API URL
   * [#cbfcb2f](https://github.com/pacholoamit/dev-portfolio/commit/cbfcb2f) chore: Add logic to determine base API URL
-* 🔃 Merged [#2 chore: Add logic to determine base API URL](https://github.com/pacholoamit/dev-portfolio/pull/2) in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio)
-  * 1 file changed `++6 --1`
-* 🔃 Opened [#2 chore: Add logic to determine base API URL](https://github.com/pacholoamit/dev-portfolio/pull/2) in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio)
-  * 1 file changed `++6 --1`
 
 
 
