@@ -30,17 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [anti-work/shortest](https://github.com/anti-work/shortest)
+* 🌟 Starred [OpenSPG/KAG](https://github.com/OpenSPG/KAG)
+* 🌟 Starred [teableio/teable](https://github.com/teableio/teable)
 * #️⃣ Opened [#740 PROPOSAL: Use `packages` to reduce code duplication in the microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/740) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#739 Implement async microservices helper class](https://github.com/MediaJel/amplication-nestjs-microservices/issues/739) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
-  * [#e355fa3](https://github.com/pacholoamit/dev-portfolio/commit/e355fa3) feat: Add function to fetch videos from YouTube API
-* ➡️ Pushed 1 commit in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
-  * [#d625831](https://github.com/pacholoamit/dev-portfolio/commit/d625831) refactor: Remove unnecessary code for determining API base URL
-* ➡️ Pushed 2 commits in [pacholoamit/dev-portfolio](https://github.com/pacholoamit/dev-portfolio) on branch `main`
-  * [#1dfb266](https://github.com/pacholoamit/dev-portfolio/commit/1dfb266) Merge pull request #2 from pacholoamit/feat/add-youtube
-
-chore: Add logic to determine base API URL
-  * [#cbfcb2f](https://github.com/pacholoamit/dev-portfolio/commit/cbfcb2f) chore: Add logic to determine base API URL
 
 
 
