@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [guidance-ai/guidance](https://github.com/guidance-ai/guidance)
 * 🔍 Reviewed [#747 HOTFIX for liquidM views](https://github.com/MediaJel/amplication-nestjs-microservices/pull/747) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🌟 Starred [anti-work/shortest](https://github.com/anti-work/shortest)
 * 🌟 Starred [OpenSPG/KAG](https://github.com/OpenSPG/KAG)
 * 🌟 Starred [teableio/teable](https://github.com/teableio/teable)
-* #️⃣ Opened [#740 PROPOSAL: Use `packages` to reduce code duplication in the microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/740) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
