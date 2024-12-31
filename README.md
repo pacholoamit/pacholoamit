@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `8314` commits and made `298` PRs.
+:people_hugging: I contributed to `44` repositories , made `8321` commits and made `297` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [guidance-ai/guidance](https://github.com/guidance-ai/guidance)
-* 🔍 Reviewed [#747 HOTFIX for liquidM views](https://github.com/MediaJel/amplication-nestjs-microservices/pull/747) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🌟 Starred [anti-work/shortest](https://github.com/anti-work/shortest)
-* 🌟 Starred [OpenSPG/KAG](https://github.com/OpenSPG/KAG)
-* 🌟 Starred [teableio/teable](https://github.com/teableio/teable)
+* ➡️ Pushed 1 commit in [MediaJel/s3-utilities](https://github.com/MediaJel/s3-utilities) on branch `main`
+  * [#9f8657a](https://github.com/MediaJel/s3-utilities/commit/9f8657a) changes
+* ⏺️ Created new branch main in [MediaJel/s3-utilities](https://github.com/MediaJel/s3-utilities)
+* ⏺️ Created new repository  [MediaJel/s3-utilities](https://github.com/MediaJel/s3-utilities)
+* 🌟 Starred [Bananymous/banan-os](https://github.com/Bananymous/banan-os)
+* 🔍 Reviewed [#5668 HOTFIX Revert getlogs pipeline](https://github.com/MediaJel/mediajel-gql-service/pull/5668) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
