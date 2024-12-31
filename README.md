@@ -30,12 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [ZTL-UwU/shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt)
+* 🔍 Reviewed [#5669 [FOR REVIEW] hotfix thirdparty missing](https://github.com/MediaJel/mediajel-gql-service/pull/5669) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/s3-utilities](https://github.com/MediaJel/s3-utilities) on branch `main`
   * [#9f8657a](https://github.com/MediaJel/s3-utilities/commit/9f8657a) changes
 * ⏺️ Created new branch main in [MediaJel/s3-utilities](https://github.com/MediaJel/s3-utilities)
 * ⏺️ Created new repository  [MediaJel/s3-utilities](https://github.com/MediaJel/s3-utilities)
-* 🌟 Starred [Bananymous/banan-os](https://github.com/Bananymous/banan-os)
-* 🔍 Reviewed [#5668 HOTFIX Revert getlogs pipeline](https://github.com/MediaJel/mediajel-gql-service/pull/5668) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
