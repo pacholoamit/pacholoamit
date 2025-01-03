@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `8321` commits and made `297` PRs.
+:people_hugging: I contributed to `43` repositories , made `8321` commits and made `298` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#5670 [FOR REVIEW] hotfix thirdparty cart](https://github.com/MediaJel/mediajel-gql-service/pull/5670) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🌟 Starred [ZTL-UwU/shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt)
-* 🔍 Reviewed [#5669 [FOR REVIEW] hotfix thirdparty missing](https://github.com/MediaJel/mediajel-gql-service/pull/5669) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/s3-utilities](https://github.com/MediaJel/s3-utilities) on branch `main`
-  * [#9f8657a](https://github.com/MediaJel/s3-utilities/commit/9f8657a) changes
-* ⏺️ Created new branch main in [MediaJel/s3-utilities](https://github.com/MediaJel/s3-utilities)
+* #️⃣ Opened [#755 Create a better strategy for developing with Nexxen apis and how not to reduce our api calls](https://github.com/MediaJel/amplication-nestjs-microservices/issues/755) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#754 Create a better strategy for developing with Nexxen apis](https://github.com/MediaJel/amplication-nestjs-microservices/issues/754) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#293 [Ext] Campaign Management API: CREATE Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#169 Add new snowplow events for previous carts](https://github.com/MediaJel/mediajel-tracker/issues/169) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#638 Mirror Staging clickhouse resources with Production clickhouse resources](https://github.com/MediaJel/amplication-nestjs-microservices/issues/638) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
