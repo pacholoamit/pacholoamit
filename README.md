@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
+* 🌟 Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)
 * #️⃣ Opened [#755 Create a better strategy for developing with Nexxen apis and how not to reduce our api calls](https://github.com/MediaJel/amplication-nestjs-microservices/issues/755) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#754 Create a better strategy for developing with Nexxen apis](https://github.com/MediaJel/amplication-nestjs-microservices/issues/754) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#293 [Ext] Campaign Management API: CREATE Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#169 Add new snowplow events for previous carts](https://github.com/MediaJel/mediajel-tracker/issues/169) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#638 Mirror Staging clickhouse resources with Production clickhouse resources](https://github.com/MediaJel/amplication-nestjs-microservices/issues/638) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
