@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `43` repositories , made `8321` commits and made `298` PRs.
+:people_hugging: I contributed to `43` repositories , made `8324` commits and made `298` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,36 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 13 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#2d472c8](https://github.com/MediaJel/mediajel-tracker/commit/2d472c8) Merge pull request #631 from MediaJel/staging
+
+Update main
+  * [#4a26b1a](https://github.com/MediaJel/mediajel-tracker/commit/4a26b1a) Merge branch &#39;main&#39; into staging
+  * [#2e9bbcb](https://github.com/MediaJel/mediajel-tracker/commit/2e9bbcb) Merge pull request #630 from MediaJel/dutchieSubdomainUpdate
+
+dutchieSubdomainUpdate
+  * [#4d04a4b](https://github.com/MediaJel/mediajel-tracker/commit/4d04a4b) Merge pull request #629 from MediaJel/JSONParseFix
+
+fix: added try/catch for adapters with JSON.parse
+  * [#2c88d66](https://github.com/MediaJel/mediajel-tracker/commit/2c88d66) revert: removed unnecessary change on comment
+  * [#4880864](https://github.com/MediaJel/mediajel-tracker/commit/4880864) revert: removed unnecessary changes
+  * [#0467fa9](https://github.com/MediaJel/mediajel-tracker/commit/0467fa9) fix: added new if case for dutchie-subdomain
+  * [#fb5dd13](https://github.com/MediaJel/mediajel-tracker/commit/fb5dd13) fix: added try/catch for adapters with JSON.parse
+  * [#b44ccae](https://github.com/MediaJel/mediajel-tracker/commit/b44ccae) Merge pull request #615 from MediaJel/drupalAdapter
+
+Added drupal adapter
+  * [#34dc666](https://github.com/MediaJel/mediajel-tracker/commit/34dc666) Merge pull request #623 from MediaJel/jbjm-fix-blaze
+
+fix blaze
+  * [#d873a86](https://github.com/MediaJel/mediajel-tracker/commit/d873a86) fix blaze
+  * [#65d3f00](https://github.com/MediaJel/mediajel-tracker/commit/65d3f00) feat: Add new environment entry for &#34;Drupal&#34;
+  * [#34abd7a](https://github.com/MediaJel/mediajel-tracker/commit/34abd7a) feat: Add drupal data source for ecommerce adapter
+* 🔃 Merged [#631 UPdate main](https://github.com/MediaJel/mediajel-tracker/pull/631) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 2 files changed `++32 --0`
+* ➡️ Pushed 11 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#4a26b1a](https://github.com/MediaJel/mediajel-tracker/commit/4a26b1a) Merge branch &#39;main&#39; into staging
 * 🌟 Starred [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
 * 🌟 Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)
-* #️⃣ Opened [#755 Create a better strategy for developing with Nexxen apis and how not to reduce our api calls](https://github.com/MediaJel/amplication-nestjs-microservices/issues/755) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#754 Create a better strategy for developing with Nexxen apis](https://github.com/MediaJel/amplication-nestjs-microservices/issues/754) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#293 [Ext] Campaign Management API: CREATE Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
