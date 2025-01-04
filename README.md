@@ -30,6 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [tkssharma/nestjs-microservices](https://github.com/tkssharma/nestjs-microservices)
+* 🌟 Starred [encoredev/encore](https://github.com/encoredev/encore)
 * ➡️ Pushed 13 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#2d472c8](https://github.com/MediaJel/mediajel-tracker/commit/2d472c8) Merge pull request #631 from MediaJel/staging
 
@@ -58,8 +60,6 @@ fix blaze
   * 2 files changed `++32 --0`
 * ➡️ Pushed 11 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#4a26b1a](https://github.com/MediaJel/mediajel-tracker/commit/4a26b1a) Merge branch &#39;main&#39; into staging
-* 🌟 Starred [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
-* 🌟 Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)
 
 
 
