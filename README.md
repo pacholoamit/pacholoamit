@@ -30,11 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#763 GetLogs migration](https://github.com/MediaJel/amplication-nestjs-microservices/issues/763) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#762 GQL Service to microservices migration](https://github.com/MediaJel/amplication-nestjs-microservices/issues/762) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#761 fix:changed IDFA for googleadsmanager tag](https://github.com/MediaJel/amplication-nestjs-microservices/pull/761) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#761 fix:changed IDFA for googleadsmanager tag](https://github.com/MediaJel/amplication-nestjs-microservices/pull/761) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#761 fix:changed IDFA for googleadsmanager tag](https://github.com/MediaJel/amplication-nestjs-microservices/pull/761) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
+  * [#cb19344](https://github.com/MediaJel/incubator/commit/cb19344) add swagger docs and clerk auth
+* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
+  * [#0b8f442](https://github.com/MediaJel/incubator/commit/0b8f442) add clerk auth package
+* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
+  * [#dacd94d](https://github.com/MediaJel/incubator/commit/dacd94d) add Clerk auth
+* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
+  * [#6ecf487](https://github.com/MediaJel/incubator/commit/6ecf487) changes
+* #️⃣ Closed [#752 PROPOSAL: Handling of Nexxen API Rate limit](https://github.com/MediaJel/amplication-nestjs-microservices/issues/752) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
