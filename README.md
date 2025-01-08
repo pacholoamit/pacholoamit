@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `8329` commits and made `297` PRs.
+:people_hugging: I contributed to `44` repositories , made `8333` commits and made `297` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#633 Make updates to the dashboard, to display image pixel documentation](https://github.com/MediaJel/mediajel-tracker/issues/633) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#632 Add the image pixels documentation instructions to the microservices](https://github.com/MediaJel/mediajel-tracker/issues/632) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#608 Deploy mediajel-tracker to production](https://github.com/MediaJel/mediajel-tracker/issues/608) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#607 Create a dedicated adapter for the ticketmaster cart in the mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/607) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#605 Reach out to the TAM team to see which integrations use Ticketmaster.](https://github.com/MediaJel/mediajel-tracker/issues/605) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#763 GetLogs migration](https://github.com/MediaJel/amplication-nestjs-microservices/issues/763) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#762 GQL Service to microservices migration](https://github.com/MediaJel/amplication-nestjs-microservices/issues/762) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#761 fix:changed IDFA for googleadsmanager tag](https://github.com/MediaJel/amplication-nestjs-microservices/pull/761) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#761 fix:changed IDFA for googleadsmanager tag](https://github.com/MediaJel/amplication-nestjs-microservices/pull/761) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#761 fix:changed IDFA for googleadsmanager tag](https://github.com/MediaJel/amplication-nestjs-microservices/pull/761) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
