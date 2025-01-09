@@ -30,15 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
-  * [#cb19344](https://github.com/MediaJel/incubator/commit/cb19344) add swagger docs and clerk auth
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
-  * [#0b8f442](https://github.com/MediaJel/incubator/commit/0b8f442) add clerk auth package
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
-  * [#dacd94d](https://github.com/MediaJel/incubator/commit/dacd94d) add Clerk auth
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
-  * [#6ecf487](https://github.com/MediaJel/incubator/commit/6ecf487) changes
-* #️⃣ Closed [#752 PROPOSAL: Handling of Nexxen API Rate limit](https://github.com/MediaJel/amplication-nestjs-microservices/issues/752) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Opened [#94 Staging](https://github.com/MediaJel/serverless-functions/pull/94) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 10 files changed `++246 --71`
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#2cd51e0](https://github.com/MediaJel/serverless-functions/commit/2cd51e0) Merge pull request #93 from MediaJel/ez-liquidm-logs-pipeline-fix
+
+feat: Add parquet to json string parsing for clickhouse-liquidm-logs-loader
+  * [#3c04a25](https://github.com/MediaJel/serverless-functions/commit/3c04a25) feat: Add parquet to json string parsing for clickhouse-liquidm-logs-loader
+* 🔃 Merged [#93 feat: Add parquet to json string parsing for clickhouse-liquidm-logs-loader](https://github.com/MediaJel/serverless-functions/pull/93) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 3 files changed `++90 --11`
+* 🌟 Starred [clerk/javascript](https://github.com/clerk/javascript)
+* 🌟 Starred [zasper-io/zasper](https://github.com/zasper-io/zasper)
 
 
 
