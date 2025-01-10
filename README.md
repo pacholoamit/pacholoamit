@@ -30,6 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
+  * [#ace41d3](https://github.com/MediaJel/serverless-functions/commit/ace41d3) Merge pull request #95 from MediaJel/ez-liquidm-logs-pipeline-fix
+
+ref: Changed @dsnp/parquetjs to parquetjs-lite for lower node version compatability
+  * [#69c04f2](https://github.com/MediaJel/serverless-functions/commit/69c04f2) ref: Changed @dsnp/parquetjs to parquetjs-lite for lower node version compatability
+* 🔃 Merged [#95 ref: Changed @dsnp/parquetjs to parquetjs-lite for lower node version compatability](https://github.com/MediaJel/serverless-functions/pull/95) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 2 files changed `++4 --4`
 * 🔃 Opened [#94 Staging](https://github.com/MediaJel/serverless-functions/pull/94) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
   * 10 files changed `++246 --71`
 * ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
@@ -39,8 +46,6 @@ feat: Add parquet to json string parsing for clickhouse-liquidm-logs-loader
   * [#3c04a25](https://github.com/MediaJel/serverless-functions/commit/3c04a25) feat: Add parquet to json string parsing for clickhouse-liquidm-logs-loader
 * 🔃 Merged [#93 feat: Add parquet to json string parsing for clickhouse-liquidm-logs-loader](https://github.com/MediaJel/serverless-functions/pull/93) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
   * 3 files changed `++90 --11`
-* 🌟 Starred [clerk/javascript](https://github.com/clerk/javascript)
-* 🌟 Starred [zasper-io/zasper](https://github.com/zasper-io/zasper)
 
 
 
