@@ -30,22 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#ace41d3](https://github.com/MediaJel/serverless-functions/commit/ace41d3) Merge pull request #95 from MediaJel/ez-liquidm-logs-pipeline-fix
-
-ref: Changed @dsnp/parquetjs to parquetjs-lite for lower node version compatability
-  * [#69c04f2](https://github.com/MediaJel/serverless-functions/commit/69c04f2) ref: Changed @dsnp/parquetjs to parquetjs-lite for lower node version compatability
-* 🔃 Merged [#95 ref: Changed @dsnp/parquetjs to parquetjs-lite for lower node version compatability](https://github.com/MediaJel/serverless-functions/pull/95) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 2 files changed `++4 --4`
-* 🔃 Opened [#94 Staging](https://github.com/MediaJel/serverless-functions/pull/94) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 10 files changed `++246 --71`
-* ➡️ Pushed 2 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `staging`
-  * [#2cd51e0](https://github.com/MediaJel/serverless-functions/commit/2cd51e0) Merge pull request #93 from MediaJel/ez-liquidm-logs-pipeline-fix
-
-feat: Add parquet to json string parsing for clickhouse-liquidm-logs-loader
-  * [#3c04a25](https://github.com/MediaJel/serverless-functions/commit/3c04a25) feat: Add parquet to json string parsing for clickhouse-liquidm-logs-loader
-* 🔃 Merged [#93 feat: Add parquet to json string parsing for clickhouse-liquidm-logs-loader](https://github.com/MediaJel/serverless-functions/pull/93) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-  * 3 files changed `++90 --11`
+* 🌟 Starred [imputnet/cobalt](https://github.com/imputnet/cobalt)
+* 💬 Commented on [#634 Eaze: New vs Returning reports](https://github.com/MediaJel/mediajel-tracker/issues/634) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#602 Shopify and Google Ads not working](https://github.com/MediaJel/mediajel-tracker/issues/602) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#572 Create template for descriptions in integration requests board](https://github.com/MediaJel/mediajel-tracker/issues/572) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#754 Create a better strategy for developing with Nexxen apis and how not to reduce our api calls](https://github.com/MediaJel/amplication-nestjs-microservices/issues/754) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
