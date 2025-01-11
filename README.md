@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#7984 [FOR REVIEW] image pixel dashboard](https://github.com/MediaJel/mediajel-dashboard/pull/7984) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#760 [FOR REVIEW] feature: image pixel docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/760) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🌟 Starred [imputnet/cobalt](https://github.com/imputnet/cobalt)
 * 💬 Commented on [#634 Eaze: New vs Returning reports](https://github.com/MediaJel/mediajel-tracker/issues/634) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Closed [#602 Shopify and Google Ads not working](https://github.com/MediaJel/mediajel-tracker/issues/602) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#572 Create template for descriptions in integration requests board](https://github.com/MediaJel/mediajel-tracker/issues/572) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#754 Create a better strategy for developing with Nexxen apis and how not to reduce our api calls](https://github.com/MediaJel/amplication-nestjs-microservices/issues/754) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
