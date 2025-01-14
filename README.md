@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `8333` commits and made `298` PRs.
+:people_hugging: I contributed to `45` repositories , made `8336` commits and made `297` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [node-ffi/node-ffi](https://github.com/node-ffi/node-ffi)
-* 🌟 Starred [openai/openai-python](https://github.com/openai/openai-python)
-* 🌟 Starred [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio)
-* 🔍 Reviewed [#7984 [FOR REVIEW] image pixel dashboard](https://github.com/MediaJel/mediajel-dashboard/pull/7984) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#760 [FOR REVIEW] feature: image pixel docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/760) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `main`
+  * [#cea2218](https://github.com/pacholoamit/trendwager/commit/cea2218) add shadcn
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `main`
+  * [#5071158](https://github.com/pacholoamit/trendwager/commit/5071158) initial commit
+* ⏺️ Created new branch main in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager)
+* ⏺️ Created new repository  [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager)
+* 🌟 Starred [saasfly/saasfly](https://github.com/saasfly/saasfly)
 
 
 
