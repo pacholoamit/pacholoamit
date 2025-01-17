@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `8362` commits and made `297` PRs.
+:people_hugging: I contributed to `45` repositories , made `8373` commits and made `299` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new repository  [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#9e41bfa](https://github.com/MediaJel/mediajel-tracker/commit/9e41bfa) fix: bigcommerce xhr cause error logs
-* 🔍 Reviewed [#771 Feature/ext 293 to staging](https://github.com/MediaJel/amplication-nestjs-microservices/pull/771) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#16b29fc](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/16b29fc) feat: Add Google datalayer tracking for order confirmation pages
-* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `main`
-  * [#cea2218](https://github.com/pacholoamit/trendwager/commit/cea2218) add shadcn
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
+  * [#65a42e8](https://github.com/pacholoamit/trendwager/commit/65a42e8) feat: Update routing to use useParams instead of useRouter
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
+  * [#8dced39](https://github.com/pacholoamit/trendwager/commit/8dced39) feat: use server actions
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
+  * [#73bad5c](https://github.com/pacholoamit/trendwager/commit/73bad5c) chore: Remove redundant code in getBaseUrl function
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
+  * [#229496a](https://github.com/pacholoamit/trendwager/commit/229496a) style: Update image URLs in event route file
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
+  * [#98f5071](https://github.com/pacholoamit/trendwager/commit/98f5071) refactor: Comment out error handling for failed fetch bets
 
 
 
