@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `8379` commits and made `299` PRs.
+:people_hugging: I contributed to `45` repositories , made `8385` commits and made `299` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
-  * [#f753370](https://github.com/pacholoamit/trendwager/commit/f753370) feat: Add WalletBalance component to MainNav
-* 🔍 Reviewed [#775 [HOTFIX] Hotfix nexxen segments post bug](https://github.com/MediaJel/amplication-nestjs-microservices/pull/775) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
-  * [#65a42e8](https://github.com/pacholoamit/trendwager/commit/65a42e8) feat: Update routing to use useParams instead of useRouter
-* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
-  * [#8dced39](https://github.com/pacholoamit/trendwager/commit/8dced39) feat: use server actions
-* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
-  * [#73bad5c](https://github.com/pacholoamit/trendwager/commit/73bad5c) chore: Remove redundant code in getBaseUrl function
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `staging`
+  * [#43c453f](https://github.com/pacholoamit/trendwager/commit/43c453f) feat: Implement form validation and submission logic
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `staging`
+  * [#c1d218e](https://github.com/pacholoamit/trendwager/commit/c1d218e) feat: Add Firebase API client and strategies
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `staging`
+  * [#af7c51e](https://github.com/pacholoamit/trendwager/commit/af7c51e) feat: Update APP_URL to use dynamic hostname
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `staging`
+  * [#8b59e0b](https://github.com/pacholoamit/trendwager/commit/8b59e0b) feat: Add constants for APP_URL and use it in components
+* ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `staging`
+  * [#af5907d](https://github.com/pacholoamit/trendwager/commit/af5907d) chore: Add random comment in preview-badge component
 
 
 
