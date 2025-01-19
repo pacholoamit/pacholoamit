@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `8400` commits and made `301` PRs.
+:people_hugging: I contributed to `45` repositories , made `8420` commits and made `305` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,43 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 15 commits in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
-  * [#d802677](https://github.com/pacholoamit/trendwager/commit/d802677) Merge pull request #4 from pacholoamit/staging
+* 🌟 Starred [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)
+* 🔃 Merged [#8 style: Update platform value to &#34;macos&#34; in manifest file](https://github.com/pacholoamit/trendwager/pull/8) in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager)
+  * 1 file changed `++4 --4`
+* ➡️ Pushed 2 commits in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
+  * [#20be13f](https://github.com/pacholoamit/trendwager/commit/20be13f) Merge pull request #8 from pacholoamit/staging
 
-update master
-  * [#28b3c58](https://github.com/pacholoamit/trendwager/commit/28b3c58) chore: Add postinstall script for Prisma generation
-  * [#5ccccad](https://github.com/pacholoamit/trendwager/commit/5ccccad) Merge pull request #3 from pacholoamit/feat/add-waitlist
-
-feat/add waitlist
-  * [#619d35a](https://github.com/pacholoamit/trendwager/commit/619d35a) fix: Update APP_URL to handle server-side rendering
-  * [#347e820](https://github.com/pacholoamit/trendwager/commit/347e820) refactor: Update actions to use new waitlist API location
-  * [#a7e00c6](https://github.com/pacholoamit/trendwager/commit/a7e00c6) feat: Add custom API strategy and resources
-  * [#34416f6](https://github.com/pacholoamit/trendwager/commit/34416f6) feat: Add waitlist validation schema
-  * [#2e1fb6d](https://github.com/pacholoamit/trendwager/commit/2e1fb6d) feat: Add useAuth hook and ClerkAuthProvider component
-  * [#45ac741](https://github.com/pacholoamit/trendwager/commit/45ac741) feat: Add logo to MainNav component
-  * [#ce01525](https://github.com/pacholoamit/trendwager/commit/ce01525) feat: Add console.log statements for debugging
-  * [#43c453f](https://github.com/pacholoamit/trendwager/commit/43c453f) feat: Implement form validation and submission logic
-  * [#c1d218e](https://github.com/pacholoamit/trendwager/commit/c1d218e) feat: Add Firebase API client and strategies
-  * [#af7c51e](https://github.com/pacholoamit/trendwager/commit/af7c51e) feat: Update APP_URL to use dynamic hostname
-  * [#8b59e0b](https://github.com/pacholoamit/trendwager/commit/8b59e0b) feat: Add constants for APP_URL and use it in components
-  * [#af5907d](https://github.com/pacholoamit/trendwager/commit/af5907d) chore: Add random comment in preview-badge component
-* 🔃 Merged [#4 update master](https://github.com/pacholoamit/trendwager/pull/4) in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager)
-  * 25 files changed `++1462 --625`
-* 🔃 Opened [#4 update master](https://github.com/pacholoamit/trendwager/pull/4) in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager)
-  * 25 files changed `++1462 --625`
+style: Update platform value to &#34;macos&#34; in manifest file
+  * [#10c92ad](https://github.com/pacholoamit/trendwager/commit/10c92ad) style: Update platform value to &#34;macos&#34; in manifest file
+* 🔃 Opened [#8 style: Update platform value to &#34;macos&#34; in manifest file](https://github.com/pacholoamit/trendwager/pull/8) in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager)
+  * 1 file changed `++4 --4`
 * ➡️ Pushed 1 commit in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `staging`
-  * [#28b3c58](https://github.com/pacholoamit/trendwager/commit/28b3c58) chore: Add postinstall script for Prisma generation
-* ➡️ Pushed 8 commits in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `staging`
-  * [#5ccccad](https://github.com/pacholoamit/trendwager/commit/5ccccad) Merge pull request #3 from pacholoamit/feat/add-waitlist
-
-feat/add waitlist
-  * [#619d35a](https://github.com/pacholoamit/trendwager/commit/619d35a) fix: Update APP_URL to handle server-side rendering
-  * [#347e820](https://github.com/pacholoamit/trendwager/commit/347e820) refactor: Update actions to use new waitlist API location
-  * [#a7e00c6](https://github.com/pacholoamit/trendwager/commit/a7e00c6) feat: Add custom API strategy and resources
-  * [#34416f6](https://github.com/pacholoamit/trendwager/commit/34416f6) feat: Add waitlist validation schema
-  * [#2e1fb6d](https://github.com/pacholoamit/trendwager/commit/2e1fb6d) feat: Add useAuth hook and ClerkAuthProvider component
-  * [#45ac741](https://github.com/pacholoamit/trendwager/commit/45ac741) feat: Add logo to MainNav component
-  * [#ce01525](https://github.com/pacholoamit/trendwager/commit/ce01525) feat: Add console.log statements for debugging
+  * [#10c92ad](https://github.com/pacholoamit/trendwager/commit/10c92ad) style: Update platform value to &#34;macos&#34; in manifest file
 
 
 
