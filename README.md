@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `8429` commits and made `309` PRs.
+:people_hugging: I contributed to `45` repositories , made `8432` commits and made `310` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,30 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 6 commits in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `master`
-  * [#894089f](https://github.com/pacholoamit/trendwager/commit/894089f) Merge pull request #12 from pacholoamit/staging
-
-staging
-  * [#f0331b4](https://github.com/pacholoamit/trendwager/commit/f0331b4) Merge pull request #11 from pacholoamit/feat/add-auth
-
-chore: Add staging and production dev scripts
-  * [#3042e1b](https://github.com/pacholoamit/trendwager/commit/3042e1b) chore: Add staging and production dev scripts
-  * [#00bf426](https://github.com/pacholoamit/trendwager/commit/00bf426) Merge pull request #10 from pacholoamit/feat/add-auth
-
-feat: Add sign-in modal component and related logic
-  * [#147ddb8](https://github.com/pacholoamit/trendwager/commit/147ddb8) feat: Remove confirmation route file
-  * [#1ee27d2](https://github.com/pacholoamit/trendwager/commit/1ee27d2) feat: Add sign-in modal component and related logic
-* 🔃 Merged [#12 staging](https://github.com/pacholoamit/trendwager/pull/12) in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager)
-  * 9 files changed `++285 --72`
-* 🔃 Opened [#12 staging](https://github.com/pacholoamit/trendwager/pull/12) in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager)
-  * 9 files changed `++285 --72`
-* ➡️ Pushed 2 commits in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager) on branch `staging`
-  * [#f0331b4](https://github.com/pacholoamit/trendwager/commit/f0331b4) Merge pull request #11 from pacholoamit/feat/add-auth
-
-chore: Add staging and production dev scripts
-  * [#3042e1b](https://github.com/pacholoamit/trendwager/commit/3042e1b) chore: Add staging and production dev scripts
-* 🔃 Merged [#11 chore: Add staging and production dev scripts](https://github.com/pacholoamit/trendwager/pull/11) in [pacholoamit/trendwager](https://github.com/pacholoamit/trendwager)
-  * 3 files changed `++16 --3`
+* 🌟 Starred [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)
+* 🔍 Reviewed [#775 [HOTFIX] Hotfix nexxen segments post bug](https://github.com/MediaJel/amplication-nestjs-microservices/pull/775) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#9e41bfa](https://github.com/MediaJel/mediajel-tracker/commit/9e41bfa) fix: bigcommerce xhr cause error logs
+* 🔍 Reviewed [#771 Feature/ext 293 to staging](https://github.com/MediaJel/amplication-nestjs-microservices/pull/771) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#16b29fc](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/16b29fc) feat: Add Google datalayer tracking for order confirmation pages
 
 
 
