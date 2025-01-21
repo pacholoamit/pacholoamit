@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `8440` commits and made `309` PRs.
+:people_hugging: I contributed to `46` repositories , made `8443` commits and made `309` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch main in [MediaJel/mediajel-mini](https://github.com/MediaJel/mediajel-mini)
+* ⏺️ Created new repository  [MediaJel/mediajel-mini](https://github.com/MediaJel/mediajel-mini)
+* ➡️ Pushed 2 commits in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
+  * [#e2189f8](https://github.com/MediaJel/incubator/commit/e2189f8) feat: Add authentication module and redirect functionality
+  * [#0a754bc](https://github.com/MediaJel/incubator/commit/0a754bc) change approach
 * 🌟 Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
 * 🌟 Starred [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)
-* 🔍 Reviewed [#775 [HOTFIX] Hotfix nexxen segments post bug](https://github.com/MediaJel/amplication-nestjs-microservices/pull/775) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#9e41bfa](https://github.com/MediaJel/mediajel-tracker/commit/9e41bfa) fix: bigcommerce xhr cause error logs
-* 🔍 Reviewed [#771 Feature/ext 293 to staging](https://github.com/MediaJel/amplication-nestjs-microservices/pull/771) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
