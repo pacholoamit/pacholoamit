@@ -30,13 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [pydantic/pydantic](https://github.com/pydantic/pydantic)
 * ⏺️ Created new branch main in [MediaJel/mediajel-mini](https://github.com/MediaJel/mediajel-mini)
 * ⏺️ Created new repository  [MediaJel/mediajel-mini](https://github.com/MediaJel/mediajel-mini)
 * ➡️ Pushed 2 commits in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
   * [#e2189f8](https://github.com/MediaJel/incubator/commit/e2189f8) feat: Add authentication module and redirect functionality
   * [#0a754bc](https://github.com/MediaJel/incubator/commit/0a754bc) change approach
 * 🌟 Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
-* 🌟 Starred [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)
 
 
 
