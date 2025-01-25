@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `47` repositories , made `8455` commits and made `309` PRs.
+:people_hugging: I contributed to `46` repositories , made `8459` commits and made `312` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue)
 * 🌟 Starred [loco-rs/loco](https://github.com/loco-rs/loco)
 * #️⃣ Closed [#705 Implement Signoz alerting via slack channel](https://github.com/MediaJel/amplication-nestjs-microservices/issues/705) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#758 Create Superset alternative for Transactions Observer](https://github.com/MediaJel/mediajel/issues/758) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 * #️⃣ Opened [#782 Onboarding for Russel and Verdel](https://github.com/MediaJel/amplication-nestjs-microservices/issues/782) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#8047 Tag src issue with Shopify](https://github.com/MediaJel/mediajel-dashboard/issues/8047) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
