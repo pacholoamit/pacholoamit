@@ -30,11 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue)
-* 🌟 Starred [loco-rs/loco](https://github.com/loco-rs/loco)
-* #️⃣ Closed [#705 Implement Signoz alerting via slack channel](https://github.com/MediaJel/amplication-nestjs-microservices/issues/705) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#758 Create Superset alternative for Transactions Observer](https://github.com/MediaJel/mediajel/issues/758) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#782 Onboarding for Russel and Verdel](https://github.com/MediaJel/amplication-nestjs-microservices/issues/782) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#8d392ac](https://github.com/MediaJel/salesforce-automation/commit/8d392ac) Merge branch &#39;master&#39; into staging
+* 🔃 Opened [#28 fix: Fix error handling and field mutation in processor](https://github.com/MediaJel/salesforce-automation/pull/28) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 1 file changed `++21 --28`
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
+  * [#c3defae](https://github.com/MediaJel/salesforce-automation/commit/c3defae) fix: Fix error handling and field mutation in processor
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#f53e6ce](https://github.com/MediaJel/salesforce-automation/commit/f53e6ce) Merge pull request #27 from MediaJel/staging
+
+refactor: Update logger creation logic for production
+  * [#bf3b961](https://github.com/MediaJel/salesforce-automation/commit/bf3b961) refactor: Update logger creation logic for production
+* 🔃 Merged [#27 refactor: Update logger creation logic for production](https://github.com/MediaJel/salesforce-automation/pull/27) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 1 file changed `++15 --13`
 
 
 
