@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `8459` commits and made `312` PRs.
+:people_hugging: I contributed to `45` repositories , made `8459` commits and made `312` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,19 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#642 Create dedicated ticketmaster cart](https://github.com/MediaJel/mediajel-tracker/issues/642) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#770 feat:added dynamic tag macro on docs and nexxen dmp](https://github.com/MediaJel/amplication-nestjs-microservices/pull/770) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#5709 ICF segments tag creation](https://github.com/MediaJel/mediajel-gql-service/pull/5709) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
   * [#8d392ac](https://github.com/MediaJel/salesforce-automation/commit/8d392ac) Merge branch &#39;master&#39; into staging
 * 🔃 Opened [#28 fix: Fix error handling and field mutation in processor](https://github.com/MediaJel/salesforce-automation/pull/28) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
   * 1 file changed `++21 --28`
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#c3defae](https://github.com/MediaJel/salesforce-automation/commit/c3defae) fix: Fix error handling and field mutation in processor
-* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#f53e6ce](https://github.com/MediaJel/salesforce-automation/commit/f53e6ce) Merge pull request #27 from MediaJel/staging
-
-refactor: Update logger creation logic for production
-  * [#bf3b961](https://github.com/MediaJel/salesforce-automation/commit/bf3b961) refactor: Update logger creation logic for production
-* 🔃 Merged [#27 refactor: Update logger creation logic for production](https://github.com/MediaJel/salesforce-automation/pull/27) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 1 file changed `++15 --13`
 
 
 
