@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `8459` commits and made `312` PRs.
+:people_hugging: I contributed to `45` repositories , made `8459` commits and made `311` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#642 Create dedicated ticketmaster cart](https://github.com/MediaJel/mediajel-tracker/issues/642) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#770 feat:added dynamic tag macro on docs and nexxen dmp](https://github.com/MediaJel/amplication-nestjs-microservices/pull/770) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#5709 ICF segments tag creation](https://github.com/MediaJel/mediajel-gql-service/pull/5709) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 5 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#8d392ac](https://github.com/MediaJel/salesforce-automation/commit/8d392ac) Merge branch &#39;master&#39; into staging
-* 🔃 Opened [#28 fix: Fix error handling and field mutation in processor](https://github.com/MediaJel/salesforce-automation/pull/28) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 1 file changed `++21 --28`
+* #️⃣ Opened [#8134 DSP Interactions reporting](https://github.com/MediaJel/mediajel-dashboard/issues/8134) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#8133 Talk to AI - Build and configure campaigns](https://github.com/MediaJel/mediajel-dashboard/issues/8133) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#8132 Talk to AI get charts, ask for marketing analysis and forecasting, get insights](https://github.com/MediaJel/mediajel-dashboard/issues/8132) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#8131 V2 POCs](https://github.com/MediaJel/mediajel-dashboard/issues/8131) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🌟 Starred [0b01/tectonicdb](https://github.com/0b01/tectonicdb)
 
 
 
