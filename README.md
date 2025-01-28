@@ -30,11 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#8134 DSP Interactions reporting](https://github.com/MediaJel/mediajel-dashboard/issues/8134) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#8133 Talk to AI - Build and configure campaigns](https://github.com/MediaJel/mediajel-dashboard/issues/8133) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#8132 Talk to AI get charts, ask for marketing analysis and forecasting, get insights](https://github.com/MediaJel/mediajel-dashboard/issues/8132) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#8131 V2 POCs](https://github.com/MediaJel/mediajel-dashboard/issues/8131) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [0b01/tectonicdb](https://github.com/0b01/tectonicdb)
+* 🔍 Reviewed [#780 feat: Nexxen audience publishing via activate audience endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/780) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#2 Create an example where orgs can only access resources owned by them](https://github.com/MediaJel/incubator/issues/2) in [MediaJel/incubator](https://github.com/MediaJel/incubator)
+* #️⃣ Opened [#1 We want to be able to use Clerk for authorization &amp; permissions](https://github.com/MediaJel/incubator/issues/1) in [MediaJel/incubator](https://github.com/MediaJel/incubator)
+* #️⃣ Opened [#8136 We want to create a proof of concept where we use Clerk as our auth provider generally](https://github.com/MediaJel/mediajel-dashboard/issues/8136) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#139b3b5](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/139b3b5) Merge pull request #283 from MediaJel/refactor-migrate-herbarium-to-tracktrans
+
+refactor: change herbarium to use window.trackTrans
+  * [#677c237](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/677c237) refactor: change herbarium to use window.trackTrans
 
 
 
