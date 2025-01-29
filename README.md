@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `8459` commits and made `311` PRs.
+:people_hugging: I contributed to `45` repositories , made `8460` commits and made `311` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 * 🔍 Reviewed [#780 feat: Nexxen audience publishing via activate audience endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/780) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#2 Create an example where orgs can only access resources owned by them](https://github.com/MediaJel/incubator/issues/2) in [MediaJel/incubator](https://github.com/MediaJel/incubator)
 * #️⃣ Opened [#1 We want to be able to use Clerk for authorization &amp; permissions](https://github.com/MediaJel/incubator/issues/1) in [MediaJel/incubator](https://github.com/MediaJel/incubator)
 * #️⃣ Opened [#8136 We want to create a proof of concept where we use Clerk as our auth provider generally](https://github.com/MediaJel/mediajel-dashboard/issues/8136) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#139b3b5](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/139b3b5) Merge pull request #283 from MediaJel/refactor-migrate-herbarium-to-tracktrans
-
-refactor: change herbarium to use window.trackTrans
-  * [#677c237](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/677c237) refactor: change herbarium to use window.trackTrans
 
 
 
