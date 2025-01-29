@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#e48a1a8](https://github.com/MediaJel/mediajel-tracker/commit/e48a1a8) Merge pull request #643 from MediaJel/jbjm-ticketmaster-adapter
+
+ticketmaster adapter
+  * [#f374350](https://github.com/MediaJel/mediajel-tracker/commit/f374350) ticketmaster adapter
+* 🔃 Merged [#643 ticketmaster adapter](https://github.com/MediaJel/mediajel-tracker/pull/643) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++164 --0`
+* 🌟 Starred [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
 * 🌟 Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 * 🔍 Reviewed [#780 feat: Nexxen audience publishing via activate audience endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/780) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#2 Create an example where orgs can only access resources owned by them](https://github.com/MediaJel/incubator/issues/2) in [MediaJel/incubator](https://github.com/MediaJel/incubator)
-* #️⃣ Opened [#1 We want to be able to use Clerk for authorization &amp; permissions](https://github.com/MediaJel/incubator/issues/1) in [MediaJel/incubator](https://github.com/MediaJel/incubator)
-* #️⃣ Opened [#8136 We want to create a proof of concept where we use Clerk as our auth provider generally](https://github.com/MediaJel/mediajel-dashboard/issues/8136) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
