@@ -30,16 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#e48a1a8](https://github.com/MediaJel/mediajel-tracker/commit/e48a1a8) Merge pull request #643 from MediaJel/jbjm-ticketmaster-adapter
-
-ticketmaster adapter
-  * [#f374350](https://github.com/MediaJel/mediajel-tracker/commit/f374350) ticketmaster adapter
-* 🔃 Merged [#643 ticketmaster adapter](https://github.com/MediaJel/mediajel-tracker/pull/643) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 3 files changed `++164 --0`
-* 🌟 Starred [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
-* 🌟 Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
-* 🔍 Reviewed [#780 feat: Nexxen audience publishing via activate audience endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/780) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-ai-poc](https://github.com/MediaJel/mediajel-ai-poc) on branch `main`
+  * [#47e77b8](https://github.com/MediaJel/mediajel-ai-poc/commit/47e77b8) feat(api): Add campaign tools and Prisma setup
+* ⏺️ Created new branch feat/bun-bundler in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#5723 ICF Put advertiserId to env](https://github.com/MediaJel/mediajel-gql-service/pull/5723) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#5723 ICF Put advertiserId to env](https://github.com/MediaJel/mediajel-gql-service/pull/5723) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#5723 ICF Put advertiserId to env](https://github.com/MediaJel/mediajel-gql-service/pull/5723) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
