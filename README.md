@@ -30,13 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#789 fix: nexxen token not being refreshed](https://github.com/MediaJel/amplication-nestjs-microservices/pull/789) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++46 --42`
-* ⏺️ Created new branch hotfix/nexxen-token-auth-refresh in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-ai-poc](https://github.com/MediaJel/mediajel-ai-poc) on branch `main`
-  * [#47e77b8](https://github.com/MediaJel/mediajel-ai-poc/commit/47e77b8) feat(api): Add campaign tools and Prisma setup
-* ⏺️ Created new branch feat/bun-bundler in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#5723 ICF Put advertiserId to env](https://github.com/MediaJel/mediajel-gql-service/pull/5723) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* #️⃣ Opened [#795 Swap ParcelJS with BunJS (Depending on findings)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/795) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#794 Research into compatibility best practices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/794) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#793 Research into compatibility](https://github.com/MediaJel/amplication-nestjs-microservices/issues/793) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#792 Research into improving tracker performance via switching compilers](https://github.com/MediaJel/amplication-nestjs-microservices/issues/792) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#646 fix: Changed Magento cart to wait for div load and use datalayersource](https://github.com/MediaJel/mediajel-tracker/pull/646) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
