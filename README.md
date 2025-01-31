@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `8461` commits and made `312` PRs.
+:people_hugging: I contributed to `45` repositories , made `8466` commits and made `313` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#789 fix: nexxen token not being refreshed](https://github.com/MediaJel/amplication-nestjs-microservices/pull/789) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++46 --42`
+* ⏺️ Created new branch hotfix/nexxen-token-auth-refresh in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-ai-poc](https://github.com/MediaJel/mediajel-ai-poc) on branch `main`
   * [#47e77b8](https://github.com/MediaJel/mediajel-ai-poc/commit/47e77b8) feat(api): Add campaign tools and Prisma setup
 * ⏺️ Created new branch feat/bun-bundler in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#5723 ICF Put advertiserId to env](https://github.com/MediaJel/mediajel-gql-service/pull/5723) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#5723 ICF Put advertiserId to env](https://github.com/MediaJel/mediajel-gql-service/pull/5723) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#5723 ICF Put advertiserId to env](https://github.com/MediaJel/mediajel-gql-service/pull/5723) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
