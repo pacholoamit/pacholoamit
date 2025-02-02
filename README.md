@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 * 🔍 Reviewed [#790 Feat generate ticketmaster environment](https://github.com/MediaJel/amplication-nestjs-microservices/pull/790) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ⏺️ Created new branch feat/v2 in [MediaJel/mediajel-ai-poc](https://github.com/MediaJel/mediajel-ai-poc)
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-ai-poc](https://github.com/MediaJel/mediajel-ai-poc) on branch `main`
@@ -41,8 +42,6 @@
 fix: changed magento cart variables
   * [#0a80eac](https://github.com/MediaJel/mediajel-tracker/commit/0a80eac) refactor: Remove console.log statements
   * [#4a17202](https://github.com/MediaJel/mediajel-tracker/commit/4a17202) fix: changed magento cart variables
-* 🔃 Merged [#650 fix: changed magento cart variables](https://github.com/MediaJel/mediajel-tracker/pull/650) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++3 --4`
 
 
 
