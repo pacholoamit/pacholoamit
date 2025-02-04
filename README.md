@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `8468` commits and made `314` PRs.
+:people_hugging: I contributed to `45` repositories , made `8469` commits and made `312` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,18 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#806 Add image pixels specific implementation to the tag generator for Ticketmaster](https://github.com/MediaJel/amplication-nestjs-microservices/issues/806) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#8180 Improve Sign up instructions on the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/8180) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🌟 Starred [polarsource/polar](https://github.com/polarsource/polar)
 * 🌟 Starred [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 * 🔍 Reviewed [#790 Feat generate ticketmaster environment](https://github.com/MediaJel/amplication-nestjs-microservices/pull/790) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ⏺️ Created new branch feat/v2 in [MediaJel/mediajel-ai-poc](https://github.com/MediaJel/mediajel-ai-poc)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-ai-poc](https://github.com/MediaJel/mediajel-ai-poc) on branch `main`
-  * [#08dd410](https://github.com/MediaJel/mediajel-ai-poc/commit/08dd410) style: Update import statements to use double quotes
-  * [#fec57da](https://github.com/MediaJel/mediajel-ai-poc/commit/fec57da) refactor: Remove unnecessary JSON.stringify calls
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#fb9a52d](https://github.com/MediaJel/mediajel-tracker/commit/fb9a52d) Merge pull request #650 from MediaJel/magento-Transaction-Fix-ILGM
-
-fix: changed magento cart variables
-  * [#0a80eac](https://github.com/MediaJel/mediajel-tracker/commit/0a80eac) refactor: Remove console.log statements
-  * [#4a17202](https://github.com/MediaJel/mediajel-tracker/commit/4a17202) fix: changed magento cart variables
 
 
 
