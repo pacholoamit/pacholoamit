@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#806 Add image pixels specific implementation to the tag generator for Ticketmaster](https://github.com/MediaJel/amplication-nestjs-microservices/issues/806) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#8180 Improve Sign up instructions on the dashboard](https://github.com/MediaJel/mediajel-dashboard/issues/8180) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [polarsource/polar](https://github.com/polarsource/polar)
-* 🌟 Starred [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-* 🔍 Reviewed [#790 Feat generate ticketmaster environment](https://github.com/MediaJel/amplication-nestjs-microservices/pull/790) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#809 Create a superset dashboard that tracks duplicate events](https://github.com/MediaJel/amplication-nestjs-microservices/issues/809) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#3ea06a2](https://github.com/MediaJel/salesforce-automation/commit/3ea06a2) feat(intuit): Add CustomField to QuickbooksCreateEstimateInput
+* 🔍 Reviewed [#808 feat: Default values for Nexxen taxonomy endpoints if params headers not assign any values](https://github.com/MediaJel/amplication-nestjs-microservices/pull/808) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#807 Create FAQ for Paid Search dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/807) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#8174 [Bug] Campaign Paid Search - Revenue &amp; Spend Bug](https://github.com/MediaJel/mediajel-dashboard/issues/8174) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
