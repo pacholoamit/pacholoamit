@@ -30,12 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#809 Create a superset dashboard that tracks duplicate events](https://github.com/MediaJel/amplication-nestjs-microservices/issues/809) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#3ea06a2](https://github.com/MediaJel/salesforce-automation/commit/3ea06a2) feat(intuit): Add CustomField to QuickbooksCreateEstimateInput
-* 🔍 Reviewed [#808 feat: Default values for Nexxen taxonomy endpoints if params headers not assign any values](https://github.com/MediaJel/amplication-nestjs-microservices/pull/808) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#807 Create FAQ for Paid Search dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/807) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#8174 [Bug] Campaign Paid Search - Revenue &amp; Spend Bug](https://github.com/MediaJel/mediajel-dashboard/issues/8174) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#802 fix: implemented trackTrans to shopify builder](https://github.com/MediaJel/amplication-nestjs-microservices/pull/802) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#c6c29ee](https://github.com/MediaJel/mediajel-tracker/commit/c6c29ee) Merge pull request #655 from MediaJel/fixCaseTrackCarts
+
+fix:made AddToCart and RemoveToCart into camel case
+  * [#fedac3b](https://github.com/MediaJel/mediajel-tracker/commit/fedac3b) fix:made AddToCart and RemoveToCart into camel case
+* 🔃 Merged [#655 fix:made AddToCart and RemoveToCart into camel case](https://github.com/MediaJel/mediajel-tracker/pull/655) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 2 files changed `++4 --4`
+* 🔃 Merged [#654 feat: added AddToCart and RemoveFromCart equivalent of trackTrans](https://github.com/MediaJel/mediajel-tracker/pull/654) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++6 --2`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#ff20a78](https://github.com/MediaJel/mediajel-tracker/commit/ff20a78) Merge pull request #654 from MediaJel/CartEnhancement
+
+feat: added AddToCart and RemoveFromCart equivalent of trackTrans
+  * [#9a00e8d](https://github.com/MediaJel/mediajel-tracker/commit/9a00e8d) feat: added AddToCart and RemoveFromCart equivalent of trackTrans
 
 
 
