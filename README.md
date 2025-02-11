@@ -30,6 +30,10 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#27ef6dd](https://github.com/MediaJel/salesforce-automation/commit/27ef6dd) refactor: Update Salesforce authentication logic
+* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
+  * [#3ffab7b](https://github.com/MediaJel/incubator/commit/3ffab7b) changes
 * ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
   * [#10cfa81](https://github.com/pacholoamit/homelab-infrastructure/commit/10cfa81) Merge pull request #205 from pacholoamit/renovate/n8nio-n8n-1.x
 
@@ -39,8 +43,6 @@ chore(deps): update container image n8nio/n8n to v1.78.0
   * 1 file changed `++1 --1`
 * ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
   * [#9f4e4d1](https://github.com/MediaJel/incubator/commit/9f4e4d1) add dsp-api
-* 🌟 Starred [dzhng/deep-research](https://github.com/dzhng/deep-research)
-* 🔍 Reviewed [#791 ICF Advertiser Line Items](https://github.com/MediaJel/amplication-nestjs-microservices/pull/791) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
