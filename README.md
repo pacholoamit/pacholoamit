@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `8476` commits and made `312` PRs.
+:people_hugging: I contributed to `44` repositories , made `8478` commits and made `308` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,78 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#10cfa81](https://github.com/pacholoamit/homelab-infrastructure/commit/10cfa81) Merge pull request #205 from pacholoamit/renovate/n8nio-n8n-1.x
+
+chore(deps): update container image n8nio/n8n to v1.78.0
+  * [#d4a22e7](https://github.com/pacholoamit/homelab-infrastructure/commit/d4a22e7) chore(deps): update container image n8nio/n8n to v1.78.0
+* 🔃 Merged [#205 chore(deps): update container image n8nio/n8n to v1.78.0](https://github.com/pacholoamit/homelab-infrastructure/pull/205) in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure)
+  * 1 file changed `++1 --1`
 * ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
   * [#9f4e4d1](https://github.com/MediaJel/incubator/commit/9f4e4d1) add dsp-api
 * 🌟 Starred [dzhng/deep-research](https://github.com/dzhng/deep-research)
 * 🔍 Reviewed [#791 ICF Advertiser Line Items](https://github.com/MediaJel/amplication-nestjs-microservices/pull/791) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 62 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `bugfix/744-a360-flight-dates-timezone-issue`
-  * [#a1a40d1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a1a40d1) Merge pull request #751 from MediaJel/jbjm-hotfix-thirdparty-cart
-
-[HOTFIX] hotfix thirdparty cart
-  * [#e9eea82](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e9eea82) hotfix thirdparty cart
-  * [#dcdf9ac](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dcdf9ac) Merge pull request #750 from MediaJel/master
-
-SYJNC Master
-  * [#13dd09f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/13dd09f) Merge pull request #718 from MediaJel/dependabot/npm_and_yarn/npm_and_yarn-5410abccd5
-
-chore(deps): bump tinymce from 6.8.4 to 6.8.5 in the npm_and_yarn group
-  * [#7c9ffce](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7c9ffce) Merge pull request #747 from MediaJel/jjy-liquidm-hotfix
-
-HOTFIX for liquidM views
-  * [#17e7f5a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/17e7f5a) HOTFIX for liquidM views
-  * [#c29a8fd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c29a8fd) Merge pull request #743 from MediaJel/feature/742-exclude-inactive-campaigns-from-soapbox-scraper
-
-feat/742 - Exclude inactive campaigns from the A360 Campaign Scraper
-  * [#bdd0561](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bdd0561) feature/742 - Exclude inactive campaigns from the Soapbox Campaign Scraper
-  * [#05a283c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/05a283c) Merge pull request #741 from MediaJel/jjy-fix-external-service-signoz
-
-[HOTFIX] Fix missing env for signoz
-  * [#088e2c8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/088e2c8) Fix missing env for signoz
-  * [#258301e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/258301e) chore(deps): bump @opentelemetry/instrumentation-http
-
-Bumps [@opentelemetry/instrumentation-http](https://github.com/open-telemetry/opentelemetry-js) from 0.52.1 to 0.57.0.
-- [Release notes](https://github.com/open-telemetry/opentelemetry-js/releases)
-- [Changelog](https://github.com/open-telemetry/opentelemetry-js/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/open-telemetry/opentelemetry-js/compare/experimental/v0.52.1...experimental/v0.57.0)
-
----
-updated-dependencies:
-- dependency-name: &#34;@opentelemetry/instrumentation-http&#34;
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-  * [#40da5ab](https://github.com/MediaJel/amplication-nestjs-microservices/commit/40da5ab) Merge pull request #732 from MediaJel/icf-logs-migration
-
-ICF logs migration
-  * [#415d49a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/415d49a) CLEANUP
-  * [#f3261b7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f3261b7) COMPLETE: Added Line Item IDs Advertiser
-  * [#e1a7e22](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e1a7e22) Fix duplicate import
-  * [#9a6518b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9a6518b) Merge branch &#39;master&#39; into icf-logs-migration
-  * [#a946dc0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a946dc0) Merge pull request #733 from MediaJel/staging
-
-Update Master from Staging
-  * [#51db1d8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/51db1d8) Get Logs migration
-  * [#3f26ebb](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3f26ebb) WIP: Logs Migration
-  * [#0e72c84](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0e72c84) chore(deps): bump tinymce from 6.8.4 to 6.8.5 in the npm_and_yarn group
-
-Bumps the npm_and_yarn group with 1 update: [tinymce](https://github.com/tinymce/tinymce/tree/HEAD/modules/tinymce).
-
-
-Updates `tinymce` from 6.8.4 to 6.8.5
-- [Changelog](https://github.com/tinymce/tinymce/blob/6.8.5/modules/tinymce/CHANGELOG.md)
-- [Commits](https://github.com/tinymce/tinymce/commits/6.8.5/modules/tinymce)
-
----
-updated-dependencies:
-- dependency-name: tinymce
-  dependency-type: indirect
-  dependency-group: npm_and_yarn
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-* 🔍 Reviewed [#746 bugfix/744 - Fix A360 Flight dates timezone issue](https://github.com/MediaJel/amplication-nestjs-microservices/pull/746) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
