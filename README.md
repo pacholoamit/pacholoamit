@@ -30,14 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
+  * [#8ad9bad](https://github.com/MediaJel/incubator/commit/8ad9bad) chore: add jest configuration and tsconfig paths
 * 🌟 Starred [mnfst/manifest](https://github.com/mnfst/manifest)
 * ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
   * [#626f7bc](https://github.com/MediaJel/incubator/commit/626f7bc) feat: Add new LiquidM reporting mapper and service
 * #️⃣ Opened [#8256 Add &#34;Transaction Totals&#34; to the TEST LOG table](https://github.com/MediaJel/mediajel-dashboard/issues/8256) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
   * [#27ef6dd](https://github.com/MediaJel/salesforce-automation/commit/27ef6dd) refactor: Update Salesforce authentication logic
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
-  * [#3ffab7b](https://github.com/MediaJel/incubator/commit/3ffab7b) changes
 
 
 
