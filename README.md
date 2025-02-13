@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `44` repositories , made `8479` commits and made `308` PRs.
+:people_hugging: I contributed to `44` repositories , made `8480` commits and made `308` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [mnfst/manifest](https://github.com/mnfst/manifest)
 * ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
   * [#626f7bc](https://github.com/MediaJel/incubator/commit/626f7bc) feat: Add new LiquidM reporting mapper and service
 * #️⃣ Opened [#8256 Add &#34;Transaction Totals&#34; to the TEST LOG table](https://github.com/MediaJel/mediajel-dashboard/issues/8256) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
@@ -37,11 +38,6 @@
   * [#27ef6dd](https://github.com/MediaJel/salesforce-automation/commit/27ef6dd) refactor: Update Salesforce authentication logic
 * ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
   * [#3ffab7b](https://github.com/MediaJel/incubator/commit/3ffab7b) changes
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#10cfa81](https://github.com/pacholoamit/homelab-infrastructure/commit/10cfa81) Merge pull request #205 from pacholoamit/renovate/n8nio-n8n-1.x
-
-chore(deps): update container image n8nio/n8n to v1.78.0
-  * [#d4a22e7](https://github.com/pacholoamit/homelab-infrastructure/commit/d4a22e7) chore(deps): update container image n8nio/n8n to v1.78.0
 
 
 
