@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
-  * [#8ad9bad](https://github.com/MediaJel/incubator/commit/8ad9bad) chore: add jest configuration and tsconfig paths
-* 🌟 Starred [mnfst/manifest](https://github.com/mnfst/manifest)
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
-  * [#626f7bc](https://github.com/MediaJel/incubator/commit/626f7bc) feat: Add new LiquidM reporting mapper and service
-* #️⃣ Opened [#8256 Add &#34;Transaction Totals&#34; to the TEST LOG table](https://github.com/MediaJel/mediajel-dashboard/issues/8256) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#27ef6dd](https://github.com/MediaJel/salesforce-automation/commit/27ef6dd) refactor: Update Salesforce authentication logic
+* #️⃣ Opened [#837 New vs Returning reports for ThickAssGlass](https://github.com/MediaJel/amplication-nestjs-microservices/issues/837) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#4 Propose on how to deal with storing large data since metadata is only 8kb](https://github.com/MediaJel/incubator/issues/4) in [MediaJel/incubator](https://github.com/MediaJel/incubator)
+* 💬 Commented on [#8203 Add an field to organizations for listing their advertiser ID](https://github.com/MediaJel/mediajel-dashboard/issues/8203) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#836 Research into best Authentication method for Google Ads (Service accounts vs OAuth2)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/836) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#827 feat/8229: Clerk Auth Middleware implementation to DSP Reports Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/827) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
