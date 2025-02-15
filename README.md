@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#837 New vs Returning reports for ThickAssGlass](https://github.com/MediaJel/amplication-nestjs-microservices/issues/837) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#4 Propose on how to deal with storing large data since metadata is only 8kb](https://github.com/MediaJel/incubator/issues/4) in [MediaJel/incubator](https://github.com/MediaJel/incubator)
 * 💬 Commented on [#8203 Add an field to organizations for listing their advertiser ID](https://github.com/MediaJel/mediajel-dashboard/issues/8203) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#836 Research into best Authentication method for Google Ads (Service accounts vs OAuth2)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/836) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#827 feat/8229: Clerk Auth Middleware implementation to DSP Reports Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/827) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#792 Research into improving tracker performance](https://github.com/MediaJel/amplication-nestjs-microservices/issues/792) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#306 Created callback for trackTrans](https://github.com/MediaJel/mediajel-frictionless-custom-tag/issues/306) from [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+* 💬 Commented on [#758 Create Superset alternative for Transactions Observer](https://github.com/MediaJel/mediajel/issues/758) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#781 Take a look at irregularities in snowplow activity from Superset](https://github.com/MediaJel/amplication-nestjs-microservices/issues/781) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
