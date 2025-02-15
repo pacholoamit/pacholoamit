@@ -30,11 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#9f77ec6](https://github.com/MediaJel/mediajel-tracker/commit/9f77ec6) Merge pull request #660 from MediaJel/jbjm-hotfix-dutchie-subdomain
+  * [#5cc7033](https://github.com/MediaJel/mediajel-tracker/commit/5cc7033) if tax is not a number then make it 0
+* 🔃 Merged [#660 if tax is not a number then make it 0](https://github.com/MediaJel/mediajel-tracker/pull/660) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++1 --1`
 * 💬 Commented on [#8203 Add an field to organizations for listing their advertiser ID](https://github.com/MediaJel/mediajel-dashboard/issues/8203) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#792 Research into improving tracker performance](https://github.com/MediaJel/amplication-nestjs-microservices/issues/792) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#306 Created callback for trackTrans](https://github.com/MediaJel/mediajel-frictionless-custom-tag/issues/306) from [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-* 💬 Commented on [#758 Create Superset alternative for Transactions Observer](https://github.com/MediaJel/mediajel/issues/758) from [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#781 Take a look at irregularities in snowplow activity from Superset](https://github.com/MediaJel/amplication-nestjs-microservices/issues/781) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
