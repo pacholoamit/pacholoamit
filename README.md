@@ -30,14 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#9f77ec6](https://github.com/MediaJel/mediajel-tracker/commit/9f77ec6) Merge pull request #660 from MediaJel/jbjm-hotfix-dutchie-subdomain
-  * [#5cc7033](https://github.com/MediaJel/mediajel-tracker/commit/5cc7033) if tax is not a number then make it 0
-* 🔃 Merged [#660 if tax is not a number then make it 0](https://github.com/MediaJel/mediajel-tracker/pull/660) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++1 --1`
-* 💬 Commented on [#8203 Add an field to organizations for listing their advertiser ID](https://github.com/MediaJel/mediajel-dashboard/issues/8203) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#792 Research into improving tracker performance](https://github.com/MediaJel/amplication-nestjs-microservices/issues/792) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#0e71804](https://github.com/pacholoamit/lawher/commit/0e71804) refactor: Update updateUser function to use actions file
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#92b2fcc](https://github.com/pacholoamit/lawher/commit/92b2fcc) refactor: Update updateUser function to accept input object
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#8694766](https://github.com/pacholoamit/lawher/commit/8694766) refactor: Update avatar handling in OnboardingForm and lib/auth files
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#43edb62](https://github.com/pacholoamit/lawher/commit/43edb62) refactor: Update user metadata handling in updateUser function
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#78bf3f7](https://github.com/pacholoamit/lawher/commit/78bf3f7) feat: Add user profile update functionality
 
 
 
