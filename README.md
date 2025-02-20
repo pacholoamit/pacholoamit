@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `8506` commits and made `306` PRs.
+:people_hugging: I contributed to `46` repositories , made `8510` commits and made `308` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#a025538](https://github.com/MediaJel/salesforce-automation/commit/a025538) Merge pull request #29 from MediaJel/ez-quickbooksIdFix
+
+fix: Fix updateOpportunity fields with correct ids
+  * [#8ef8145](https://github.com/MediaJel/salesforce-automation/commit/8ef8145) fix: Fix updateOpportunity fields with correct ids
+* 🔃 Merged [#29 fix: Fix updateOpportunity fields with correct ids](https://github.com/MediaJel/salesforce-automation/pull/29) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 1 file changed `++2 --2`
 * 🌟 Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
   * [#6776e8c](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/6776e8c) Update huntingtonhelps.com.ts
 * ➡️ Pushed 1 commit in [MediaJel/custom-dsp-api](https://github.com/MediaJel/custom-dsp-api) on branch `master`
   * [#352fa82](https://github.com/MediaJel/custom-dsp-api/commit/352fa82) feat: Add new JSON files for Nexxen data metrics
-* ➡️ Pushed 1 commit in [MediaJel/custom-dsp-api](https://github.com/MediaJel/custom-dsp-api) on branch `master`
-  * [#5a45f32](https://github.com/MediaJel/custom-dsp-api/commit/5a45f32) enable tests
-* ➡️ Pushed 1 commit in [MediaJel/custom-dsp-api](https://github.com/MediaJel/custom-dsp-api) on branch `master`
-  * [#ee71ed0](https://github.com/MediaJel/custom-dsp-api/commit/ee71ed0) feat: Update Nexxen reports with new data sources
 
 
 
