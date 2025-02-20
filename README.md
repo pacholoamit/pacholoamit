@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `45` repositories , made `8494` commits and made `306` PRs.
+:people_hugging: I contributed to `46` repositories , made `8506` commits and made `306` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `refactor/use-different-schema`
-  * [#1429b13](https://github.com/MediaJel/incubator/commit/1429b13) feat: Add Nexxen complete JSON and reporting mapper
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `refactor/use-different-schema`
-  * [#487d0e7](https://github.com/MediaJel/incubator/commit/487d0e7) feat: Add LiquidM complete report with all metrics
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `refactor/use-different-schema`
-  * [#c038014](https://github.com/MediaJel/incubator/commit/c038014) chore: Remove console.log statements
-* 🌟 Starred [imohitarora/superepo](https://github.com/imohitarora/superepo)
-* 🌟 Starred [upstash/jstack](https://github.com/upstash/jstack)
+* 🌟 Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#6776e8c](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/6776e8c) Update huntingtonhelps.com.ts
+* ➡️ Pushed 1 commit in [MediaJel/custom-dsp-api](https://github.com/MediaJel/custom-dsp-api) on branch `master`
+  * [#352fa82](https://github.com/MediaJel/custom-dsp-api/commit/352fa82) feat: Add new JSON files for Nexxen data metrics
+* ➡️ Pushed 1 commit in [MediaJel/custom-dsp-api](https://github.com/MediaJel/custom-dsp-api) on branch `master`
+  * [#5a45f32](https://github.com/MediaJel/custom-dsp-api/commit/5a45f32) enable tests
+* ➡️ Pushed 1 commit in [MediaJel/custom-dsp-api](https://github.com/MediaJel/custom-dsp-api) on branch `master`
+  * [#ee71ed0](https://github.com/MediaJel/custom-dsp-api/commit/ee71ed0) feat: Update Nexxen reports with new data sources
 
 
 
