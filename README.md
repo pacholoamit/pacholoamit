@@ -30,18 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [cline/cline](https://github.com/cline/cline)
-* ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#ff8572c](https://github.com/pacholoamit/lawher/commit/ff8572c) Merge pull request #2 from pacholoamit/staging
-
-refactor: Improve phone number and address validations
-  * [#1dc257e](https://github.com/pacholoamit/lawher/commit/1dc257e) refactor: Improve phone number and address validations
-* 🔃 Merged [#2 refactor: Improve phone number and address validations](https://github.com/pacholoamit/lawher/pull/2) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 1 file changed `++24 --4`
-* 🔃 Opened [#2 refactor: Improve phone number and address validations](https://github.com/pacholoamit/lawher/pull/2) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 1 file changed `++24 --4`
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#1dc257e](https://github.com/pacholoamit/lawher/commit/1dc257e) refactor: Improve phone number and address validations
+* 💬 Commented on [#591 Enable the mediajel-tracker to accept 3rd party trackers](https://github.com/MediaJel/mediajel-tracker/issues/591) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#793 Research into compatibility](https://github.com/MediaJel/amplication-nestjs-microservices/issues/793) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#306 Created callback for trackTrans](https://github.com/MediaJel/mediajel-frictionless-custom-tag/issues/306) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+* #️⃣ Opened [#843 Do some research on how we can automatically document supported measurements for each tag on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/843) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#591 Enable the mediajel-tracker to accept 3rd party trackers](https://github.com/MediaJel/mediajel-tracker/issues/591) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
