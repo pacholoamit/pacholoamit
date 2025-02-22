@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `8515` commits and made `308` PRs.
+:people_hugging: I contributed to `46` repositories , made `8523` commits and made `311` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,24 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#591 Enable the mediajel-tracker to accept 3rd party trackers](https://github.com/MediaJel/mediajel-tracker/issues/591) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#793 Research into compatibility](https://github.com/MediaJel/amplication-nestjs-microservices/issues/793) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#306 Created callback for trackTrans](https://github.com/MediaJel/mediajel-frictionless-custom-tag/issues/306) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-* #️⃣ Opened [#843 Do some research on how we can automatically document supported measurements for each tag on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/843) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#591 Enable the mediajel-tracker to accept 3rd party trackers](https://github.com/MediaJel/mediajel-tracker/issues/591) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#9089468](https://github.com/pacholoamit/lawher/commit/9089468) Merge pull request #4 from pacholoamit/staging
+
+feat: Add unsafeMetadata field to updateUser call
+  * [#b9de927](https://github.com/pacholoamit/lawher/commit/b9de927) feat: Add unsafeMetadata field to updateUser call
+* 🔃 Merged [#4 feat: Add unsafeMetadata field to updateUser call](https://github.com/pacholoamit/lawher/pull/4) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 1 file changed `++3 --1`
+* 🔃 Opened [#4 feat: Add unsafeMetadata field to updateUser call](https://github.com/pacholoamit/lawher/pull/4) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 1 file changed `++3 --1`
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#b9de927](https://github.com/pacholoamit/lawher/commit/b9de927) feat: Add unsafeMetadata field to updateUser call
+* ➡️ Pushed 4 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#bc6a325](https://github.com/pacholoamit/lawher/commit/bc6a325) Merge pull request #3 from pacholoamit/staging
+
+staging
+  * [#3968d44](https://github.com/pacholoamit/lawher/commit/3968d44) style: Update sidebar padding for better layout
+  * [#cb5f395](https://github.com/pacholoamit/lawher/commit/cb5f395) style: Update classnames for active sidebar item
+  * [#e5e11d4](https://github.com/pacholoamit/lawher/commit/e5e11d4) style: Fix missing semicolons and update image URLs
 
 
 
