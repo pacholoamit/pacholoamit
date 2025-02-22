@@ -30,24 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#2afdf94](https://github.com/MediaJel/mediajel-tracker/commit/2afdf94) refactor: Update default values to use &#34;null&#34; when undefined
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#5d9ceff](https://github.com/MediaJel/mediajel-tracker/commit/5d9ceff) style: Update import statements in register-third-party-tags file
+* 🔍 Reviewed [#845 [FOR REVIEW] MG-8273 Fixed static id](https://github.com/MediaJel/amplication-nestjs-microservices/pull/845) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#9089468](https://github.com/pacholoamit/lawher/commit/9089468) Merge pull request #4 from pacholoamit/staging
+  * [#85c2cee](https://github.com/pacholoamit/lawher/commit/85c2cee) Merge pull request #5 from pacholoamit/staging
 
-feat: Add unsafeMetadata field to updateUser call
-  * [#b9de927](https://github.com/pacholoamit/lawher/commit/b9de927) feat: Add unsafeMetadata field to updateUser call
-* 🔃 Merged [#4 feat: Add unsafeMetadata field to updateUser call](https://github.com/pacholoamit/lawher/pull/4) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 1 file changed `++3 --1`
-* 🔃 Opened [#4 feat: Add unsafeMetadata field to updateUser call](https://github.com/pacholoamit/lawher/pull/4) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 1 file changed `++3 --1`
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#b9de927](https://github.com/pacholoamit/lawher/commit/b9de927) feat: Add unsafeMetadata field to updateUser call
-* ➡️ Pushed 4 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#bc6a325](https://github.com/pacholoamit/lawher/commit/bc6a325) Merge pull request #3 from pacholoamit/staging
-
-staging
-  * [#3968d44](https://github.com/pacholoamit/lawher/commit/3968d44) style: Update sidebar padding for better layout
-  * [#cb5f395](https://github.com/pacholoamit/lawher/commit/cb5f395) style: Update classnames for active sidebar item
-  * [#e5e11d4](https://github.com/pacholoamit/lawher/commit/e5e11d4) style: Fix missing semicolons and update image URLs
+style: Improve layout and styling in Dashboard components
+  * [#3135a3f](https://github.com/pacholoamit/lawher/commit/3135a3f) style: Improve layout and styling in Dashboard components
+* 🔃 Merged [#5 style: Improve layout and styling in Dashboard components](https://github.com/pacholoamit/lawher/pull/5) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 2 files changed `++54 --45`
 
 
 
