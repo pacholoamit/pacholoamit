@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [astral-sh/uv](https://github.com/astral-sh/uv)
 * ➡️ Pushed 3 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
   * [#003d0af](https://github.com/pacholoamit/lawher/commit/003d0af) Merge pull request #8 from pacholoamit/staging
 
@@ -42,8 +43,6 @@ staging
   * 20 files changed `++735 --70`
 * ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
   * [#07ee816](https://github.com/pacholoamit/lawher/commit/07ee816) feat: Add migration script for Firebase operations
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#9b30fa2](https://github.com/pacholoamit/lawher/commit/9b30fa2) feat: Add Firestore and Firebase configuration files
 
 
 
