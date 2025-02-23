@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `8523` commits and made `311` PRs.
+:people_hugging: I contributed to `46` repositories , made `8535` commits and made `314` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,18 +30,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#2afdf94](https://github.com/MediaJel/mediajel-tracker/commit/2afdf94) refactor: Update default values to use &#34;null&#34; when undefined
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#5d9ceff](https://github.com/MediaJel/mediajel-tracker/commit/5d9ceff) style: Update import statements in register-third-party-tags file
-* 🔍 Reviewed [#845 [FOR REVIEW] MG-8273 Fixed static id](https://github.com/MediaJel/amplication-nestjs-microservices/pull/845) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#85c2cee](https://github.com/pacholoamit/lawher/commit/85c2cee) Merge pull request #5 from pacholoamit/staging
+* ➡️ Pushed 3 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#003d0af](https://github.com/pacholoamit/lawher/commit/003d0af) Merge pull request #8 from pacholoamit/staging
 
-style: Improve layout and styling in Dashboard components
-  * [#3135a3f](https://github.com/pacholoamit/lawher/commit/3135a3f) style: Improve layout and styling in Dashboard components
-* 🔃 Merged [#5 style: Improve layout and styling in Dashboard components](https://github.com/pacholoamit/lawher/pull/5) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 2 files changed `++54 --45`
+staging
+  * [#07ee816](https://github.com/pacholoamit/lawher/commit/07ee816) feat: Add migration script for Firebase operations
+  * [#9b30fa2](https://github.com/pacholoamit/lawher/commit/9b30fa2) feat: Add Firestore and Firebase configuration files
+* 🔃 Merged [#8 staging](https://github.com/pacholoamit/lawher/pull/8) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 20 files changed `++735 --70`
+* 🔃 Opened [#8 staging](https://github.com/pacholoamit/lawher/pull/8) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 20 files changed `++735 --70`
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#07ee816](https://github.com/pacholoamit/lawher/commit/07ee816) feat: Add migration script for Firebase operations
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#9b30fa2](https://github.com/pacholoamit/lawher/commit/9b30fa2) feat: Add Firestore and Firebase configuration files
 
 
 
