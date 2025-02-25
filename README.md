@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `8535` commits and made `314` PRs.
+:people_hugging: I contributed to `46` repositories , made `8536` commits and made `314` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#664 Update the internal-service to only create tags for the newly created `dutchie` adapter](https://github.com/MediaJel/mediajel-tracker/issues/664) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#663 Create `dutchie` adapter in the mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/663) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#662 Consolidate dutchie-iframe, dutchie-subdomain, and dutchieplus into 1 dutchie adapter](https://github.com/MediaJel/mediajel-tracker/issues/662) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 🌟 Starred [astral-sh/uv](https://github.com/astral-sh/uv)
 * ➡️ Pushed 3 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
   * [#003d0af](https://github.com/pacholoamit/lawher/commit/003d0af) Merge pull request #8 from pacholoamit/staging
@@ -37,12 +40,6 @@
 staging
   * [#07ee816](https://github.com/pacholoamit/lawher/commit/07ee816) feat: Add migration script for Firebase operations
   * [#9b30fa2](https://github.com/pacholoamit/lawher/commit/9b30fa2) feat: Add Firestore and Firebase configuration files
-* 🔃 Merged [#8 staging](https://github.com/pacholoamit/lawher/pull/8) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 20 files changed `++735 --70`
-* 🔃 Opened [#8 staging](https://github.com/pacholoamit/lawher/pull/8) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 20 files changed `++735 --70`
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#07ee816](https://github.com/pacholoamit/lawher/commit/07ee816) feat: Add migration script for Firebase operations
 
 
 
