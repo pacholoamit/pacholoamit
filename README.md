@@ -30,16 +30,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#664 Update the internal-service to only create tags for the newly created `dutchie` adapter](https://github.com/MediaJel/mediajel-tracker/issues/664) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#663 Create `dutchie` adapter in the mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/663) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#662 Consolidate dutchie-iframe, dutchie-subdomain, and dutchieplus into 1 dutchie adapter](https://github.com/MediaJel/mediajel-tracker/issues/662) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🌟 Starred [astral-sh/uv](https://github.com/astral-sh/uv)
-* ➡️ Pushed 3 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#003d0af](https://github.com/pacholoamit/lawher/commit/003d0af) Merge pull request #8 from pacholoamit/staging
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#9b833ec](https://github.com/MediaJel/mediajel-tracker/commit/9b833ec) Merge pull request #666 from MediaJel/staging
 
-staging
-  * [#07ee816](https://github.com/pacholoamit/lawher/commit/07ee816) feat: Add migration script for Firebase operations
-  * [#9b30fa2](https://github.com/pacholoamit/lawher/commit/9b30fa2) feat: Add Firestore and Firebase configuration files
+Update for main
+  * [#1dad30a](https://github.com/MediaJel/mediajel-tracker/commit/1dad30a) Merge pull request #665 from MediaJel/magento/fix-condition
+
+fix: remove conditions for sessionStorage key
+  * [#0ad5f8c](https://github.com/MediaJel/mediajel-tracker/commit/0ad5f8c) fix: remove conditions for sessionStorage key
+* 🔃 Merged [#666 Update for main](https://github.com/MediaJel/mediajel-tracker/pull/666) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++42 --50`
+* 🔃 Opened [#666 Update for main](https://github.com/MediaJel/mediajel-tracker/pull/666) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++42 --50`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#1dad30a](https://github.com/MediaJel/mediajel-tracker/commit/1dad30a) Merge pull request #665 from MediaJel/magento/fix-condition
+
+fix: remove conditions for sessionStorage key
+  * [#0ad5f8c](https://github.com/MediaJel/mediajel-tracker/commit/0ad5f8c) fix: remove conditions for sessionStorage key
+* 🔃 Merged [#665 fix: remove conditions for sessionStorage key](https://github.com/MediaJel/mediajel-tracker/pull/665) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++42 --50`
 
 
 
