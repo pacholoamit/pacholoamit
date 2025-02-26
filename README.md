@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `8536` commits and made `314` PRs.
+:people_hugging: I contributed to `46` repositories , made `8536` commits and made `315` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#8336 [FOR REVIEW] MD-8238 New requester enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/8336) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#8336 [FOR REVIEW] MD-8238 New requester enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/8336) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#9b833ec](https://github.com/MediaJel/mediajel-tracker/commit/9b833ec) Merge pull request #666 from MediaJel/staging
 
@@ -41,13 +43,6 @@ fix: remove conditions for sessionStorage key
 * 🔃 Merged [#666 Update for main](https://github.com/MediaJel/mediajel-tracker/pull/666) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 1 file changed `++42 --50`
 * 🔃 Opened [#666 Update for main](https://github.com/MediaJel/mediajel-tracker/pull/666) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++42 --50`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#1dad30a](https://github.com/MediaJel/mediajel-tracker/commit/1dad30a) Merge pull request #665 from MediaJel/magento/fix-condition
-
-fix: remove conditions for sessionStorage key
-  * [#0ad5f8c](https://github.com/MediaJel/mediajel-tracker/commit/0ad5f8c) fix: remove conditions for sessionStorage key
-* 🔃 Merged [#665 fix: remove conditions for sessionStorage key](https://github.com/MediaJel/mediajel-tracker/pull/665) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 1 file changed `++42 --50`
 
 
