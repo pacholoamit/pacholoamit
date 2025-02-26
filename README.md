@@ -30,20 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#8336 [FOR REVIEW] MD-8238 New requester enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/8336) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#8336 [FOR REVIEW] MD-8238 New requester enhancements](https://github.com/MediaJel/mediajel-dashboard/pull/8336) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#9b833ec](https://github.com/MediaJel/mediajel-tracker/commit/9b833ec) Merge pull request #666 from MediaJel/staging
+* 🔍 Reviewed [#853 fix: changed items id for shopify tag generation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/853) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#3259aea](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3259aea) Merge pull request #333 from MediaJel/feature/dutch-passion-track-transaction
 
-Update for main
-  * [#1dad30a](https://github.com/MediaJel/mediajel-tracker/commit/1dad30a) Merge pull request #665 from MediaJel/magento/fix-condition
+Implement datalayerSource function to dutch-passion domain
+  * [#ed80810](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/ed80810) Implement datalayerSource function to dutch-passion domain
+* 🔃 Merged [#333 Implement datalayerSource function to dutch-passion domain](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/333) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++5 --6`
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#c79c6c8](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/c79c6c8) Merge pull request #332 from MediaJel/feature/dutch-passion-track-transaction
 
-fix: remove conditions for sessionStorage key
-  * [#0ad5f8c](https://github.com/MediaJel/mediajel-tracker/commit/0ad5f8c) fix: remove conditions for sessionStorage key
-* 🔃 Merged [#666 Update for main](https://github.com/MediaJel/mediajel-tracker/pull/666) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++42 --50`
-* 🔃 Opened [#666 Update for main](https://github.com/MediaJel/mediajel-tracker/pull/666) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++42 --50`
+Added dutch-passion domain to track transaction
+  * [#47998ca](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/47998ca) Minor changes
+  * [#89037e2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/89037e2) Dutch Passion Track Transaction
+* 🔃 Merged [#332 Added dutch-passion domain to track transaction](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/332) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++36 --0`
 
 
 
