@@ -30,16 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#93bf2e5](https://github.com/pacholoamit/lawher/commit/93bf2e5) feat: Format time to user-friendly version
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#5e435ba](https://github.com/pacholoamit/lawher/commit/5e435ba) feat: Add consistent availability slots for lawyers
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#59f1d07](https://github.com/pacholoamit/lawher/commit/59f1d07) refactor: Update API calls in LocationSelector to use db instead of lawyersApi
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#0189ee7](https://github.com/pacholoamit/lawher/commit/0189ee7) feat: Add sample lawyers to the lawyers collection
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#587df89](https://github.com/pacholoamit/lawher/commit/587df89) feat: Implement new Google Cloud Console project
+* 🔍 Reviewed [#8360 [HOTFIX] Hide Regenerate Tag](https://github.com/MediaJel/mediajel-dashboard/pull/8360) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 4 commits in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution) on branch `pa-new-versus-returning`
+  * [#8e079ad](https://github.com/MediaJel/landing-dutchie-attribution/commit/8e079ad) Merge pull request #2 from MediaJel/vm-new-versus-returning
+
+ThickAssGlass - New vs Returning
+  * [#3f5c525](https://github.com/MediaJel/landing-dutchie-attribution/commit/3f5c525) New vs returning update logic
+  * [#261b9b7](https://github.com/MediaJel/landing-dutchie-attribution/commit/261b9b7) feat: matched transaction fixes
+  * [#a9b7b16](https://github.com/MediaJel/landing-dutchie-attribution/commit/a9b7b16) ThickAssGlass - New vs Returning
+* 🔃 Merged [#2 ThickAssGlass - New vs Returning](https://github.com/MediaJel/landing-dutchie-attribution/pull/2) in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution)
+  * 17 files changed `++602202 --0`
+* 🌟 Starred [Expensify/App](https://github.com/Expensify/App)
+* #️⃣ Opened [#854 Create Ad impression macros for BRKTHRU](https://github.com/MediaJel/amplication-nestjs-microservices/issues/854) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
