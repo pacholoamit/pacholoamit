@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `8536` commits and made `315` PRs.
+:people_hugging: I contributed to `46` repositories , made `8553` commits and made `319` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,22 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#853 fix: changed items id for shopify tag generation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/853) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#3259aea](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3259aea) Merge pull request #333 from MediaJel/feature/dutch-passion-track-transaction
-
-Implement datalayerSource function to dutch-passion domain
-  * [#ed80810](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/ed80810) Implement datalayerSource function to dutch-passion domain
-* 🔃 Merged [#333 Implement datalayerSource function to dutch-passion domain](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/333) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++5 --6`
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#c79c6c8](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/c79c6c8) Merge pull request #332 from MediaJel/feature/dutch-passion-track-transaction
-
-Added dutch-passion domain to track transaction
-  * [#47998ca](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/47998ca) Minor changes
-  * [#89037e2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/89037e2) Dutch Passion Track Transaction
-* 🔃 Merged [#332 Added dutch-passion domain to track transaction](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/332) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++36 --0`
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#93bf2e5](https://github.com/pacholoamit/lawher/commit/93bf2e5) feat: Format time to user-friendly version
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#5e435ba](https://github.com/pacholoamit/lawher/commit/5e435ba) feat: Add consistent availability slots for lawyers
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#59f1d07](https://github.com/pacholoamit/lawher/commit/59f1d07) refactor: Update API calls in LocationSelector to use db instead of lawyersApi
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#0189ee7](https://github.com/pacholoamit/lawher/commit/0189ee7) feat: Add sample lawyers to the lawyers collection
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#587df89](https://github.com/pacholoamit/lawher/commit/587df89) feat: Implement new Google Cloud Console project
 
 
 
