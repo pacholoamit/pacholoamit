@@ -30,18 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#8360 [HOTFIX] Hide Regenerate Tag](https://github.com/MediaJel/mediajel-dashboard/pull/8360) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 4 commits in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution) on branch `pa-new-versus-returning`
-  * [#8e079ad](https://github.com/MediaJel/landing-dutchie-attribution/commit/8e079ad) Merge pull request #2 from MediaJel/vm-new-versus-returning
-
-ThickAssGlass - New vs Returning
-  * [#3f5c525](https://github.com/MediaJel/landing-dutchie-attribution/commit/3f5c525) New vs returning update logic
-  * [#261b9b7](https://github.com/MediaJel/landing-dutchie-attribution/commit/261b9b7) feat: matched transaction fixes
-  * [#a9b7b16](https://github.com/MediaJel/landing-dutchie-attribution/commit/a9b7b16) ThickAssGlass - New vs Returning
-* 🔃 Merged [#2 ThickAssGlass - New vs Returning](https://github.com/MediaJel/landing-dutchie-attribution/pull/2) in [MediaJel/landing-dutchie-attribution](https://github.com/MediaJel/landing-dutchie-attribution)
-  * 17 files changed `++602202 --0`
-* 🌟 Starred [Expensify/App](https://github.com/Expensify/App)
-* #️⃣ Opened [#854 Create Ad impression macros for BRKTHRU](https://github.com/MediaJel/amplication-nestjs-microservices/issues/854) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#854 Create Ad impression macros for BRKTHRU](https://github.com/MediaJel/amplication-nestjs-microservices/issues/854) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#871 Research into OBS studio for video editing](https://github.com/MediaJel/amplication-nestjs-microservices/issues/871) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#822 Research into getting access to Gannett&#39;s Google Ads Manager (Oauth vs Service Account)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/822) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#8302 Enhancements: Create `@IsDSPIntegrated` decorator](https://github.com/MediaJel/mediajel-dashboard/issues/8302) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#567 Mediajel tracker enhancements](https://github.com/MediaJel/mediajel-tracker/issues/567) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
