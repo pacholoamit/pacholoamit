@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#8379 [HOTFIX] Change Permission on Accessing Regenerate Tag ](https://github.com/MediaJel/mediajel-dashboard/pull/8379) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#8201 [Bug] Duplicate Transactions - The Flowery Publisher Funnel](https://github.com/MediaJel/mediajel-dashboard/issues/8201) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#854 Create Ad impression macros for BRKTHRU](https://github.com/MediaJel/amplication-nestjs-microservices/issues/854) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#871 Research into OBS studio for video editing](https://github.com/MediaJel/amplication-nestjs-microservices/issues/871) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#822 Research into getting access to Gannett&#39;s Google Ads Manager (Oauth vs Service Account)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/822) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#8302 Enhancements: Create `@IsDSPIntegrated` decorator](https://github.com/MediaJel/mediajel-dashboard/issues/8302) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#567 Mediajel tracker enhancements](https://github.com/MediaJel/mediajel-tracker/issues/567) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
