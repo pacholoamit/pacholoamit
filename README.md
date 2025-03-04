@@ -30,12 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#878 docs: Add integration documentation for various platforms](https://github.com/MediaJel/amplication-nestjs-microservices/pull/878) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 6 files changed `++480 --0`
+* ⏺️ Created new branch docs/add-integrations-docs in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔃 Opened [#876 refactor: Simplify code for handling segments and DSPs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/876) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 1 file changed `++78 --67`
 * ⏺️ Created new branch fix/hotfix-tracker-generation in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🌟 Starred [usertour/usertour](https://github.com/usertour/usertour)
-* #️⃣ Opened [#875 Update channel partners with correct tag domain](https://github.com/MediaJel/amplication-nestjs-microservices/issues/875) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#8379 [HOTFIX] Change Permission on Accessing Regenerate Tag ](https://github.com/MediaJel/mediajel-dashboard/pull/8379) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
