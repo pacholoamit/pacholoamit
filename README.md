@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `8569` commits and made `318` PRs.
+:people_hugging: I contributed to `46` repositories , made `8569` commits and made `320` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#876 refactor: Simplify code for handling segments and DSPs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/876) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++78 --67`
+* ⏺️ Created new branch fix/hotfix-tracker-generation in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🌟 Starred [usertour/usertour](https://github.com/usertour/usertour)
+* #️⃣ Opened [#875 Update channel partners with correct tag domain](https://github.com/MediaJel/amplication-nestjs-microservices/issues/875) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#8379 [HOTFIX] Change Permission on Accessing Regenerate Tag ](https://github.com/MediaJel/mediajel-dashboard/pull/8379) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#8201 [Bug] Duplicate Transactions - The Flowery Publisher Funnel](https://github.com/MediaJel/mediajel-dashboard/issues/8201) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#854 Create Ad impression macros for BRKTHRU](https://github.com/MediaJel/amplication-nestjs-microservices/issues/854) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#871 Research into OBS studio for video editing](https://github.com/MediaJel/amplication-nestjs-microservices/issues/871) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#822 Research into getting access to Gannett&#39;s Google Ads Manager (Oauth vs Service Account)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/822) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
