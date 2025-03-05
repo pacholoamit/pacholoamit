@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `8569` commits and made `320` PRs.
+:people_hugging: I contributed to `48` repositories , made `8577` commits and made `321` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,28 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#878 docs: Add integration documentation for various platforms](https://github.com/MediaJel/amplication-nestjs-microservices/pull/878) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 6 files changed `++480 --0`
-* ⏺️ Created new branch docs/add-integrations-docs in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Opened [#876 refactor: Simplify code for handling segments and DSPs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/876) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++78 --67`
-* ⏺️ Created new branch fix/hotfix-tracker-generation in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🌟 Starred [usertour/usertour](https://github.com/usertour/usertour)
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#7c14f2c](https://github.com/MediaJel/mediajel-tracker/commit/7c14f2c) Merge pull request #680 from MediaJel/staging
+
+update main branch
+  * [#b7bd38e](https://github.com/MediaJel/mediajel-tracker/commit/b7bd38e) Merge pull request #679 from MediaJel/rpb/dutchieAdapter
+
+added dutchie adapter
+  * [#8a38394](https://github.com/MediaJel/mediajel-tracker/commit/8a38394) added dutchie adapter
+  * [#886b818](https://github.com/MediaJel/mediajel-tracker/commit/886b818) Merge pull request #676 from MediaJel/main
+
+update staging with main
+* 🔃 Merged [#680 update main branch](https://github.com/MediaJel/mediajel-tracker/pull/680) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 2 files changed `++14 --13`
+* 🔃 Opened [#680 update main branch](https://github.com/MediaJel/mediajel-tracker/pull/680) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 2 files changed `++14 --13`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#b7bd38e](https://github.com/MediaJel/mediajel-tracker/commit/b7bd38e) Merge pull request #679 from MediaJel/rpb/dutchieAdapter
+
+added dutchie adapter
+  * [#8a38394](https://github.com/MediaJel/mediajel-tracker/commit/8a38394) added dutchie adapter
+* 🔃 Merged [#679 added dutchie adapter](https://github.com/MediaJel/mediajel-tracker/pull/679) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 2 files changed `++14 --13`
 
 
 
