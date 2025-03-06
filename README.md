@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8577` commits and made `321` PRs.
+:people_hugging: I contributed to `49` repositories , made `8579` commits and made `321` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,28 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#7c14f2c](https://github.com/MediaJel/mediajel-tracker/commit/7c14f2c) Merge pull request #680 from MediaJel/staging
-
-update main branch
-  * [#b7bd38e](https://github.com/MediaJel/mediajel-tracker/commit/b7bd38e) Merge pull request #679 from MediaJel/rpb/dutchieAdapter
-
-added dutchie adapter
-  * [#8a38394](https://github.com/MediaJel/mediajel-tracker/commit/8a38394) added dutchie adapter
-  * [#886b818](https://github.com/MediaJel/mediajel-tracker/commit/886b818) Merge pull request #676 from MediaJel/main
-
-update staging with main
-* 🔃 Merged [#680 update main branch](https://github.com/MediaJel/mediajel-tracker/pull/680) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++14 --13`
-* 🔃 Opened [#680 update main branch](https://github.com/MediaJel/mediajel-tracker/pull/680) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++14 --13`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#b7bd38e](https://github.com/MediaJel/mediajel-tracker/commit/b7bd38e) Merge pull request #679 from MediaJel/rpb/dutchieAdapter
-
-added dutchie adapter
-  * [#8a38394](https://github.com/MediaJel/mediajel-tracker/commit/8a38394) added dutchie adapter
-* 🔃 Merged [#679 added dutchie adapter](https://github.com/MediaJel/mediajel-tracker/pull/679) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++14 --13`
+* ➡️ Pushed 1 commit in [pacholoamit/skylark-vanguard-agent](https://github.com/pacholoamit/skylark-vanguard-agent) on branch `master`
+  * [#b64b7f5](https://github.com/pacholoamit/skylark-vanguard-agent/commit/b64b7f5) feat: Add interview components and functionality
+* ➡️ Pushed 1 commit in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard) on branch `master`
+  * [#4cf98bf](https://github.com/pacholoamit/skylark-vanguard/commit/4cf98bf) style: Remove commented out code and fix class names
+* ➡️ Pushed 1 commit in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard) on branch `master`
+  * [#034f024](https://github.com/pacholoamit/skylark-vanguard/commit/034f024) style: Add suppressHydrationWarning to html lang attribute
+* ➡️ Pushed 1 commit in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard) on branch `master`
+  * [#1f90768](https://github.com/pacholoamit/skylark-vanguard/commit/1f90768) feat: Add Sessions content component and Sessions Table
+* ➡️ Pushed 1 commit in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard) on branch `master`
+  * [#7e1a05d](https://github.com/pacholoamit/skylark-vanguard/commit/7e1a05d) complete MVP for Dashboard page
 
 
 
