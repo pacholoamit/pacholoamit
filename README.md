@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#bf38ef0](https://github.com/MediaJel/mediajel-tracker/commit/bf38ef0) style: Fix import paths in ecommerce adapter
 * 💬 Commented on [#875 Update channel partners with correct tag domain](https://github.com/MediaJel/amplication-nestjs-microservices/issues/875) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#871 Research into OBS studio for video editing](https://github.com/MediaJel/amplication-nestjs-microservices/issues/871) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#677 Create generic custom documentation for pixel tracking](https://github.com/MediaJel/mediajel-tracker/issues/677) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#8013 Implement Clerk Auth to our microservice](https://github.com/MediaJel/mediajel-dashboard/issues/8013) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#797 Create a view for sessions in Clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/797) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
