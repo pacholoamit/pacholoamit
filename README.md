@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8580` commits and made `321` PRs.
+:people_hugging: I contributed to `50` repositories , made `8606` commits and made `323` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,18 +30,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#a8993fa](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/a8993fa) Merge pull request #349 from MediaJel/ez-dutchPassionTag
+* ➡️ Pushed 1 commit in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard) on branch `master`
+  * [#2b619a8](https://github.com/pacholoamit/skylark-vanguard/commit/2b619a8) add migrations
+* ➡️ Pushed 1 commit in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard) on branch `master`
+  * [#5831e86](https://github.com/pacholoamit/skylark-vanguard/commit/5831e86) style: Update icon import in app-sidebar component
+* ➡️ Pushed 1 commit in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard) on branch `master`
+  * [#13388a6](https://github.com/pacholoamit/skylark-vanguard/commit/13388a6) style: Update team-switcher UI labels and icons
+* ➡️ Pushed 3 commits in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard) on branch `master`
+  * [#cd55e60](https://github.com/pacholoamit/skylark-vanguard/commit/cd55e60) Merge pull request #2 from pacholoamit/feat/monorepo-v2
 
-feat: Call dutchPassion function instead of exporting
-  * [#dcb1361](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/dcb1361) feat: Call dutchPassion function instead of exporting
-* 🔃 Merged [#349 feat: Call dutchPassion function instead of exporting](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/349) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++1 --1`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#aa9aa1f](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/aa9aa1f) refactor: Update event listener for scheduling call button
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#bf38ef0](https://github.com/MediaJel/mediajel-tracker/commit/bf38ef0) style: Fix import paths in ecommerce adapter
-* 💬 Commented on [#875 Update channel partners with correct tag domain](https://github.com/MediaJel/amplication-nestjs-microservices/issues/875) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+feat/monorepo v2
+  * [#0054759](https://github.com/pacholoamit/skylark-vanguard/commit/0054759) refactor: Remove theme toggle functionality from AppSidebar
+  * [#6535ee1](https://github.com/pacholoamit/skylark-vanguard/commit/6535ee1) add organizations
+* 🔃 Merged [#2 feat/monorepo v2](https://github.com/pacholoamit/skylark-vanguard/pull/2) in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard)
+  * 6 files changed `++253 --158`
 
 
 
