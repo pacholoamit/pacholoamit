@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8611` commits and made `314` PRs.
+:people_hugging: I contributed to `50` repositories , made `8616` commits and made `314` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/omniseek-agent](https://github.com/pacholoamit/omniseek-agent) on branch `master`
+  * [#9a82a98](https://github.com/pacholoamit/omniseek-agent/commit/9a82a98) add data
+* ➡️ Pushed 1 commit in [pacholoamit/omniseek-agent](https://github.com/pacholoamit/omniseek-agent) on branch `master`
+  * [#130e04b](https://github.com/pacholoamit/omniseek-agent/commit/130e04b) style: Update project name to &#34;omniseek-agent&#34;
+* ➡️ Pushed 3 commits in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek) on branch `master`
+  * [#4557377](https://github.com/pacholoamit/omniseek/commit/4557377) add nestjs
+  * [#d3cf569](https://github.com/pacholoamit/omniseek/commit/d3cf569) checkppoint
+  * [#7af99ed](https://github.com/pacholoamit/omniseek/commit/7af99ed) add server
 * ⏺️ Created new branch master in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek)
 * ⏺️ Created new repository  [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek)
-* ➡️ Pushed 1 commit in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek) on branch `master`
-  * [#006b4bd](https://github.com/pacholoamit/omniseek/commit/006b4bd) prime config
-* ➡️ Pushed 1 commit in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek) on branch `master`
-  * [#d42d4e8](https://github.com/pacholoamit/omniseek/commit/d42d4e8) add prisma
-* ➡️ Pushed 1 commit in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek) on branch `master`
-  * [#0c87281](https://github.com/pacholoamit/omniseek/commit/0c87281) refactor: Rename paths for applicants analytics and profiles
 
 
 
