@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `8608` commits and made `323` PRs.
+:people_hugging: I contributed to `50` repositories , made `8611` commits and made `314` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch master in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek)
+* ⏺️ Created new repository  [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek)
+* ➡️ Pushed 1 commit in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek) on branch `master`
+  * [#006b4bd](https://github.com/pacholoamit/omniseek/commit/006b4bd) prime config
 * ➡️ Pushed 1 commit in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek) on branch `master`
   * [#d42d4e8](https://github.com/pacholoamit/omniseek/commit/d42d4e8) add prisma
 * ➡️ Pushed 1 commit in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek) on branch `master`
   * [#0c87281](https://github.com/pacholoamit/omniseek/commit/0c87281) refactor: Rename paths for applicants analytics and profiles
-* ➡️ Pushed 1 commit in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek) on branch `master`
-  * [#ae5b821](https://github.com/pacholoamit/omniseek/commit/ae5b821) refactor: Update project name and database in README and configuration
-* ➡️ Pushed 1 commit in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard) on branch `master`
-  * [#2b619a8](https://github.com/pacholoamit/skylark-vanguard/commit/2b619a8) add migrations
-* ➡️ Pushed 1 commit in [pacholoamit/skylark-vanguard](https://github.com/pacholoamit/skylark-vanguard) on branch `master`
-  * [#5831e86](https://github.com/pacholoamit/skylark-vanguard/commit/5831e86) style: Update icon import in app-sidebar component
 
 
 
