@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8617` commits and made `314` PRs.
+:people_hugging: I contributed to `50` repositories , made `8623` commits and made `314` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/omniseek-agent](https://github.com/pacholoamit/omniseek-agent) on branch `master`
-  * [#9a82a98](https://github.com/pacholoamit/omniseek-agent/commit/9a82a98) add data
-* ➡️ Pushed 1 commit in [pacholoamit/omniseek-agent](https://github.com/pacholoamit/omniseek-agent) on branch `master`
-  * [#130e04b](https://github.com/pacholoamit/omniseek-agent/commit/130e04b) style: Update project name to &#34;omniseek-agent&#34;
-* ➡️ Pushed 3 commits in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek) on branch `master`
-  * [#4557377](https://github.com/pacholoamit/omniseek/commit/4557377) add nestjs
-  * [#d3cf569](https://github.com/pacholoamit/omniseek/commit/d3cf569) checkppoint
-  * [#7af99ed](https://github.com/pacholoamit/omniseek/commit/7af99ed) add server
-* ⏺️ Created new branch master in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek)
-* ⏺️ Created new repository  [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#890f8f0](https://github.com/MediaJel/mediajel-tracker/commit/890f8f0) Merge pull request #681 from MediaJel/rpb/ticketure
+
+added ticketure
+  * [#d4b8683](https://github.com/MediaJel/mediajel-tracker/commit/d4b8683) added ticketure
+* 🔃 Merged [#681 added ticketure](https://github.com/MediaJel/mediajel-tracker/pull/681) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 2 files changed `++12 --0`
+* 🔍 Reviewed [#681 added ticketure](https://github.com/MediaJel/mediajel-tracker/pull/681) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#675 feat: created trackSignUp function with deduplication](https://github.com/MediaJel/mediajel-tracker/pull/675) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `srr/trackSignUp`
+  * [#add8d3a](https://github.com/MediaJel/mediajel-tracker/commit/add8d3a) refactor: Update deduplicator.ts with improved syntax
 
 
 
