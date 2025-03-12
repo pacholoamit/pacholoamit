@@ -30,21 +30,36 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/omniseek-agent](https://github.com/pacholoamit/omniseek-agent) on branch `master`
-  * [#16aefcc](https://github.com/pacholoamit/omniseek-agent/commit/16aefcc) implement trace emitter properly
-  * [#08f8eea](https://github.com/pacholoamit/omniseek-agent/commit/08f8eea) feat: Update browser tabs tracing with emission to frontend
-* ➡️ Pushed 1 commit in [pacholoamit/omniseek-agent](https://github.com/pacholoamit/omniseek-agent) on branch `master`
-  * [#59bd352](https://github.com/pacholoamit/omniseek-agent/commit/59bd352) refactor: Update browser tabs data and improve logging
-* ➡️ Pushed 3 commits in [pacholoamit/omniseek-agent](https://github.com/pacholoamit/omniseek-agent) on branch `master`
-  * [#f0802b4](https://github.com/pacholoamit/omniseek-agent/commit/f0802b4) update
-  * [#294b60f](https://github.com/pacholoamit/omniseek-agent/commit/294b60f) better version
-  * [#d3b3c7c](https://github.com/pacholoamit/omniseek-agent/commit/d3b3c7c) added browser tab traces
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+* ➡️ Pushed 11 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#a459308](https://github.com/MediaJel/mediajel-tracker/commit/a459308) Merge pull request #683 from MediaJel/staging
+
+update
+  * [#7f8827a](https://github.com/MediaJel/mediajel-tracker/commit/7f8827a) Merge pull request #682 from MediaJel/rpb/adapter/tnew
+
+added tnew adapter for indianapolissymphony
+  * [#3772616](https://github.com/MediaJel/mediajel-tracker/commit/3772616) added tnew adapter for indianapolissymphony
+  * [#720d044](https://github.com/MediaJel/mediajel-tracker/commit/720d044) Merge pull request #675 from MediaJel/srr/trackSignUp
+
+feat: created trackSignUp function with deduplication
+  * [#70ae051](https://github.com/MediaJel/mediajel-tracker/commit/70ae051) fix: allow idfield for deduplicator to accept an array
   * [#890f8f0](https://github.com/MediaJel/mediajel-tracker/commit/890f8f0) Merge pull request #681 from MediaJel/rpb/ticketure
 
 added ticketure
+  * [#add8d3a](https://github.com/MediaJel/mediajel-tracker/commit/add8d3a) refactor: Update deduplicator.ts with improved syntax
+  * [#358c6ab](https://github.com/MediaJel/mediajel-tracker/commit/358c6ab) fix: consolidated deduplication for events
   * [#d4b8683](https://github.com/MediaJel/mediajel-tracker/commit/d4b8683) added ticketure
-* 🔃 Merged [#681 added ticketure](https://github.com/MediaJel/mediajel-tracker/pull/681) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * [#2da8c59](https://github.com/MediaJel/mediajel-tracker/commit/2da8c59) Merge branch &#39;staging&#39; into srr/trackSignUp
+  * [#180a179](https://github.com/MediaJel/mediajel-tracker/commit/180a179) feat: created trackSignUp function with deduplication
+* 🔃 Merged [#683 update](https://github.com/MediaJel/mediajel-tracker/pull/683) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 8 files changed `++65 --21`
+* 🔃 Opened [#683 update](https://github.com/MediaJel/mediajel-tracker/pull/683) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 8 files changed `++65 --21`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#7f8827a](https://github.com/MediaJel/mediajel-tracker/commit/7f8827a) Merge pull request #682 from MediaJel/rpb/adapter/tnew
+
+added tnew adapter for indianapolissymphony
+  * [#3772616](https://github.com/MediaJel/mediajel-tracker/commit/3772616) added tnew adapter for indianapolissymphony
+* 🔃 Merged [#682 added tnew adapter for indianapolissymphony](https://github.com/MediaJel/mediajel-tracker/pull/682) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 2 files changed `++12 --0`
 
 
