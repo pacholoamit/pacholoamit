@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8623` commits and made `314` PRs.
+:people_hugging: I contributed to `50` repositories , made `8627` commits and made `315` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/omniseek-agent](https://github.com/pacholoamit/omniseek-agent) on branch `master`
+  * [#16aefcc](https://github.com/pacholoamit/omniseek-agent/commit/16aefcc) implement trace emitter properly
+  * [#08f8eea](https://github.com/pacholoamit/omniseek-agent/commit/08f8eea) feat: Update browser tabs tracing with emission to frontend
+* ➡️ Pushed 1 commit in [pacholoamit/omniseek-agent](https://github.com/pacholoamit/omniseek-agent) on branch `master`
+  * [#59bd352](https://github.com/pacholoamit/omniseek-agent/commit/59bd352) refactor: Update browser tabs data and improve logging
+* ➡️ Pushed 3 commits in [pacholoamit/omniseek-agent](https://github.com/pacholoamit/omniseek-agent) on branch `master`
+  * [#f0802b4](https://github.com/pacholoamit/omniseek-agent/commit/f0802b4) update
+  * [#294b60f](https://github.com/pacholoamit/omniseek-agent/commit/294b60f) better version
+  * [#d3b3c7c](https://github.com/pacholoamit/omniseek-agent/commit/d3b3c7c) added browser tab traces
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#890f8f0](https://github.com/MediaJel/mediajel-tracker/commit/890f8f0) Merge pull request #681 from MediaJel/rpb/ticketure
 
@@ -37,10 +46,6 @@ added ticketure
   * [#d4b8683](https://github.com/MediaJel/mediajel-tracker/commit/d4b8683) added ticketure
 * 🔃 Merged [#681 added ticketure](https://github.com/MediaJel/mediajel-tracker/pull/681) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 2 files changed `++12 --0`
-* 🔍 Reviewed [#681 added ticketure](https://github.com/MediaJel/mediajel-tracker/pull/681) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#675 feat: created trackSignUp function with deduplication](https://github.com/MediaJel/mediajel-tracker/pull/675) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `srr/trackSignUp`
-  * [#add8d3a](https://github.com/MediaJel/mediajel-tracker/commit/add8d3a) refactor: Update deduplicator.ts with improved syntax
 
 
 
