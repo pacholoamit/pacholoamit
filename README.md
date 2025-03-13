@@ -30,6 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS)
+* 🌟 Starred [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond)
 * 🌟 Starred [Nutlope/logocreator](https://github.com/Nutlope/logocreator)
 * ➡️ Pushed 11 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#a459308](https://github.com/MediaJel/mediajel-tracker/commit/a459308) Merge pull request #683 from MediaJel/staging
@@ -53,13 +55,6 @@ added ticketure
   * [#180a179](https://github.com/MediaJel/mediajel-tracker/commit/180a179) feat: created trackSignUp function with deduplication
 * 🔃 Merged [#683 update](https://github.com/MediaJel/mediajel-tracker/pull/683) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
   * 8 files changed `++65 --21`
-* 🔃 Opened [#683 update](https://github.com/MediaJel/mediajel-tracker/pull/683) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 8 files changed `++65 --21`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#7f8827a](https://github.com/MediaJel/mediajel-tracker/commit/7f8827a) Merge pull request #682 from MediaJel/rpb/adapter/tnew
-
-added tnew adapter for indianapolissymphony
-  * [#3772616](https://github.com/MediaJel/mediajel-tracker/commit/3772616) added tnew adapter for indianapolissymphony
 
 
 
