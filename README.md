@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [Nutlope/logocreator](https://github.com/Nutlope/logocreator)
 * ➡️ Pushed 11 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#a459308](https://github.com/MediaJel/mediajel-tracker/commit/a459308) Merge pull request #683 from MediaJel/staging
 
@@ -59,8 +60,6 @@ added ticketure
 
 added tnew adapter for indianapolissymphony
   * [#3772616](https://github.com/MediaJel/mediajel-tracker/commit/3772616) added tnew adapter for indianapolissymphony
-* 🔃 Merged [#682 added tnew adapter for indianapolissymphony](https://github.com/MediaJel/mediajel-tracker/pull/682) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++12 --0`
 
 
 
