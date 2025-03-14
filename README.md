@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8627` commits and made `315` PRs.
+:people_hugging: I contributed to `50` repositories , made `8627` commits and made `316` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,31 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#896 Create a Clickhouse table in `mj-development` and `mj-production` for the Nexxen impression logs](https://github.com/MediaJel/amplication-nestjs-microservices/issues/896) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#895 Create a lambda ingestion function in the serverless repo to load new files from the `mj-nexxen` logs to clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/895) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#894 Ingest Nexxen logs into Clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/894) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#893 Implement Turbo Repo into our microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/893) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🌟 Starred [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS)
-* 🌟 Starred [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond)
-* 🌟 Starred [Nutlope/logocreator](https://github.com/Nutlope/logocreator)
-* ➡️ Pushed 11 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#a459308](https://github.com/MediaJel/mediajel-tracker/commit/a459308) Merge pull request #683 from MediaJel/staging
-
-update
-  * [#7f8827a](https://github.com/MediaJel/mediajel-tracker/commit/7f8827a) Merge pull request #682 from MediaJel/rpb/adapter/tnew
-
-added tnew adapter for indianapolissymphony
-  * [#3772616](https://github.com/MediaJel/mediajel-tracker/commit/3772616) added tnew adapter for indianapolissymphony
-  * [#720d044](https://github.com/MediaJel/mediajel-tracker/commit/720d044) Merge pull request #675 from MediaJel/srr/trackSignUp
-
-feat: created trackSignUp function with deduplication
-  * [#70ae051](https://github.com/MediaJel/mediajel-tracker/commit/70ae051) fix: allow idfield for deduplicator to accept an array
-  * [#890f8f0](https://github.com/MediaJel/mediajel-tracker/commit/890f8f0) Merge pull request #681 from MediaJel/rpb/ticketure
-
-added ticketure
-  * [#add8d3a](https://github.com/MediaJel/mediajel-tracker/commit/add8d3a) refactor: Update deduplicator.ts with improved syntax
-  * [#358c6ab](https://github.com/MediaJel/mediajel-tracker/commit/358c6ab) fix: consolidated deduplication for events
-  * [#d4b8683](https://github.com/MediaJel/mediajel-tracker/commit/d4b8683) added ticketure
-  * [#2da8c59](https://github.com/MediaJel/mediajel-tracker/commit/2da8c59) Merge branch &#39;staging&#39; into srr/trackSignUp
-  * [#180a179](https://github.com/MediaJel/mediajel-tracker/commit/180a179) feat: created trackSignUp function with deduplication
-* 🔃 Merged [#683 update](https://github.com/MediaJel/mediajel-tracker/pull/683) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 8 files changed `++65 --21`
 
 
 
