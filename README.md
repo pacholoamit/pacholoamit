@@ -30,12 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#5868 ICF Fix Attribution Method being mark as Cookies](https://github.com/MediaJel/mediajel-gql-service/pull/5868) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🌟 Starred [taubyte/tau](https://github.com/taubyte/tau)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-activate-endpoint`
   * [#7d04737](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7d04737) changes
 * 🔍 Reviewed [#5860 [SCHEMA UPDATE] [FOR REVIEW] get basic tag add total](https://github.com/MediaJel/mediajel-gql-service/pull/5860) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Closed [#875 Update channel partners with correct tag domain](https://github.com/MediaJel/amplication-nestjs-microservices/issues/875) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#870 New vs Returning customer reports by Pubs?](https://github.com/MediaJel/amplication-nestjs-microservices/issues/870) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
