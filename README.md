@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8629` commits and made `317` PRs.
+:people_hugging: I contributed to `50` repositories , made `8634` commits and made `317` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `fix/nexxen-insertion-orders`
+  * [#d7ff72b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d7ff72b) style: Update import statements and add http and https
+  * [#3e987db](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3e987db) changes
+* 🔍 Reviewed [#686 Add Datasource Logger when debug=true on tag](https://github.com/MediaJel/mediajel-tracker/pull/686) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🌟 Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
 * 🔃 Opened [#906 hotfix: fix nexxen insertion order line items](https://github.com/MediaJel/amplication-nestjs-microservices/pull/906) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 4 files changed `++79 --48`
 * ⏺️ Created new branch fix/nexxen-insertion-orders in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Opened [#905 feat/integration custom dsp reporting](https://github.com/MediaJel/amplication-nestjs-microservices/pull/905) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 42 files changed `++1718 --4353`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/integration-custom-dsp-reporting`
-  * [#4a70763](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4a70763) successfully implement custom dsp endpoint
-* ⏺️ Created new branch feat/integration-custom-dsp-reporting in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
