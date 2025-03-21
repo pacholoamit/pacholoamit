@@ -30,14 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `fix/nexxen-insertion-orders`
-  * [#d7ff72b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d7ff72b) style: Update import statements and add http and https
-  * [#3e987db](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3e987db) changes
-* 🔍 Reviewed [#686 Add Datasource Logger when debug=true on tag](https://github.com/MediaJel/mediajel-tracker/pull/686) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🌟 Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
-* 🔃 Opened [#906 hotfix: fix nexxen insertion order line items](https://github.com/MediaJel/amplication-nestjs-microservices/pull/906) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 4 files changed `++79 --48`
-* ⏺️ Created new branch fix/nexxen-insertion-orders in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#667 Magento fix](https://github.com/MediaJel/mediajel-tracker/pull/667) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔃 Merged [#909 Feat/vlm/add enhancements to activate endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/909) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 10 files changed `++428 --228`
+* ➡️ Pushed 8 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-enhancements-to-activate-endpoint`
+  * [#8d6b6ea](https://github.com/MediaJel/amplication-nestjs-microservices/commit/8d6b6ea) Merge pull request #909 from MediaJel/feat/vlm/add-enhancements-to-activate-endpoint
+
+Feat/vlm/add enhancements to activate endpoint
+  * [#0682ad5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0682ad5) Merge branch &#39;feat/add-enhancements-to-activate-endpoint&#39; of github.com:MediaJel/amplication-nestjs-microservices into feat/vlm/add-enhancements-to-activate-endpoint
+  * [#b9ad708](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b9ad708) Merge branch &#39;staging&#39; of github.com:MediaJel/amplication-nestjs-microservices into feat/vlm/add-enhancements-to-activate-endpoint
+  * [#0456765](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0456765) feat: Fix CONNECTION RESET when the job is running a long time
+  * [#e31a265](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e31a265) feat: Refactor activate audience endpoint for partition files
+  * [#9fa5417](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9fa5417) feature: remove sequence number checking
+  * [#478f65e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/478f65e) feat: Update Activate Audience Endpoint and utilize publish nexxen endpoint
+  * [#cc8da24](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cc8da24) Merge branch &#39;staging&#39; of github.com:MediaJel/amplication-nestjs-microservices into feat/vlm/add-enhancements-to-activate-endpoint
+* 🔍 Reviewed [#909 Feat/vlm/add enhancements to activate endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/909) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#671 How to install tags on GTM](https://github.com/MediaJel/mediajel-tracker/issues/671) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
