@@ -30,11 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#dfb1db4](https://github.com/pacholoamit/lawher/commit/dfb1db4) feat: Implement error handling in createGoogleCalendarEventAction
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#4209de6](https://github.com/pacholoamit/lawher/commit/4209de6) feat: Add appointment management functionality
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#576d906](https://github.com/pacholoamit/lawher/commit/576d906) feat(layout): add dynamic page title logic
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#a020a6b](https://github.com/pacholoamit/lawher/commit/a020a6b) style: Update styles for consistency and overflow handling
 * 💬 Commented on [#8013 Implement Clerk Auth to our microservice](https://github.com/MediaJel/mediajel-dashboard/issues/8013) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#8013 Implement Clerk Auth to our microservice](https://github.com/MediaJel/mediajel-dashboard/issues/8013) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#92 Improve the LiquidM Pipeline via Serverless](https://github.com/MediaJel/serverless-functions/issues/92) from [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-* #️⃣ Closed [#8203 Add an field to organizations for listing their advertiser ID](https://github.com/MediaJel/mediajel-dashboard/issues/8203) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#806 Add image pixels specific implementation to the tag generator for Ticketmaster](https://github.com/MediaJel/amplication-nestjs-microservices/issues/806) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
