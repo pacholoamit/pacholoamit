@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `8637` commits and made `315` PRs.
+:people_hugging: I contributed to `50` repositories , made `8637` commits and made `316` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
+* 🌟 Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
 * ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
   * [#dfb1db4](https://github.com/pacholoamit/lawher/commit/dfb1db4) feat: Implement error handling in createGoogleCalendarEventAction
 * ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
   * [#4209de6](https://github.com/pacholoamit/lawher/commit/4209de6) feat: Add appointment management functionality
 * ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
   * [#576d906](https://github.com/pacholoamit/lawher/commit/576d906) feat(layout): add dynamic page title logic
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#a020a6b](https://github.com/pacholoamit/lawher/commit/a020a6b) style: Update styles for consistency and overflow handling
-* 💬 Commented on [#8013 Implement Clerk Auth to our microservice](https://github.com/MediaJel/mediajel-dashboard/issues/8013) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
