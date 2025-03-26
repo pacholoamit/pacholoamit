@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8637` commits and made `316` PRs.
+:people_hugging: I contributed to `50` repositories , made `8638` commits and made `317` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,22 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#5842 [FOR REVIEW] third party tag](https://github.com/MediaJel/mediajel-gql-service/pull/5842) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#1464 Not Receiving Pro Activation Email](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/issues/1464) from [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
+* #️⃣ Closed [#1464 Not Receiving Pro Activation Email](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/issues/1464) in [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
+* 💬 Commented on [#1455 I have not received my payment confirmation with the activation code and instructions](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/issues/1455) from [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
   * [#e7f477f](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/e7f477f) Merge pull request #367 from MediaJel/ez-ticketmasterFix
 
 style: comment out unused function call in files
   * [#011b9bb](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/011b9bb) style: comment out unused function call in files
-* 🔃 Merged [#367 style: comment out unused function call in files](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/367) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 2 files changed `++2 --2`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#13a1a79](https://github.com/MediaJel/mediajel-tracker/commit/13a1a79) fix: separate out execution of different ticketmaster tracking implementations
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#84af935](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/84af935) refactor: Improve code structure and organization
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#fa8f8fe](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/fa8f8fe) Merge pull request #366 from MediaJel/fix/huntington-helps
-
-refactor: Comment out unused code in huntingtonhelps.com.ts
-  * [#ce8acac](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/ce8acac) refactor: Comment out unused code in huntingtonhelps.com.ts
 
 
 
