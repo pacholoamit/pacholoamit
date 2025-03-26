@@ -30,15 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
+  * [#4485603](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4485603) feat: Add UtilsModule and UtilsController for S3 operations
+* 🔃 Opened [#919 feat(utils): Add utils module with storage utility functionality](https://github.com/MediaJel/amplication-nestjs-microservices/pull/919) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 9 files changed `++4452 --59`
+* ⏺️ Created new branch feat/s3-endpoint in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#5842 [FOR REVIEW] third party tag](https://github.com/MediaJel/mediajel-gql-service/pull/5842) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#1464 Not Receiving Pro Activation Email](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/issues/1464) from [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
-* #️⃣ Closed [#1464 Not Receiving Pro Activation Email](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/issues/1464) in [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
-* 💬 Commented on [#1455 I have not received my payment confirmation with the activation code and instructions](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/issues/1455) from [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#e7f477f](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/e7f477f) Merge pull request #367 from MediaJel/ez-ticketmasterFix
-
-style: comment out unused function call in files
-  * [#011b9bb](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/011b9bb) style: comment out unused function call in files
 
 
 
