@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8638` commits and made `317` PRs.
+:people_hugging: I contributed to `50` repositories , made `8638` commits and made `319` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
-  * [#4485603](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4485603) feat: Add UtilsModule and UtilsController for S3 operations
-* 🔃 Opened [#919 feat(utils): Add utils module with storage utility functionality](https://github.com/MediaJel/amplication-nestjs-microservices/pull/919) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 9 files changed `++4452 --59`
-* ⏺️ Created new branch feat/s3-endpoint in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#5842 [FOR REVIEW] third party tag](https://github.com/MediaJel/mediajel-gql-service/pull/5842) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#1464 Not Receiving Pro Activation Email](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter/issues/1464) from [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
+* 🔃 Opened [#924 refactor: Update getAllLineItems method parameters and logic](https://github.com/MediaJel/amplication-nestjs-microservices/pull/924) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++23 --139`
+* ⏺️ Created new branch hotfix/revert-line-items in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Closed [#923 refactor: Update logic for fetching all line items from Nexxen](https://github.com/MediaJel/amplication-nestjs-microservices/pull/923) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++23 --138`
+* 🔃 Opened [#923 refactor: Update logic for fetching all line items from Nexxen](https://github.com/MediaJel/amplication-nestjs-microservices/pull/923) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++23 --138`
+* ⏺️ Created new branch fix/revert-line-items in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
