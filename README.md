@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8638` commits and made `319` PRs.
+:people_hugging: I contributed to `50` repositories , made `8641` commits and made `319` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#924 refactor: Update getAllLineItems method parameters and logic](https://github.com/MediaJel/amplication-nestjs-microservices/pull/924) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++23 --139`
-* ⏺️ Created new branch hotfix/revert-line-items in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Closed [#923 refactor: Update logic for fetching all line items from Nexxen](https://github.com/MediaJel/amplication-nestjs-microservices/pull/923) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++23 --138`
-* 🔃 Opened [#923 refactor: Update logic for fetching all line items from Nexxen](https://github.com/MediaJel/amplication-nestjs-microservices/pull/923) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++23 --138`
-* ⏺️ Created new branch fix/revert-line-items in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#662 Consolidate dutchie-iframe, dutchie-subdomain, and dutchieplus into 1 dutchie adapter](https://github.com/MediaJel/mediajel-tracker/issues/662) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#842 Transactions Observer implementation for Attention Signals](https://github.com/MediaJel/amplication-nestjs-microservices/issues/842) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#293 [Ext] Campaign Management API: CREATE Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#836 Research into best Authentication method for Google Ads (Service accounts vs OAuth2)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/836) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#85 Implement Failed Enrichments pipeline to clickhouse](https://github.com/MediaJel/serverless-functions/issues/85) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
 
 
 
