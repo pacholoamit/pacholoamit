@@ -30,14 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#488a86b](https://github.com/pacholoamit/homelab-infrastructure/commit/488a86b) updates
-  * [#5eb5156](https://github.com/pacholoamit/homelab-infrastructure/commit/5eb5156) migrate not required stuff to archives
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#62955bf](https://github.com/pacholoamit/homelab-infrastructure/commit/62955bf) chore: Update kustomization.yaml with commented out resources
-* 💬 Commented on [#662 Consolidate dutchie-iframe, dutchie-subdomain, and dutchieplus into 1 dutchie adapter](https://github.com/MediaJel/mediajel-tracker/issues/662) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#842 Transactions Observer implementation for Attention Signals](https://github.com/MediaJel/amplication-nestjs-microservices/issues/842) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#293 [Ext] Campaign Management API: CREATE Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#925 feat: Add new tag installation with custom integration documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/925) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#925 feat: Add new tag installation with custom integration documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/925) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/667/tag-installation-with-custom-integration-documentation`
+  * [#0d655e2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0d655e2) Remove Install tags instructions temporarily
+* 🔍 Reviewed [#8543 [FOR REVIEW] Utilizing the Tag Installation docs from internal-microservice](https://github.com/MediaJel/mediajel-dashboard/pull/8543) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#925 feat: Add new tag installation with custom integration documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/925) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
