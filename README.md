@@ -30,11 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#488a86b](https://github.com/pacholoamit/homelab-infrastructure/commit/488a86b) updates
+  * [#5eb5156](https://github.com/pacholoamit/homelab-infrastructure/commit/5eb5156) migrate not required stuff to archives
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#62955bf](https://github.com/pacholoamit/homelab-infrastructure/commit/62955bf) chore: Update kustomization.yaml with commented out resources
 * 💬 Commented on [#662 Consolidate dutchie-iframe, dutchie-subdomain, and dutchieplus into 1 dutchie adapter](https://github.com/MediaJel/mediajel-tracker/issues/662) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#842 Transactions Observer implementation for Attention Signals](https://github.com/MediaJel/amplication-nestjs-microservices/issues/842) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#293 [Ext] Campaign Management API: CREATE Insertion Order](https://github.com/MediaJel/amplication-nestjs-microservices/issues/293) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#836 Research into best Authentication method for Google Ads (Service accounts vs OAuth2)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/836) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#85 Implement Failed Enrichments pipeline to clickhouse](https://github.com/MediaJel/serverless-functions/issues/85) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
 
 
 
