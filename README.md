@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8641` commits and made `319` PRs.
+:people_hugging: I contributed to `50` repositories , made `8647` commits and made `320` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch feat/use-sessions in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek)
-* 🔍 Reviewed [#925 feat: Add new tag installation with custom integration documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/925) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#925 feat: Add new tag installation with custom integration documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/925) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/667/tag-installation-with-custom-integration-documentation`
-  * [#0d655e2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0d655e2) Remove Install tags instructions temporarily
-* 🔍 Reviewed [#8543 [FOR REVIEW] Utilizing the Tag Installation docs from internal-microservice](https://github.com/MediaJel/mediajel-dashboard/pull/8543) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 6 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#b57e359](https://github.com/pacholoamit/lawher/commit/b57e359) Merge pull request #13 from pacholoamit/staging
+
+staging
+  * [#4663582](https://github.com/pacholoamit/lawher/commit/4663582) refactor: Ensure each lawyer has specializations array
+  * [#dfb1db4](https://github.com/pacholoamit/lawher/commit/dfb1db4) feat: Implement error handling in createGoogleCalendarEventAction
+  * [#4209de6](https://github.com/pacholoamit/lawher/commit/4209de6) feat: Add appointment management functionality
+  * [#576d906](https://github.com/pacholoamit/lawher/commit/576d906) feat(layout): add dynamic page title logic
+  * [#a020a6b](https://github.com/pacholoamit/lawher/commit/a020a6b) style: Update styles for consistency and overflow handling
+* 🔃 Merged [#13 staging](https://github.com/pacholoamit/lawher/pull/13) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 16 files changed `++622 --169`
+* 🔃 Opened [#13 staging](https://github.com/pacholoamit/lawher/pull/13) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 16 files changed `++622 --169`
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#4663582](https://github.com/pacholoamit/lawher/commit/4663582) refactor: Ensure each lawyer has specializations array
+* 🌟 Starred [Excelorithm/SaaSLaunchpad](https://github.com/Excelorithm/SaaSLaunchpad)
 
 
 
