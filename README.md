@@ -30,12 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new branch feat/use-sessions in [pacholoamit/omniseek](https://github.com/pacholoamit/omniseek)
 * 🔍 Reviewed [#925 feat: Add new tag installation with custom integration documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/925) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#925 feat: Add new tag installation with custom integration documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/925) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/667/tag-installation-with-custom-integration-documentation`
   * [#0d655e2](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0d655e2) Remove Install tags instructions temporarily
 * 🔍 Reviewed [#8543 [FOR REVIEW] Utilizing the Tag Installation docs from internal-microservice](https://github.com/MediaJel/mediajel-dashboard/pull/8543) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#925 feat: Add new tag installation with custom integration documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/925) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
