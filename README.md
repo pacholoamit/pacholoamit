@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8647` commits and made `320` PRs.
+:people_hugging: I contributed to `50` repositories , made `8667` commits and made `318` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,22 +30,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 6 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#b57e359](https://github.com/pacholoamit/lawher/commit/b57e359) Merge pull request #13 from pacholoamit/staging
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#c1a0ca2](https://github.com/pacholoamit/lawher/commit/c1a0ca2) feat: add IAMCredentialsClient constructor with credentials
+* ➡️ Pushed 8 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#61ad5ff](https://github.com/pacholoamit/lawher/commit/61ad5ff) Merge pull request #14 from pacholoamit/staging
 
 staging
-  * [#4663582](https://github.com/pacholoamit/lawher/commit/4663582) refactor: Ensure each lawyer has specializations array
-  * [#dfb1db4](https://github.com/pacholoamit/lawher/commit/dfb1db4) feat: Implement error handling in createGoogleCalendarEventAction
-  * [#4209de6](https://github.com/pacholoamit/lawher/commit/4209de6) feat: Add appointment management functionality
-  * [#576d906](https://github.com/pacholoamit/lawher/commit/576d906) feat(layout): add dynamic page title logic
-  * [#a020a6b](https://github.com/pacholoamit/lawher/commit/a020a6b) style: Update styles for consistency and overflow handling
-* 🔃 Merged [#13 staging](https://github.com/pacholoamit/lawher/pull/13) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 16 files changed `++622 --169`
-* 🔃 Opened [#13 staging](https://github.com/pacholoamit/lawher/pull/13) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 16 files changed `++622 --169`
+  * [#18d383c](https://github.com/pacholoamit/lawher/commit/18d383c) feat: Add filter options to AppointmentsPage
+  * [#a040a68](https://github.com/pacholoamit/lawher/commit/a040a68) feat: Add toast notifications and loading state for appointments
+  * [#27401de](https://github.com/pacholoamit/lawher/commit/27401de) style: Improve layout in appointment flow and location selector
+  * [#ad96ac2](https://github.com/pacholoamit/lawher/commit/ad96ac2) improve locations loading time
+  * [#abae623](https://github.com/pacholoamit/lawher/commit/abae623) feat: Add functions to create and retrieve appointments
+  * [#92e1bd7](https://github.com/pacholoamit/lawher/commit/92e1bd7) feat: Add fetching user appointments from database
+  * [#91b3c60](https://github.com/pacholoamit/lawher/commit/91b3c60) feat: Add dialog component to show case details
+* 🔃 Merged [#14 staging](https://github.com/pacholoamit/lawher/pull/14) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 22 files changed `++894 --328`
+* 🔃 Opened [#14 staging](https://github.com/pacholoamit/lawher/pull/14) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 22 files changed `++894 --328`
 * ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#4663582](https://github.com/pacholoamit/lawher/commit/4663582) refactor: Ensure each lawyer has specializations array
-* 🌟 Starred [Excelorithm/SaaSLaunchpad](https://github.com/Excelorithm/SaaSLaunchpad)
+  * [#18d383c](https://github.com/pacholoamit/lawher/commit/18d383c) feat: Add filter options to AppointmentsPage
 
 
 
