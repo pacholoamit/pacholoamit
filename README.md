@@ -30,16 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#3223f69](https://github.com/MediaJel/mediajel-tracker/commit/3223f69) Merge pull request #688 from MediaJel/srr/ticketmaster-fix
-
-fix:made fix on items for ticketmaster adapter
-  * [#92f722a](https://github.com/MediaJel/mediajel-tracker/commit/92f722a) fix:made fix on items for ticketmaster adapter
-* 🔃 Merged [#688 fix:made fix on items for ticketmaster adapter](https://github.com/MediaJel/mediajel-tracker/pull/688) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++5 --5`
-* 🌟 Starred [kyaustad/cardyo](https://github.com/kyaustad/cardyo)
-* 🌟 Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
+  * [#402bd08](https://github.com/MediaJel/amplication-nestjs-microservices/commit/402bd08) feat: Add method to get latest object from S3 prefix
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
+  * [#62cd24d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/62cd24d) style: Update quotes and spacing for consistency
+* 🔍 Reviewed [#810 thirdparty tag on generated](https://github.com/MediaJel/amplication-nestjs-microservices/pull/810) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jbjm-thirdparty-tags`
+  * [#b32b0e3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b32b0e3) chore: Remove redundant test commands
+* 🔍 Reviewed [#810 thirdparty tag on generated](https://github.com/MediaJel/amplication-nestjs-microservices/pull/810) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
