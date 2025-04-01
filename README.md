@@ -30,19 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [nicolargo/glances](https://github.com/nicolargo/glances)
-* ➡️ Pushed 3 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#f962e04](https://github.com/pacholoamit/lawher/commit/f962e04) Merge pull request #15 from pacholoamit/staging
+* 🌟 Starred [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#3223f69](https://github.com/MediaJel/mediajel-tracker/commit/3223f69) Merge pull request #688 from MediaJel/srr/ticketmaster-fix
 
-staging
-  * [#e45cdcd](https://github.com/pacholoamit/lawher/commit/e45cdcd) feat: Add lawyer onboarding form and user type checking
-  * [#c1a0ca2](https://github.com/pacholoamit/lawher/commit/c1a0ca2) feat: add IAMCredentialsClient constructor with credentials
-* 🔃 Merged [#15 staging](https://github.com/pacholoamit/lawher/pull/15) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 23 files changed `++1079 --83`
-* 🔃 Opened [#15 staging](https://github.com/pacholoamit/lawher/pull/15) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 23 files changed `++1079 --83`
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#e45cdcd](https://github.com/pacholoamit/lawher/commit/e45cdcd) feat: Add lawyer onboarding form and user type checking
+fix:made fix on items for ticketmaster adapter
+  * [#92f722a](https://github.com/MediaJel/mediajel-tracker/commit/92f722a) fix:made fix on items for ticketmaster adapter
+* 🔃 Merged [#688 fix:made fix on items for ticketmaster adapter](https://github.com/MediaJel/mediajel-tracker/pull/688) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++5 --5`
+* 🌟 Starred [kyaustad/cardyo](https://github.com/kyaustad/cardyo)
+* 🌟 Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
 
 
 
