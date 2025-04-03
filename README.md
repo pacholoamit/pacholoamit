@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8670` commits and made `319` PRs.
+:people_hugging: I contributed to `50` repositories , made `8672` commits and made `319` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#116 feat: Add Nexxen S3 event and loader function](https://github.com/MediaJel/serverless-functions/pull/116) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+* 🔍 Reviewed [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#686 Add Datasource Logger when debug=true on tag](https://github.com/MediaJel/mediajel-tracker/pull/686) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#686 Add Datasource Logger when debug=true on tag](https://github.com/MediaJel/mediajel-tracker/pull/686) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔍 Reviewed [#686 Add Datasource Logger when debug=true on tag](https://github.com/MediaJel/mediajel-tracker/pull/686) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
