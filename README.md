@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [facebook/rocksdb](https://github.com/facebook/rocksdb)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#c7a4610](https://github.com/MediaJel/mediajel-tracker/commit/c7a4610) refactor: Update variable names for clarity
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
-  * [#402bd08](https://github.com/MediaJel/amplication-nestjs-microservices/commit/402bd08) feat: Add method to get latest object from S3 prefix
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
-  * [#62cd24d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/62cd24d) style: Update quotes and spacing for consistency
-* 🔍 Reviewed [#810 thirdparty tag on generated](https://github.com/MediaJel/amplication-nestjs-microservices/pull/810) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
