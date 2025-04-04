@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#116 feat: Add Nexxen S3 event and loader function](https://github.com/MediaJel/serverless-functions/pull/116) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-* 🔍 Reviewed [#912 [FOR REVIEW] Created New Endpoint for Validating Tag Domain URL](https://github.com/MediaJel/amplication-nestjs-microservices/pull/912) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#686 Add Datasource Logger when debug=true on tag](https://github.com/MediaJel/mediajel-tracker/pull/686) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#686 Add Datasource Logger when debug=true on tag](https://github.com/MediaJel/mediajel-tracker/pull/686) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#686 Add Datasource Logger when debug=true on tag](https://github.com/MediaJel/mediajel-tracker/pull/686) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#941 Integrated gql-service data in our Clerk middleware](https://github.com/MediaJel/amplication-nestjs-microservices/issues/941) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#940 Implement authentication / authorization on endpoint with Clerk](https://github.com/MediaJel/amplication-nestjs-microservices/issues/940) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#939 Create API endpoint to fetch Advertiser S3 reports](https://github.com/MediaJel/amplication-nestjs-microservices/issues/939) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#938 Gannet Reporting API](https://github.com/MediaJel/amplication-nestjs-microservices/issues/938) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#935 fix thirdparty dto](https://github.com/MediaJel/amplication-nestjs-microservices/pull/935) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
