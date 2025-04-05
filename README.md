@@ -30,13 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#ababed6](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/ababed6) feat: Add form data tracking for sign-ups
+* 🔍 Reviewed [#5938 Adds setup instructions for Mac users on newer macs](https://github.com/MediaJel/mediajel-gql-service/pull/5938) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🔍 Reviewed [#5946 [HOTFIX] [FOR REVIEW] hotfix thirdparty tag](https://github.com/MediaJel/mediajel-gql-service/pull/5946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🌟 Starred [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)
 * 🔍 Reviewed [#5923 [SCHEMA UPDATE] [FOR REVIEW] Jbjm thirdpartytag new](https://github.com/MediaJel/mediajel-gql-service/pull/5923) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#1b19138](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/1b19138) feat: Add console logs and update form data usage
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#d7c39f2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/d7c39f2) feat: Implement form submission tracking for sign ups
-* 🔍 Reviewed [#926 MS-5909 Consolidated Report Enhancements with RocksDB](https://github.com/MediaJel/amplication-nestjs-microservices/pull/926) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#942 Implement Git hooks into the microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/942) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
