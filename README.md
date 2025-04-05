@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8672` commits and made `319` PRs.
+:people_hugging: I contributed to `50` repositories , made `8673` commits and made `319` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#941 Integrated gql-service data in our Clerk middleware](https://github.com/MediaJel/amplication-nestjs-microservices/issues/941) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#940 Implement authentication / authorization on endpoint with Clerk](https://github.com/MediaJel/amplication-nestjs-microservices/issues/940) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#939 Create API endpoint to fetch Advertiser S3 reports](https://github.com/MediaJel/amplication-nestjs-microservices/issues/939) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#938 Gannet Reporting API](https://github.com/MediaJel/amplication-nestjs-microservices/issues/938) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#935 fix thirdparty dto](https://github.com/MediaJel/amplication-nestjs-microservices/pull/935) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#5923 [SCHEMA UPDATE] [FOR REVIEW] Jbjm thirdpartytag new](https://github.com/MediaJel/mediajel-gql-service/pull/5923) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#1b19138](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/1b19138) feat: Add console logs and update form data usage
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#d7c39f2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/d7c39f2) feat: Implement form submission tracking for sign ups
+* 🔍 Reviewed [#926 MS-5909 Consolidated Report Enhancements with RocksDB](https://github.com/MediaJel/amplication-nestjs-microservices/pull/926) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#942 Implement Git hooks into the microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/942) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
