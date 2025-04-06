@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8673` commits and made `319` PRs.
+:people_hugging: I contributed to `50` repositories , made `8673` commits and made `320` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#ababed6](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/ababed6) feat: Add form data tracking for sign-ups
-* 🔍 Reviewed [#5938 Adds setup instructions for Mac users on newer macs](https://github.com/MediaJel/mediajel-gql-service/pull/5938) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#5946 [HOTFIX] [FOR REVIEW] hotfix thirdparty tag](https://github.com/MediaJel/mediajel-gql-service/pull/5946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🌟 Starred [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)
-* 🔍 Reviewed [#5923 [SCHEMA UPDATE] [FOR REVIEW] Jbjm thirdpartytag new](https://github.com/MediaJel/mediajel-gql-service/pull/5923) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `ui/create-appointments`
+  * [#491d30a](https://github.com/pacholoamit/lawher/commit/491d30a) feat: Add file upload to Firebase Storage and download URLs
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `ui/create-appointments`
+  * [#b426e14](https://github.com/pacholoamit/lawher/commit/b426e14) feat: Add subject and notes fields to appointment flow
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `ui/create-appointments`
+  * [#f467035](https://github.com/pacholoamit/lawher/commit/f467035) feat: Add file attachment functionality
+* ⏺️ Created new branch ui/create-appointments in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+* ➡️ Pushed 4 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#425e67d](https://github.com/pacholoamit/lawher/commit/425e67d) Merge pull request #16 from pacholoamit/refactor/sidebar
+
+refactor/sidebar
+  * [#5705611](https://github.com/pacholoamit/lawher/commit/5705611) feat(layout): add dynamic sidebar menu items based on user type
+  * [#ba6a1bb](https://github.com/pacholoamit/lawher/commit/ba6a1bb) update sidebar for users
+  * [#9197a9a](https://github.com/pacholoamit/lawher/commit/9197a9a) feat: Add .DS_Store binary file
 
 
 
