@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#932 ICF Line Items status and line items id](https://github.com/MediaJel/amplication-nestjs-microservices/pull/932) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 13 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
   * [#942064c](https://github.com/pacholoamit/lawher/commit/942064c) Merge pull request #18 from pacholoamit/staging
 
@@ -65,8 +66,6 @@ ui/create appointments
   * [#b426e14](https://github.com/pacholoamit/lawher/commit/b426e14) feat: Add subject and notes fields to appointment flow
   * [#f467035](https://github.com/pacholoamit/lawher/commit/f467035) feat: Add file attachment functionality
   * [#18b2f36](https://github.com/pacholoamit/lawher/commit/18b2f36) feat(components): Add constants and UI components for schedule-selector
-* 🔃 Merged [#17 ui/create appointments](https://github.com/pacholoamit/lawher/pull/17) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 27 files changed `++1380 --722`
 
 
 
