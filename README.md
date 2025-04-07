@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8673` commits and made `320` PRs.
+:people_hugging: I contributed to `50` repositories , made `8686` commits and made `314` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,20 +30,43 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `ui/create-appointments`
+* ➡️ Pushed 13 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#942064c](https://github.com/pacholoamit/lawher/commit/942064c) Merge pull request #18 from pacholoamit/staging
+
+staging
+  * [#5b79ea4](https://github.com/pacholoamit/lawher/commit/5b79ea4) Merge pull request #17 from pacholoamit/ui/create-appointments
+
+ui/create appointments
+  * [#64fe39b](https://github.com/pacholoamit/lawher/commit/64fe39b) feat: Add appointments filters for customer page
+  * [#a767da7](https://github.com/pacholoamit/lawher/commit/a767da7) refactor: Improve appointment details rendering
+  * [#73eac79](https://github.com/pacholoamit/lawher/commit/73eac79) feat: Add Firebase Storage operations handler for file uploads
   * [#491d30a](https://github.com/pacholoamit/lawher/commit/491d30a) feat: Add file upload to Firebase Storage and download URLs
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `ui/create-appointments`
   * [#b426e14](https://github.com/pacholoamit/lawher/commit/b426e14) feat: Add subject and notes fields to appointment flow
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `ui/create-appointments`
   * [#f467035](https://github.com/pacholoamit/lawher/commit/f467035) feat: Add file attachment functionality
-* ⏺️ Created new branch ui/create-appointments in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-* ➡️ Pushed 4 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#18b2f36](https://github.com/pacholoamit/lawher/commit/18b2f36) feat(components): Add constants and UI components for schedule-selector
   * [#425e67d](https://github.com/pacholoamit/lawher/commit/425e67d) Merge pull request #16 from pacholoamit/refactor/sidebar
 
 refactor/sidebar
   * [#5705611](https://github.com/pacholoamit/lawher/commit/5705611) feat(layout): add dynamic sidebar menu items based on user type
   * [#ba6a1bb](https://github.com/pacholoamit/lawher/commit/ba6a1bb) update sidebar for users
   * [#9197a9a](https://github.com/pacholoamit/lawher/commit/9197a9a) feat: Add .DS_Store binary file
+* 🔃 Merged [#18 staging](https://github.com/pacholoamit/lawher/pull/18) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 33 files changed `++1602 --825`
+* 🔃 Opened [#18 staging](https://github.com/pacholoamit/lawher/pull/18) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 33 files changed `++1602 --825`
+* ➡️ Pushed 8 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#5b79ea4](https://github.com/pacholoamit/lawher/commit/5b79ea4) Merge pull request #17 from pacholoamit/ui/create-appointments
+
+ui/create appointments
+  * [#64fe39b](https://github.com/pacholoamit/lawher/commit/64fe39b) feat: Add appointments filters for customer page
+  * [#a767da7](https://github.com/pacholoamit/lawher/commit/a767da7) refactor: Improve appointment details rendering
+  * [#73eac79](https://github.com/pacholoamit/lawher/commit/73eac79) feat: Add Firebase Storage operations handler for file uploads
+  * [#491d30a](https://github.com/pacholoamit/lawher/commit/491d30a) feat: Add file upload to Firebase Storage and download URLs
+  * [#b426e14](https://github.com/pacholoamit/lawher/commit/b426e14) feat: Add subject and notes fields to appointment flow
+  * [#f467035](https://github.com/pacholoamit/lawher/commit/f467035) feat: Add file attachment functionality
+  * [#18b2f36](https://github.com/pacholoamit/lawher/commit/18b2f36) feat(components): Add constants and UI components for schedule-selector
+* 🔃 Merged [#17 ui/create appointments](https://github.com/pacholoamit/lawher/pull/17) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 27 files changed `++1380 --722`
 
 
 
