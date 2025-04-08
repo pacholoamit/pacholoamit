@@ -30,19 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Merged [#686 Add Datasource Logger when debug=true on tag](https://github.com/MediaJel/mediajel-tracker/pull/686) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 6 files changed `++74 --4`
-* #️⃣ Closed [#685 Implement `debug=true` parameter in the mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/685) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#f0997ff](https://github.com/MediaJel/mediajel-tracker/commit/f0997ff) Merge pull request #686 from MediaJel/srr/findSource-param
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#caa7d47](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/caa7d47) Merge pull request #379 from MediaJel/srr/irtlive-fix
 
-Add Datasource Logger when debug=true on tag
-  * [#09ffad3](https://github.com/MediaJel/mediajel-tracker/commit/09ffad3) fix:changed name of findSource to debug and fixed logger
-  * [#c81b066](https://github.com/MediaJel/mediajel-tracker/commit/c81b066) fix:added formatting to xhr data
-  * [#72a72c5](https://github.com/MediaJel/mediajel-tracker/commit/72a72c5) fix:changed console log to tracker logger
-  * [#c19044d](https://github.com/MediaJel/mediajel-tracker/commit/c19044d) feat: added findSource param on tag to log datasource
-* 🔍 Reviewed [#686 Add Datasource Logger when debug=true on tag](https://github.com/MediaJel/mediajel-tracker/pull/686) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#932 ICF Line Items status and line items id](https://github.com/MediaJel/amplication-nestjs-microservices/pull/932) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+fix:added a function to wait for trackTrans to load
+  * [#3e19364](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3e19364) fix:added a function to wait for trackTrans to load
+* 🔃 Merged [#379 fix:added a function to wait for trackTrans to load](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/379) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++20 --17`
+* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
+  * [#721e827](https://github.com/MediaJel/incubator/commit/721e827) updates
+* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `refactor/dsp-api-v3`
+  * [#db016e4](https://github.com/MediaJel/incubator/commit/db016e4) updates
+* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `refactor/dsp-api-v3`
+  * [#9cf7626](https://github.com/MediaJel/incubator/commit/9cf7626) updates
 
 
 
