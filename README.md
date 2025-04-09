@@ -30,19 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#caa7d47](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/caa7d47) Merge pull request #379 from MediaJel/srr/irtlive-fix
-
-fix:added a function to wait for trackTrans to load
-  * [#3e19364](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3e19364) fix:added a function to wait for trackTrans to load
-* 🔃 Merged [#379 fix:added a function to wait for trackTrans to load](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/379) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++20 --17`
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `main`
-  * [#721e827](https://github.com/MediaJel/incubator/commit/721e827) updates
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `refactor/dsp-api-v3`
-  * [#db016e4](https://github.com/MediaJel/incubator/commit/db016e4) updates
-* ➡️ Pushed 1 commit in [MediaJel/incubator](https://github.com/MediaJel/incubator) on branch `refactor/dsp-api-v3`
-  * [#9cf7626](https://github.com/MediaJel/incubator/commit/9cf7626) updates
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#7eae56d](https://github.com/MediaJel/mediajel-tracker/commit/7eae56d) add tests
+* #️⃣ Opened [#691 mediajel-tracker e2e testing](https://github.com/MediaJel/mediajel-tracker/issues/691) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Opened [#690 Implement Transaction affiliation support on our tracker for retail id segregation](https://github.com/MediaJel/mediajel-tracker/issues/690) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#918a64b](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/918a64b) docs: Update tracking code to use timestamp as user ID
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
+  * [#193be94](https://github.com/MediaJel/amplication-nestjs-microservices/commit/193be94) chore: Add comments for registering and adding jobs
 
 
 
