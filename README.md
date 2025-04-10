@@ -30,14 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#5946 [HOTFIX] [FOR REVIEW] hotfix thirdparty tag](https://github.com/MediaJel/mediajel-gql-service/pull/5946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#3ac486c](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3ac486c) Merge pull request #384 from MediaJel/srr/remaxFix3
+
+fix:removed domcontentloaded in remax
+  * [#d056488](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/d056488) fix:removed domcontentloaded in remax
+* 🔃 Merged [#384 fix:removed domcontentloaded in remax](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/384) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 3 files changed `++28 --28`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
+  * [#749c257](https://github.com/MediaJel/amplication-nestjs-microservices/commit/749c257) feat: Add AsyncExecutorServiceGetResultDto class
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#7eae56d](https://github.com/MediaJel/mediajel-tracker/commit/7eae56d) add tests
-* #️⃣ Opened [#691 mediajel-tracker e2e testing](https://github.com/MediaJel/mediajel-tracker/issues/691) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Opened [#690 Implement Transaction affiliation support on our tracker for retail id segregation](https://github.com/MediaJel/mediajel-tracker/issues/690) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#918a64b](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/918a64b) docs: Update tracking code to use timestamp as user ID
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
-  * [#193be94](https://github.com/MediaJel/amplication-nestjs-microservices/commit/193be94) chore: Add comments for registering and adding jobs
 
 
 
