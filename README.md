@@ -30,18 +30,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#5946 [HOTFIX] [FOR REVIEW] hotfix thirdparty tag](https://github.com/MediaJel/mediajel-gql-service/pull/5946) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#3ac486c](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3ac486c) Merge pull request #384 from MediaJel/srr/remaxFix3
-
-fix:removed domcontentloaded in remax
-  * [#d056488](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/d056488) fix:removed domcontentloaded in remax
-* 🔃 Merged [#384 fix:removed domcontentloaded in remax](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/384) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 3 files changed `++28 --28`
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
-  * [#749c257](https://github.com/MediaJel/amplication-nestjs-microservices/commit/749c257) feat: Add AsyncExecutorServiceGetResultDto class
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#7eae56d](https://github.com/MediaJel/mediajel-tracker/commit/7eae56d) add tests
+  * [#6fac084](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6fac084) feat: Add MediajelGraphQLModule and MediajelGraphQLService
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
+  * [#32f2f47](https://github.com/MediaJel/amplication-nestjs-microservices/commit/32f2f47) feat: Add options interface and metadata for decorator
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
+  * [#0676f4b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0676f4b) Merge branch &#39;feat/s3-endpoint&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into feat/s3-endpoint
+* 🔃 Merged [#948 feat/vm s3 endpoint: Added Clerk auth to Pre-built reports](https://github.com/MediaJel/amplication-nestjs-microservices/pull/948) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 9 files changed `++371 --135`
+* ➡️ Pushed 6 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
+  * [#38f4b81](https://github.com/MediaJel/amplication-nestjs-microservices/commit/38f4b81) Merge pull request #948 from MediaJel/feat/vm-s3-endpoint
+
+feat/vm s3 endpoint: Added Clerk auth to Pre-built reports
+  * [#3022a16](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3022a16) Merge branch &#39;feat/s3-endpoint&#39; into feat/vm-s3-endpoint
+  * [#b4fb9cd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b4fb9cd) feat: Implement clerk auth to Prebuilt Reports
+  * [#bf68f31](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bf68f31) Merge branch &#39;feat/update-clerk-auth-codebase-due-to-public-metadata-changes&#39; of github.com:MediaJel/amplication-nestjs-microservices into feat/vm-s3-endpoint
+  * [#6ec487d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6ec487d) feat: Add more logs to clerk auth
+  * [#676e0c6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/676e0c6) feat: Implement new format connectionIds from public metadata
 
 
 
