@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8689` commits and made `314` PRs.
+:people_hugging: I contributed to `50` repositories , made `8691` commits and made `314` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,23 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
-  * [#6fac084](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6fac084) feat: Add MediajelGraphQLModule and MediajelGraphQLService
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
-  * [#32f2f47](https://github.com/MediaJel/amplication-nestjs-microservices/commit/32f2f47) feat: Add options interface and metadata for decorator
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
-  * [#0676f4b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0676f4b) Merge branch &#39;feat/s3-endpoint&#39; of https://github.com/MediaJel/amplication-nestjs-microservices into feat/s3-endpoint
-* 🔃 Merged [#948 feat/vm s3 endpoint: Added Clerk auth to Pre-built reports](https://github.com/MediaJel/amplication-nestjs-microservices/pull/948) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 9 files changed `++371 --135`
-* ➡️ Pushed 6 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
-  * [#38f4b81](https://github.com/MediaJel/amplication-nestjs-microservices/commit/38f4b81) Merge pull request #948 from MediaJel/feat/vm-s3-endpoint
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#c8be919](https://github.com/MediaJel/mediajel-tracker/commit/c8be919) Merge pull request #694 from MediaJel/fix/rpb/ticketure
 
-feat/vm s3 endpoint: Added Clerk auth to Pre-built reports
-  * [#3022a16](https://github.com/MediaJel/amplication-nestjs-microservices/commit/3022a16) Merge branch &#39;feat/s3-endpoint&#39; into feat/vm-s3-endpoint
-  * [#b4fb9cd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b4fb9cd) feat: Implement clerk auth to Prebuilt Reports
-  * [#bf68f31](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bf68f31) Merge branch &#39;feat/update-clerk-auth-codebase-due-to-public-metadata-changes&#39; of github.com:MediaJel/amplication-nestjs-microservices into feat/vm-s3-endpoint
-  * [#6ec487d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/6ec487d) feat: Add more logs to clerk auth
-  * [#676e0c6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/676e0c6) feat: Implement new format connectionIds from public metadata
+Changed ticketure description from ticketmaster to ticketure
+  * [#f580f60](https://github.com/MediaJel/mediajel-tracker/commit/f580f60) changed ticketure description from ticketmaster to ticketure
+* 🔃 Merged [#694 Changed ticketure description from ticketmaster to ticketure](https://github.com/MediaJel/mediajel-tracker/pull/694) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++1 --1`
+* 💬 Commented on [#937 seosemadministrator@mediajel.com account cannot add GA4 accounts since it&#39;s at it&#39;s limit](https://github.com/MediaJel/amplication-nestjs-microservices/issues/937) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#936 Create new vs returning report for Shangri-la](https://github.com/MediaJel/amplication-nestjs-microservices/issues/936) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#936 Create new vs returning report for Shangri-la](https://github.com/MediaJel/amplication-nestjs-microservices/issues/936) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
