@@ -30,16 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#964 MS-5905 Revert rocks db setup](https://github.com/MediaJel/amplication-nestjs-microservices/pull/964) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#965 Fix Axios issues in the microservice for publisher-transactions](https://github.com/MediaJel/amplication-nestjs-microservices/issues/965) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 4 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#3942350](https://github.com/MediaJel/salesforce-automation/commit/3942350) Merge pull request #36 from MediaJel/staging
+
+Staging to Master
+  * [#d509f8c](https://github.com/MediaJel/salesforce-automation/commit/d509f8c) style: Improve error message for Quickbooks Estimate
+  * [#4487c8f](https://github.com/MediaJel/salesforce-automation/commit/4487c8f) style: Update error message string concatenation
+  * [#ee47693](https://github.com/MediaJel/salesforce-automation/commit/ee47693) fix: Fix estimate creation for product and Refactor processEstimate to use separate function
+* 🔃 Merged [#36 Staging to Master](https://github.com/MediaJel/salesforce-automation/pull/36) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 3 files changed `++71 --31`
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
   * [#c8be919](https://github.com/MediaJel/mediajel-tracker/commit/c8be919) Merge pull request #694 from MediaJel/fix/rpb/ticketure
 
 Changed ticketure description from ticketmaster to ticketure
   * [#f580f60](https://github.com/MediaJel/mediajel-tracker/commit/f580f60) changed ticketure description from ticketmaster to ticketure
-* 🔃 Merged [#694 Changed ticketure description from ticketmaster to ticketure](https://github.com/MediaJel/mediajel-tracker/pull/694) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++1 --1`
-* 💬 Commented on [#937 seosemadministrator@mediajel.com account cannot add GA4 accounts since it&#39;s at it&#39;s limit](https://github.com/MediaJel/amplication-nestjs-microservices/issues/937) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#936 Create new vs returning report for Shangri-la](https://github.com/MediaJel/amplication-nestjs-microservices/issues/936) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#936 Create new vs returning report for Shangri-la](https://github.com/MediaJel/amplication-nestjs-microservices/issues/936) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
