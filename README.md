@@ -30,18 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 * 🌟 Starred [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
   * [#9081527](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9081527) refactor: Remove unnecessary imports and comments
 * 🔍 Reviewed [#964 MS-5905 Revert rocks db setup](https://github.com/MediaJel/amplication-nestjs-microservices/pull/964) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#965 Fix Axios issues in the microservice for publisher-transactions](https://github.com/MediaJel/amplication-nestjs-microservices/issues/965) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 4 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#3942350](https://github.com/MediaJel/salesforce-automation/commit/3942350) Merge pull request #36 from MediaJel/staging
-
-Staging to Master
-  * [#d509f8c](https://github.com/MediaJel/salesforce-automation/commit/d509f8c) style: Improve error message for Quickbooks Estimate
-  * [#4487c8f](https://github.com/MediaJel/salesforce-automation/commit/4487c8f) style: Update error message string concatenation
-  * [#ee47693](https://github.com/MediaJel/salesforce-automation/commit/ee47693) fix: Fix estimate creation for product and Refactor processEstimate to use separate function
 
 
 
