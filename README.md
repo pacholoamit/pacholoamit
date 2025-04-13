@@ -30,12 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#b2a2f1c](https://github.com/pacholoamit/lawher/commit/b2a2f1c) feat: Add profile page and change root routes
 * 🌟 Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 * 🌟 Starred [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
   * [#9081527](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9081527) refactor: Remove unnecessary imports and comments
 * 🔍 Reviewed [#964 MS-5905 Revert rocks db setup](https://github.com/MediaJel/amplication-nestjs-microservices/pull/964) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#965 Fix Axios issues in the microservice for publisher-transactions](https://github.com/MediaJel/amplication-nestjs-microservices/issues/965) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
