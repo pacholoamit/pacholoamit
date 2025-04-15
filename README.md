@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8697` commits and made `311` PRs.
+:people_hugging: I contributed to `50` repositories , made `8705` commits and made `312` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,12 +31,22 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#82814e7](https://github.com/pacholoamit/lawher/commit/82814e7) feat: Add business hours to lawyer onboarding form
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#7f6453f](https://github.com/pacholoamit/lawher/commit/7f6453f) refactor: Improve user initials generation using useMemo
+* ➡️ Pushed 6 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#ba758c3](https://github.com/pacholoamit/lawher/commit/ba758c3) Merge pull request #19 from pacholoamit/staging
+
+staging
+  * [#1ae5929](https://github.com/pacholoamit/lawher/commit/1ae5929) style: Update grid columns for time slots and calendar days
+  * [#ea769c9](https://github.com/pacholoamit/lawher/commit/ea769c9) feat: Integrate location translation API for provinces and cities
+  * [#d46f153](https://github.com/pacholoamit/lawher/commit/d46f153) style: Update hero.jpg binary file
+  * [#0b3a287](https://github.com/pacholoamit/lawher/commit/0b3a287) feat: Add layout, page, and components for Lawher website
   * [#b2a2f1c](https://github.com/pacholoamit/lawher/commit/b2a2f1c) feat: Add profile page and change root routes
-* 🌟 Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-* 🌟 Starred [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/s3-endpoint`
-  * [#9081527](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9081527) refactor: Remove unnecessary imports and comments
-* 🔍 Reviewed [#964 MS-5905 Revert rocks db setup](https://github.com/MediaJel/amplication-nestjs-microservices/pull/964) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Merged [#19 staging](https://github.com/pacholoamit/lawher/pull/19) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 31 files changed `++1083 --62`
+* 🔃 Opened [#19 staging](https://github.com/pacholoamit/lawher/pull/19) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 31 files changed `++1083 --62`
 
 
 
