@@ -30,23 +30,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#82814e7](https://github.com/pacholoamit/lawher/commit/82814e7) feat: Add business hours to lawyer onboarding form
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#7f6453f](https://github.com/pacholoamit/lawher/commit/7f6453f) refactor: Improve user initials generation using useMemo
-* ➡️ Pushed 6 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#ba758c3](https://github.com/pacholoamit/lawher/commit/ba758c3) Merge pull request #19 from pacholoamit/staging
+* ➡️ Pushed 8 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#4f0cbc5](https://github.com/pacholoamit/lawher/commit/4f0cbc5) Merge pull request #20 from pacholoamit/staging
 
 staging
-  * [#1ae5929](https://github.com/pacholoamit/lawher/commit/1ae5929) style: Update grid columns for time slots and calendar days
-  * [#ea769c9](https://github.com/pacholoamit/lawher/commit/ea769c9) feat: Integrate location translation API for provinces and cities
-  * [#d46f153](https://github.com/pacholoamit/lawher/commit/d46f153) style: Update hero.jpg binary file
-  * [#0b3a287](https://github.com/pacholoamit/lawher/commit/0b3a287) feat: Add layout, page, and components for Lawher website
-  * [#b2a2f1c](https://github.com/pacholoamit/lawher/commit/b2a2f1c) feat: Add profile page and change root routes
-* 🔃 Merged [#19 staging](https://github.com/pacholoamit/lawher/pull/19) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 31 files changed `++1083 --62`
-* 🔃 Opened [#19 staging](https://github.com/pacholoamit/lawher/pull/19) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 31 files changed `++1083 --62`
+  * [#ccfb58b](https://github.com/pacholoamit/lawher/commit/ccfb58b) style: Refactor image rendering in components
+  * [#c4074bc](https://github.com/pacholoamit/lawher/commit/c4074bc) refactor: Update user data handling in profile page
+  * [#86b37eb](https://github.com/pacholoamit/lawher/commit/86b37eb) refactor: Remove unnecessary console logs and improve naming
+  * [#49f3586](https://github.com/pacholoamit/lawher/commit/49f3586) refactor: Convert availability format for lawyer profile page
+  * [#48dff99](https://github.com/pacholoamit/lawher/commit/48dff99) refactor: Update business hours logic for lawyer profile
+  * [#82814e7](https://github.com/pacholoamit/lawher/commit/82814e7) feat: Add business hours to lawyer onboarding form
+  * [#7f6453f](https://github.com/pacholoamit/lawher/commit/7f6453f) refactor: Improve user initials generation using useMemo
+* 🔃 Merged [#20 staging](https://github.com/pacholoamit/lawher/pull/20) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 16 files changed `++695 --231`
+* 🔃 Opened [#20 staging](https://github.com/pacholoamit/lawher/pull/20) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 16 files changed `++695 --231`
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#ccfb58b](https://github.com/pacholoamit/lawher/commit/ccfb58b) style: Refactor image rendering in components
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#c4074bc](https://github.com/pacholoamit/lawher/commit/c4074bc) refactor: Update user data handling in profile page
 
 
 
