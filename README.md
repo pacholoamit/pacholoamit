@@ -30,6 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#123 Production Deployment](https://github.com/MediaJel/serverless-functions/pull/123) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+* #️⃣ Opened [#122 Serverless functions failed lambda recovery](https://github.com/MediaJel/serverless-functions/issues/122) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
 * ➡️ Pushed 8 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
   * [#4f0cbc5](https://github.com/pacholoamit/lawher/commit/4f0cbc5) Merge pull request #20 from pacholoamit/staging
 
@@ -45,10 +47,6 @@ staging
   * 16 files changed `++695 --231`
 * 🔃 Opened [#20 staging](https://github.com/pacholoamit/lawher/pull/20) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
   * 16 files changed `++695 --231`
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#ccfb58b](https://github.com/pacholoamit/lawher/commit/ccfb58b) style: Refactor image rendering in components
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#c4074bc](https://github.com/pacholoamit/lawher/commit/c4074bc) refactor: Update user data handling in profile page
 
 
 
