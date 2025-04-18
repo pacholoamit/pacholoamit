@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#662 Consolidate dutchie-iframe, dutchie-subdomain, and dutchieplus into 1 dutchie adapter](https://github.com/MediaJel/mediajel-tracker/issues/662) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#868 Salesforce automation updates](https://github.com/MediaJel/amplication-nestjs-microservices/issues/868) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#894 Ingest Nexxen logs into Clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/894) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#937 seosemadministrator@mediajel.com account cannot add GA4 accounts since it&#39;s at it&#39;s limit](https://github.com/MediaJel/amplication-nestjs-microservices/issues/937) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#851 Implement Signoz in-depth tracing](https://github.com/MediaJel/amplication-nestjs-microservices/issues/851) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#984 MS-5909 Added AuthRestMiddleware](https://github.com/MediaJel/amplication-nestjs-microservices/pull/984) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#696 Create Volution adapter on tracker](https://github.com/MediaJel/mediajel-tracker/issues/696) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#692 Create middleware to handle isTrackerLoaded()](https://github.com/MediaJel/mediajel-tracker/issues/692) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#684 Make fix on ecwid adapter in the tracker](https://github.com/MediaJel/mediajel-tracker/issues/684) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#859 Create New vs Returning feature in the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/859) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
