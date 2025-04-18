@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8705` commits and made `312` PRs.
+:people_hugging: I contributed to `50` repositories , made `8707` commits and made `312` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,23 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#123 Production Deployment](https://github.com/MediaJel/serverless-functions/pull/123) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-* #️⃣ Opened [#122 Serverless functions failed lambda recovery](https://github.com/MediaJel/serverless-functions/issues/122) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
-* ➡️ Pushed 8 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#4f0cbc5](https://github.com/pacholoamit/lawher/commit/4f0cbc5) Merge pull request #20 from pacholoamit/staging
-
-staging
-  * [#ccfb58b](https://github.com/pacholoamit/lawher/commit/ccfb58b) style: Refactor image rendering in components
-  * [#c4074bc](https://github.com/pacholoamit/lawher/commit/c4074bc) refactor: Update user data handling in profile page
-  * [#86b37eb](https://github.com/pacholoamit/lawher/commit/86b37eb) refactor: Remove unnecessary console logs and improve naming
-  * [#49f3586](https://github.com/pacholoamit/lawher/commit/49f3586) refactor: Convert availability format for lawyer profile page
-  * [#48dff99](https://github.com/pacholoamit/lawher/commit/48dff99) refactor: Update business hours logic for lawyer profile
-  * [#82814e7](https://github.com/pacholoamit/lawher/commit/82814e7) feat: Add business hours to lawyer onboarding form
-  * [#7f6453f](https://github.com/pacholoamit/lawher/commit/7f6453f) refactor: Improve user initials generation using useMemo
-* 🔃 Merged [#20 staging](https://github.com/pacholoamit/lawher/pull/20) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 16 files changed `++695 --231`
-* 🔃 Opened [#20 staging](https://github.com/pacholoamit/lawher/pull/20) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 16 files changed `++695 --231`
+* #️⃣ Closed [#662 Consolidate dutchie-iframe, dutchie-subdomain, and dutchieplus into 1 dutchie adapter](https://github.com/MediaJel/mediajel-tracker/issues/662) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#868 Salesforce automation updates](https://github.com/MediaJel/amplication-nestjs-microservices/issues/868) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#894 Ingest Nexxen logs into Clickhouse](https://github.com/MediaJel/amplication-nestjs-microservices/issues/894) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#937 seosemadministrator@mediajel.com account cannot add GA4 accounts since it&#39;s at it&#39;s limit](https://github.com/MediaJel/amplication-nestjs-microservices/issues/937) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#851 Implement Signoz in-depth tracing](https://github.com/MediaJel/amplication-nestjs-microservices/issues/851) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
