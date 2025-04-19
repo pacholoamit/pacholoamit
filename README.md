@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `8707` commits and made `312` PRs.
+:people_hugging: I contributed to `50` repositories , made `8709` commits and made `313` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#984 MS-5909 Added AuthRestMiddleware](https://github.com/MediaJel/amplication-nestjs-microservices/pull/984) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#696 Create Volution adapter on tracker](https://github.com/MediaJel/mediajel-tracker/issues/696) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#692 Create middleware to handle isTrackerLoaded()](https://github.com/MediaJel/mediajel-tracker/issues/692) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#684 Make fix on ecwid adapter in the tracker](https://github.com/MediaJel/mediajel-tracker/issues/684) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#859 Create New vs Returning feature in the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/859) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#30e847d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/30e847d) Merge pull request #391 from MediaJel/ez-legalgreenusaTag
+
+ez legalgreenusaTag
+  * [#2b08d40](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/2b08d40) style: Update console log statements and fix formatting
+  * [#45fc88a](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/45fc88a) refactor: Remove console.log statements
+* 🔃 Merged [#391 ez legalgreenusaTag](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/391) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++2 --7`
+* 🔍 Reviewed [#391 ez legalgreenusaTag](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/391) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `fix/prisma-versions`
+  * [#531d94a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/531d94a) chore: Update e2e test script to force exit on completion
+* 🔃 Opened [#1000 fix/prisma versions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1000) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 6 files changed `++30 --19`
 
 
 
