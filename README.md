@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)
 * ➡️ Pushed 3 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
   * [#30e847d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/30e847d) Merge pull request #391 from MediaJel/ez-legalgreenusaTag
 
@@ -41,8 +42,6 @@ ez legalgreenusaTag
 * 🔍 Reviewed [#391 ez legalgreenusaTag](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/391) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `fix/prisma-versions`
   * [#531d94a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/531d94a) chore: Update e2e test script to force exit on completion
-* 🔃 Opened [#1000 fix/prisma versions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1000) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 6 files changed `++30 --19`
 
 
 
