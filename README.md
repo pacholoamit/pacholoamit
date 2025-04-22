@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8734` commits and made `317` PRs.
+:people_hugging: I contributed to `48` repositories , made `8758` commits and made `321` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,27 +30,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#d84ff0a](https://github.com/pacholoamit/lawher/commit/d84ff0a) Merge pull request #28 from pacholoamit/staging
+* #️⃣ Opened [#1013 Set up Woocommerce and Ecwid on self-hosted EC2 instance](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1013) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Opened [#1012 fix: Update @swc/cli version to 0.4.0](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1012) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++2 --2`
+* ⏺️ Created new branch fix/swc-compiler in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Merged [#392 srr/legalgreensFix](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/392) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++7 --11`
+* ➡️ Pushed 5 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#561106d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/561106d) Merge pull request #392 from MediaJel/srr/legalgreensFix
 
-staging
-  * [#2594a97](https://github.com/pacholoamit/lawher/commit/2594a97) feat: Add component to handle query params
-  * [#0d5cb1a](https://github.com/pacholoamit/lawher/commit/0d5cb1a) refactor: Remove unused imports from page.tsx
-* 🔃 Merged [#28 staging](https://github.com/pacholoamit/lawher/pull/28) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 1 file changed `++82 --63`
-* 🔃 Opened [#28 staging](https://github.com/pacholoamit/lawher/pull/28) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 1 file changed `++82 --63`
-* ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#2594a97](https://github.com/pacholoamit/lawher/commit/2594a97) feat: Add component to handle query params
-  * [#0d5cb1a](https://github.com/pacholoamit/lawher/commit/0d5cb1a) refactor: Remove unused imports from page.tsx
-* ➡️ Pushed 5 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#6caa7b5](https://github.com/pacholoamit/lawher/commit/6caa7b5) Merge pull request #27 from pacholoamit/staging
-
-staging
-  * [#7a67e6a](https://github.com/pacholoamit/lawher/commit/7a67e6a) fix: Update navigation method to use router instead of navigateWithParams
-  * [#1c69b09](https://github.com/pacholoamit/lawher/commit/1c69b09) refactor: Simplify redirect logic in multiple files
-  * [#5dd9261](https://github.com/pacholoamit/lawher/commit/5dd9261) style: Improve code formatting and structure
-  * [#4678fdd](https://github.com/pacholoamit/lawher/commit/4678fdd) feat: Add Clerk Captcha element to onboarding and sso-callback pages
+srr/legalgreensFix
+  * [#9b6e8c9](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/9b6e8c9) Remove affiliateId from TransactionEvent interface
+  * [#77ac014](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/77ac014) Update purchase details handling and error catch block
+  * [#9274e0f](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/9274e0f) Merge branch &#39;master&#39; of https://github.com/MediaJel/mediajel-frictionless-custom-tag
+  * [#caff010](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/caff010) refactor: made affiliateId optional
 
 
 
