@@ -30,6 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Closed [#1011 fix/versions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1011) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++13 --0`
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
   * [#80ef540](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/80ef540) Merge pull request #394 from MediaJel/srr/indianopolisSymph
 
@@ -44,7 +46,6 @@ Update transaction processing logic for Irtlive domain
   * [#a40dcec](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/a40dcec) Update transaction processing logic for Irtlive domain
 * 🔃 Merged [#393 Update transaction processing logic for Irtlive domain](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/393) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
   * 1 file changed `++22 --23`
-* 🔍 Reviewed [#1019 [FOR REVIEW] MS-5909 abstract RocksDB service and add category-specific DB for pub…](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1019) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
