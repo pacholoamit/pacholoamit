@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8758` commits and made `321` PRs.
+:people_hugging: I contributed to `48` repositories , made `8760` commits and made `321` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,20 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#1013 Set up Woocommerce and Ecwid on self-hosted EC2 instance](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1013) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Opened [#1012 fix: Update @swc/cli version to 0.4.0](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1012) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 2 files changed `++2 --2`
-* ⏺️ Created new branch fix/swc-compiler in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Merged [#392 srr/legalgreensFix](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/392) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++7 --11`
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#561106d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/561106d) Merge pull request #392 from MediaJel/srr/legalgreensFix
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#80ef540](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/80ef540) Merge pull request #394 from MediaJel/srr/indianopolisSymph
 
-srr/legalgreensFix
-  * [#9b6e8c9](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/9b6e8c9) Remove affiliateId from TransactionEvent interface
-  * [#77ac014](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/77ac014) Update purchase details handling and error catch block
-  * [#9274e0f](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/9274e0f) Merge branch &#39;master&#39; of https://github.com/MediaJel/mediajel-frictionless-custom-tag
-  * [#caff010](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/caff010) refactor: made affiliateId optional
+Update function name for loading tracker in tickets domain
+  * [#b884c38](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/b884c38) Update function name for loading tracker in tickets domain
+* 🔃 Merged [#394 Update function name for loading tracker in tickets domain](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/394) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++2 --2`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#b74fea8](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/b74fea8) Merge pull request #393 from MediaJel/srr/irtlive2
+
+Update transaction processing logic for Irtlive domain
+  * [#a40dcec](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/a40dcec) Update transaction processing logic for Irtlive domain
+* 🔃 Merged [#393 Update transaction processing logic for Irtlive domain](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/393) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++22 --23`
+* 🔍 Reviewed [#1019 [FOR REVIEW] MS-5909 abstract RocksDB service and add category-specific DB for pub…](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1019) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
