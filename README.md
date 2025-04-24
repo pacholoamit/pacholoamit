@@ -30,22 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Closed [#1011 fix/versions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1011) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++13 --0`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#80ef540](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/80ef540) Merge pull request #394 from MediaJel/srr/indianopolisSymph
-
-Update function name for loading tracker in tickets domain
-  * [#b884c38](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/b884c38) Update function name for loading tracker in tickets domain
-* 🔃 Merged [#394 Update function name for loading tracker in tickets domain](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/394) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++2 --2`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#b74fea8](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/b74fea8) Merge pull request #393 from MediaJel/srr/irtlive2
-
-Update transaction processing logic for Irtlive domain
-  * [#a40dcec](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/a40dcec) Update transaction processing logic for Irtlive domain
-* 🔃 Merged [#393 Update transaction processing logic for Irtlive domain](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/393) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++22 --23`
+* 🔃 Opened [#126 ez nexxenLogFix and Multiloader](https://github.com/MediaJel/serverless-functions/pull/126) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 5 files changed `++126 --6`
+* 🌟 Starred [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95)
+* 🔍 Reviewed [#1019 [FOR REVIEW] MS-5909 abstract RocksDB service and add category-specific DB for pub…](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1019) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Opened [#29 style: Update button and footer styles](https://github.com/pacholoamit/lawher/pull/29) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 3 files changed `++16 --10`
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#b90e8bd](https://github.com/pacholoamit/lawher/commit/b90e8bd) style: Update button and footer styles
 
 
 
