@@ -30,14 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 5 commits in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `master`
+  * [#654e706](https://github.com/MediaJel/serverless-functions/commit/654e706) Merge pull request #126 from MediaJel/ez-nexxenLogFix-and-Multiloader
+
+ez nexxenLogFix and Multiloader
+  * [#c904101](https://github.com/MediaJel/serverless-functions/commit/c904101) fix
+  * [#a1ae6bb](https://github.com/MediaJel/serverless-functions/commit/a1ae6bb) feat: Add loader-runner function and handler
+  * [#8d2c3f6](https://github.com/MediaJel/serverless-functions/commit/8d2c3f6) fix: change mock file for testing IDOL CHAMP case
+  * [#3694981](https://github.com/MediaJel/serverless-functions/commit/3694981) fix:newline fix for specific IDOL CHAMP case
+* 🔃 Merged [#126 ez nexxenLogFix and Multiloader](https://github.com/MediaJel/serverless-functions/pull/126) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
+  * 11 files changed `++659 --25`
+* ➡️ Pushed 1 commit in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions) on branch `ez-nexxenLogFix-and-Multiloader`
+  * [#c904101](https://github.com/MediaJel/serverless-functions/commit/c904101) fix
 * 🔃 Opened [#126 ez nexxenLogFix and Multiloader](https://github.com/MediaJel/serverless-functions/pull/126) in [MediaJel/serverless-functions](https://github.com/MediaJel/serverless-functions)
   * 5 files changed `++126 --6`
 * 🌟 Starred [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95)
-* 🔍 Reviewed [#1019 [FOR REVIEW] MS-5909 abstract RocksDB service and add category-specific DB for pub…](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1019) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Opened [#29 style: Update button and footer styles](https://github.com/pacholoamit/lawher/pull/29) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 3 files changed `++16 --10`
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#b90e8bd](https://github.com/pacholoamit/lawher/commit/b90e8bd) style: Update button and footer styles
 
 
 
