@@ -30,12 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#1035 [HOTFIX] Recreated Gannet API to HOTFIX](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1035) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jjy-gannet-api-hotfix`
+  * [#b4d55d7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b4d55d7) Merge pull request #1036 from MediaJel/vlm-jjy-gannet-api-hotfix
+
+feat: Add clerk auth login staging and prod
+  * [#b02273e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b02273e) feat: Add clerk auth login staging and prod
+* 🔃 Merged [#1036 feat: Add clerk auth login staging and prod](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1036) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++137 --0`
+* 🔍 Reviewed [#1036 feat: Add clerk auth login staging and prod](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1036) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🌟 Starred [krzysztofzablocki/KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#9774b76](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/9774b76) refactor: Refactor xhrResponseSource function in legalgreenusa code
-* #️⃣ Reopened [#662 Consolidate dutchie-iframe, dutchie-subdomain, and dutchieplus into 1 dutchie adapter](https://github.com/MediaJel/mediajel-tracker/issues/662) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#999 Research into adding GTM to NextJS (Legal Greens)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/999) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#711 Research into Snowplow alternatives](https://github.com/MediaJel/mediajel/issues/711) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
 
 
 
