@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8764` commits and made `323` PRs.
+:people_hugging: I contributed to `48` repositories , made `8765` commits and made `323` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [krzysztofzablocki/KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#9774b76](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/9774b76) refactor: Refactor xhrResponseSource function in legalgreenusa code
+* #️⃣ Reopened [#662 Consolidate dutchie-iframe, dutchie-subdomain, and dutchieplus into 1 dutchie adapter](https://github.com/MediaJel/mediajel-tracker/issues/662) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * #️⃣ Closed [#999 Research into adding GTM to NextJS (Legal Greens)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/999) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#711 Research into Snowplow alternatives](https://github.com/MediaJel/mediajel/issues/711) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#551 Modify mediajel-tracker development experience to use snowplow-micro](https://github.com/MediaJel/amplication-nestjs-microservices/issues/551) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#647 Add Multiple Implementations Class to the mediajel tracker](https://github.com/MediaJel/mediajel-tracker/issues/647) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#573 Document snowplow event recovery](https://github.com/MediaJel/amplication-nestjs-microservices/issues/573) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
