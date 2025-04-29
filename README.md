@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8765` commits and made `321` PRs.
+:people_hugging: I contributed to `48` repositories , made `8765` commits and made `323` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#1035 [HOTFIX] Recreated Gannet API to HOTFIX](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1035) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jjy-gannet-api-hotfix`
-  * [#b4d55d7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b4d55d7) Merge pull request #1036 from MediaJel/vlm-jjy-gannet-api-hotfix
-
-feat: Add clerk auth login staging and prod
-  * [#b02273e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b02273e) feat: Add clerk auth login staging and prod
-* 🔃 Merged [#1036 feat: Add clerk auth login staging and prod](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1036) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 3 files changed `++137 --0`
-* 🔍 Reviewed [#1036 feat: Add clerk auth login staging and prod](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1036) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🌟 Starred [krzysztofzablocki/KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers)
+* 🔃 Opened [#1045 chore: Add pages directory to Dockerfile](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1045) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++1 --0`
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `fix/auth-page-static`
+  * [#af90708](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af90708) chore: Add pages directory to Dockerfile
+* 🔍 Reviewed [#1044 [HOTFIX] Add nginx config for auth](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1044) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Opened [#1043 feat: Add ServeStaticModule for serving /auth from pages](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1043) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++12 --5`
+* ⏺️ Created new branch fix/auth-page-static in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
