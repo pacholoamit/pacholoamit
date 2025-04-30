@@ -30,13 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#1047 Check Partner tags and create plan on adding them to the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1047) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#1014 Change TraceMethod to Trace](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1014) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🌟 Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
 * 🔃 Opened [#1045 chore: Add pages directory to Dockerfile](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1045) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 1 file changed `++1 --0`
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `fix/auth-page-static`
   * [#af90708](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af90708) chore: Add pages directory to Dockerfile
-* 🔍 Reviewed [#1044 [HOTFIX] Add nginx config for auth](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1044) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
