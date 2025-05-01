@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8765` commits and made `323` PRs.
+:people_hugging: I contributed to `48` repositories , made `8785` commits and made `323` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#3931f19](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3931f19) feat: Add datalayerSource function for handling dataLayer
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#69d27ef](https://github.com/MediaJel/mediajel-tracker/commit/69d27ef) Merge pull request #701 from MediaJel/srr/event-rules-extension
+
+Add event rules extension to Snowplow tracker
+  * [#983eb43](https://github.com/MediaJel/mediajel-tracker/commit/983eb43) Add event rules extension to Snowplow tracker
+* 🔃 Merged [#701 Add event rules extension to Snowplow tracker](https://github.com/MediaJel/mediajel-tracker/pull/701) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 5 files changed `++56 --1`
 * #️⃣ Opened [#1047 Check Partner tags and create plan on adding them to the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1047) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#1014 Change TraceMethod to Trace](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1014) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🌟 Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
-* 🔃 Opened [#1045 chore: Add pages directory to Dockerfile](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1045) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++1 --0`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `fix/auth-page-static`
-  * [#af90708](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af90708) chore: Add pages directory to Dockerfile
 
 
 
