@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8785` commits and made `323` PRs.
+:people_hugging: I contributed to `49` repositories , made `8786` commits and made `323` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#3931f19](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3931f19) feat: Add datalayerSource function for handling dataLayer
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#69d27ef](https://github.com/MediaJel/mediajel-tracker/commit/69d27ef) Merge pull request #701 from MediaJel/srr/event-rules-extension
-
-Add event rules extension to Snowplow tracker
-  * [#983eb43](https://github.com/MediaJel/mediajel-tracker/commit/983eb43) Add event rules extension to Snowplow tracker
-* 🔃 Merged [#701 Add event rules extension to Snowplow tracker](https://github.com/MediaJel/mediajel-tracker/pull/701) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 5 files changed `++56 --1`
-* #️⃣ Opened [#1047 Check Partner tags and create plan on adding them to the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1047) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#1014 Change TraceMethod to Trace](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1014) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#936 Create new vs returning report for Shangri-la](https://github.com/MediaJel/amplication-nestjs-microservices/issues/936) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#673 How to generate a paid search conversion tag &amp; check if paid search conversions are working](https://github.com/MediaJel/mediajel-tracker/issues/673) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#994 Basket items investigation](https://github.com/MediaJel/amplication-nestjs-microservices/issues/994) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#994 Basket items investigation](https://github.com/MediaJel/amplication-nestjs-microservices/issues/994) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1062 Add Nexxen logs to Clickhouse replication queue / api in the microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1062) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
