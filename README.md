@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `8786` commits and made `323` PRs.
+:people_hugging: I contributed to `48` repositories , made `8787` commits and made `323` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#8726 Session KPI](https://github.com/MediaJel/mediajel-dashboard/issues/8726) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#1052 feature: ecommerce detection endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1052) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#97 Expand on our ad impression schema (v3)](https://github.com/MediaJel/mj-snowplow-management/issues/97) from [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
 * 💬 Commented on [#936 Create new vs returning report for Shangri-la](https://github.com/MediaJel/amplication-nestjs-microservices/issues/936) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#673 How to generate a paid search conversion tag &amp; check if paid search conversions are working](https://github.com/MediaJel/mediajel-tracker/issues/673) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#994 Basket items investigation](https://github.com/MediaJel/amplication-nestjs-microservices/issues/994) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#994 Basket items investigation](https://github.com/MediaJel/amplication-nestjs-microservices/issues/994) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#1062 Add Nexxen logs to Clickhouse replication queue / api in the microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1062) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
