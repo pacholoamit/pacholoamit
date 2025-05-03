@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8787` commits and made `323` PRs.
+:people_hugging: I contributed to `48` repositories , made `8788` commits and made `324` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#704 update](https://github.com/MediaJel/mediajel-tracker/pull/704) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 6 files changed `++61 --1`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#daf2af4](https://github.com/MediaJel/mediajel-tracker/commit/daf2af4) Merge pull request #703 from MediaJel/srr/datalayer-loop
+
+added forEach to loop through datalayer for catching
+  * [#a0b1852](https://github.com/MediaJel/mediajel-tracker/commit/a0b1852) added forEach to loop through datalayer for catching
+* #️⃣ Closed [#702 update datalayerSource source in the mediajel-tracker to loop over the data layer once loaded](https://github.com/MediaJel/mediajel-tracker/issues/702) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔃 Merged [#703 added forEach to loop through datalayer for catching](https://github.com/MediaJel/mediajel-tracker/pull/703) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 1 file changed `++5 --0`
 * 💬 Commented on [#8726 Session KPI](https://github.com/MediaJel/mediajel-dashboard/issues/8726) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#1052 feature: ecommerce detection endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1052) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#97 Expand on our ad impression schema (v3)](https://github.com/MediaJel/mj-snowplow-management/issues/97) from [MediaJel/mj-snowplow-management](https://github.com/MediaJel/mj-snowplow-management)
-* 💬 Commented on [#936 Create new vs returning report for Shangri-la](https://github.com/MediaJel/amplication-nestjs-microservices/issues/936) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#673 How to generate a paid search conversion tag &amp; check if paid search conversions are working](https://github.com/MediaJel/mediajel-tracker/issues/673) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
