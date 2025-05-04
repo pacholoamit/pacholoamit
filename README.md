@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8788` commits and made `324` PRs.
+:people_hugging: I contributed to `48` repositories , made `8790` commits and made `326` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#704 update](https://github.com/MediaJel/mediajel-tracker/pull/704) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 6 files changed `++61 --1`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#daf2af4](https://github.com/MediaJel/mediajel-tracker/commit/daf2af4) Merge pull request #703 from MediaJel/srr/datalayer-loop
+* ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#840afd8](https://github.com/pacholoamit/lawher/commit/840afd8) Merge pull request #31 from pacholoamit/staging
 
-added forEach to loop through datalayer for catching
-  * [#a0b1852](https://github.com/MediaJel/mediajel-tracker/commit/a0b1852) added forEach to loop through datalayer for catching
-* #️⃣ Closed [#702 update datalayerSource source in the mediajel-tracker to loop over the data layer once loaded](https://github.com/MediaJel/mediajel-tracker/issues/702) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔃 Merged [#703 added forEach to loop through datalayer for catching](https://github.com/MediaJel/mediajel-tracker/pull/703) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 1 file changed `++5 --0`
-* 💬 Commented on [#8726 Session KPI](https://github.com/MediaJel/mediajel-dashboard/issues/8726) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+add consultation fee and delete commands
+  * [#3ee2122](https://github.com/pacholoamit/lawher/commit/3ee2122) add consultation fee and delete commands
+* 🔃 Merged [#31 add consultation fee and delete commands](https://github.com/pacholoamit/lawher/pull/31) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 10 files changed `++61 --153`
+* 🔃 Opened [#31 add consultation fee and delete commands](https://github.com/pacholoamit/lawher/pull/31) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 10 files changed `++61 --153`
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#3ee2122](https://github.com/pacholoamit/lawher/commit/3ee2122) add consultation fee and delete commands
+* 🌟 Starred [Rizarre/stinjy-money-tracker](https://github.com/Rizarre/stinjy-money-tracker)
 
 
 
