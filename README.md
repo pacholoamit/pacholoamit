@@ -30,18 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#840afd8](https://github.com/pacholoamit/lawher/commit/840afd8) Merge pull request #31 from pacholoamit/staging
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#b7e8991](https://github.com/MediaJel/mediajel-tracker/commit/b7e8991) remove counter
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#6dc07ad](https://github.com/MediaJel/mediajel-tracker/commit/6dc07ad) removed check transaction
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#9e960db](https://github.com/MediaJel/mediajel-tracker/commit/9e960db) Merge pull request #706 from MediaJel/srr/remove-eventRules
 
-add consultation fee and delete commands
-  * [#3ee2122](https://github.com/pacholoamit/lawher/commit/3ee2122) add consultation fee and delete commands
-* 🔃 Merged [#31 add consultation fee and delete commands](https://github.com/pacholoamit/lawher/pull/31) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 10 files changed `++61 --153`
-* 🔃 Opened [#31 add consultation fee and delete commands](https://github.com/pacholoamit/lawher/pull/31) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 10 files changed `++61 --153`
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#3ee2122](https://github.com/pacholoamit/lawher/commit/3ee2122) add consultation fee and delete commands
-* 🌟 Starred [Rizarre/stinjy-money-tracker](https://github.com/Rizarre/stinjy-money-tracker)
+refactor:remove eventrules from extensions
+  * [#f2b7c99](https://github.com/MediaJel/mediajel-tracker/commit/f2b7c99) refactor:remove eventrules from extensions
+* 🔃 Merged [#706 refactor:remove eventrules from extensions](https://github.com/MediaJel/mediajel-tracker/pull/706) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++0 --53`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#86548d8](https://github.com/MediaJel/mediajel-tracker/commit/86548d8) Merge pull request #710 from MediaJel/srr/adapterHandlerFix
+
+feat:executing the adapter-handler
+  * [#c4b2672](https://github.com/MediaJel/mediajel-tracker/commit/c4b2672) feat:executing the adapter-handler
 
 
 
