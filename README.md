@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `8796` commits and made `324` PRs.
+:people_hugging: I contributed to `49` repositories , made `8801` commits and made `324` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,11 +31,14 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
-  * [#d5b9c23](https://github.com/pacholoamit/TierD/commit/d5b9c23) added working ui
-* #️⃣ Opened [#1085 Create new vs returning customer report for Thick Ass Glass](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1085) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#668 Create additional documentation and AI videos for the dashboard](https://github.com/MediaJel/mediajel-tracker/issues/668) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#662 Consolidate dutchie-iframe, dutchie-subdomain, and dutchieplus into 1 dutchie adapter](https://github.com/MediaJel/mediajel-tracker/issues/662) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#907 Research into basket items discrepancies](https://github.com/MediaJel/amplication-nestjs-microservices/issues/907) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * [#cfee808](https://github.com/pacholoamit/TierD/commit/cfee808) UI: Fix Nav sidebar colors
+* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
+  * [#73f2d1a](https://github.com/pacholoamit/TierD/commit/73f2d1a) successfully integrate filemanagerservice with ui
+* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
+  * [#ffeeeeb](https://github.com/pacholoamit/TierD/commit/ffeeeeb) feat: Add better formatting for disk detailed information
+* 🌟 Starred [kubewall/kubewall](https://github.com/kubewall/kubewall)
+* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
+  * [#4b3acb4](https://github.com/pacholoamit/TierD/commit/4b3acb4) fix: Implement FileManagerService to content view
 
 
 
