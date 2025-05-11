@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `8801` commits and made `324` PRs.
+:people_hugging: I contributed to `49` repositories , made `8804` commits and made `324` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,14 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
+  * [#ea7514e](https://github.com/pacholoamit/TierD/commit/ea7514e) refactor: Improve Disk Details table view
+* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
+  * [#a588ca5](https://github.com/pacholoamit/TierD/commit/a588ca5) feat: Use actual data for Disk Detail view&#34;
+* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
+  * [#47fa7ba](https://github.com/pacholoamit/TierD/commit/47fa7ba) fix: capacity bar
+* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
   * [#cfee808](https://github.com/pacholoamit/TierD/commit/cfee808) UI: Fix Nav sidebar colors
 * ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
   * [#73f2d1a](https://github.com/pacholoamit/TierD/commit/73f2d1a) successfully integrate filemanagerservice with ui
-* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
-  * [#ffeeeeb](https://github.com/pacholoamit/TierD/commit/ffeeeeb) feat: Add better formatting for disk detailed information
-* 🌟 Starred [kubewall/kubewall](https://github.com/kubewall/kubewall)
-* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
-  * [#4b3acb4](https://github.com/pacholoamit/TierD/commit/4b3acb4) fix: Implement FileManagerService to content view
 
 
 
