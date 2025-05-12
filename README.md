@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `8803` commits and made `319` PRs.
+:people_hugging: I contributed to `49` repositories , made `8810` commits and made `320` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
-  * [#ea7514e](https://github.com/pacholoamit/TierD/commit/ea7514e) refactor: Improve Disk Details table view
-* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
-  * [#a588ca5](https://github.com/pacholoamit/TierD/commit/a588ca5) feat: Use actual data for Disk Detail view&#34;
-* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
-  * [#47fa7ba](https://github.com/pacholoamit/TierD/commit/47fa7ba) fix: capacity bar
-* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
-  * [#cfee808](https://github.com/pacholoamit/TierD/commit/cfee808) UI: Fix Nav sidebar colors
-* ➡️ Pushed 1 commit in [pacholoamit/TierD](https://github.com/pacholoamit/TierD) on branch `master`
-  * [#73f2d1a](https://github.com/pacholoamit/TierD/commit/73f2d1a) successfully integrate filemanagerservice with ui
+* ➡️ Pushed 4 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#25aa994](https://github.com/pacholoamit/lawher/commit/25aa994) Merge pull request #32 from pacholoamit/staging
+
+staging
+  * [#76e4c3b](https://github.com/pacholoamit/lawher/commit/76e4c3b) refactor: Remove City/Towns from create appointments flow
+  * [#8e5a851](https://github.com/pacholoamit/lawher/commit/8e5a851) feat: Add Register with Google to sign up page
+  * [#d287aa2](https://github.com/pacholoamit/lawher/commit/d287aa2) fix: Remove service fee
+* 🔃 Merged [#32 staging](https://github.com/pacholoamit/lawher/pull/32) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 3 files changed `++68 --9`
+* 🔃 Opened [#32 staging](https://github.com/pacholoamit/lawher/pull/32) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
+  * 3 files changed `++68 --9`
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#76e4c3b](https://github.com/pacholoamit/lawher/commit/76e4c3b) refactor: Remove City/Towns from create appointments flow
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#8e5a851](https://github.com/pacholoamit/lawher/commit/8e5a851) feat: Add Register with Google to sign up page
 
 
 
