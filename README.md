@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `8810` commits and made `320` PRs.
+:people_hugging: I contributed to `49` repositories , made `8817` commits and made `321` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,21 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 4 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#25aa994](https://github.com/pacholoamit/lawher/commit/25aa994) Merge pull request #32 from pacholoamit/staging
-
-staging
-  * [#76e4c3b](https://github.com/pacholoamit/lawher/commit/76e4c3b) refactor: Remove City/Towns from create appointments flow
-  * [#8e5a851](https://github.com/pacholoamit/lawher/commit/8e5a851) feat: Add Register with Google to sign up page
-  * [#d287aa2](https://github.com/pacholoamit/lawher/commit/d287aa2) fix: Remove service fee
-* 🔃 Merged [#32 staging](https://github.com/pacholoamit/lawher/pull/32) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 3 files changed `++68 --9`
-* 🔃 Opened [#32 staging](https://github.com/pacholoamit/lawher/pull/32) in [pacholoamit/lawher](https://github.com/pacholoamit/lawher)
-  * 3 files changed `++68 --9`
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#76e4c3b](https://github.com/pacholoamit/lawher/commit/76e4c3b) refactor: Remove City/Towns from create appointments flow
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#8e5a851](https://github.com/pacholoamit/lawher/commit/8e5a851) feat: Add Register with Google to sign up page
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#92d7554](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/92d7554) fix: add isTrackTransLoaded func
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#0de32dc](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/0de32dc) refactor: Change domain for bigtickets
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#1e874f8](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/1e874f8) refactor: Call big tickets code via func
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#30a14ae](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/30a14ae) add bigtickets
+* 🔍 Reviewed [#1028 Feat/update internal service so that we can generate tokens using microservice api](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1028) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
