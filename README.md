@@ -30,15 +30,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#1115511](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/1115511) Merge pull request #408 from MediaJel/ez-leaflyPVBeacon
+
+feat: Add Leafly pageview beacons
+  * [#7ecb151](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/7ecb151) feat: Added await and logging to leafly pageview beacons
+  * [#20549b2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/20549b2) feat: Add Leafly pageview beacons
+* 🔃 Merged [#408 feat: Add Leafly pageview beacons](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/408) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++20 --0`
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#b43ff34](https://github.com/pacholoamit/homelab-infrastructure/commit/b43ff34) feat: re-add pachtop
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
   * [#92d7554](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/92d7554) fix: add isTrackTransLoaded func
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
   * [#0de32dc](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/0de32dc) refactor: Change domain for bigtickets
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#1e874f8](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/1e874f8) refactor: Call big tickets code via func
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#30a14ae](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/30a14ae) add bigtickets
-* 🔍 Reviewed [#1028 Feat/update internal service so that we can generate tokens using microservice api](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1028) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
