@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#1105 Enhance transactions schema](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1105) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#1104 Add Currency indicator on Transaction Totals column](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1104) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
   * [#16f915d](https://github.com/MediaJel/mediajel-tracker/commit/16f915d) feat: add handling
@@ -38,8 +39,6 @@
   * [#1000f6f](https://github.com/pacholoamit/lawher/commit/1000f6f) feat: Add /admin page
 * ➡️ Pushed 1 commit in [pacholoamit/pachtop-landing-page](https://github.com/pacholoamit/pachtop-landing-page) on branch `master`
   * [#ade8528](https://github.com/pacholoamit/pachtop-landing-page/commit/ade8528) feat: Use local images
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#5827cf0](https://github.com/pacholoamit/homelab-infrastructure/commit/5827cf0) feat: remove pachtop
 
 
 
