@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `8817` commits and made `321` PRs.
+:people_hugging: I contributed to `48` repositories , made `8823` commits and made `321` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,20 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#1115511](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/1115511) Merge pull request #408 from MediaJel/ez-leaflyPVBeacon
-
-feat: Add Leafly pageview beacons
-  * [#7ecb151](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/7ecb151) feat: Added await and logging to leafly pageview beacons
-  * [#20549b2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/20549b2) feat: Add Leafly pageview beacons
-* 🔃 Merged [#408 feat: Add Leafly pageview beacons](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/408) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++20 --0`
+* #️⃣ Opened [#1104 Add Currency indicator on Transaction Totals column](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1104) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#16f915d](https://github.com/MediaJel/mediajel-tracker/commit/16f915d) feat: add handling
+* ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#564fce6](https://github.com/pacholoamit/lawher/commit/564fce6) feat: add readme
+  * [#1000f6f](https://github.com/pacholoamit/lawher/commit/1000f6f) feat: Add /admin page
+* ➡️ Pushed 1 commit in [pacholoamit/pachtop-landing-page](https://github.com/pacholoamit/pachtop-landing-page) on branch `master`
+  * [#ade8528](https://github.com/pacholoamit/pachtop-landing-page/commit/ade8528) feat: Use local images
 * ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#b43ff34](https://github.com/pacholoamit/homelab-infrastructure/commit/b43ff34) feat: re-add pachtop
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#92d7554](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/92d7554) fix: add isTrackTransLoaded func
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#0de32dc](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/0de32dc) refactor: Change domain for bigtickets
+  * [#5827cf0](https://github.com/pacholoamit/homelab-infrastructure/commit/5827cf0) feat: remove pachtop
 
 
 
