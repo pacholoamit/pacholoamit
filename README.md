@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8823` commits and made `321` PRs.
+:people_hugging: I contributed to `48` repositories , made `8829` commits and made `322` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,20 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#1105 Enhance transactions schema](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1105) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#1104 Add Currency indicator on Transaction Totals column](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1104) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#16f915d](https://github.com/MediaJel/mediajel-tracker/commit/16f915d) feat: add handling
-* ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
-  * [#564fce6](https://github.com/pacholoamit/lawher/commit/564fce6) feat: add readme
-  * [#1000f6f](https://github.com/pacholoamit/lawher/commit/1000f6f) feat: Add /admin page
-* ➡️ Pushed 1 commit in [pacholoamit/pachtop-landing-page](https://github.com/pacholoamit/pachtop-landing-page) on branch `master`
-  * [#ade8528](https://github.com/pacholoamit/pachtop-landing-page/commit/ade8528) feat: Use local images
+* #️⃣ Opened [#1107 Add Integrations documentation to Tags section](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1107) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1106 Create General Microservices dashboard for Signoz](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1106) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ⏺️ Created new branch feat/add-managed-disks-and-directories in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
+* ➡️ Pushed 6 commits in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer) on branch `master`
+  * [#c2cffd3](https://github.com/pacholoamit/DiskClaimer/commit/c2cffd3) Merge pull request #1 from pacholoamit/feat-mvvm-arch
+
+feat mvvm arch
+  * [#9d55efa](https://github.com/pacholoamit/DiskClaimer/commit/9d55efa) feat: Add real-time storage mount or unmount
+  * [#453e289](https://github.com/pacholoamit/DiskClaimer/commit/453e289) refactor: restructure File Manager Service functions
+  * [#e874431](https://github.com/pacholoamit/DiskClaimer/commit/e874431) fix: Disk deduplication
+  * [#a9be8ae](https://github.com/pacholoamit/DiskClaimer/commit/a9be8ae) refactor: Improve MVVM architecture
+  * [#1121043](https://github.com/pacholoamit/DiskClaimer/commit/1121043) refactor: Improve Code structure by using MVVM pattern
+* 🔃 Merged [#1 feat mvvm arch](https://github.com/pacholoamit/DiskClaimer/pull/1) in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
+  * 9 files changed `++480 --224`
 
 
 
