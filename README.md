@@ -30,20 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [glassflow/clickhouse-etl](https://github.com/glassflow/clickhouse-etl)
+* 🌟 Starred [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape)
 * #️⃣ Opened [#1107 Add Integrations documentation to Tags section](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1107) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#1106 Create General Microservices dashboard for Signoz](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1106) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ⏺️ Created new branch feat/add-managed-disks-and-directories in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
-* ➡️ Pushed 6 commits in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer) on branch `master`
-  * [#c2cffd3](https://github.com/pacholoamit/DiskClaimer/commit/c2cffd3) Merge pull request #1 from pacholoamit/feat-mvvm-arch
-
-feat mvvm arch
-  * [#9d55efa](https://github.com/pacholoamit/DiskClaimer/commit/9d55efa) feat: Add real-time storage mount or unmount
-  * [#453e289](https://github.com/pacholoamit/DiskClaimer/commit/453e289) refactor: restructure File Manager Service functions
-  * [#e874431](https://github.com/pacholoamit/DiskClaimer/commit/e874431) fix: Disk deduplication
-  * [#a9be8ae](https://github.com/pacholoamit/DiskClaimer/commit/a9be8ae) refactor: Improve MVVM architecture
-  * [#1121043](https://github.com/pacholoamit/DiskClaimer/commit/1121043) refactor: Improve Code structure by using MVVM pattern
-* 🔃 Merged [#1 feat mvvm arch](https://github.com/pacholoamit/DiskClaimer/pull/1) in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
-  * 9 files changed `++480 --224`
 
 
 
