@@ -30,12 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#65e2a43](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/65e2a43) Added leafly and nexxen beacons
-* 🌟 Starred [glassflow/clickhouse-etl](https://github.com/glassflow/clickhouse-etl)
-* 🌟 Starred [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape)
-* #️⃣ Opened [#1107 Add Integrations documentation to Tags section](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1107) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#1106 Create General Microservices dashboard for Signoz](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1106) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#714 Add a way to make deduplicator in tracker store ids for previous transactions](https://github.com/MediaJel/mediajel-tracker/issues/714) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#1112 Check create tag issue on dojo](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1112) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#718 Create fix to handle xhrResponseSource in the tracker and frictionless](https://github.com/MediaJel/mediajel-tracker/issues/718) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#8806 Campaigns with a discrepancy of more than 10%.](https://github.com/MediaJel/mediajel-dashboard/issues/8806) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#843 Do some research on how we can automatically document supported measurements for each tag on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/843) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
