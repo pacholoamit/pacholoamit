@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8829` commits and made `322` PRs.
+:people_hugging: I contributed to `48` repositories , made `8832` commits and made `323` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#65e2a43](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/65e2a43) Added leafly and nexxen beacons
 * 🌟 Starred [glassflow/clickhouse-etl](https://github.com/glassflow/clickhouse-etl)
 * 🌟 Starred [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape)
 * #️⃣ Opened [#1107 Add Integrations documentation to Tags section](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1107) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#1106 Create General Microservices dashboard for Signoz](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1106) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ⏺️ Created new branch feat/add-managed-disks-and-directories in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
 
 
 
