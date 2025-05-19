@@ -30,11 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#128bcc3](https://github.com/pacholoamit/lawher/commit/128bcc3) refactor: Update appointment status to enum type and metadata interface
+* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#450affd](https://github.com/pacholoamit/lawher/commit/450affd) feat: Add admin menu items and sidebar functionality
+* ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+  * [#4aa40f9](https://github.com/pacholoamit/lawher/commit/4aa40f9) feat: Add skeleton loading for location translations
+  * [#f8ec112](https://github.com/pacholoamit/lawher/commit/f8ec112) feat: Add Next.js Image component for hero image
 * 🌟 Starred [voideditor/void](https://github.com/voideditor/void)
 * #️⃣ Closed [#714 Add a way to make deduplicator in tracker store ids for previous transactions](https://github.com/MediaJel/mediajel-tracker/issues/714) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#1112 Check create tag issue on dojo](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1112) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#718 Create fix to handle xhrResponseSource in the tracker and frictionless](https://github.com/MediaJel/mediajel-tracker/issues/718) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 💬 Commented on [#8806 Campaigns with a discrepancy of more than 10%.](https://github.com/MediaJel/mediajel-dashboard/issues/8806) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
