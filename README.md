@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8832` commits and made `301` PRs.
+:people_hugging: I contributed to `48` repositories , made `8841` commits and made `302` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,24 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
+* 🌟 Starred [MediaJel/TheAttributionist](https://github.com/MediaJel/TheAttributionist)
+* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `master`
+  * [#f68d5fe](https://github.com/Lawher-Co-Solicitors/lawher/commit/f68d5fe) fix: Update isComingSoon variable to always be true
+* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#f1f7e03](https://github.com/Lawher-Co-Solicitors/lawher/commit/f1f7e03) fix: Update value of isComingSoon variable
+* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#49857fe](https://github.com/Lawher-Co-Solicitors/lawher/commit/49857fe) style: Update conditional check for process.env variable
+* ➡️ Pushed 8 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
+  * [#38c8a5a](https://github.com/pacholoamit/lawher/commit/38c8a5a) Merge pull request #33 from pacholoamit/staging
+
+staging
+  * [#5724699](https://github.com/pacholoamit/lawher/commit/5724699) feat(app): Add export to CSV functionality and Coming Soon page
   * [#128bcc3](https://github.com/pacholoamit/lawher/commit/128bcc3) refactor: Update appointment status to enum type and metadata interface
-* ➡️ Pushed 1 commit in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
   * [#450affd](https://github.com/pacholoamit/lawher/commit/450affd) feat: Add admin menu items and sidebar functionality
-* ➡️ Pushed 2 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `staging`
   * [#4aa40f9](https://github.com/pacholoamit/lawher/commit/4aa40f9) feat: Add skeleton loading for location translations
   * [#f8ec112](https://github.com/pacholoamit/lawher/commit/f8ec112) feat: Add Next.js Image component for hero image
-* 🌟 Starred [voideditor/void](https://github.com/voideditor/void)
-* #️⃣ Closed [#714 Add a way to make deduplicator in tracker store ids for previous transactions](https://github.com/MediaJel/mediajel-tracker/issues/714) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * [#564fce6](https://github.com/pacholoamit/lawher/commit/564fce6) feat: add readme
+  * [#1000f6f](https://github.com/pacholoamit/lawher/commit/1000f6f) feat: Add /admin page
 
 
 
