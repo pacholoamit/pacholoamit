@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8848` commits and made `303` PRs.
+:people_hugging: I contributed to `48` repositories , made `8851` commits and made `304` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#37 Salesforce Enhancements](https://github.com/MediaJel/salesforce-automation/issues/37) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* 💬 Commented on [#37 Salesforce Enhancements](https://github.com/MediaJel/salesforce-automation/issues/37) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+* 💬 Commented on [#37 Salesforce Enhancements](https://github.com/MediaJel/salesforce-automation/issues/37) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
   * [#007d08e](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/007d08e) fix: Update condition to check for multiple event names
 * ➡️ Pushed 6 commits in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer) on branch `master`
@@ -41,12 +44,6 @@ feat/add managed disks and directories
   * [#8974458](https://github.com/pacholoamit/DiskClaimer/commit/8974458) feat: Add DiskObervationHandler for disk observation
   * [#6ec17d6](https://github.com/pacholoamit/DiskClaimer/commit/6ec17d6) Refactor: Restructure Disk Details
   * [#7cc7164](https://github.com/pacholoamit/DiskClaimer/commit/7cc7164) feat: add managed directories
-* 🔃 Merged [#2 feat/add managed disks and directories](https://github.com/pacholoamit/DiskClaimer/pull/2) in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
-  * 15 files changed `++1177 --607`
-* 🔃 Opened [#2 feat/add managed disks and directories](https://github.com/pacholoamit/DiskClaimer/pull/2) in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
-  * 15 files changed `++1177 --607`
-* ➡️ Pushed 1 commit in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer) on branch `feat/add-managed-disks-and-directories`
-  * [#365affa](https://github.com/pacholoamit/DiskClaimer/commit/365affa) fix: Enable callbacks when onmount and onunmount
 
 
 
