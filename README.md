@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8841` commits and made `302` PRs.
+:people_hugging: I contributed to `48` repositories , made `8848` commits and made `303` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,24 +30,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [MediaJel/TheAttributionist](https://github.com/MediaJel/TheAttributionist)
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `master`
-  * [#f68d5fe](https://github.com/Lawher-Co-Solicitors/lawher/commit/f68d5fe) fix: Update isComingSoon variable to always be true
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#f1f7e03](https://github.com/Lawher-Co-Solicitors/lawher/commit/f1f7e03) fix: Update value of isComingSoon variable
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#49857fe](https://github.com/Lawher-Co-Solicitors/lawher/commit/49857fe) style: Update conditional check for process.env variable
-* ➡️ Pushed 8 commits in [pacholoamit/lawher](https://github.com/pacholoamit/lawher) on branch `master`
-  * [#38c8a5a](https://github.com/pacholoamit/lawher/commit/38c8a5a) Merge pull request #33 from pacholoamit/staging
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#007d08e](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/007d08e) fix: Update condition to check for multiple event names
+* ➡️ Pushed 6 commits in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer) on branch `master`
+  * [#42cb84b](https://github.com/pacholoamit/DiskClaimer/commit/42cb84b) Merge pull request #2 from pacholoamit/feat/add-managed-disks-and-directories
 
-staging
-  * [#5724699](https://github.com/pacholoamit/lawher/commit/5724699) feat(app): Add export to CSV functionality and Coming Soon page
-  * [#128bcc3](https://github.com/pacholoamit/lawher/commit/128bcc3) refactor: Update appointment status to enum type and metadata interface
-  * [#450affd](https://github.com/pacholoamit/lawher/commit/450affd) feat: Add admin menu items and sidebar functionality
-  * [#4aa40f9](https://github.com/pacholoamit/lawher/commit/4aa40f9) feat: Add skeleton loading for location translations
-  * [#f8ec112](https://github.com/pacholoamit/lawher/commit/f8ec112) feat: Add Next.js Image component for hero image
-  * [#564fce6](https://github.com/pacholoamit/lawher/commit/564fce6) feat: add readme
-  * [#1000f6f](https://github.com/pacholoamit/lawher/commit/1000f6f) feat: Add /admin page
+feat/add managed disks and directories
+  * [#365affa](https://github.com/pacholoamit/DiskClaimer/commit/365affa) fix: Enable callbacks when onmount and onunmount
+  * [#0494a2f](https://github.com/pacholoamit/DiskClaimer/commit/0494a2f) add handling for disks that are not valid
+  * [#8974458](https://github.com/pacholoamit/DiskClaimer/commit/8974458) feat: Add DiskObervationHandler for disk observation
+  * [#6ec17d6](https://github.com/pacholoamit/DiskClaimer/commit/6ec17d6) Refactor: Restructure Disk Details
+  * [#7cc7164](https://github.com/pacholoamit/DiskClaimer/commit/7cc7164) feat: add managed directories
+* 🔃 Merged [#2 feat/add managed disks and directories](https://github.com/pacholoamit/DiskClaimer/pull/2) in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
+  * 15 files changed `++1177 --607`
+* 🔃 Opened [#2 feat/add managed disks and directories](https://github.com/pacholoamit/DiskClaimer/pull/2) in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
+  * 15 files changed `++1177 --607`
+* ➡️ Pushed 1 commit in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer) on branch `feat/add-managed-disks-and-directories`
+  * [#365affa](https://github.com/pacholoamit/DiskClaimer/commit/365affa) fix: Enable callbacks when onmount and onunmount
 
 
 
