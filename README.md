@@ -30,20 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#37 Salesforce Enhancements](https://github.com/MediaJel/salesforce-automation/issues/37) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* 💬 Commented on [#37 Salesforce Enhancements](https://github.com/MediaJel/salesforce-automation/issues/37) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* 💬 Commented on [#37 Salesforce Enhancements](https://github.com/MediaJel/salesforce-automation/issues/37) from [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#007d08e](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/007d08e) fix: Update condition to check for multiple event names
-* ➡️ Pushed 6 commits in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer) on branch `master`
-  * [#42cb84b](https://github.com/pacholoamit/DiskClaimer/commit/42cb84b) Merge pull request #2 from pacholoamit/feat/add-managed-disks-and-directories
+* 🌟 Starred [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps)
+* 🌟 Starred [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+* ➡️ Pushed 3 commits in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer) on branch `master`
+  * [#c190f51](https://github.com/pacholoamit/DiskClaimer/commit/c190f51) Merge pull request #4 from pacholoamit/feat/implement-functionality
 
-feat/add managed disks and directories
-  * [#365affa](https://github.com/pacholoamit/DiskClaimer/commit/365affa) fix: Enable callbacks when onmount and onunmount
-  * [#0494a2f](https://github.com/pacholoamit/DiskClaimer/commit/0494a2f) add handling for disks that are not valid
-  * [#8974458](https://github.com/pacholoamit/DiskClaimer/commit/8974458) feat: Add DiskObervationHandler for disk observation
-  * [#6ec17d6](https://github.com/pacholoamit/DiskClaimer/commit/6ec17d6) Refactor: Restructure Disk Details
-  * [#7cc7164](https://github.com/pacholoamit/DiskClaimer/commit/7cc7164) feat: add managed directories
+feat/implement functionality
+  * [#e52c6cb](https://github.com/pacholoamit/DiskClaimer/commit/e52c6cb) feat: Add functionality to select and remove directories
+  * [#91fcd8f](https://github.com/pacholoamit/DiskClaimer/commit/91fcd8f) feat(models): Add backup disks feature and management view
+* 🔃 Merged [#4 feat/implement functionality](https://github.com/pacholoamit/DiskClaimer/pull/4) in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
+  * 4 files changed `++369 --256`
+* 🔃 Opened [#4 feat/implement functionality](https://github.com/pacholoamit/DiskClaimer/pull/4) in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
+  * 4 files changed `++369 --256`
 
 
 
