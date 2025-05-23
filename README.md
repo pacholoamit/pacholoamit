@@ -30,18 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps)
-* 🌟 Starred [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
-* ➡️ Pushed 3 commits in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer) on branch `master`
-  * [#c190f51](https://github.com/pacholoamit/DiskClaimer/commit/c190f51) Merge pull request #4 from pacholoamit/feat/implement-functionality
-
-feat/implement functionality
-  * [#e52c6cb](https://github.com/pacholoamit/DiskClaimer/commit/e52c6cb) feat: Add functionality to select and remove directories
-  * [#91fcd8f](https://github.com/pacholoamit/DiskClaimer/commit/91fcd8f) feat(models): Add backup disks feature and management view
-* 🔃 Merged [#4 feat/implement functionality](https://github.com/pacholoamit/DiskClaimer/pull/4) in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
-  * 4 files changed `++369 --256`
-* 🔃 Opened [#4 feat/implement functionality](https://github.com/pacholoamit/DiskClaimer/pull/4) in [pacholoamit/DiskClaimer](https://github.com/pacholoamit/DiskClaimer)
-  * 4 files changed `++369 --256`
+* 🌟 Starred [addyosmani/recorder](https://github.com/addyosmani/recorder)
+* 🔍 Reviewed [#8889 [HOTFIX] [FOR REVIEW] hotfix transaction total](https://github.com/MediaJel/mediajel-dashboard/pull/8889) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#8806 Campaigns with a discrepancy of more than 10%.](https://github.com/MediaJel/mediajel-dashboard/issues/8806) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#1047 Check Partner tags and create plan on adding them to the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1047) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#843 Do some research on how we can automatically document supported measurements for each tag on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/843) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
