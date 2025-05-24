@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8868` commits and made `309` PRs.
+:people_hugging: I contributed to `48` repositories , made `8868` commits and made `310` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,22 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#1154 hotfix/attention signals error message](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1154) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#1154 hotfix/attention signals error message](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1154) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Opened [#1154 hotfix/attention signals error message](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1154) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 5 files changed `++66 --102`
+* ⏺️ Created new branch hotfix/attention-signals-error-message in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 2 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `master`
   * [#b9bec99](https://github.com/Lawher-Co-Solicitors/lawher/commit/b9bec99) Merge pull request #37 from Lawher-Co-Solicitors/staging
 
 style: Update ComingSoonPage layout styling
   * [#665b333](https://github.com/Lawher-Co-Solicitors/lawher/commit/665b333) style: Update ComingSoonPage layout styling
-* 🔃 Merged [#37 style: Update ComingSoonPage layout styling](https://github.com/Lawher-Co-Solicitors/lawher/pull/37) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
-  * 1 file changed `++3 --3`
-* 🔃 Opened [#37 style: Update ComingSoonPage layout styling](https://github.com/Lawher-Co-Solicitors/lawher/pull/37) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
-  * 1 file changed `++3 --3`
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#665b333](https://github.com/Lawher-Co-Solicitors/lawher/commit/665b333) style: Update ComingSoonPage layout styling
-* ➡️ Pushed 2 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `master`
-  * [#8508abe](https://github.com/Lawher-Co-Solicitors/lawher/commit/8508abe) Merge pull request #36 from Lawher-Co-Solicitors/staging
-
-style: Remove unnecessary text from coming soon page
-  * [#2ed2cfc](https://github.com/Lawher-Co-Solicitors/lawher/commit/2ed2cfc) style: Remove unnecessary text from coming soon page
 
 
 
