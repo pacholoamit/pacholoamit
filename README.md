@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#1047 Check Partner tags and create plan on adding them to the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1047) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
   * [#4a1c8c0](https://github.com/Lawher-Co-Solicitors/lawher/commit/4a1c8c0) feat: Add merged appointment data to admin page展
 * ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
@@ -38,8 +39,6 @@
   * [#5e9f207](https://github.com/Lawher-Co-Solicitors/lawher/commit/5e9f207) fix: Update create appointment URL in EmptyAppointments
 * ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
   * [#cac1a8a](https://github.com/Lawher-Co-Solicitors/lawher/commit/cac1a8a) feat: Add Card component to ScheduleSelector for styling
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#65dac48](https://github.com/Lawher-Co-Solicitors/lawher/commit/65dac48) style: Update styling in EmptyAppointments component
 
 
 
