@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#725 Make improvements to the &#34;View Instructions&#34; so that instructions includes the  full tag (include third party tag)](https://github.com/MediaJel/mediajel-tracker/issues/725) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 💬 Commented on [#1047 Check Partner tags and create plan on adding them to the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1047) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
   * [#4a1c8c0](https://github.com/Lawher-Co-Solicitors/lawher/commit/4a1c8c0) feat: Add merged appointment data to admin page展
@@ -37,8 +38,6 @@
   * [#f58e6bd](https://github.com/Lawher-Co-Solicitors/lawher/commit/f58e6bd) feat: Add DOMAIN_WIDE_DELEGATION_ACCOUNT constant
 * ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
   * [#5e9f207](https://github.com/Lawher-Co-Solicitors/lawher/commit/5e9f207) fix: Update create appointment URL in EmptyAppointments
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#cac1a8a](https://github.com/Lawher-Co-Solicitors/lawher/commit/cac1a8a) feat: Add Card component to ScheduleSelector for styling
 
 
 
