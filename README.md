@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#1039 [FOR REVIEW] Fetches LQM creative logs from JSON view](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1039) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🌟 Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
-* 🔍 Reviewed [#721 feat:create handle incase trackTrans is not loaded yet](https://github.com/MediaJel/mediajel-tracker/pull/721) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#721 feat:create handle incase trackTrans is not loaded yet](https://github.com/MediaJel/mediajel-tracker/pull/721) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#8872 [FOR REVIEW] thirdparty tag improvements](https://github.com/MediaJel/mediajel-dashboard/pull/8872) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#1163 enhancement: remove LIQUIDM_LOGS table from clickhouse replication](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1163) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#8806 Campaigns with a discrepancy of more than 10%.](https://github.com/MediaJel/mediajel-dashboard/issues/8806) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#1167 Google Ads on Shopify](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1167) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1132 Fix/remove null tag on shopify docs](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1132) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1131 Transactions with Transaction Total of 0](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1131) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
