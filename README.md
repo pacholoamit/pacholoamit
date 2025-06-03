@@ -30,34 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#726 [FOR REVIEW] Added Carrot Cart Adapter to Tracker](https://github.com/MediaJel/mediajel-tracker/pull/726) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 * 🔍 Reviewed [#1163 enhancement: remove LIQUIDM_LOGS table from clickhouse replication](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1163) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#1156 [FOR REVIEW] MS 8756 Bid, budget and freq cap per line item](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1156) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#1137 [FOR REVIEW] Added Retail ID verification to the campaign launcher](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1137) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [pacholoamit/test-saas-landing-page-2](https://github.com/pacholoamit/test-saas-landing-page-2) on branch `main`
   * [#c7756ff](https://github.com/pacholoamit/test-saas-landing-page-2/commit/c7756ff) Update header.tsx
-* ➡️ Pushed 4 commits in [pacholoamit/test-saas-landing-page-2](https://github.com/pacholoamit/test-saas-landing-page-2) on branch `main`
-  * [#0fe2e36](https://github.com/pacholoamit/test-saas-landing-page-2/commit/0fe2e36) Merge pull request #1 from pacholoamit/test
-  * [#66525d8](https://github.com/pacholoamit/test-saas-landing-page-2/commit/66525d8) feat: add &#34;v2&#34; to header and footer
-
-Display &#34;StreamLine v2&#34; in header and footer with distinct styling.
-
-#VERCEL_SKIP
-
-Co-authored-by: Pacholo Amit &lt;69985528+pacholoamit@users.noreply.github.com&gt;
-  * [#7a6b20a](https://github.com/pacholoamit/test-saas-landing-page-2/commit/7a6b20a) feat: enhance landing page with varied color sections
-
-Introduce dynamic color variations and gradients for better visual appeal.
-
-#VERCEL_SKIP
-
-Co-authored-by: Pacholo Amit &lt;69985528+pacholoamit@users.noreply.github.com&gt;
-  * [#5532a5f](https://github.com/pacholoamit/test-saas-landing-page-2/commit/5532a5f) feat: create responsive landing page for StreamLine
-
-Add modern, structured Next.js landing page with sections and UI components.
-
-#VERCEL_SKIP
-
-Co-authored-by: Pacholo Amit &lt;69985528+pacholoamit@users.noreply.github.com&gt;
 
 
 
