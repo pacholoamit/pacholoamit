@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `8870` commits and made `276` PRs.
+:people_hugging: I contributed to `49` repositories , made `8872` commits and made `278` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-caching-to-permissions`
+  * [#af9b152](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af9b152) E2E Validation passed :+1: 2025-06-04_00:11:16_PST_+0800
+  * [#86322d1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/86322d1) style: Remove extra lines in Dockerfile
+* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-caching-to-permissions`
+  * [#2766c29](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2766c29) E2E Validation passed :+1: 2025-06-03_23:45:43_PST_+0800
+  * [#54dc098](https://github.com/MediaJel/amplication-nestjs-microservices/commit/54dc098) fix: Update file timestamp retrieval in pre-push script
+  * [#66dc116](https://github.com/MediaJel/amplication-nestjs-microservices/commit/66dc116) E2E Validation passed :+1: 2025-06-03_23:43:58_PST_+0800
+  * [#c8c9ed5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c8c9ed5) Fix OS Version error on Husky
+* 🔃 Opened [#1180 feat/add caching to permissions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1180) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 32 files changed `++414 --33`
+* ⏺️ Created new branch feat/add-caching-to-permissions in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#726 [FOR REVIEW] Added Carrot Cart Adapter to Tracker](https://github.com/MediaJel/mediajel-tracker/pull/726) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔍 Reviewed [#1163 enhancement: remove LIQUIDM_LOGS table from clickhouse replication](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1163) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#1156 [FOR REVIEW] MS 8756 Bid, budget and freq cap per line item](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1156) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#1137 [FOR REVIEW] Added Retail ID verification to the campaign launcher](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1137) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [pacholoamit/test-saas-landing-page-2](https://github.com/pacholoamit/test-saas-landing-page-2) on branch `main`
-  * [#c7756ff](https://github.com/pacholoamit/test-saas-landing-page-2/commit/c7756ff) Update header.tsx
 
 
 
