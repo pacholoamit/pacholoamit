@@ -30,18 +30,29 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-caching-to-permissions`
-  * [#af9b152](https://github.com/MediaJel/amplication-nestjs-microservices/commit/af9b152) E2E Validation passed :+1: 2025-06-04_00:11:16_PST_+0800
-  * [#86322d1](https://github.com/MediaJel/amplication-nestjs-microservices/commit/86322d1) style: Remove extra lines in Dockerfile
-* ➡️ Pushed 4 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-caching-to-permissions`
-  * [#2766c29](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2766c29) E2E Validation passed :+1: 2025-06-03_23:45:43_PST_+0800
-  * [#54dc098](https://github.com/MediaJel/amplication-nestjs-microservices/commit/54dc098) fix: Update file timestamp retrieval in pre-push script
-  * [#66dc116](https://github.com/MediaJel/amplication-nestjs-microservices/commit/66dc116) E2E Validation passed :+1: 2025-06-03_23:43:58_PST_+0800
-  * [#c8c9ed5](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c8c9ed5) Fix OS Version error on Husky
-* 🔃 Opened [#1180 feat/add caching to permissions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1180) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 32 files changed `++414 --33`
-* ⏺️ Created new branch feat/add-caching-to-permissions in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#726 [FOR REVIEW] Added Carrot Cart Adapter to Tracker](https://github.com/MediaJel/mediajel-tracker/pull/726) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* ➡️ Pushed 1 commit in [pacholoamit/test-saas-landing-page-3](https://github.com/pacholoamit/test-saas-landing-page-3) on branch `main`
+  * [#9f2f8ba](https://github.com/pacholoamit/test-saas-landing-page-3/commit/9f2f8ba) Update header.tsx
+* ➡️ Pushed 3 commits in [pacholoamit/test-saas-landing-page-3](https://github.com/pacholoamit/test-saas-landing-page-3) on branch `main`
+  * [#a37ce8f](https://github.com/pacholoamit/test-saas-landing-page-3/commit/a37ce8f) Merge pull request #1 from pacholoamit/test
+  * [#d11607d](https://github.com/pacholoamit/test-saas-landing-page-3/commit/d11607d) feat: update landing page branding to Mediajel
+
+Replace &#34;StreamLine&#34; with &#34;Mediajel&#34; throughout all components
+
+#VERCEL_SKIP
+
+Co-authored-by: Pacholo Amit &lt;69985528+pacholoamit@users.noreply.github.com&gt;
+  * [#48515a7](https://github.com/pacholoamit/test-saas-landing-page-3/commit/48515a7) feat: build responsive landing page with Next.js and Tailwind CSS
+
+Create modular, responsive landing page with modern UI components.
+
+#VERCEL_SKIP
+
+Co-authored-by: Pacholo Amit &lt;69985528+pacholoamit@users.noreply.github.com&gt;
+* 🔃 Merged [#1 feat: build responsive landing page with Next.js and Tailwind CSS](https://github.com/pacholoamit/test-saas-landing-page-3/pull/1) in [pacholoamit/test-saas-landing-page-3](https://github.com/pacholoamit/test-saas-landing-page-3)
+  * 7 files changed `++14 --14`
+* 🔃 Opened [#1 feat: build responsive landing page with Next.js and Tailwind CSS](https://github.com/pacholoamit/test-saas-landing-page-3/pull/1) in [pacholoamit/test-saas-landing-page-3](https://github.com/pacholoamit/test-saas-landing-page-3)
+  * 7 files changed `++14 --14`
+* ⏺️ Created new repository  [pacholoamit/test-saas-landing-page-3](https://github.com/pacholoamit/test-saas-landing-page-3)
 
 
 
