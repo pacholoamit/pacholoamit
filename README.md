@@ -30,6 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/add-caching-to-permissions`
+  * [#ffdae7d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ffdae7d) E2E Validation passed :+1: 2025-06-05_00:17:32_PST_+0800
+  * [#f8551ff](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f8551ff) feat: changes
 * ➡️ Pushed 1 commit in [pacholoamit/test-saas-landing-page-3](https://github.com/pacholoamit/test-saas-landing-page-3) on branch `main`
   * [#9f2f8ba](https://github.com/pacholoamit/test-saas-landing-page-3/commit/9f2f8ba) Update header.tsx
 * ➡️ Pushed 3 commits in [pacholoamit/test-saas-landing-page-3](https://github.com/pacholoamit/test-saas-landing-page-3) on branch `main`
@@ -52,7 +55,6 @@ Co-authored-by: Pacholo Amit &lt;69985528+pacholoamit@users.noreply.github.com&g
   * 7 files changed `++14 --14`
 * 🔃 Opened [#1 feat: build responsive landing page with Next.js and Tailwind CSS](https://github.com/pacholoamit/test-saas-landing-page-3/pull/1) in [pacholoamit/test-saas-landing-page-3](https://github.com/pacholoamit/test-saas-landing-page-3)
   * 7 files changed `++14 --14`
-* ⏺️ Created new repository  [pacholoamit/test-saas-landing-page-3](https://github.com/pacholoamit/test-saas-landing-page-3)
 
 
 
