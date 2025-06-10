@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `47` repositories , made `8876` commits and made `263` PRs.
+:people_hugging: I contributed to `47` repositories , made `8881` commits and made `264` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,24 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 11 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#6d0ab8e](https://github.com/MediaJel/mediajel-tracker/commit/6d0ab8e) Merge pull request #732 from MediaJel/staging
+  * [#debf2da](https://github.com/MediaJel/mediajel-tracker/commit/debf2da) Merge pull request #727 from MediaJel/srr/flowhub-adapter
+  * [#e0da675](https://github.com/MediaJel/mediajel-tracker/commit/e0da675) Merge pull request #726 from MediaJel/jcd/carrot
+  * [#a388cbd](https://github.com/MediaJel/mediajel-tracker/commit/a388cbd) refactor: Improve code readability and efficiency
+  * [#d2ad619](https://github.com/MediaJel/mediajel-tracker/commit/d2ad619) fix: Add error logging for parsing response body
+  * [#3bd8e8e](https://github.com/MediaJel/mediajel-tracker/commit/3bd8e8e) Add Flowhub data source for tracking transaction events
+  * [#a12b465](https://github.com/MediaJel/mediajel-tracker/commit/a12b465) added exec handler
+  * [#e1bee58](https://github.com/MediaJel/mediajel-tracker/commit/e1bee58) added undefined shield
+  * [#16341bb](https://github.com/MediaJel/mediajel-tracker/commit/16341bb) fixed indentation and condition
+  * [#dc214e5](https://github.com/MediaJel/mediajel-tracker/commit/dc214e5) fix spageti
+  * [#e23b852](https://github.com/MediaJel/mediajel-tracker/commit/e23b852) added carrot cart to tracker
+* 🔃 Merged [#732 Add flowhub and Carrot](https://github.com/MediaJel/mediajel-tracker/pull/732) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++124 --0`
+* 🔃 Opened [#732 Add flowhub and Carrot](https://github.com/MediaJel/mediajel-tracker/pull/732) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 3 files changed `++124 --0`
 * #️⃣ Closed [#844 Implement trackTransCallback in tracker extension](https://github.com/MediaJel/amplication-nestjs-microservices/issues/844) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#753 Add to microservices documentation to add instructions to know the ecommerce platforms](https://github.com/MediaJel/amplication-nestjs-microservices/issues/753) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#653 Create datalayer handling for adapters in the tracker](https://github.com/MediaJel/mediajel-tracker/issues/653) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#d402310](https://github.com/MediaJel/mediajel-tracker/commit/d402310) Merge pull request #722 from MediaJel/jbjm-basket-items-events
-  * [#73784a5](https://github.com/MediaJel/mediajel-tracker/commit/73784a5) added basket items
-* 🔃 Merged [#722 [HOTFIX] added basket items](https://github.com/MediaJel/mediajel-tracker/pull/722) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++193 --32`
 
 
 
