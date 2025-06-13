@@ -30,12 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#6168 hotfix/upgrade api](https://github.com/MediaJel/mediajel-gql-service/pull/6168) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 3 files changed `++34 --14`
-* ⏺️ Created new branch hotfix/upgrade-api in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#859 Create New vs Returning feature in the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/859) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🌟 Starred [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)
-* #️⃣ Opened [#1198 Create instructions for Dutchie, Carrot and Flowhub cart in the microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1198) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#65103e0](https://github.com/MediaJel/salesforce-automation/commit/65103e0) feat: Add PrimaryEmailAddr field to customer processing
+  * [#6465bae](https://github.com/MediaJel/salesforce-automation/commit/6465bae) style: Update import statements to use double quotes
+* 💬 Commented on [#843 Do some research on how we can automatically document supported measurements for each tag on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/843) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1212 Clean up app id that caused massive data spike](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1212) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1058 Create Signoz dashboard in the microservice to monitor latency and errors](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1058) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#8806 Campaigns with a discrepancy of more than 10%.](https://github.com/MediaJel/mediajel-dashboard/issues/8806) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
