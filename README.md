@@ -30,13 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 4 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#1c7f29e](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/1c7f29e) Merge pull request #435 from MediaJel/jcd/stimulate
+  * [#723c473](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/723c473) removed logs
+  * [#eb048fe](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/eb048fe) write tracking code for stimulate connect
+  * [#d3aaa5c](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/d3aaa5c) code for stimulate sex
+* 🔃 Merged [#435 [FOR REVIEW] Added Stimulate Tracker](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/435) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++296 --0`
 * ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
   * [#65103e0](https://github.com/MediaJel/salesforce-automation/commit/65103e0) feat: Add PrimaryEmailAddr field to customer processing
   * [#6465bae](https://github.com/MediaJel/salesforce-automation/commit/6465bae) style: Update import statements to use double quotes
 * 💬 Commented on [#843 Do some research on how we can automatically document supported measurements for each tag on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/843) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#1212 Clean up app id that caused massive data spike](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1212) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#1058 Create Signoz dashboard in the microservice to monitor latency and errors](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1058) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#8806 Campaigns with a discrepancy of more than 10%.](https://github.com/MediaJel/mediajel-dashboard/issues/8806) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
