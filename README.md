@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `10181` commits and made `249` PRs.
+:people_hugging: I contributed to `46` repositories , made `10182` commits and made `249` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,19 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
-  * [#b14efcf](https://github.com/pacholoamit/homelab-infrastructure/commit/b14efcf) feat: Add uptime-kuma deployment and service
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#b5e53d7](https://github.com/Lawher-Co-Solicitors/lawher/commit/b5e53d7) chore: Comment out unused code for IS_COMING_SOON variable
-* ➡️ Pushed 5 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#0475fee](https://github.com/Lawher-Co-Solicitors/lawher/commit/0475fee) Merge branch &#39;master&#39; into staging
-* ➡️ Pushed 4 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#1c7f29e](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/1c7f29e) Merge pull request #435 from MediaJel/jcd/stimulate
-  * [#723c473](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/723c473) removed logs
-  * [#eb048fe](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/eb048fe) write tracking code for stimulate connect
-  * [#d3aaa5c](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/d3aaa5c) code for stimulate sex
-* 🔃 Merged [#435 [FOR REVIEW] Added Stimulate Tracker](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/435) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++296 --0`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#2e184d0](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/2e184d0) feat: Add utmExpirationMinutes config option
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#2cde517](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/2cde517) refactor: Normalize URL handling and improve UTM parameter sorting
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#6fb7b98](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/6fb7b98) refactor: Improve handling of UTM codes in URL
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#89a5cd7](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/89a5cd7) feat: Add UTMPersistor for universal UTM parameter persistence
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#284bf7d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/284bf7d) feat: Add universal UTM persistence implementation
 
 
 
