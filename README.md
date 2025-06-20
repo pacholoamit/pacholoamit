@@ -30,16 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#2e184d0](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/2e184d0) feat: Add utmExpirationMinutes config option
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#2cde517](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/2cde517) refactor: Normalize URL handling and improve UTM parameter sorting
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#6fb7b98](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/6fb7b98) refactor: Improve handling of UTM codes in URL
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#89a5cd7](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/89a5cd7) feat: Add UTMPersistor for universal UTM parameter persistence
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#284bf7d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/284bf7d) feat: Add universal UTM persistence implementation
+* #️⃣ Opened [#1248 Update Optouts pipeline](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1248) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1247 Improvements to Signoz to keep track of spans on traces](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1247) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1245 Evaluate Optouts pipeline to see what it would take to get it up and running](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1245) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#6d1e3e9](https://github.com/Lawher-Co-Solicitors/lawher/commit/6d1e3e9) style: update image dimensions in HeroSection
+* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#c550e45](https://github.com/Lawher-Co-Solicitors/lawher/commit/c550e45) style: Update image file extension to PNG
 
 
 
