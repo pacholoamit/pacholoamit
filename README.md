@@ -30,13 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#1248 Update Optouts pipeline](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1248) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#1247 Improvements to Signoz to keep track of spans on traces](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1247) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#1245 Evaluate Optouts pipeline to see what it would take to get it up and running](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1245) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#6d1e3e9](https://github.com/Lawher-Co-Solicitors/lawher/commit/6d1e3e9) style: update image dimensions in HeroSection
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#c550e45](https://github.com/Lawher-Co-Solicitors/lawher/commit/c550e45) style: Update image file extension to PNG
+* #️⃣ Opened [#1251 Campaign launcher update endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1251) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1250 Update the Custom Reports DSP endpoint to get merged](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1250) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1212 Clean up app id that caused massive data spike](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1212) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#8806 Campaigns with a discrepancy of more than 10%.](https://github.com/MediaJel/mediajel-dashboard/issues/8806) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#843 Do some research on how we can automatically document supported measurements for each tag on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/843) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
