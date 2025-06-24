@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `46` repositories , made `10182` commits and made `231` PRs.
+:people_hugging: I contributed to `46` repositories , made `10183` commits and made `231` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#9840ce8](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/9840ce8) feat: Add UTMPersistor initialization to dispensary domains
 * #️⃣ Opened [#1251 Campaign launcher update endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1251) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#1250 Update the Custom Reports DSP endpoint to get merged](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1250) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#1212 Clean up app id that caused massive data spike](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1212) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#8806 Campaigns with a discrepancy of more than 10%.](https://github.com/MediaJel/mediajel-dashboard/issues/8806) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#843 Do some research on how we can automatically document supported measurements for each tag on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/843) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
