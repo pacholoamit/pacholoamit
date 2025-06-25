@@ -30,12 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [Doriandarko/deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#9840ce8](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/9840ce8) feat: Add UTMPersistor initialization to dispensary domains
-* #️⃣ Opened [#1251 Campaign launcher update endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1251) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#1250 Update the Custom Reports DSP endpoint to get merged](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1250) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#1212 Clean up app id that caused massive data spike](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1212) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1257 Make schema fields optional in new vs returning template](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1257) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#1171 feat: Custom Reports - New vs Returning API Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1171) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1171 feat: Custom Reports - New vs Returning API Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1171) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1171 feat: Custom Reports - New vs Returning API Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1171) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#1171 feat: Custom Reports - New vs Returning API Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1171) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
