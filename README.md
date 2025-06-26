@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `47` repositories , made `10196` commits and made `232` PRs.
+:people_hugging: I contributed to `47` repositories , made `10215` commits and made `233` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#1218 [FOR REVIEW] Added Coda docs to the Microservices](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1218) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#1257 Make schema fields optional in new vs returning template](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1257) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#1171 feat: Custom Reports - New vs Returning API Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1171) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#1171 feat: Custom Reports - New vs Returning API Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1171) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#1171 feat: Custom Reports - New vs Returning API Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1171) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#1171 feat: Custom Reports - New vs Returning API Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1171) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
