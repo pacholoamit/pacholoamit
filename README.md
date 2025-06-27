@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `47` repositories , made `10223` commits and made `238` PRs.
+:people_hugging: I contributed to `47` repositories , made `10229` commits and made `240` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,19 +30,58 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#1259 Update ad impression schema version and add media player details](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1259) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#3be5ac1](https://github.com/MediaJel/mediajel-tracker/commit/3be5ac1) Merge pull request #735 from MediaJel/staging
-  * [#4dead03](https://github.com/MediaJel/mediajel-tracker/commit/4dead03) Merge pull request #734 from MediaJel/feat/add-discount-and-coupon-code-to-transaction-context
-  * [#55208e6](https://github.com/MediaJel/mediajel-tracker/commit/55208e6) feat: Add alternative transaction ids to transaction events
-  * [#88a7623](https://github.com/MediaJel/mediajel-tracker/commit/88a7623) refactor: Update discount and couponCode handling in scripts
-  * [#73ad0d2](https://github.com/MediaJel/mediajel-tracker/commit/73ad0d2) refactor: Add transaction discount and coupon code to Snowplow
-* 🔃 Merged [#735 Add contexts to transactions](https://github.com/MediaJel/mediajel-tracker/pull/735) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 5 files changed `++55 --10`
-* 🔃 Closed [#735 Add contexts to transactions](https://github.com/MediaJel/mediajel-tracker/pull/735) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 5 files changed `++55 --10`
-* 🔃 Opened [#735 Add contexts to transactions](https://github.com/MediaJel/mediajel-tracker/pull/735) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 5 files changed `++55 --10`
+* ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
+  * [#8263311](https://github.com/pacholoamit/xevon-ai/commit/8263311) style: Improve code formatting and update string quotes
+* ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
+  * [#6f39e6d](https://github.com/pacholoamit/xevon-ai/commit/6f39e6d) fix: resolve Slack OAuth callback &#34;No Slack connector available&#34; error
+
+- Update frontend to create connector via API before OAuth redirect
+- Pass connector ID in OAuth state parameter for proper callback handling
+- Enhance backend callback logic to find connectors by ID or fallback to pending status
+- Improve PrismaInstallationStore to handle connector association properly
+- Replace hardcoded OAuth button with dynamic button using handleOAuthConnect
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
+* ➡️ Pushed 3 commits in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `main`
+  * [#e1c463c](https://github.com/pacholoamit/xevon-ai/commit/e1c463c) Merge pull request #4 from pacholoamit/feat/extend-features
+
+feat/extend features
+  * [#60ed142](https://github.com/pacholoamit/xevon-ai/commit/60ed142) style: Disable unsafe TypeScript rules in Slack connector
+  * [#c2f76db](https://github.com/pacholoamit/xevon-ai/commit/c2f76db) feat: enhance UI, fix types, and improve navigation
+
+## Navigation &amp; UX Improvements
+- Fix sidebar navigation to use client-side routing (eliminates page refreshes)
+- Add chat submenu with recent conversations in sidebar
+- Fix light mode compatibility for chat messages and topics views
+- Update background colors, text colors, and borders for proper contrast
+
+## TypeScript &amp; Code Quality
+- Remove all &#34;any&#34; types throughout codebase
+- Fix API route parameter handling with proper null checks
+- Resolve connector type inheritance issues
+- Add proper type annotations for all service methods
+- Fix undefined array access with bounds checking
+
+## Chat &amp; Data Features
+- Fix infinite useEffect loops in chat components
+- Add proper dependency management for Zustand stores
+- Create missing data directory with required JSON files
+- Implement proper error handling in message loading
+
+## Slack Integration
+- Add custom Slack OAuth button with proper branding
+- Update all Slack connector references to use /external/slack.png icon
+- Implement proper Slack authentication flow
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
+* 🔃 Merged [#4 feat/extend features](https://github.com/pacholoamit/xevon-ai/pull/4) in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai)
+  * 50 files changed `++4150 --105`
+* 🔃 Opened [#4 feat/extend features](https://github.com/pacholoamit/xevon-ai/pull/4) in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai)
+  * 50 files changed `++4150 --105`
 
 
 
