@@ -30,6 +30,28 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
+  * [#0401daa](https://github.com/pacholoamit/xevon-ai/commit/0401daa) feat: migrate API routes to Next.js 15 Server Actions
+
+- Convert all /api/* routes to server actions in app/actions/
+- Add comprehensive server actions for connectors, groups, messages, reports, onboarding, and user management
+- Update all Zustand stores to use server actions instead of fetch calls
+- Replace API endpoints with type-safe server actions for better performance
+- Implement automatic cache revalidation with revalidatePath()
+- Maintain all existing functionality while improving type safety
+- Update onboarding flow and profile settings to use server actions
+- Document server actions architecture in CLAUDE.md files
+
+Benefits:
+- Improved type safety with direct TypeScript integration
+- Better performance through direct server execution
+- Automatic cache invalidation and revalidation
+- Simplified error handling without HTTP status codes
+- Enhanced developer experience with Next.js 15 features
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
 * 🌟 Starred [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher)
 * ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
   * [#8263311](https://github.com/pacholoamit/xevon-ai/commit/8263311) style: Improve code formatting and update string quotes
@@ -79,8 +101,6 @@ feat/extend features
 🤖 Generated with [Claude Code](https://claude.ai/code)
 
 Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-* 🔃 Merged [#4 feat/extend features](https://github.com/pacholoamit/xevon-ai/pull/4) in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai)
-  * 50 files changed `++4150 --105`
 
 
 
