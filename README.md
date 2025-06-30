@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `47` repositories , made `10229` commits and made `240` PRs.
+:people_hugging: I contributed to `47` repositories , made `10229` commits and made `233` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher)
 * ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
   * [#8263311](https://github.com/pacholoamit/xevon-ai/commit/8263311) style: Improve code formatting and update string quotes
 * ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
@@ -79,8 +80,6 @@ feat/extend features
 
 Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
 * 🔃 Merged [#4 feat/extend features](https://github.com/pacholoamit/xevon-ai/pull/4) in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai)
-  * 50 files changed `++4150 --105`
-* 🔃 Opened [#4 feat/extend features](https://github.com/pacholoamit/xevon-ai/pull/4) in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai)
   * 50 files changed `++4150 --105`
 
 
