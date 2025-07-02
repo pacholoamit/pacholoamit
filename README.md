@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#1171 feat: Custom Reports - New vs Returning API Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1171) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
   * [#0401daa](https://github.com/pacholoamit/xevon-ai/commit/0401daa) feat: migrate API routes to Next.js 15 Server Actions
 
@@ -63,40 +64,6 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
 - Enhance backend callback logic to find connectors by ID or fallback to pending status
 - Improve PrismaInstallationStore to handle connector association properly
 - Replace hardcoded OAuth button with dynamic button using handleOAuthConnect
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-* ➡️ Pushed 3 commits in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `main`
-  * [#e1c463c](https://github.com/pacholoamit/xevon-ai/commit/e1c463c) Merge pull request #4 from pacholoamit/feat/extend-features
-
-feat/extend features
-  * [#60ed142](https://github.com/pacholoamit/xevon-ai/commit/60ed142) style: Disable unsafe TypeScript rules in Slack connector
-  * [#c2f76db](https://github.com/pacholoamit/xevon-ai/commit/c2f76db) feat: enhance UI, fix types, and improve navigation
-
-## Navigation &amp; UX Improvements
-- Fix sidebar navigation to use client-side routing (eliminates page refreshes)
-- Add chat submenu with recent conversations in sidebar
-- Fix light mode compatibility for chat messages and topics views
-- Update background colors, text colors, and borders for proper contrast
-
-## TypeScript &amp; Code Quality
-- Remove all &#34;any&#34; types throughout codebase
-- Fix API route parameter handling with proper null checks
-- Resolve connector type inheritance issues
-- Add proper type annotations for all service methods
-- Fix undefined array access with bounds checking
-
-## Chat &amp; Data Features
-- Fix infinite useEffect loops in chat components
-- Add proper dependency management for Zustand stores
-- Create missing data directory with required JSON files
-- Implement proper error handling in message loading
-
-## Slack Integration
-- Add custom Slack OAuth button with proper branding
-- Update all Slack connector references to use /external/slack.png icon
-- Implement proper Slack authentication flow
 
 🤖 Generated with [Claude Code](https://claude.ai/code)
 
