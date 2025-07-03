@@ -30,44 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#1171 feat: Custom Reports - New vs Returning API Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1171) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
-  * [#0401daa](https://github.com/pacholoamit/xevon-ai/commit/0401daa) feat: migrate API routes to Next.js 15 Server Actions
-
-- Convert all /api/* routes to server actions in app/actions/
-- Add comprehensive server actions for connectors, groups, messages, reports, onboarding, and user management
-- Update all Zustand stores to use server actions instead of fetch calls
-- Replace API endpoints with type-safe server actions for better performance
-- Implement automatic cache revalidation with revalidatePath()
-- Maintain all existing functionality while improving type safety
-- Update onboarding flow and profile settings to use server actions
-- Document server actions architecture in CLAUDE.md files
-
-Benefits:
-- Improved type safety with direct TypeScript integration
-- Better performance through direct server execution
-- Automatic cache invalidation and revalidation
-- Simplified error handling without HTTP status codes
-- Enhanced developer experience with Next.js 15 features
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-* 🌟 Starred [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher)
-* ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
-  * [#8263311](https://github.com/pacholoamit/xevon-ai/commit/8263311) style: Improve code formatting and update string quotes
-* ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
-  * [#6f39e6d](https://github.com/pacholoamit/xevon-ai/commit/6f39e6d) fix: resolve Slack OAuth callback &#34;No Slack connector available&#34; error
-
-- Update frontend to create connector via API before OAuth redirect
-- Pass connector ID in OAuth state parameter for proper callback handling
-- Enhance backend callback logic to find connectors by ID or fallback to pending status
-- Improve PrismaInstallationStore to handle connector association properly
-- Replace hardcoded OAuth button with dynamic button using handleOAuthConnect
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
+* 🌟 Starred [unnoq/orpc](https://github.com/unnoq/orpc)
+* 🔍 Reviewed [#1269 [FOR REVIEW] Retail ID as params in TagActivityEvent](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1269) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#de27e11](https://github.com/Lawher-Co-Solicitors/lawher/commit/de27e11) fix: Update success and cancel URLs to use domain instead of app URL
+* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#55e6a07](https://github.com/Lawher-Co-Solicitors/lawher/commit/55e6a07) fix: Update success and cancel URLs to use environment variable
+* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#f52a2ce](https://github.com/Lawher-Co-Solicitors/lawher/commit/f52a2ce) style: Update success and cancel URLs to use window.location
 
 
 
