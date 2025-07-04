@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `47` repositories , made `10229` commits and made `233` PRs.
+:people_hugging: I contributed to `48` repositories , made `10229` commits and made `233` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [unnoq/orpc](https://github.com/unnoq/orpc)
-* 🔍 Reviewed [#1269 [FOR REVIEW] Retail ID as params in TagActivityEvent](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1269) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#de27e11](https://github.com/Lawher-Co-Solicitors/lawher/commit/de27e11) fix: Update success and cancel URLs to use domain instead of app URL
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#55e6a07](https://github.com/Lawher-Co-Solicitors/lawher/commit/55e6a07) fix: Update success and cancel URLs to use environment variable
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#f52a2ce](https://github.com/Lawher-Co-Solicitors/lawher/commit/f52a2ce) style: Update success and cancel URLs to use window.location
+* 💬 Commented on [#1274 Improve Stability of Test Tag endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1274) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#447 Update types in frictionless for new fields in trackTrans](https://github.com/MediaJel/mediajel-frictionless-custom-tag/issues/447) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+* #️⃣ Opened [#1278 Take a look at existing Nexxen Campaigns get endpoint and see if data is incomplete or incorrect](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1278) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#733 Create Treez adapter](https://github.com/MediaJel/mediajel-tracker/issues/733) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#1249 Research into visualizations for new vs returning](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1249) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
