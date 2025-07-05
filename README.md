@@ -30,17 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [useautumn/autumn](https://github.com/useautumn/autumn)
+* 🌟 Starred [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
 * ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
   * [#45faac8](https://github.com/pacholoamit/xevon-ai/commit/45faac8) feat: working slack install
 * ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
   * [#8fc22e6](https://github.com/Lawher-Co-Solicitors/lawher/commit/8fc22e6) refactor: Update text from &#34;Select a Lawyer&#34; to &#34;Find a Lawyer&#34;
 * ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
   * [#7ac07df](https://github.com/Lawher-Co-Solicitors/lawher/commit/7ac07df) style: Update sidebar button text to &#34;Find a Lawyer&#34;
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#46cb24b](https://github.com/Lawher-Co-Solicitors/lawher/commit/46cb24b) refactor: Update founder&#39;s bio in OurFounder component
-* ➡️ Pushed 2 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#732149a](https://github.com/Lawher-Co-Solicitors/lawher/commit/732149a) refactor: Update phone number validation in onboarding schema
-  * [#bd9ded6](https://github.com/Lawher-Co-Solicitors/lawher/commit/bd9ded6) style: Update image src in onboarding and sidebar components
 
 
 
