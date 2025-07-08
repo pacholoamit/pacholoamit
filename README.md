@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `10229` commits and made `230` PRs.
+:people_hugging: I contributed to `48` repositories , made `10230` commits and made `230` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#1253 Optout Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1253) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#1280 Update ad impression schema version to 1-0-4 and add media player dimensions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1280) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🌟 Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
 * 🌟 Starred [useautumn/autumn](https://github.com/useautumn/autumn)
 * 🌟 Starred [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
-* ➡️ Pushed 1 commit in [pacholoamit/xevon-ai](https://github.com/pacholoamit/xevon-ai) on branch `feat/extend-features`
-  * [#45faac8](https://github.com/pacholoamit/xevon-ai/commit/45faac8) feat: working slack install
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#8fc22e6](https://github.com/Lawher-Co-Solicitors/lawher/commit/8fc22e6) refactor: Update text from &#34;Select a Lawyer&#34; to &#34;Find a Lawyer&#34;
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#7ac07df](https://github.com/Lawher-Co-Solicitors/lawher/commit/7ac07df) style: Update sidebar button text to &#34;Find a Lawyer&#34;
 
 
 
