@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#1282 Update basket items of carts in microservice hotfix](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1282) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
   * [#150e305](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/150e305) Merge pull request #453 from MediaJel/jcd/ajnaF
   * [#3c56df2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3c56df2) added nexxen and dstillery beacon
@@ -37,7 +38,6 @@
   * 1 file changed `++24 --0`
 * 🔍 Reviewed [#1253 Optout Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1253) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#1280 Update ad impression schema version to 1-0-4 and add media player dimensions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1280) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🌟 Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
 
 
 
