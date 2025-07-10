@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+* 🌟 Starred [mindverse/Second-Me](https://github.com/mindverse/Second-Me)
+* 🌟 Starred [Helicone/helicone](https://github.com/Helicone/helicone)
 * 🌟 Starred [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
 * #️⃣ Opened [#1282 Update basket items of carts in microservice hotfix](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1282) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#150e305](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/150e305) Merge pull request #453 from MediaJel/jcd/ajnaF
-  * [#3c56df2](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3c56df2) added nexxen and dstillery beacon
-* 🔃 Merged [#453 [FOR REVIEW] Added Nexxen and Dstillery Beacon in Ajna](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/453) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++24 --0`
-* 🔍 Reviewed [#1253 Optout Endpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1253) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
