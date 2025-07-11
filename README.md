@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `48` repositories , made `10230` commits and made `230` PRs.
+:people_hugging: I contributed to `48` repositories , made `10253` commits and made `230` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
-* 🌟 Starred [mindverse/Second-Me](https://github.com/mindverse/Second-Me)
-* 🌟 Starred [Helicone/helicone](https://github.com/Helicone/helicone)
-* 🌟 Starred [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
-* #️⃣ Opened [#1282 Update basket items of carts in microservice hotfix](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1282) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#924ad20](https://github.com/MediaJel/mediajel-tracker/commit/924ad20) chore: comment out Cypress installation and tests block
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#01d657f](https://github.com/pacholoamit/homelab-infrastructure/commit/01d657f) refactor: Update file paths for app archives
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#31d5087](https://github.com/pacholoamit/homelab-infrastructure/commit/31d5087) style: comment out unused resources in kustomization files
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#c90e3db](https://github.com/pacholoamit/homelab-infrastructure/commit/c90e3db) feat: Update Bitnami Helm chart repository URL
+* ➡️ Pushed 1 commit in [pacholoamit/homelab-infrastructure](https://github.com/pacholoamit/homelab-infrastructure) on branch `master`
+  * [#5d9d4be](https://github.com/pacholoamit/homelab-infrastructure/commit/5d9d4be) refactor: Remove mariadb from kustomization.yaml
 
 
 
