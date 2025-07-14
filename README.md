@@ -30,12 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai) on branch `feat/manual`
+  * [#311fd79](https://github.com/pacholoamit/centaur.ai/commit/311fd79) style: Remove unused GitHubLogoIcon import
+* ⏺️ Created new branch feat/manual in [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai)
+* 🌟 Starred [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow)
 * ⏺️ Created new branch feat/claude in [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai)
 * 🌟 Starred [jakobhoeg/shadcn-chat](https://github.com/jakobhoeg/shadcn-chat)
-* ➡️ Pushed 1 commit in [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai) on branch `main`
-  * [#84b1528](https://github.com/pacholoamit/centaur.ai/commit/84b1528) docs: Add CLAUDE.md with repository context and guidelines
-* ⏺️ Created new branch main in [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai)
-* ⏺️ Created new repository  [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai)
 
 
 
