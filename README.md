@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `10267` commits and made `224` PRs.
+:people_hugging: I contributed to `51` repositories , made `10268` commits and made `224` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#1259 Update ad impression schema version and add media player details](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1259) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [pacholoamit/turborepo-shadcn-nextjs-nestjs-prisma-starter-kit](https://github.com/pacholoamit/turborepo-shadcn-nextjs-nestjs-prisma-starter-kit) on branch `main`
+  * [#14cbb80](https://github.com/pacholoamit/turborepo-shadcn-nextjs-nestjs-prisma-starter-kit/commit/14cbb80) Create dependabot.yml
 * ➡️ Pushed 1 commit in [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai) on branch `feat/manual`
   * [#311fd79](https://github.com/pacholoamit/centaur.ai/commit/311fd79) style: Remove unused GitHubLogoIcon import
 * ⏺️ Created new branch feat/manual in [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai)
 * 🌟 Starred [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow)
-* ⏺️ Created new branch feat/claude in [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai)
-* 🌟 Starred [jakobhoeg/shadcn-chat](https://github.com/jakobhoeg/shadcn-chat)
 
 
 
