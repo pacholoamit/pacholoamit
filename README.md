@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `10268` commits and made `224` PRs.
+:people_hugging: I contributed to `51` repositories , made `10270` commits and made `224` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#9358 2001482/2001620: WWX: Thick Ass Glass-240719 - Dashboard is overreporting Impressions](https://github.com/MediaJel/mediajel-dashboard/issues/9358) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#9358 2001482/2001620: WWX: Thick Ass Glass-240719 - Dashboard is overreporting Impressions](https://github.com/MediaJel/mediajel-dashboard/issues/9358) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#e4db0f1](https://github.com/MediaJel/salesforce-automation/commit/e4db0f1) Merge pull request #38 from MediaJel/ez-shipBillAddrFix
+  * [#644e7ec](https://github.com/MediaJel/salesforce-automation/commit/644e7ec) style: Improve code readability and handling of missing values
+* 🔃 Merged [#38 style: Improve code readability and handling of missing values](https://github.com/MediaJel/salesforce-automation/pull/38) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 1 file changed `++12 --12`
 * 🔍 Reviewed [#1259 Update ad impression schema version and add media player details](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1259) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [pacholoamit/turborepo-shadcn-nextjs-nestjs-prisma-starter-kit](https://github.com/pacholoamit/turborepo-shadcn-nextjs-nestjs-prisma-starter-kit) on branch `main`
-  * [#14cbb80](https://github.com/pacholoamit/turborepo-shadcn-nextjs-nestjs-prisma-starter-kit/commit/14cbb80) Create dependabot.yml
-* ➡️ Pushed 1 commit in [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai) on branch `feat/manual`
-  * [#311fd79](https://github.com/pacholoamit/centaur.ai/commit/311fd79) style: Remove unused GitHubLogoIcon import
-* ⏺️ Created new branch feat/manual in [pacholoamit/centaur.ai](https://github.com/pacholoamit/centaur.ai)
-* 🌟 Starred [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow)
 
 
 
