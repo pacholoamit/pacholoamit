@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `10270` commits and made `224` PRs.
+:people_hugging: I contributed to `52` repositories , made `10273` commits and made `224` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,13 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#9358 2001482/2001620: WWX: Thick Ass Glass-240719 - Dashboard is overreporting Impressions](https://github.com/MediaJel/mediajel-dashboard/issues/9358) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#9358 2001482/2001620: WWX: Thick Ass Glass-240719 - Dashboard is overreporting Impressions](https://github.com/MediaJel/mediajel-dashboard/issues/9358) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#e4db0f1](https://github.com/MediaJel/salesforce-automation/commit/e4db0f1) Merge pull request #38 from MediaJel/ez-shipBillAddrFix
-  * [#644e7ec](https://github.com/MediaJel/salesforce-automation/commit/644e7ec) style: Improve code readability and handling of missing values
-* 🔃 Merged [#38 style: Improve code readability and handling of missing values](https://github.com/MediaJel/salesforce-automation/pull/38) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 1 file changed `++12 --12`
-* 🔍 Reviewed [#1259 Update ad impression schema version and add media player details](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1259) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/Nexxen-MCP-POC](https://github.com/MediaJel/Nexxen-MCP-POC) on branch `main`
+  * [#61c8cb1](https://github.com/MediaJel/Nexxen-MCP-POC/commit/61c8cb1) refactor: Update prompt assignment and improve code readability
+* ➡️ Pushed 1 commit in [MediaJel/Nexxen-MCP-POC](https://github.com/MediaJel/Nexxen-MCP-POC) on branch `main`
+  * [#b83fbd1](https://github.com/MediaJel/Nexxen-MCP-POC/commit/b83fbd1) feat: Add zod schema validation for structured data
+* ⏺️ Created new branch main in [MediaJel/Nexxen-MCP-POC](https://github.com/MediaJel/Nexxen-MCP-POC)
+* ⏺️ Created new repository  [MediaJel/Nexxen-MCP-POC](https://github.com/MediaJel/Nexxen-MCP-POC)
+* 🌟 Starred [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp)
 
 
 
