@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `10273` commits and made `224` PRs.
+:people_hugging: I contributed to `52` repositories , made `10301` commits and made `224` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/Nexxen-MCP-POC](https://github.com/MediaJel/Nexxen-MCP-POC) on branch `main`
-  * [#61c8cb1](https://github.com/MediaJel/Nexxen-MCP-POC/commit/61c8cb1) refactor: Update prompt assignment and improve code readability
-* ➡️ Pushed 1 commit in [MediaJel/Nexxen-MCP-POC](https://github.com/MediaJel/Nexxen-MCP-POC) on branch `main`
-  * [#b83fbd1](https://github.com/MediaJel/Nexxen-MCP-POC/commit/b83fbd1) feat: Add zod schema validation for structured data
-* ⏺️ Created new branch main in [MediaJel/Nexxen-MCP-POC](https://github.com/MediaJel/Nexxen-MCP-POC)
-* ⏺️ Created new repository  [MediaJel/Nexxen-MCP-POC](https://github.com/MediaJel/Nexxen-MCP-POC)
-* 🌟 Starred [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp)
+* 🔍 Reviewed [#1297 ez nexxenListEndpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1297) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🌟 Starred [zserge/pennybase](https://github.com/zserge/pennybase)
+* 🔍 Reviewed [#1284 [FOR REVIEW] Advertiser auto creation ](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1284) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#1295 [FOR REVIEW] Changed campaign of E2E Test of failing signups report test](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1295) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Closed [#1280 Update ad impression schema version to 1-0-4 and add media player dimensions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1280) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 1 file changed `++8 --2`
 
 
 
