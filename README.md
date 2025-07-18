@@ -30,12 +30,33 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 28 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `master`
+  * [#55e6a07](https://github.com/Lawher-Co-Solicitors/lawher/commit/55e6a07) fix: Update success and cancel URLs to use environment variable
+  * [#f52a2ce](https://github.com/Lawher-Co-Solicitors/lawher/commit/f52a2ce) style: Update success and cancel URLs to use window.location
+  * [#9310bcb](https://github.com/Lawher-Co-Solicitors/lawher/commit/9310bcb) style: Add missing semicolons to type declarations
+  * [#5c413e3](https://github.com/Lawher-Co-Solicitors/lawher/commit/5c413e3) feat: Add payment handling to appointment creation flow
+  * [#443bd93](https://github.com/Lawher-Co-Solicitors/lawher/commit/443bd93) feat: Add payment route for creating checkout session
+  * [#6d1e3e9](https://github.com/Lawher-Co-Solicitors/lawher/commit/6d1e3e9) style: update image dimensions in HeroSection
+  * [#c550e45](https://github.com/Lawher-Co-Solicitors/lawher/commit/c550e45) style: Update image file extension to PNG
+  * [#ea0613c](https://github.com/Lawher-Co-Solicitors/lawher/commit/ea0613c) feat: Add OurFounder and FAQLawyers components
+  * [#b5e53d7](https://github.com/Lawher-Co-Solicitors/lawher/commit/b5e53d7) chore: Comment out unused code for IS_COMING_SOON variable
+  * [#0475fee](https://github.com/Lawher-Co-Solicitors/lawher/commit/0475fee) Merge branch &#39;master&#39; into staging
+  * [#4a1c8c0](https://github.com/Lawher-Co-Solicitors/lawher/commit/4a1c8c0) feat: Add merged appointment data to admin page展
+  * [#f58e6bd](https://github.com/Lawher-Co-Solicitors/lawher/commit/f58e6bd) feat: Add DOMAIN_WIDE_DELEGATION_ACCOUNT constant
+  * [#5e9f207](https://github.com/Lawher-Co-Solicitors/lawher/commit/5e9f207) fix: Update create appointment URL in EmptyAppointments
+  * [#cac1a8a](https://github.com/Lawher-Co-Solicitors/lawher/commit/cac1a8a) feat: Add Card component to ScheduleSelector for styling
+  * [#65dac48](https://github.com/Lawher-Co-Solicitors/lawher/commit/65dac48) style: Update styling in EmptyAppointments component
+  * [#be81085](https://github.com/Lawher-Co-Solicitors/lawher/commit/be81085) style: Improve form layout for mobile and desktop
+  * [#f244e65](https://github.com/Lawher-Co-Solicitors/lawher/commit/f244e65) style: Update mobile menu links and buttons styling
+  * [#8b5a9d1](https://github.com/Lawher-Co-Solicitors/lawher/commit/8b5a9d1) feat: Add mobile menu functionality for dashboard sidebar
+  * [#276ccff](https://github.com/Lawher-Co-Solicitors/lawher/commit/276ccff) style: Update color variables in globals.css
+  * [#35ffe79](https://github.com/Lawher-Co-Solicitors/lawher/commit/35ffe79) style: Remove commented out code in page.tsx and navbar.tsx
+* ➡️ Pushed 2 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#c048432](https://github.com/Lawher-Co-Solicitors/lawher/commit/c048432) style: Update image paths for login and register pages
+  * [#5d0f76b](https://github.com/Lawher-Co-Solicitors/lawher/commit/5d0f76b) style: Update website title and description text
 * 🔍 Reviewed [#1297 ez nexxenListEndpoint](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1297) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🌟 Starred [zserge/pennybase](https://github.com/zserge/pennybase)
 * 🔍 Reviewed [#1284 [FOR REVIEW] Advertiser auto creation ](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1284) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#1295 [FOR REVIEW] Changed campaign of E2E Test of failing signups report test](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1295) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Closed [#1280 Update ad impression schema version to 1-0-4 and add media player dimensions](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1280) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 1 file changed `++8 --2`
 
 
 
