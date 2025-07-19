@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `10301` commits and made `224` PRs.
+:people_hugging: I contributed to `52` repositories , made `10308` commits and made `226` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#1312 Update the Dashboard Tags page to have inputs to indicate retail ids](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1312) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#1311 Improve worfklow on typesafety between microservice and gql-service](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1311) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#1276 Dstillery mediajel-tracker integration](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1276) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#1295 [FOR REVIEW] Changed campaign of E2E Test of failing signups report test](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1295) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#1310 Research on how we can use `appId` as an idetifier for frictionless tags instead of domain](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1310) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Closed [#1323 hotfix/hide docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1323) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++68 --28`
+* 🔃 Opened [#1323 hotfix/hide docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1323) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++68 --28`
+* ⏺️ Created new branch hotfix/hide-docs in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#0233832](https://github.com/MediaJel/salesforce-automation/commit/0233832) refactor: Update file output name to &#34;matches-updated.csv&#34;
+* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#ae3f5d9](https://github.com/MediaJel/salesforce-automation/commit/ae3f5d9) feat: Add ProgressIndicator for updating accounts with Quickbooks IDs
 
 
 
