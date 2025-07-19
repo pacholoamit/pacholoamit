@@ -30,15 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔃 Opened [#1325 refactor/add infisical](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1325) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 2 files changed `++6 --1`
+* ⏺️ Created new branch refactor/add-infisical in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔃 Closed [#1323 hotfix/hide docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1323) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 3 files changed `++68 --28`
 * 🔃 Opened [#1323 hotfix/hide docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1323) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 3 files changed `++68 --28`
 * ⏺️ Created new branch hotfix/hide-docs in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#0233832](https://github.com/MediaJel/salesforce-automation/commit/0233832) refactor: Update file output name to &#34;matches-updated.csv&#34;
-* ➡️ Pushed 1 commit in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#ae3f5d9](https://github.com/MediaJel/salesforce-automation/commit/ae3f5d9) feat: Add ProgressIndicator for updating accounts with Quickbooks IDs
 
 
 
