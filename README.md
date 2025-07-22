@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `10308` commits and made `221` PRs.
+:people_hugging: I contributed to `52` repositories , made `10322` commits and made `224` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 5 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `develop`
+  * [#1ba3fd0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1ba3fd0) Merge pull request #1315 from MediaJel/jcd/atsignals
+  * [#7c780ea](https://github.com/MediaJel/amplication-nestjs-microservices/commit/7c780ea) E2E Validation passed :+1: 2025-07-19_05:23:19_+08_+0800
+  * [#427e5c8](https://github.com/MediaJel/amplication-nestjs-microservices/commit/427e5c8) applied rules in external and internal route
+  * [#a32053a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a32053a) E2E Validation passed :+1: 2025-07-18_04:04:33_+08_+0800
+  * [#f6570cd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f6570cd) added api exclusive
+* 🔃 Merged [#1315 [FOR REVIEW] Made other endpoint in Attention Signals Private](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1315) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 5 files changed `++128 --5`
+* 🔍 Reviewed [#1315 [FOR REVIEW] Made other endpoint in Attention Signals Private](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1315) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔃 Opened [#1325 refactor/add infisical](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1325) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
   * 2 files changed `++6 --1`
 * ⏺️ Created new branch refactor/add-infisical in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔃 Closed [#1323 hotfix/hide docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1323) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 3 files changed `++68 --28`
-* 🔃 Opened [#1323 hotfix/hide docs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1323) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 3 files changed `++68 --28`
-* ⏺️ Created new branch hotfix/hide-docs in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
