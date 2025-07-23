@@ -30,21 +30,25 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 4 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
-  * [#08cbe89](https://github.com/MediaJel/salesforce-automation/commit/08cbe89) Merge pull request #42 from MediaJel/staging
-  * [#79deb04](https://github.com/MediaJel/salesforce-automation/commit/79deb04) Merge pull request #41 from MediaJel/feat/add-queue
-  * [#f959c92](https://github.com/MediaJel/salesforce-automation/commit/f959c92) chore(processor): Update processor settings and logging
-  * [#5aa9ab9](https://github.com/MediaJel/salesforce-automation/commit/5aa9ab9) feat: Add Bull queue for processing jobs
-* 🔃 Merged [#42 staging](https://github.com/MediaJel/salesforce-automation/pull/42) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 6 files changed `++874 --184`
-* 🔃 Opened [#42 staging](https://github.com/MediaJel/salesforce-automation/pull/42) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 6 files changed `++874 --184`
-* ➡️ Pushed 3 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `staging`
-  * [#79deb04](https://github.com/MediaJel/salesforce-automation/commit/79deb04) Merge pull request #41 from MediaJel/feat/add-queue
-  * [#f959c92](https://github.com/MediaJel/salesforce-automation/commit/f959c92) chore(processor): Update processor settings and logging
-  * [#5aa9ab9](https://github.com/MediaJel/salesforce-automation/commit/5aa9ab9) feat: Add Bull queue for processing jobs
-* 🔃 Merged [#41 feat/add queue](https://github.com/MediaJel/salesforce-automation/pull/41) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
-  * 6 files changed `++874 --184`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `develop`
+  * [#46088b7](https://github.com/MediaJel/mediajel-gql-service/commit/46088b7) Merge pull request #6328 from MediaJel/feature/improve-workflow-on-typesafety-between-microservice-and-gql-service
+  * [#8623a80](https://github.com/MediaJel/mediajel-gql-service/commit/8623a80) feature: Automate the workflow of generating microservice openAPI types into GQL-service
+* 🔃 Merged [#6328 [FOR REVIEW] Automate the workflow of generating microservice openAPI types into GQL-service](https://github.com/MediaJel/mediajel-gql-service/pull/6328) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 6 files changed `++3090 --1113`
+* ➡️ Pushed 10 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `develop`
+  * [#2d88d09](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2d88d09) Merge pull request #1335 from MediaJel/feature/improve-workflow-on-typesafety-between-microservice-and-gql-service
+  * [#276e4c9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/276e4c9) E2E Validation passed :+1: 2025-07-23_03:41:41_PST_+0800
+  * [#f436c0d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f436c0d) fix: conflicts
+  * [#2e9cb0a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2e9cb0a) E2E Validation passed :+1: 2025-07-23_03:34:33_PST_+0800
+  * [#37bfdbd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/37bfdbd) fix: conflicts
+  * [#0500c29](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0500c29) E2E Validation passed :+1: 2025-07-23_03:29:14_PST_+0800
+  * [#bbb5ee7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bbb5ee7) fix: conflicts
+  * [#47c1d8d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/47c1d8d) refactor: fix conflicts
+  * [#529976a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/529976a) E2E Validation passed :+1: 2025-07-22_06:39:41_PST_+0800
+  * [#280d290](https://github.com/MediaJel/amplication-nestjs-microservices/commit/280d290) feature: new endpoints for openapi specs JSON and yaml
+* 🔃 Merged [#1335 Feature/improve workflow on typesafety between microservice and gql service](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1335) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 24 files changed `++491 --49`
+* 🔍 Reviewed [#1335 Feature/improve workflow on typesafety between microservice and gql service](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1335) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
