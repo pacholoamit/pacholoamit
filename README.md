@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 💬 Commented on [#9344 Fix some Organizations not visible in Paid Search Campaign](https://github.com/MediaJel/mediajel-dashboard/issues/9344) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#9275 [FOR REVIEW] Add validation - cannot launch PCL if start date is in the past in order queue](https://github.com/MediaJel/mediajel-dashboard/issues/9275) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#9296 [Bug] Incorrect Number of Days Calculated Between Start and End Date](https://github.com/MediaJel/mediajel-dashboard/issues/9296) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#9332 [FOR REVIEW] Fix Incorrect Number of Days Calculated Between Start and End Date](https://github.com/MediaJel/mediajel-dashboard/issues/9332) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * 💬 Commented on [#9310 Fix Child org users accessing features without permissions using endpoint links](https://github.com/MediaJel/mediajel-dashboard/issues/9310) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#9014 BUGFIX: Input non-integer values to integer only inputs](https://github.com/MediaJel/mediajel-dashboard/issues/9014) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🔍 Reviewed [#1347 [FOR REVIEW] Infisical documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1347) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/add-maestro`
-  * [#57032a3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/57032a3) E2E Validation passed :+1: 2025-07-24_01:20:28_PST_+0800
-  * [#39f687c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/39f687c) remove impression enums
-* ➡️ Pushed 40 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `icf-get-logs-improvement`
-  * [#2d6dd90](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2d6dd90) Merge branch &#39;staging&#39; into feature/MS-9386
 
 
 
