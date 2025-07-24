@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `10330` commits and made `226` PRs.
+:people_hugging: I contributed to `52` repositories , made `10330` commits and made `229` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,25 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `develop`
-  * [#46088b7](https://github.com/MediaJel/mediajel-gql-service/commit/46088b7) Merge pull request #6328 from MediaJel/feature/improve-workflow-on-typesafety-between-microservice-and-gql-service
-  * [#8623a80](https://github.com/MediaJel/mediajel-gql-service/commit/8623a80) feature: Automate the workflow of generating microservice openAPI types into GQL-service
-* 🔃 Merged [#6328 [FOR REVIEW] Automate the workflow of generating microservice openAPI types into GQL-service](https://github.com/MediaJel/mediajel-gql-service/pull/6328) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 6 files changed `++3090 --1113`
-* ➡️ Pushed 10 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `develop`
-  * [#2d88d09](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2d88d09) Merge pull request #1335 from MediaJel/feature/improve-workflow-on-typesafety-between-microservice-and-gql-service
-  * [#276e4c9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/276e4c9) E2E Validation passed :+1: 2025-07-23_03:41:41_PST_+0800
-  * [#f436c0d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f436c0d) fix: conflicts
-  * [#2e9cb0a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2e9cb0a) E2E Validation passed :+1: 2025-07-23_03:34:33_PST_+0800
-  * [#37bfdbd](https://github.com/MediaJel/amplication-nestjs-microservices/commit/37bfdbd) fix: conflicts
-  * [#0500c29](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0500c29) E2E Validation passed :+1: 2025-07-23_03:29:14_PST_+0800
-  * [#bbb5ee7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/bbb5ee7) fix: conflicts
-  * [#47c1d8d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/47c1d8d) refactor: fix conflicts
-  * [#529976a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/529976a) E2E Validation passed :+1: 2025-07-22_06:39:41_PST_+0800
-  * [#280d290](https://github.com/MediaJel/amplication-nestjs-microservices/commit/280d290) feature: new endpoints for openapi specs JSON and yaml
-* 🔃 Merged [#1335 Feature/improve workflow on typesafety between microservice and gql service](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1335) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 24 files changed `++491 --49`
-* 🔍 Reviewed [#1335 Feature/improve workflow on typesafety between microservice and gql service](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1335) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#9310 Fix Child org users accessing features without permissions using endpoint links](https://github.com/MediaJel/mediajel-dashboard/issues/9310) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#9014 BUGFIX: Input non-integer values to integer only inputs](https://github.com/MediaJel/mediajel-dashboard/issues/9014) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🔍 Reviewed [#1347 [FOR REVIEW] Infisical documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1347) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/add-maestro`
+  * [#57032a3](https://github.com/MediaJel/amplication-nestjs-microservices/commit/57032a3) E2E Validation passed :+1: 2025-07-24_01:20:28_PST_+0800
+  * [#39f687c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/39f687c) remove impression enums
+* ➡️ Pushed 40 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `icf-get-logs-improvement`
+  * [#2d6dd90](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2d6dd90) Merge branch &#39;staging&#39; into feature/MS-9386
 
 
 
