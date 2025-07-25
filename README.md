@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#9344 Fix some Organizations not visible in Paid Search Campaign](https://github.com/MediaJel/mediajel-dashboard/issues/9344) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#9275 [FOR REVIEW] Add validation - cannot launch PCL if start date is in the past in order queue](https://github.com/MediaJel/mediajel-dashboard/issues/9275) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#9296 [Bug] Incorrect Number of Days Calculated Between Start and End Date](https://github.com/MediaJel/mediajel-dashboard/issues/9296) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#9332 [FOR REVIEW] Fix Incorrect Number of Days Calculated Between Start and End Date](https://github.com/MediaJel/mediajel-dashboard/issues/9332) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#9310 Fix Child org users accessing features without permissions using endpoint links](https://github.com/MediaJel/mediajel-dashboard/issues/9310) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#9414 Fix copy and paste of Email Uploading First Party Data](https://github.com/MediaJel/mediajel-dashboard/issues/9414) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#1364 First party data - Be able to push to Nexxen](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1364) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1360 Create hotfix on the tag installation documentation being cut when downloading PDF](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1360) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#8832 Test Tag with Retail in Campaign requestor](https://github.com/MediaJel/mediajel-dashboard/issues/8832) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#1286 Add queue to salesforce automation and improve DX](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1286) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
