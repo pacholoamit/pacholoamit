@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#62a844f](https://github.com/MediaJel/salesforce-automation/commit/62a844f) Merge pull request #46 from MediaJel/ez-addBillingState
+
+feat: Add BillingState to Account and QuickbooksAddressInput
+  * [#5ad9565](https://github.com/MediaJel/salesforce-automation/commit/5ad9565) feat: Add BillingState to Account and QuickbooksAddressInput
+* 🔃 Merged [#46 feat: Add BillingState to Account and QuickbooksAddressInput](https://github.com/MediaJel/salesforce-automation/pull/46) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 3 files changed `++8 --2`
 * 💬 Commented on [#9414 Fix copy and paste of Email Uploading First Party Data](https://github.com/MediaJel/mediajel-dashboard/issues/9414) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#1364 First party data - Be able to push to Nexxen](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1364) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#1360 Create hotfix on the tag installation documentation being cut when downloading PDF](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1360) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#8832 Test Tag with Retail in Campaign requestor](https://github.com/MediaJel/mediajel-dashboard/issues/8832) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#1286 Add queue to salesforce automation and improve DX](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1286) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
