@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#6352 [FOR REVIEW] First Party Data GQL resolver updates](https://github.com/MediaJel/mediajel-gql-service/pull/6352) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 🌟 Starred [frappe/insights](https://github.com/frappe/insights)
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jcd/sforce`
   * [#cec3435](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cec3435) feat: listen for salesforce account creation
 * #️⃣ Opened [#1377 First Party Data](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1377) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `develop`
-  * [#e924da7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e924da7) Merge pull request #1373 from MediaJel/srr/optoutHotFix2
-  * [#972a67a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/972a67a) E2E Validation passed :+1: 2025-07-29_03:10:17_PST_+0800
-  * [#4f8b446](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4f8b446) Update OptOutParams dto with enum for country property
 
 
 
