@@ -30,45 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 32 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#5d617b8](https://github.com/MediaJel/mediajel-tracker/commit/5d617b8) test overrides
-  * [#a2aae0a](https://github.com/MediaJel/mediajel-tracker/commit/a2aae0a) Merge pull request #742 from MediaJel/jbjm-test-overrides-five
-
-test overrides
-  * [#8fb6a4b](https://github.com/MediaJel/mediajel-tracker/commit/8fb6a4b) test overrides
-  * [#32744e2](https://github.com/MediaJel/mediajel-tracker/commit/32744e2) Merge pull request #741 from MediaJel/jbjm-test-overrides-four
-
-test overrides
-  * [#10e12c7](https://github.com/MediaJel/mediajel-tracker/commit/10e12c7) test overrides
-  * [#9a880de](https://github.com/MediaJel/mediajel-tracker/commit/9a880de) Merge pull request #740 from MediaJel/jbjm-test-overrides-three
-
-Test overrides
-  * [#466e1b9](https://github.com/MediaJel/mediajel-tracker/commit/466e1b9) Test overrides
-  * [#481e801](https://github.com/MediaJel/mediajel-tracker/commit/481e801) Merge pull request #739 from MediaJel/jbjm-test-overrides-two
-
-test overrides
-  * [#ce77be8](https://github.com/MediaJel/mediajel-tracker/commit/ce77be8) test overrides
-  * [#ac72326](https://github.com/MediaJel/mediajel-tracker/commit/ac72326) Merge pull request #738 from MediaJel/jbjm-test-overrides
-
-test overrides
-  * [#d094368](https://github.com/MediaJel/mediajel-tracker/commit/d094368) test overrides
-  * [#edbb131](https://github.com/MediaJel/mediajel-tracker/commit/edbb131) test overrides
-  * [#f7de856](https://github.com/MediaJel/mediajel-tracker/commit/f7de856) Merge pull request #737 from MediaJel/jbjm-try-fix-overrides
-
-try fix overrides
-  * [#160d5af](https://github.com/MediaJel/mediajel-tracker/commit/160d5af) try fix
-  * [#7bb20cf](https://github.com/MediaJel/mediajel-tracker/commit/7bb20cf) try fix overrides
-  * [#924ad20](https://github.com/MediaJel/mediajel-tracker/commit/924ad20) chore: comment out Cypress installation and tests block
-  * [#246f1ac](https://github.com/MediaJel/mediajel-tracker/commit/246f1ac) Merge pull request #736 from MediaJel/jbjm-overrides-dstillery
-  * [#9e9df71](https://github.com/MediaJel/mediajel-tracker/commit/9e9df71) update dstillery overrides
-  * [#4fae1fb](https://github.com/MediaJel/mediajel-tracker/commit/4fae1fb) update dstillery overrides
-  * [#4b9cac1](https://github.com/MediaJel/mediajel-tracker/commit/4b9cac1) dstillery overrides
-* 🔃 Merged [#751 Master](https://github.com/MediaJel/mediajel-tracker/pull/751) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 8 files changed `++81 --36`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#4eeb320](https://github.com/MediaJel/mediajel-tracker/commit/4eeb320) style: Use double quotes consistently in file paths
-* 🔃 Opened [#751 Master](https://github.com/MediaJel/mediajel-tracker/pull/751) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 8 files changed `++82 --30`
+* 🌟 Starred [frappe/insights](https://github.com/frappe/insights)
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jcd/sforce`
+  * [#cec3435](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cec3435) feat: listen for salesforce account creation
+* #️⃣ Opened [#1377 First Party Data](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1377) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `develop`
+  * [#e924da7](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e924da7) Merge pull request #1373 from MediaJel/srr/optoutHotFix2
+  * [#972a67a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/972a67a) E2E Validation passed :+1: 2025-07-29_03:10:17_PST_+0800
+  * [#4f8b446](https://github.com/MediaJel/amplication-nestjs-microservices/commit/4f8b446) Update OptOutParams dto with enum for country property
 
 
 
