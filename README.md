@@ -30,18 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 7 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `develop`
-  * [#d4fa44c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d4fa44c) Merge pull request #1341 from MediaJel/icf-get-logs-improvement
-  * [#396e75e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/396e75e) Merge branch &#39;develop&#39; into icf-get-logs-improvement
-  * [#63b68b9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/63b68b9) Merge branch &#39;develop&#39; into icf-get-logs-improvement
-  * [#9233af0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9233af0) E2E Validation passed :+1: 2025-07-22_21:22:48_+08_+0800
-  * [#a7cfecf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a7cfecf) Get Logs Improvement
-  * [#9ad8363](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9ad8363) Merge branch &#39;staging&#39; of github.com:MediaJel/amplication-nestjs-microservices into icf-get-logs-improvement
-  * [#b100f70](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b100f70) WIP: Get Logs Improvement
-* 🔃 Merged [#1341 ICF Get Logs Improvement](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1341) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 4 files changed `++26 --51`
-* 🔍 Reviewed [#6352 [FOR REVIEW] First Party Data GQL resolver updates](https://github.com/MediaJel/mediajel-gql-service/pull/6352) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🔍 Reviewed [#1341 ICF Get Logs Improvement](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1341) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 2 commits in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation) on branch `master`
+  * [#f4bfb71](https://github.com/MediaJel/salesforce-automation/commit/f4bfb71) Merge pull request #47 from MediaJel/ez-fixSpecialCharacters
+  * [#93b1bf6](https://github.com/MediaJel/salesforce-automation/commit/93b1bf6) fix: remove special characters on customer creation
+* 🔃 Merged [#47 fix: remove special characters on customer creation](https://github.com/MediaJel/salesforce-automation/pull/47) in [MediaJel/salesforce-automation](https://github.com/MediaJel/salesforce-automation)
+  * 2 files changed `++18 --4`
+* 💬 Commented on [#8684 [Bug] The username in the email overlaps](https://github.com/MediaJel/mediajel-dashboard/issues/8684) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#1359 Hotfix add Maestro Impression tag to the dashboard for setting up attention signal funnel](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1359) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1310 Research on how we can use `appId` as an identifier for frictionless tags instead of domain](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1310) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
