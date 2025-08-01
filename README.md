@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `10346` commits and made `220` PRs.
+:people_hugging: I contributed to `52` repositories , made `10351` commits and made `220` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 7 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `develop`
+  * [#d4fa44c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/d4fa44c) Merge pull request #1341 from MediaJel/icf-get-logs-improvement
+  * [#396e75e](https://github.com/MediaJel/amplication-nestjs-microservices/commit/396e75e) Merge branch &#39;develop&#39; into icf-get-logs-improvement
+  * [#63b68b9](https://github.com/MediaJel/amplication-nestjs-microservices/commit/63b68b9) Merge branch &#39;develop&#39; into icf-get-logs-improvement
+  * [#9233af0](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9233af0) E2E Validation passed :+1: 2025-07-22_21:22:48_+08_+0800
+  * [#a7cfecf](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a7cfecf) Get Logs Improvement
+  * [#9ad8363](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9ad8363) Merge branch &#39;staging&#39; of github.com:MediaJel/amplication-nestjs-microservices into icf-get-logs-improvement
+  * [#b100f70](https://github.com/MediaJel/amplication-nestjs-microservices/commit/b100f70) WIP: Get Logs Improvement
+* 🔃 Merged [#1341 ICF Get Logs Improvement](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1341) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 4 files changed `++26 --51`
 * 🔍 Reviewed [#6352 [FOR REVIEW] First Party Data GQL resolver updates](https://github.com/MediaJel/mediajel-gql-service/pull/6352) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🌟 Starred [frappe/insights](https://github.com/frappe/insights)
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `jcd/sforce`
-  * [#cec3435](https://github.com/MediaJel/amplication-nestjs-microservices/commit/cec3435) feat: listen for salesforce account creation
-* #️⃣ Opened [#1377 First Party Data](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1377) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔍 Reviewed [#1341 ICF Get Logs Improvement](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1341) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
