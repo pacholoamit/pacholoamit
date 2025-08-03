@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [exelban/stats](https://github.com/exelban/stats)
 * 💬 Commented on [#6352 [FOR REVIEW] First Party Data GQL resolver updates](https://github.com/MediaJel/mediajel-gql-service/issues/6352) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * 💬 Commented on [#1284 [FOR REVIEW] Advertiser auto creation ](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1284) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#1284 [FOR REVIEW] Advertiser auto creation ](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1284) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 🔍 Reviewed [#1357 [FOR REVIEW] Add Nexxen Region Format Validation to Campaign    Launch](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1357) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🔍 Reviewed [#1347 [FOR REVIEW] Infisical documentation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1347) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
