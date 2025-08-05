@@ -30,11 +30,21 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-* 🌟 Starred [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)
-* 🌟 Starred [exelban/stats](https://github.com/exelban/stats)
-* 💬 Commented on [#6352 [FOR REVIEW] First Party Data GQL resolver updates](https://github.com/MediaJel/mediajel-gql-service/issues/6352) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#1284 [FOR REVIEW] Advertiser auto creation ](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1284) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#9307 [FOR REVIEW] Replace campaign deletion with archiving system](https://github.com/MediaJel/mediajel-dashboard/issues/9307) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#9437 [FOR REVIEW] Add &#39;paused&#39; campaigns to the Contract Terms report #9379](https://github.com/MediaJel/mediajel-dashboard/issues/9437) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 💬 Commented on [#9437 [FOR REVIEW] Add &#39;paused&#39; campaigns to the Contract Terms report #9379](https://github.com/MediaJel/mediajel-dashboard/issues/9437) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#1394 First Party Data Audience follow up enhancements](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1394) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 10 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `develop`
+  * [#ead0abd](https://github.com/MediaJel/mediajel-gql-service/commit/ead0abd) Merge pull request #6352 from MediaJel/feature/be-able-to-push-to-nexxen
+  * [#c1adb63](https://github.com/MediaJel/mediajel-gql-service/commit/c1adb63) feature: fix type
+  * [#b3c47fb](https://github.com/MediaJel/mediajel-gql-service/commit/b3c47fb) feature: add condition if typeOfFirstPartyData is null
+  * [#e617ca8](https://github.com/MediaJel/mediajel-gql-service/commit/e617ca8) feature: change into correct audience name
+  * [#9ac7bb6](https://github.com/MediaJel/mediajel-gql-service/commit/9ac7bb6) Merge branch &#39;develop&#39; of github.com:MediaJel/mediajel-gql-service into feature/be-able-to-push-to-nexxen
+  * [#5c0f3e4](https://github.com/MediaJel/mediajel-gql-service/commit/5c0f3e4) feature: Update parent ID and taxonomy level of hashed emails and phone numbers
+  * [#d711cb7](https://github.com/MediaJel/mediajel-gql-service/commit/d711cb7) feature: implement nexxen push audiences
+  * [#0f9b1e7](https://github.com/MediaJel/mediajel-gql-service/commit/0f9b1e7) feature: Refactor process-device-ids resolver
+  * [#e6e0e29](https://github.com/MediaJel/mediajel-gql-service/commit/e6e0e29) feature: Modify the S3 instance to include Statara credentials
+  * [#9a37aea](https://github.com/MediaJel/mediajel-gql-service/commit/9a37aea) feature: Add publish and taxonomy to the external-service accessible endpoints
 
 
 
