@@ -30,11 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [9001/copyparty](https://github.com/9001/copyparty)
-* 💬 Commented on [#9307 [FOR REVIEW] Replace campaign deletion with archiving system](https://github.com/MediaJel/mediajel-dashboard/issues/9307) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#9437 [FOR REVIEW] Add &#39;paused&#39; campaigns to the Contract Terms report #9379](https://github.com/MediaJel/mediajel-dashboard/issues/9437) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#9437 [FOR REVIEW] Add &#39;paused&#39; campaigns to the Contract Terms report #9379](https://github.com/MediaJel/mediajel-dashboard/issues/9437) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#1394 First Party Data Audience follow up enhancements](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1394) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🔃 Opened [#6391 Add External CRM Integration Support to Organizations](https://github.com/MediaJel/mediajel-gql-service/pull/6391) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 81 files changed `++5831 --3194`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-crm-org-integration`
+  * [#4d8e2ff](https://github.com/MediaJel/mediajel-gql-service/commit/4d8e2ff) feat: Add external CRM integrations to Org type
+* ⏺️ Created new branch schema/add-crm-org-integration in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#36ea734](https://github.com/Lawher-Co-Solicitors/lawher/commit/36ea734) feat: Add webhook handler for user deletion event
+* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#20415e1](https://github.com/Lawher-Co-Solicitors/lawher/commit/20415e1) style: Remove unnecessary price details from AppointmentDetails
 
 
 
