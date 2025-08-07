@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `10354` commits and made `219` PRs.
+:people_hugging: I contributed to `52` repositories , made `10391` commits and made `223` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,15 +30,41 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#6391 Add External CRM Integration Support to Organizations](https://github.com/MediaJel/mediajel-gql-service/pull/6391) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 81 files changed `++5831 --3194`
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-crm-org-integration`
-  * [#4d8e2ff](https://github.com/MediaJel/mediajel-gql-service/commit/4d8e2ff) feat: Add external CRM integrations to Org type
-* ⏺️ Created new branch schema/add-crm-org-integration in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#36ea734](https://github.com/Lawher-Co-Solicitors/lawher/commit/36ea734) feat: Add webhook handler for user deletion event
-* ➡️ Pushed 1 commit in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#20415e1](https://github.com/Lawher-Co-Solicitors/lawher/commit/20415e1) style: Remove unnecessary price details from AppointmentDetails
+* ➡️ Pushed 43 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#73784a5](https://github.com/MediaJel/mediajel-tracker/commit/73784a5) added basket items
+  * [#16f915d](https://github.com/MediaJel/mediajel-tracker/commit/16f915d) feat: add handling
+  * [#362cdcd](https://github.com/MediaJel/mediajel-tracker/commit/362cdcd) Merge pull request #712 from MediaJel/srr/janeFix
+  * [#2815240](https://github.com/MediaJel/mediajel-tracker/commit/2815240) Merge pull request #717 from MediaJel/srr/deduplicatorHotfixfrfr
+  * [#ddcf711](https://github.com/MediaJel/mediajel-tracker/commit/ddcf711) refactor:fixed passing id values to array
+  * [#ce8dade](https://github.com/MediaJel/mediajel-tracker/commit/ce8dade) changes
+  * [#9c5b305](https://github.com/MediaJel/mediajel-tracker/commit/9c5b305) fix sequence
+  * [#7bcbf45](https://github.com/MediaJel/mediajel-tracker/commit/7bcbf45) changes
+  * [#64d4b48](https://github.com/MediaJel/mediajel-tracker/commit/64d4b48) Merge pull request #715 from MediaJel/srr/deduplicatorHotfix
+  * [#1a517cf](https://github.com/MediaJel/mediajel-tracker/commit/1a517cf) feat:allow deduplicator to accept array of IDs to deduplicate
+  * [#bb61983](https://github.com/MediaJel/mediajel-tracker/commit/bb61983) feat:added datalayersource in jane with handler
+  * [#b7e8991](https://github.com/MediaJel/mediajel-tracker/commit/b7e8991) remove counter
+  * [#6dc07ad](https://github.com/MediaJel/mediajel-tracker/commit/6dc07ad) removed check transaction
+  * [#86548d8](https://github.com/MediaJel/mediajel-tracker/commit/86548d8) Merge pull request #710 from MediaJel/srr/adapterHandlerFix
+
+feat:executing the adapter-handler
+  * [#c4b2672](https://github.com/MediaJel/mediajel-tracker/commit/c4b2672) feat:executing the adapter-handler
+  * [#4ceb431](https://github.com/MediaJel/mediajel-tracker/commit/4ceb431) add debug logs
+  * [#f0168a0](https://github.com/MediaJel/mediajel-tracker/commit/f0168a0) remove isUnique
+  * [#8c8d816](https://github.com/MediaJel/mediajel-tracker/commit/8c8d816) Merge pull request #709 from MediaJel/srr/adapterHandlerHotfix
+
+refactor: changed sessionStorage to localStorage in handler and added datalayer in bigcommerce
+  * [#d06fff4](https://github.com/MediaJel/mediajel-tracker/commit/d06fff4) refactor: changed sessionStorage to localStorage in handler and added datalayer in bigcommerce
+  * [#6001734](https://github.com/MediaJel/mediajel-tracker/commit/6001734) Merge pull request #697 from MediaJel/staging
+
+staging
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#6ad3187](https://github.com/MediaJel/mediajel-tracker/commit/6ad3187) fix: Fix datasourceLogger function call
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#b0fa2ed](https://github.com/MediaJel/mediajel-tracker/commit/b0fa2ed) fix: Update SCRIPT_URL to use correct package domain
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#e5be125](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/e5be125) style: Remove unnecessary debug property assignment
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#41fccbc](https://github.com/MediaJel/mediajel-tracker/commit/41fccbc) style: Update comments and element from document.body to document.head
 
 
 
