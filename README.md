@@ -30,17 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [coroot/coroot](https://github.com/coroot/coroot)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#61fc385](https://github.com/MediaJel/mediajel-tracker/commit/61fc385) Merge pull request #764 from MediaJel/srr/datasource-hotfix
-  * [#6cdb05f](https://github.com/MediaJel/mediajel-tracker/commit/6cdb05f) Refactor datasource and getAppIdTags functions
-* 🔃 Merged [#764 Refactor datasource and getAppIdTags functions](https://github.com/MediaJel/mediajel-tracker/pull/764) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 2 files changed `++47 --50`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#3e2e178](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3e2e178) Merge pull request #476 from MediaJel/srr/thelandingdebug
-  * [#5cb134a](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/5cb134a) Add debug mode with new overrides for The Landing Dispensaries
-* 🔃 Merged [#476 Add debug mode with new overrides for The Landing Dispensaries](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/476) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++10 --3`
+* #️⃣ Closed [#1385 [ENHANCEMENTS] Better display the activation status](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1385) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1377 First Party Data](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1377) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 5 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#dde26da](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/dde26da) Merge pull request #472 from MediaJel/srr/snowplow-init
+  * [#f2cf524](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/f2cf524) Update Snowplow tracker script URL to latest version
+  * [#9440d75](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/9440d75) Update Snowplow collector endpoint in tracker.ts
+  * [#6f52d4e](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/6f52d4e) Refactor product mapping in tracking functions
+  * [#f6bfc0d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/f6bfc0d) Add initial logger and Snowplow tracker setup code
+* 🔃 Merged [#472 Create New Snowplow Tracker](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/472) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 6 files changed `++228 --0`
 
 
 
