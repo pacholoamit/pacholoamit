@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `10413` commits and made `219` PRs.
+:people_hugging: I contributed to `53` repositories , made `10420` commits and made `219` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [MotiaDev/motia](https://github.com/MotiaDev/motia)
-* 🌟 Starred [yeasin2002/nextjs-starter-template](https://github.com/yeasin2002/nextjs-starter-template)
-* 🔍 Reviewed [#9520 [PASS QA] Update button names and implement tooltips on the First Party Data buttons](https://github.com/MediaJel/mediajel-dashboard/pull/9520) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#1423 Update pipelines.attributed-events so that we have validation to only set startDate and endDate to be 1 day increments. For Clickhouse resources](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1423) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#1287 Microservice Cronjob migration from staging to production](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1287) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1336 [FOR REVIEW] Salesforce POST Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1336) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1336 [FOR REVIEW] Salesforce POST Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1336) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1336 [FOR REVIEW] Salesforce POST Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1336) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1336 [FOR REVIEW] Salesforce POST Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1336) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1336 [FOR REVIEW] Salesforce POST Endpoints](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1336) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
