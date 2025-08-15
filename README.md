@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#9285 [FOR REVIEW] Tag Help Center](https://github.com/MediaJel/mediajel-dashboard/issues/9285) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 💬 Commented on [#1402 feature: download feature for image pixel docs](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1402) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#1409 [FOR REVIEW] Nexxen Insertion order e2e failed test](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1409) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#1403 fix: scalar docs shows nested scalar page](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1403) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🌟 Starred [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui)
+* #️⃣ Closed [#1290 Create a supported library for pushing retail ids](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1290) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1251 Campaign launcher update](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1251) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1420 First Party Data Update buttons and add tooltips](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1420) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1405 Fix nexxen siteId macro in the internal-microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1405) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#9414 Fix copy and paste of Email Uploading First Party Data](https://github.com/MediaJel/mediajel-dashboard/issues/9414) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
