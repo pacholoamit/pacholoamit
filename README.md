@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [infinitered/ignite](https://github.com/infinitered/ignite)
 * #️⃣ Closed [#1290 Create a supported library for pushing retail ids](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1290) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * 💬 Commented on [#1251 Campaign launcher update](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1251) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#1420 First Party Data Update buttons and add tooltips](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1420) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#1405 Fix nexxen siteId macro in the internal-microservice](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1405) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#9414 Fix copy and paste of Email Uploading First Party Data](https://github.com/MediaJel/mediajel-dashboard/issues/9414) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
