@@ -30,14 +30,12 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* #️⃣ Opened [#1445 Investigate Dashboard vs Nexxen discrepancy](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1445) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 🌟 Starred [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
+* #️⃣ Opened [#1439 New vs Returning customer (Template updates)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1439) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ⏺️ Created new branch feat/add-crm-org-integration in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-crm-org-integration`
   * [#7800a96](https://github.com/MediaJel/mediajel-gql-service/commit/7800a96) feat: Add ExternalCRMUserIntegration type and relation
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-crm-org-integration`
-  * [#f283775](https://github.com/MediaJel/mediajel-gql-service/commit/f283775) chore: Add comments for code logic and queue placement
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-crm-org-integration`
-  * [#3850c36](https://github.com/MediaJel/mediajel-gql-service/commit/3850c36) feat: Add Prisma subscription job and resolvers
-* 🌟 Starred [infinitered/ignite](https://github.com/infinitered/ignite)
-* #️⃣ Closed [#1290 Create a supported library for pushing retail ids](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1290) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
