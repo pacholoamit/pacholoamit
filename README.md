@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `10424` commits and made `212` PRs.
+:people_hugging: I contributed to `50` repositories , made `10425` commits and made `212` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,11 +31,13 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-crm-org-integration`
+  * [#7800a96](https://github.com/MediaJel/mediajel-gql-service/commit/7800a96) feat: Add ExternalCRMUserIntegration type and relation
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-crm-org-integration`
+  * [#f283775](https://github.com/MediaJel/mediajel-gql-service/commit/f283775) chore: Add comments for code logic and queue placement
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-crm-org-integration`
   * [#3850c36](https://github.com/MediaJel/mediajel-gql-service/commit/3850c36) feat: Add Prisma subscription job and resolvers
 * 🌟 Starred [infinitered/ignite](https://github.com/infinitered/ignite)
 * #️⃣ Closed [#1290 Create a supported library for pushing retail ids](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1290) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#1251 Campaign launcher update](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1251) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#1420 First Party Data Update buttons and add tooltips](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1420) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
