@@ -30,16 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-crm-org-integration`
-  * [#c908e2a](https://github.com/MediaJel/mediajel-gql-service/commit/c908e2a) refactor: Simplify logging in example workflows
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-crm-org-integration`
-  * [#82f4827](https://github.com/MediaJel/mediajel-gql-service/commit/82f4827) feat: Add example workflows for org mutations
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-crm-org-integration`
-  * [#dae8da7](https://github.com/MediaJel/mediajel-gql-service/commit/dae8da7) style: Update debug message for publishing raw event
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-crm-org-integration`
-  * [#9abb138](https://github.com/MediaJel/mediajel-gql-service/commit/9abb138) refactor: Remove debug logging from BasePublisher
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-crm-org-integration`
-  * [#26b3b17](https://github.com/MediaJel/mediajel-gql-service/commit/26b3b17) doc: add documentation
+* #️⃣ Opened [#1448 Do research on streaming Clickhouse updates to client](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1448) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `develop`
+  * [#db72108](https://github.com/MediaJel/mediajel-gql-service/commit/db72108) Merge pull request #6448 from MediaJel/jcd/schemaRI
+  * [#7c3928a](https://github.com/MediaJel/mediajel-gql-service/commit/7c3928a) removed default value
+  * [#c67de1f](https://github.com/MediaJel/mediajel-gql-service/commit/c67de1f) changed schema value to String
+* 🔃 Merged [#6448 changed schema value to String](https://github.com/MediaJel/mediajel-gql-service/pull/6448) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 2 files changed `++2 --2`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `develop`
+  * [#037367d](https://github.com/MediaJel/mediajel-gql-service/commit/037367d) Merge pull request #6444 from MediaJel/jcd/schemaRetailID
+  * [#bfb7939](https://github.com/MediaJel/mediajel-gql-service/commit/bfb7939) add new schema and params to getBasicTagActivity
 
 
 
