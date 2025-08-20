@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `10425` commits and made `212` PRs.
+:people_hugging: I contributed to `50` repositories , made `10426` commits and made `213` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Opened [#1445 Investigate Dashboard vs Nexxen discrepancy](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1445) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 🌟 Starred [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
-* #️⃣ Opened [#1439 New vs Returning customer (Template updates)](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1439) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ⏺️ Created new branch feat/add-crm-org-integration in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-crm-org-integration`
-  * [#7800a96](https://github.com/MediaJel/mediajel-gql-service/commit/7800a96) feat: Add ExternalCRMUserIntegration type and relation
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-crm-org-integration`
+  * [#c908e2a](https://github.com/MediaJel/mediajel-gql-service/commit/c908e2a) refactor: Simplify logging in example workflows
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-crm-org-integration`
+  * [#82f4827](https://github.com/MediaJel/mediajel-gql-service/commit/82f4827) feat: Add example workflows for org mutations
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-crm-org-integration`
+  * [#dae8da7](https://github.com/MediaJel/mediajel-gql-service/commit/dae8da7) style: Update debug message for publishing raw event
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-crm-org-integration`
+  * [#9abb138](https://github.com/MediaJel/mediajel-gql-service/commit/9abb138) refactor: Remove debug logging from BasePublisher
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/add-crm-org-integration`
+  * [#26b3b17](https://github.com/MediaJel/mediajel-gql-service/commit/26b3b17) doc: add documentation
 
 
 
