@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [JaKooLit/Ubuntu-Hyprland](https://github.com/JaKooLit/Ubuntu-Hyprland)
 * 🌟 Starred [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse)
 * 🌟 Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 * 🔍 Reviewed [#6450 ICF Basket NaN and changed Unknown Product to N/A](https://github.com/MediaJel/mediajel-gql-service/pull/6450) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Opened [#1448 Do research on streaming Clickhouse updates to client](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1448) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `develop`
-  * [#db72108](https://github.com/MediaJel/mediajel-gql-service/commit/db72108) Merge pull request #6448 from MediaJel/jcd/schemaRI
-  * [#7c3928a](https://github.com/MediaJel/mediajel-gql-service/commit/7c3928a) removed default value
-  * [#c67de1f](https://github.com/MediaJel/mediajel-gql-service/commit/c67de1f) changed schema value to String
 
 
 
