@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `10426` commits and made `213` PRs.
+:people_hugging: I contributed to `49` repositories , made `10426` commits and made `215` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse)
+* 🌟 Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+* 🔍 Reviewed [#6450 ICF Basket NaN and changed Unknown Product to N/A](https://github.com/MediaJel/mediajel-gql-service/pull/6450) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 * #️⃣ Opened [#1448 Do research on streaming Clickhouse updates to client](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1448) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 3 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `develop`
   * [#db72108](https://github.com/MediaJel/mediajel-gql-service/commit/db72108) Merge pull request #6448 from MediaJel/jcd/schemaRI
   * [#7c3928a](https://github.com/MediaJel/mediajel-gql-service/commit/7c3928a) removed default value
   * [#c67de1f](https://github.com/MediaJel/mediajel-gql-service/commit/c67de1f) changed schema value to String
-* 🔃 Merged [#6448 changed schema value to String](https://github.com/MediaJel/mediajel-gql-service/pull/6448) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 2 files changed `++2 --2`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `develop`
-  * [#037367d](https://github.com/MediaJel/mediajel-gql-service/commit/037367d) Merge pull request #6444 from MediaJel/jcd/schemaRetailID
-  * [#bfb7939](https://github.com/MediaJel/mediajel-gql-service/commit/bfb7939) add new schema and params to getBasicTagActivity
 
 
 
