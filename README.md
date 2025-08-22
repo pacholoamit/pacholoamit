@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [JaKooLit/Ubuntu-Hyprland](https://github.com/JaKooLit/Ubuntu-Hyprland)
-* 🌟 Starred [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse)
-* 🌟 Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-* 🔍 Reviewed [#6450 ICF Basket NaN and changed Unknown Product to N/A](https://github.com/MediaJel/mediajel-gql-service/pull/6450) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* #️⃣ Opened [#1448 Do research on streaming Clickhouse updates to client](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1448) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#770 MOve retail id url pushing feature from frictionless to mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/770) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#1406 Fix Conversion ID Value on Internal Microservice documentation for Paid Search Tag](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1406) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1309 Improvements to the Tracker Activity Pipeline](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1309) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#843 Do some research on how we can automatically document supported measurements for each tag on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/843) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1445 Investigate Dashboard vs Nexxen discrepancy](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1445) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
