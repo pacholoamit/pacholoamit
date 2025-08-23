@@ -30,23 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#3f3079d](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/3f3079d) Merge pull request #489 from MediaJel/jcd/verb
-  * [#4f13ad6](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/4f13ad6) added google plugins
-* 🔃 Merged [#489 added google plugins](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/489) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++9 --0`
-* 🔍 Reviewed [#489 added google plugins](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/489) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#0519a75](https://github.com/MediaJel/mediajel-gql-service/commit/0519a75) refactor: Remove redundant code and update campaignOrders retrieval
-  * [#890d087](https://github.com/MediaJel/mediajel-gql-service/commit/890d087) refactor: Refactor Salesforce Sync Queue to use attachment filter
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#e8d0e95](https://github.com/MediaJel/mediajel-gql-service/commit/e8d0e95) erge branch &#39;develop&#39; into feat/sync-salesforce-agreements-to-campaign
-  * [#400e877](https://github.com/MediaJel/mediajel-gql-service/commit/400e877) Merge pull request #6467 from MediaJel/feat/add-attachment-field-to-campaign-order
-
-feat: Add attachments field to CampaignOrder type
-  * [#cdfc176](https://github.com/MediaJel/mediajel-gql-service/commit/cdfc176) Prisma Deploy
-  * [#aec326e](https://github.com/MediaJel/mediajel-gql-service/commit/aec326e) db: added directives
-  * [#fe1f1c6](https://github.com/MediaJel/mediajel-gql-service/commit/fe1f1c6) feat: Add attachments field to CampaignOrder type
+* 🌟 Starred [httpie/cli](https://github.com/httpie/cli)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#80a9b86](https://github.com/MediaJel/mediajel-gql-service/commit/80a9b86) style: Update concurrency level in SalesforceSyncQueue
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#88f8c3d](https://github.com/MediaJel/mediajel-gql-service/commit/88f8c3d) feat: Add production environment configuration for Salesforce sync job
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#dca4e7a](https://github.com/MediaJel/mediajel-gql-service/commit/dca4e7a) style: Update log levels and add concurrency to queue
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#43d7b10](https://github.com/MediaJel/mediajel-gql-service/commit/43d7b10) refactor: Comment out unused method in SalesforceService
 
 
 
