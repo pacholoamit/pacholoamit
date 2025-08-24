@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [helix-editor/helix](https://github.com/helix-editor/helix)
 * 🌟 Starred [httpie/cli](https://github.com/httpie/cli)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
   * [#80a9b86](https://github.com/MediaJel/mediajel-gql-service/commit/80a9b86) style: Update concurrency level in SalesforceSyncQueue
@@ -37,8 +38,6 @@
   * [#88f8c3d](https://github.com/MediaJel/mediajel-gql-service/commit/88f8c3d) feat: Add production environment configuration for Salesforce sync job
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
   * [#dca4e7a](https://github.com/MediaJel/mediajel-gql-service/commit/dca4e7a) style: Update log levels and add concurrency to queue
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#43d7b10](https://github.com/MediaJel/mediajel-gql-service/commit/43d7b10) refactor: Comment out unused method in SalesforceService
 
 
 
