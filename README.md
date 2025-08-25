@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `10429` commits and made `216` PRs.
+:people_hugging: I contributed to `49` repositories , made `10429` commits and made `212` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,14 +30,14 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#190df5d](https://github.com/MediaJel/mediajel-gql-service/commit/190df5d) feat: Update contract attachment handling in Salesforce sync
 * 🌟 Starred [helix-editor/helix](https://github.com/helix-editor/helix)
 * 🌟 Starred [httpie/cli](https://github.com/httpie/cli)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
   * [#80a9b86](https://github.com/MediaJel/mediajel-gql-service/commit/80a9b86) style: Update concurrency level in SalesforceSyncQueue
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
   * [#88f8c3d](https://github.com/MediaJel/mediajel-gql-service/commit/88f8c3d) feat: Add production environment configuration for Salesforce sync job
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#dca4e7a](https://github.com/MediaJel/mediajel-gql-service/commit/dca4e7a) style: Update log levels and add concurrency to queue
 
 
 
