@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `10429` commits and made `212` PRs.
+:people_hugging: I contributed to `49` repositories , made `10429` commits and made `214` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,13 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ⏺️ Created new branch feat/sync-salesforce-agreements-to-campaign in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#190df5d](https://github.com/MediaJel/mediajel-gql-service/commit/190df5d) feat: Update contract attachment handling in Salesforce sync
-* 🌟 Starred [helix-editor/helix](https://github.com/helix-editor/helix)
-* 🌟 Starred [httpie/cli](https://github.com/httpie/cli)
+  * [#ffeeee1](https://github.com/MediaJel/mediajel-gql-service/commit/ffeeee1) style: Update logging level and file name assignment
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#80a9b86](https://github.com/MediaJel/mediajel-gql-service/commit/80a9b86) style: Update concurrency level in SalesforceSyncQueue
+  * [#6e6cc31](https://github.com/MediaJel/mediajel-gql-service/commit/6e6cc31) feat: Add functions for handling S3 upload and upsert attachments
+* ➡️ Pushed 5 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#c9f59c1](https://github.com/MediaJel/mediajel-gql-service/commit/c9f59c1) Merge branch &#39;develop&#39; into feat/sync-salesforce-agreements-to-campaign
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#df44c8e](https://github.com/MediaJel/mediajel-gql-service/commit/df44c8e) style: Update code formatting in queue.ts
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/update-attachments-type`
+  * [#08d02e9](https://github.com/MediaJel/mediajel-gql-service/commit/08d02e9) Update campaigns.graphql
 
 
 
