@@ -30,6 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#8b1774a](https://github.com/MediaJel/mediajel-dashboard/commit/8b1774a) feat: improve ui
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
   * [#ffeeee1](https://github.com/MediaJel/mediajel-gql-service/commit/ffeeee1) style: Update logging level and file name assignment
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
@@ -38,8 +40,6 @@
   * [#c9f59c1](https://github.com/MediaJel/mediajel-gql-service/commit/c9f59c1) Merge branch &#39;develop&#39; into feat/sync-salesforce-agreements-to-campaign
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
   * [#df44c8e](https://github.com/MediaJel/mediajel-gql-service/commit/df44c8e) style: Update code formatting in queue.ts
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/update-attachments-type`
-  * [#08d02e9](https://github.com/MediaJel/mediajel-gql-service/commit/08d02e9) Update campaigns.graphql
 
 
 
