@@ -30,16 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#8b1774a](https://github.com/MediaJel/mediajel-dashboard/commit/8b1774a) feat: improve ui
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#ffeeee1](https://github.com/MediaJel/mediajel-gql-service/commit/ffeeee1) style: Update logging level and file name assignment
+  * [#1b2e9bf](https://github.com/MediaJel/mediajel-gql-service/commit/1b2e9bf) style: Update option shorthand for dryRun in salesforce-sync job
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#6e6cc31](https://github.com/MediaJel/mediajel-gql-service/commit/6e6cc31) feat: Add functions for handling S3 upload and upsert attachments
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#c9f59c1](https://github.com/MediaJel/mediajel-gql-service/commit/c9f59c1) Merge branch &#39;develop&#39; into feat/sync-salesforce-agreements-to-campaign
+  * [#55f5e63](https://github.com/MediaJel/mediajel-gql-service/commit/55f5e63) feat: add dry run
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#df44c8e](https://github.com/MediaJel/mediajel-gql-service/commit/df44c8e) style: Update code formatting in queue.ts
+  * [#7b753aa](https://github.com/MediaJel/mediajel-gql-service/commit/7b753aa) style: improve error handling and logging in processor
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#70806c5](https://github.com/MediaJel/mediajel-gql-service/commit/70806c5) style: Update job status display in a table
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#a2236e8](https://github.com/MediaJel/mediajel-gql-service/commit/a2236e8) feat: Add ascii-table library and commander 13.0.0
 
 
 
