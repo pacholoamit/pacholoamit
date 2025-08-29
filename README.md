@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [noghartt/container-compose](https://github.com/noghartt/container-compose)
+* 🌟 Starred [apple/container](https://github.com/apple/container)
 * 💬 Commented on [#1386 Create more Attributed events tables for Sessions and Advertiser tables](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1386) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Opened [#1482 Remove legacy overrides feature in mediajel-tracker &amp; update existing window.overrides in mediajel-frictionless-tags repo to use the new overrides version](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1482) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * #️⃣ Closed [#1404 Improvements to mediajel-tracker overrides](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1404) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#1481 Implementing Prisma subscription on the First Party Data](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1481) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#1423 Update pipelines.attributed-events so that we have validation to only set startDate and endDate to be 1 day increments. For Clickhouse resources](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1423) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
