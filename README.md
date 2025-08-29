@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `10429` commits and made `214` PRs.
+:people_hugging: I contributed to `49` repositories , made `10432` commits and made `215` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#1b2e9bf](https://github.com/MediaJel/mediajel-gql-service/commit/1b2e9bf) style: Update option shorthand for dryRun in salesforce-sync job
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#55f5e63](https://github.com/MediaJel/mediajel-gql-service/commit/55f5e63) feat: add dry run
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#7b753aa](https://github.com/MediaJel/mediajel-gql-service/commit/7b753aa) style: improve error handling and logging in processor
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#70806c5](https://github.com/MediaJel/mediajel-gql-service/commit/70806c5) style: Update job status display in a table
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#a2236e8](https://github.com/MediaJel/mediajel-gql-service/commit/a2236e8) feat: Add ascii-table library and commander 13.0.0
+* 💬 Commented on [#1386 Create more Attributed events tables for Sessions and Advertiser tables](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1386) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1482 Remove legacy overrides feature in mediajel-tracker &amp; update existing window.overrides in mediajel-frictionless-tags repo to use the new overrides version](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1482) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1404 Improvements to mediajel-tracker overrides](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1404) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1481 Implementing Prisma subscription on the First Party Data](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1481) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1423 Update pipelines.attributed-events so that we have validation to only set startDate and endDate to be 1 day increments. For Clickhouse resources](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1423) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
