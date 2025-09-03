@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `10432` commits and made `214` PRs.
+:people_hugging: I contributed to `49` repositories , made `10453` commits and made `214` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,11 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#d8c198a](https://github.com/MediaJel/mediajel-gql-service/commit/d8c198a) chore: Add comments for debugging in SalesforceSyncProcessor
-* 🔍 Reviewed [#6494 [FOR REVIEW] changed code in getBasicTagActivity](https://github.com/MediaJel/mediajel-gql-service/pull/6494) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 🌟 Starred [noghartt/container-compose](https://github.com/noghartt/container-compose)
-* 🌟 Starred [apple/container](https://github.com/apple/container)
-* 💬 Commented on [#1386 Create more Attributed events tables for Sessions and Advertiser tables](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1386) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * [#21197ab](https://github.com/MediaJel/mediajel-gql-service/commit/21197ab) style: Remove unused field from SalesforceOpportunityResult
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#3ce5adc](https://github.com/MediaJel/mediajel-gql-service/commit/3ce5adc) refactor: Improve formatting for Salesforce query
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#5ff3da2](https://github.com/MediaJel/mediajel-gql-service/commit/5ff3da2) feat: update message for no pending jobs to process all orders
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#f472949](https://github.com/MediaJel/mediajel-gql-service/commit/f472949) style: Add warning log for --yes flag provided
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#f78054f](https://github.com/MediaJel/mediajel-gql-service/commit/f78054f) refactor: Update Salesforce query to exclude unnecessary fields
 
 
 
