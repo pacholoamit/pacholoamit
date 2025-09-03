@@ -31,6 +31,8 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
+  * [#ec5d125](https://github.com/MediaJel/mediajel-gql-service/commit/ec5d125) feat: Add option to run without interactive prompt
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
   * [#21197ab](https://github.com/MediaJel/mediajel-gql-service/commit/21197ab) style: Remove unused field from SalesforceOpportunityResult
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
   * [#3ce5adc](https://github.com/MediaJel/mediajel-gql-service/commit/3ce5adc) refactor: Improve formatting for Salesforce query
@@ -38,8 +40,6 @@
   * [#5ff3da2](https://github.com/MediaJel/mediajel-gql-service/commit/5ff3da2) feat: update message for no pending jobs to process all orders
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
   * [#f472949](https://github.com/MediaJel/mediajel-gql-service/commit/f472949) style: Add warning log for --yes flag provided
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/sync-salesforce-agreements-to-campaign`
-  * [#f78054f](https://github.com/MediaJel/mediajel-gql-service/commit/f78054f) refactor: Update Salesforce query to exclude unnecessary fields
 
 
 
