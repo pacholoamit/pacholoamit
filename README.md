@@ -30,15 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags) on branch `jjy-salesforce-dag`
-  * [#66c114c](https://github.com/MediaJel/airflow-dags/commit/66c114c) Update salesforce.yaml
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/tag-activity`
-  * [#9cd28f4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9cd28f4) fix
-* 🔃 Opened [#1485 🚀 Refactor Tag Activity Query: Simplified ClickHouse Implementation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1485) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 4 files changed `++89 --257`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/tag-activity`
-  * [#0d46e42](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0d46e42) doc
-* ⏺️ Created new branch hotfix/tag-activity in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1493 Remove Pandadoc watermark from the document when making a copy](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1493) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#1492 Make Salesforce &amp; Pandadoc real-time](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1492) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1451 Salesforce &amp; Pandadoc contract associated with Display campaigns](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1451) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1312 Update the Dashboard Tags page &amp; Campaign launcher to have inputs to indicate retail ids](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1312) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#843 Do some research on how we can automatically document supported measurements for each tag on the dashboard](https://github.com/MediaJel/amplication-nestjs-microservices/issues/843) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
