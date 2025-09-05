@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `49` repositories , made `10456` commits and made `216` PRs.
+:people_hugging: I contributed to `49` repositories , made `10462` commits and made `216` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,8 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags) on branch `jjy-salesforce-dag`
+  * [#66c114c](https://github.com/MediaJel/airflow-dags/commit/66c114c) Update salesforce.yaml
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/tag-activity`
   * [#9cd28f4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/9cd28f4) fix
 * 🔃 Opened [#1485 🚀 Refactor Tag Activity Query: Simplified ClickHouse Implementation](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1485) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
@@ -37,7 +39,6 @@
 * ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `hotfix/tag-activity`
   * [#0d46e42](https://github.com/MediaJel/amplication-nestjs-microservices/commit/0d46e42) doc
 * ⏺️ Created new branch hotfix/tag-activity in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* 💬 Commented on [#6454 feat/sync salesforce agreements to campaign](https://github.com/MediaJel/mediajel-gql-service/issues/6454) from [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
 
 
 
