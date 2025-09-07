@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [get-convex/convex-backend](https://github.com/get-convex/convex-backend)
 * 🌟 Starred [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 * ➡️ Pushed 2 commits in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
   * [#4cd74c4](https://github.com/MediaJel/jupyter-notebooks-collection/commit/4cd74c4) Merge pull request #18 from MediaJel/ez-automation
@@ -37,7 +38,6 @@
 * 🔃 Merged [#18 Update Clickhouse Attributed Events Data Loading.ipynb](https://github.com/MediaJel/jupyter-notebooks-collection/pull/18) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
   * 1 file changed `++774 --96`
 * 💼 Added [ZeeLiger](https://github.com/ZeeLiger) as collaborator in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
-* #️⃣ Opened [#1493 Remove Pandadoc watermark from the document when making a copy](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1493) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
