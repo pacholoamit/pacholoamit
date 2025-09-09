@@ -30,14 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [get-convex/convex-backend](https://github.com/get-convex/convex-backend)
-* 🌟 Starred [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)
-* ➡️ Pushed 2 commits in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection) on branch `master`
-  * [#4cd74c4](https://github.com/MediaJel/jupyter-notebooks-collection/commit/4cd74c4) Merge pull request #18 from MediaJel/ez-automation
-  * [#99ba907](https://github.com/MediaJel/jupyter-notebooks-collection/commit/99ba907) Update Clickhouse Attributed Events Data Loading.ipynb
-* 🔃 Merged [#18 Update Clickhouse Attributed Events Data Loading.ipynb](https://github.com/MediaJel/jupyter-notebooks-collection/pull/18) in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
-  * 1 file changed `++774 --96`
-* 💼 Added [ZeeLiger](https://github.com/ZeeLiger) as collaborator in [MediaJel/jupyter-notebooks-collection](https://github.com/MediaJel/jupyter-notebooks-collection)
+* #️⃣ Closed [#639 Microservices Plans](https://github.com/MediaJel/mediajel/issues/639) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#638 Clickhouse Migration](https://github.com/MediaJel/mediajel/issues/638) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Closed [#640 Migrate Snowflake Charts into Apache Superset](https://github.com/MediaJel/mediajel/issues/640) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* 💬 Commented on [#696 Create Volution adapter on tracker](https://github.com/MediaJel/mediajel-tracker/issues/696) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#696 Create Volution adapter on tracker](https://github.com/MediaJel/mediajel-tracker/issues/696) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
