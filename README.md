@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* #️⃣ Closed [#639 Microservices Plans](https://github.com/MediaJel/mediajel/issues/639) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#638 Clickhouse Migration](https://github.com/MediaJel/mediajel/issues/638) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Closed [#640 Migrate Snowflake Charts into Apache Superset](https://github.com/MediaJel/mediajel/issues/640) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* 💬 Commented on [#696 Create Volution adapter on tracker](https://github.com/MediaJel/mediajel-tracker/issues/696) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#696 Create Volution adapter on tracker](https://github.com/MediaJel/mediajel-tracker/issues/696) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 💬 Commented on [#9572 [Bug] 0 audience count in Demograph Audience Builder](https://github.com/MediaJel/mediajel-dashboard/issues/9572) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#777 Implement new Snowplow Cookie system and test network-userid field](https://github.com/MediaJel/mediajel-tracker/issues/777) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#1363 Create e2e test for mediajel-graphql module in microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1363) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#612 Create enrichment to block unwanted app_ids](https://github.com/MediaJel/mediajel/issues/612) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
+* #️⃣ Opened [#1503 Update the microservice endpoint to generate the correct syntax for sign up tracking code](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1503) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
