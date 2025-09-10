@@ -30,11 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/optimize-snowplow-events-loading`
+  * [#fc5e052](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fc5e052) add updates
+* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/optimize-snowplow-events-loading`
+  * [#017e483](https://github.com/MediaJel/amplication-nestjs-microservices/commit/017e483) add updates
+* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `develop`
+  * [#1f5860b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1f5860b) Merge pull request #1507 from MediaJel/jcd/e2eTestFixRetail
+  * [#706fe75](https://github.com/MediaJel/amplication-nestjs-microservices/commit/706fe75) E2E Validation passed :+1: 2025-09-10_04:34:01_+08_+0800
+  * [#5c9844f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5c9844f) fixed transform data in retail Ids
+* 🔃 Merged [#1507 [FOR REVIEW] Fixed E2E Test for Tracker Events](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1507) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+  * 3 files changed `++33 --20`
 * 💬 Commented on [#9572 [Bug] 0 audience count in Demograph Audience Builder](https://github.com/MediaJel/mediajel-dashboard/issues/9572) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#777 Implement new Snowplow Cookie system and test network-userid field](https://github.com/MediaJel/mediajel-tracker/issues/777) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#1363 Create e2e test for mediajel-graphql module in microservices](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1363) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#612 Create enrichment to block unwanted app_ids](https://github.com/MediaJel/mediajel/issues/612) in [MediaJel/mediajel](https://github.com/MediaJel/mediajel)
-* #️⃣ Opened [#1503 Update the microservice endpoint to generate the correct syntax for sign up tracking code](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1503) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
