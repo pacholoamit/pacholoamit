@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `10478` commits and made `214` PRs.
+:people_hugging: I contributed to `52` repositories , made `10478` commits and made `214` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,6 +30,9 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ⏺️ Created new repository  [pacholoamit/BPLS-system-mocks](https://github.com/pacholoamit/BPLS-system-mocks)
+* 💬 Commented on [#1483 [FOR REVIEW] Fix/clickhouse replication errors and 0 count](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1483) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* 💬 Commented on [#1437 track activity pipeline](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1437) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 * ➡️ Pushed 3 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `master`
   * [#9e26bfa](https://github.com/Lawher-Co-Solicitors/lawher/commit/9e26bfa) Merge pull request #41 from Lawher-Co-Solicitors/staging
 
@@ -38,14 +41,6 @@ remove email label
   * [#dd4f614](https://github.com/Lawher-Co-Solicitors/lawher/commit/dd4f614) remove email label
 * 🔃 Merged [#41 remove email label](https://github.com/Lawher-Co-Solicitors/lawher/pull/41) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
   * 2 files changed `++0 --3`
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/optimize-snowplow-events-loading`
-  * [#fc5e052](https://github.com/MediaJel/amplication-nestjs-microservices/commit/fc5e052) add updates
-* ➡️ Pushed 1 commit in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `feat/optimize-snowplow-events-loading`
-  * [#017e483](https://github.com/MediaJel/amplication-nestjs-microservices/commit/017e483) add updates
-* ➡️ Pushed 3 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `develop`
-  * [#1f5860b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1f5860b) Merge pull request #1507 from MediaJel/jcd/e2eTestFixRetail
-  * [#706fe75](https://github.com/MediaJel/amplication-nestjs-microservices/commit/706fe75) E2E Validation passed :+1: 2025-09-10_04:34:01_+08_+0800
-  * [#5c9844f](https://github.com/MediaJel/amplication-nestjs-microservices/commit/5c9844f) fixed transform data in retail Ids
 
 
 
