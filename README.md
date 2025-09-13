@@ -30,6 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🔍 Reviewed [#9792 refactor: shopify and image pixel bug](https://github.com/MediaJel/mediajel-dashboard/pull/9792) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 3 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
   * [#0dfe5f4](https://github.com/Lawher-Co-Solicitors/lawher/commit/0dfe5f4) Merge pull request #43 from Lawher-Co-Solicitors/fix/issues
 
@@ -41,7 +42,6 @@ fix/issues
 * 🔃 Opened [#43 fix/issues](https://github.com/Lawher-Co-Solicitors/lawher/pull/43) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
   * 7 files changed `++143 --29`
 * ⏺️ Created new branch fix/issues in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
-* 🔍 Reviewed [#773 Added feature to enable and disable tag](https://github.com/MediaJel/mediajel-tracker/pull/773) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
 
 
 
