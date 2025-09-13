@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `52` repositories , made `10480` commits and made `216` PRs.
+:people_hugging: I contributed to `52` repositories , made `10480` commits and made `217` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,21 +30,18 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 3 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
+  * [#0dfe5f4](https://github.com/Lawher-Co-Solicitors/lawher/commit/0dfe5f4) Merge pull request #43 from Lawher-Co-Solicitors/fix/issues
+
+fix/issues
+  * [#e48c950](https://github.com/Lawher-Co-Solicitors/lawher/commit/e48c950) feat: Add unsafe metadata fields to Lawyer form
+  * [#faf6f6e](https://github.com/Lawher-Co-Solicitors/lawher/commit/faf6f6e) fix lawyer double clicking on button
+* 🔃 Merged [#43 fix/issues](https://github.com/Lawher-Co-Solicitors/lawher/pull/43) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
+  * 7 files changed `++143 --29`
+* 🔃 Opened [#43 fix/issues](https://github.com/Lawher-Co-Solicitors/lawher/pull/43) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
+  * 7 files changed `++143 --29`
+* ⏺️ Created new branch fix/issues in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
 * 🔍 Reviewed [#773 Added feature to enable and disable tag](https://github.com/MediaJel/mediajel-tracker/pull/773) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* ➡️ Pushed 9 commits in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices) on branch `develop`
-  * [#1b4f25c](https://github.com/MediaJel/amplication-nestjs-microservices/commit/1b4f25c) Merge pull request #1511 from MediaJel/feature/improve-snowplow-events-pipeline-stream-logs
-  * [#a26522a](https://github.com/MediaJel/amplication-nestjs-microservices/commit/a26522a) E2E Validation passed :+1: 2025-09-11_04:20:40_PST_+0800
-  * [#e5a4546](https://github.com/MediaJel/amplication-nestjs-microservices/commit/e5a4546) revert: bring back the records affected
-  * [#2ed01b4](https://github.com/MediaJel/amplication-nestjs-microservices/commit/2ed01b4) E2E Validation passed :+1: 2025-09-11_04:11:42_PST_+0800
-  * [#dca527b](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dca527b) fix: remove redundant 0 records
-  * [#f141164](https://github.com/MediaJel/amplication-nestjs-microservices/commit/f141164) E2E Validation passed :+1: 2025-09-11_04:01:42_PST_+0800
-  * [#ea351d6](https://github.com/MediaJel/amplication-nestjs-microservices/commit/ea351d6) fix: remove todo comments
-  * [#c54f06d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/c54f06d) E2E Validation passed :+1: 2025-09-11_03:26:00_PST_+0800
-  * [#dd2925d](https://github.com/MediaJel/amplication-nestjs-microservices/commit/dd2925d) enhancement: improve snowplow pipelines snowplow job logs and progress
-* 🔃 Merged [#1511 [FOR REVIEW] Feature/improve snowplow events pipeline stream logs](https://github.com/MediaJel/amplication-nestjs-microservices/pull/1511) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-  * 4 files changed `++327 --23`
-* ⏺️ Created new repository  [pacholoamit/BPLS-system-mocks](https://github.com/pacholoamit/BPLS-system-mocks)
-* 💬 Commented on [#1483 [FOR REVIEW] Fix/clickhouse replication errors and 0 count](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1483) from [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
