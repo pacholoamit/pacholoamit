@@ -30,6 +30,19 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 4 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `master`
+  * [#e022c90](https://github.com/Lawher-Co-Solicitors/lawher/commit/e022c90) Merge pull request #44 from Lawher-Co-Solicitors/staging
+
+Staging
+  * [#0dfe5f4](https://github.com/Lawher-Co-Solicitors/lawher/commit/0dfe5f4) Merge pull request #43 from Lawher-Co-Solicitors/fix/issues
+
+fix/issues
+  * [#e48c950](https://github.com/Lawher-Co-Solicitors/lawher/commit/e48c950) feat: Add unsafe metadata fields to Lawyer form
+  * [#faf6f6e](https://github.com/Lawher-Co-Solicitors/lawher/commit/faf6f6e) fix lawyer double clicking on button
+* 🔃 Merged [#44 Staging](https://github.com/Lawher-Co-Solicitors/lawher/pull/44) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
+  * 7 files changed `++143 --29`
+* 🔃 Opened [#44 Staging](https://github.com/Lawher-Co-Solicitors/lawher/pull/44) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
+  * 7 files changed `++143 --29`
 * 🔍 Reviewed [#9792 refactor: shopify and image pixel bug](https://github.com/MediaJel/mediajel-dashboard/pull/9792) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ➡️ Pushed 3 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
   * [#0dfe5f4](https://github.com/Lawher-Co-Solicitors/lawher/commit/0dfe5f4) Merge pull request #43 from Lawher-Co-Solicitors/fix/issues
@@ -37,11 +50,6 @@
 fix/issues
   * [#e48c950](https://github.com/Lawher-Co-Solicitors/lawher/commit/e48c950) feat: Add unsafe metadata fields to Lawyer form
   * [#faf6f6e](https://github.com/Lawher-Co-Solicitors/lawher/commit/faf6f6e) fix lawyer double clicking on button
-* 🔃 Merged [#43 fix/issues](https://github.com/Lawher-Co-Solicitors/lawher/pull/43) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
-  * 7 files changed `++143 --29`
-* 🔃 Opened [#43 fix/issues](https://github.com/Lawher-Co-Solicitors/lawher/pull/43) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
-  * 7 files changed `++143 --29`
-* ⏺️ Created new branch fix/issues in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
 
 
 
