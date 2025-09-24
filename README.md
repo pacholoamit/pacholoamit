@@ -30,26 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 4 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `master`
-  * [#e022c90](https://github.com/Lawher-Co-Solicitors/lawher/commit/e022c90) Merge pull request #44 from Lawher-Co-Solicitors/staging
-
-Staging
-  * [#0dfe5f4](https://github.com/Lawher-Co-Solicitors/lawher/commit/0dfe5f4) Merge pull request #43 from Lawher-Co-Solicitors/fix/issues
-
-fix/issues
-  * [#e48c950](https://github.com/Lawher-Co-Solicitors/lawher/commit/e48c950) feat: Add unsafe metadata fields to Lawyer form
-  * [#faf6f6e](https://github.com/Lawher-Co-Solicitors/lawher/commit/faf6f6e) fix lawyer double clicking on button
-* 🔃 Merged [#44 Staging](https://github.com/Lawher-Co-Solicitors/lawher/pull/44) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
-  * 7 files changed `++143 --29`
-* 🔃 Opened [#44 Staging](https://github.com/Lawher-Co-Solicitors/lawher/pull/44) in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher)
-  * 7 files changed `++143 --29`
-* 🔍 Reviewed [#9792 refactor: shopify and image pixel bug](https://github.com/MediaJel/mediajel-dashboard/pull/9792) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ➡️ Pushed 3 commits in [Lawher-Co-Solicitors/lawher](https://github.com/Lawher-Co-Solicitors/lawher) on branch `staging`
-  * [#0dfe5f4](https://github.com/Lawher-Co-Solicitors/lawher/commit/0dfe5f4) Merge pull request #43 from Lawher-Co-Solicitors/fix/issues
-
-fix/issues
-  * [#e48c950](https://github.com/Lawher-Co-Solicitors/lawher/commit/e48c950) feat: Add unsafe metadata fields to Lawyer form
-  * [#faf6f6e](https://github.com/Lawher-Co-Solicitors/lawher/commit/faf6f6e) fix lawyer double clicking on button
+* 🌟 Starred [betodealmeida/shillelagh](https://github.com/betodealmeida/shillelagh)
+* 🔍 Reviewed [#1142 feat/vlm: sync first party data DAG config](https://github.com/MediaJel/airflow-dags/pull/1142) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
+* ➡️ Pushed 5 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `develop`
+  * [#95bbe68](https://github.com/MediaJel/mediajel-gql-service/commit/95bbe68) Merge pull request #6514 from MediaJel/bugfix/6512
+  * [#989c414](https://github.com/MediaJel/mediajel-gql-service/commit/989c414) Merge branch &#39;develop&#39; of github.com:MediaJel/mediajel-gql-service into bugfix/6512
+  * [#f833ec1](https://github.com/MediaJel/mediajel-gql-service/commit/f833ec1) transaction/signup campaign observer enhancements
+  * [#6b55d63](https://github.com/MediaJel/mediajel-gql-service/commit/6b55d63) Merge branch &#39;develop&#39; of github.com:MediaJel/mediajel-gql-service into bugfix/6512
+  * [#d22e069](https://github.com/MediaJel/mediajel-gql-service/commit/d22e069) fix: campaign dashboard issue update message
+* 🔃 Merged [#6514 [FOR REVIEW] Bugfix/6512 - Campaign dashboard issue enhancements](https://github.com/MediaJel/mediajel-gql-service/pull/6514) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 7 files changed `++125 --87`
 
 
 
