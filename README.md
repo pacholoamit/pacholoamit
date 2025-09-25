@@ -30,15 +30,17 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
-  * [#c93bf0d](https://github.com/MediaJel/mediajel-tracker/commit/c93bf0d) add dist
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#8d326a2](https://github.com/MediaJel/mediajel-tracker/commit/8d326a2) Merge pull request #789 from MediaJel/jbjm-multiple-overrides
-  * [#d1a2c37](https://github.com/MediaJel/mediajel-tracker/commit/d1a2c37) refactor: multiple overrides
-* 🔃 Merged [#789 refactor: multiple overrides](https://github.com/MediaJel/mediajel-tracker/pull/789) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 4 files changed `++32 --18`
-* #️⃣ Closed [#1563 Proof of concept on querying API in superset](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1563) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#1562 Integrate Prisma into superset](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1562) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#9890 Fix issue where Gannet&#39;s Google Ads Manager is showing 0 but Clickhouse is showing results](https://github.com/MediaJel/mediajel-dashboard/issues/9890) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#9889 Make &#34;Test Tag&#34; stable](https://github.com/MediaJel/mediajel-dashboard/issues/9889) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* ⏺️ Created new branch feat/salesforce-paid-search-seo in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 5 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
+  * [#efb356c](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/efb356c) Merge pull request #521 from MediaJel/ez-thehanovertheatreTrag
+  * [#12aa703](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/12aa703) Merge branch &#39;master&#39; into ez-thehanovertheatreTrag
+  * [#77c3623](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/77c3623) refactor: Update function name and add comments
+  * [#f01d1db](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/f01d1db) feat: Add integration ongoing console log
+  * [#2541160](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/2541160) feat: Add tracking for orders on The Hanover Theatre tickets site
+* 🔃 Merged [#521 feat: Add tracking for orders on The Hanover Theatre tickets site](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/521) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
+  * 1 file changed `++47 --41`
 
 
 
