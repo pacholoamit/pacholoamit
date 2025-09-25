@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `51` repositories , made `10558` commits and made `215` PRs.
+:people_hugging: I contributed to `53` repositories , made `10564` commits and made `215` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [betodealmeida/shillelagh](https://github.com/betodealmeida/shillelagh)
-* 🔍 Reviewed [#1142 feat/vlm: sync first party data DAG config](https://github.com/MediaJel/airflow-dags/pull/1142) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `develop`
-  * [#95bbe68](https://github.com/MediaJel/mediajel-gql-service/commit/95bbe68) Merge pull request #6514 from MediaJel/bugfix/6512
-  * [#989c414](https://github.com/MediaJel/mediajel-gql-service/commit/989c414) Merge branch &#39;develop&#39; of github.com:MediaJel/mediajel-gql-service into bugfix/6512
-  * [#f833ec1](https://github.com/MediaJel/mediajel-gql-service/commit/f833ec1) transaction/signup campaign observer enhancements
-  * [#6b55d63](https://github.com/MediaJel/mediajel-gql-service/commit/6b55d63) Merge branch &#39;develop&#39; of github.com:MediaJel/mediajel-gql-service into bugfix/6512
-  * [#d22e069](https://github.com/MediaJel/mediajel-gql-service/commit/d22e069) fix: campaign dashboard issue update message
-* 🔃 Merged [#6514 [FOR REVIEW] Bugfix/6512 - Campaign dashboard issue enhancements](https://github.com/MediaJel/mediajel-gql-service/pull/6514) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 7 files changed `++125 --87`
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `main`
+  * [#c93bf0d](https://github.com/MediaJel/mediajel-tracker/commit/c93bf0d) add dist
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#8d326a2](https://github.com/MediaJel/mediajel-tracker/commit/8d326a2) Merge pull request #789 from MediaJel/jbjm-multiple-overrides
+  * [#d1a2c37](https://github.com/MediaJel/mediajel-tracker/commit/d1a2c37) refactor: multiple overrides
+* 🔃 Merged [#789 refactor: multiple overrides](https://github.com/MediaJel/mediajel-tracker/pull/789) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++32 --18`
+* #️⃣ Closed [#1563 Proof of concept on querying API in superset](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1563) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#1562 Integrate Prisma into superset](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1562) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
