@@ -30,11 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [supermacro/neverthrow](https://github.com/supermacro/neverthrow)
-* 🌟 Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-* #️⃣ Opened [#9890 Fix issue where Gannet&#39;s Google Ads Manager is showing 0 but Clickhouse is showing results](https://github.com/MediaJel/mediajel-dashboard/issues/9890) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#9889 Make &#34;Test Tag&#34; stable](https://github.com/MediaJel/mediajel-dashboard/issues/9889) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* ⏺️ Created new branch feat/salesforce-paid-search-seo in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 🌟 Starred [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr)
+* 💬 Commented on [#9845 Campaign Requester &gt; First Party Data changes](https://github.com/MediaJel/mediajel-dashboard/issues/9845) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#1493 Remove Pandadoc watermark from the document when making a copy](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1493) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Closed [#9890 Fix issue where Gannet&#39;s Google Ads Manager is showing 0 but Clickhouse is showing results](https://github.com/MediaJel/mediajel-dashboard/issues/9890) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#1144 Airflow DAG Implementation for First Party Data](https://github.com/MediaJel/airflow-dags/issues/1144) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
 
 
 
