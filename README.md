@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `10564` commits and made `215` PRs.
+:people_hugging: I contributed to `53` repositories , made `10564` commits and made `217` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,17 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* 🌟 Starred [supermacro/neverthrow](https://github.com/supermacro/neverthrow)
+* 🌟 Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 * #️⃣ Opened [#9890 Fix issue where Gannet&#39;s Google Ads Manager is showing 0 but Clickhouse is showing results](https://github.com/MediaJel/mediajel-dashboard/issues/9890) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * #️⃣ Opened [#9889 Make &#34;Test Tag&#34; stable](https://github.com/MediaJel/mediajel-dashboard/issues/9889) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 * ⏺️ Created new branch feat/salesforce-paid-search-seo in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 5 commits in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag) on branch `master`
-  * [#efb356c](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/efb356c) Merge pull request #521 from MediaJel/ez-thehanovertheatreTrag
-  * [#12aa703](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/12aa703) Merge branch &#39;master&#39; into ez-thehanovertheatreTrag
-  * [#77c3623](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/77c3623) refactor: Update function name and add comments
-  * [#f01d1db](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/f01d1db) feat: Add integration ongoing console log
-  * [#2541160](https://github.com/MediaJel/mediajel-frictionless-custom-tag/commit/2541160) feat: Add tracking for orders on The Hanover Theatre tickets site
-* 🔃 Merged [#521 feat: Add tracking for orders on The Hanover Theatre tickets site](https://github.com/MediaJel/mediajel-frictionless-custom-tag/pull/521) in [MediaJel/mediajel-frictionless-custom-tag](https://github.com/MediaJel/mediajel-frictionless-custom-tag)
-  * 1 file changed `++47 --41`
 
 
 
