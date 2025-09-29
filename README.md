@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `10564` commits and made `211` PRs.
+:people_hugging: I contributed to `53` repositories , made `10571` commits and made `212` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,11 +30,23 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🌟 Starred [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr)
-* 💬 Commented on [#9845 Campaign Requester &gt; First Party Data changes](https://github.com/MediaJel/mediajel-dashboard/issues/9845) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#1493 Remove Pandadoc watermark from the document when making a copy](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1493) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Closed [#9890 Fix issue where Gannet&#39;s Google Ads Manager is showing 0 but Clickhouse is showing results](https://github.com/MediaJel/mediajel-dashboard/issues/9890) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#1144 Airflow DAG Implementation for First Party Data](https://github.com/MediaJel/airflow-dags/issues/1144) in [MediaJel/airflow-dags](https://github.com/MediaJel/airflow-dags)
+* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `main`
+  * [#d5c0793](https://github.com/pacholoamit/bpls-system/commit/d5c0793) style: Update code formatting and add missing semicolons
+* ➡️ Pushed 6 commits in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `main`
+  * [#765cae6](https://github.com/pacholoamit/bpls-system/commit/765cae6) Merge pull request #1 from pacholoamit/feat/flow-2
+
+feat/flow 2
+  * [#2d25698](https://github.com/pacholoamit/bpls-system/commit/2d25698) refactor: Remove prerequisites step and related form
+  * [#6e91045](https://github.com/pacholoamit/bpls-system/commit/6e91045) style: Update chart colors in global CSS and radial chart
+  * [#810aaf5](https://github.com/pacholoamit/bpls-system/commit/810aaf5) feat: Add Payments &amp; Billing route and component
+  * [#5ee5737](https://github.com/pacholoamit/bpls-system/commit/5ee5737) feat: Add accordion component for collapsible sections
+  * [#98f2d0b](https://github.com/pacholoamit/bpls-system/commit/98f2d0b) feat: Add PrerequisitesForm component and related logic
+* 🔃 Merged [#1 feat/flow 2](https://github.com/pacholoamit/bpls-system/pull/1) in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system)
+  * 13 files changed `++2893 --378`
+* 🔃 Opened [#1 feat/flow 2](https://github.com/pacholoamit/bpls-system/pull/1) in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system)
+  * 13 files changed `++2893 --378`
+* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `feat/flow-2`
+  * [#2d25698](https://github.com/pacholoamit/bpls-system/commit/2d25698) refactor: Remove prerequisites step and related form
 
 
 
