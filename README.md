@@ -30,23 +30,22 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `main`
-  * [#d5c0793](https://github.com/pacholoamit/bpls-system/commit/d5c0793) style: Update code formatting and add missing semicolons
-* ➡️ Pushed 6 commits in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `main`
-  * [#765cae6](https://github.com/pacholoamit/bpls-system/commit/765cae6) Merge pull request #1 from pacholoamit/feat/flow-2
+* 🔃 Opened [#793 Update main](https://github.com/MediaJel/mediajel-tracker/pull/793) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 12 files changed `++377 --238`
+* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#3dee44e](https://github.com/MediaJel/mediajel-tracker/commit/3dee44e) Merge pull request #774 from MediaJel/srr/expose-retailIdParser
 
-feat/flow 2
-  * [#2d25698](https://github.com/pacholoamit/bpls-system/commit/2d25698) refactor: Remove prerequisites step and related form
-  * [#6e91045](https://github.com/pacholoamit/bpls-system/commit/6e91045) style: Update chart colors in global CSS and radial chart
-  * [#810aaf5](https://github.com/pacholoamit/bpls-system/commit/810aaf5) feat: Add Payments &amp; Billing route and component
-  * [#5ee5737](https://github.com/pacholoamit/bpls-system/commit/5ee5737) feat: Add accordion component for collapsible sections
-  * [#98f2d0b](https://github.com/pacholoamit/bpls-system/commit/98f2d0b) feat: Add PrerequisitesForm component and related logic
-* 🔃 Merged [#1 feat/flow 2](https://github.com/pacholoamit/bpls-system/pull/1) in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system)
-  * 13 files changed `++2893 --378`
-* 🔃 Opened [#1 feat/flow 2](https://github.com/pacholoamit/bpls-system/pull/1) in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system)
-  * 13 files changed `++2893 --378`
-* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `feat/flow-2`
-  * [#2d25698](https://github.com/pacholoamit/bpls-system/commit/2d25698) refactor: Remove prerequisites step and related form
+Create exposed function for adding retail ID
+  * [#70657fe](https://github.com/MediaJel/mediajel-tracker/commit/70657fe) resolve conflicts
+  * [#99d2e3c](https://github.com/MediaJel/mediajel-tracker/commit/99d2e3c) Add retail ID parser for dynamic URL parameter
+* #️⃣ Closed [#770 Move retail id url pushing feature from frictionless to mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/770) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* 🔃 Merged [#774 Create exposed function for adding retail ID](https://github.com/MediaJel/mediajel-tracker/pull/774) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+  * 4 files changed `++107 --21`
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
+  * [#7da2a84](https://github.com/MediaJel/mediajel-tracker/commit/7da2a84) Merge pull request #786 from MediaJel/jcd/janeDsc
+
+added discount and coupon to Jane
+  * [#33d68e4](https://github.com/MediaJel/mediajel-tracker/commit/33d68e4) added discount and coupon to Jane
 
 
 
