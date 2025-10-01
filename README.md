@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `10576` commits and made `213` PRs.
+:people_hugging: I contributed to `53` repositories , made `10576` commits and made `214` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,22 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔃 Opened [#793 Update main](https://github.com/MediaJel/mediajel-tracker/pull/793) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 12 files changed `++377 --238`
-* ➡️ Pushed 3 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#3dee44e](https://github.com/MediaJel/mediajel-tracker/commit/3dee44e) Merge pull request #774 from MediaJel/srr/expose-retailIdParser
-
-Create exposed function for adding retail ID
-  * [#70657fe](https://github.com/MediaJel/mediajel-tracker/commit/70657fe) resolve conflicts
-  * [#99d2e3c](https://github.com/MediaJel/mediajel-tracker/commit/99d2e3c) Add retail ID parser for dynamic URL parameter
-* #️⃣ Closed [#770 Move retail id url pushing feature from frictionless to mediajel-tracker](https://github.com/MediaJel/mediajel-tracker/issues/770) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* 🔃 Merged [#774 Create exposed function for adding retail ID](https://github.com/MediaJel/mediajel-tracker/pull/774) in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-  * 4 files changed `++107 --21`
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker) on branch `staging`
-  * [#7da2a84](https://github.com/MediaJel/mediajel-tracker/commit/7da2a84) Merge pull request #786 from MediaJel/jcd/janeDsc
-
-added discount and coupon to Jane
-  * [#33d68e4](https://github.com/MediaJel/mediajel-tracker/commit/33d68e4) added discount and coupon to Jane
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
+  * [#3d970d9](https://github.com/MediaJel/mediajel-gql-service/commit/3d970d9) refactor: Update relation onDelete option to CASCADE for attachments
+* 🔃 Opened [#6612 feat: add attachments &amp; external crm integration for paid search &amp; seo](https://github.com/MediaJel/mediajel-gql-service/pull/6612) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+  * 3 files changed `++46 --1`
+* ⏺️ Created new branch schema/add-io-and-attachments-paidsearch-seo-update in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
+  * [#4b96087](https://github.com/MediaJel/mediajel-gql-service/commit/4b96087) feat(processor): Add fuzzy matching for Paid Search processor
+* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
+  * [#0e2098d](https://github.com/MediaJel/mediajel-gql-service/commit/0e2098d) refactor: Improve comments and query conditions
+  * [#f58c5fb](https://github.com/MediaJel/mediajel-gql-service/commit/f58c5fb) feat: Add SalesforceSyncPaidSearchProcessor class
 
 
 
