@@ -31,15 +31,15 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
+  * [#9e708de](https://github.com/MediaJel/mediajel-gql-service/commit/9e708de) refactor: Update GraphQL schema by removing unnecessary non-null assertion on relations
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
+  * [#1444979](https://github.com/MediaJel/mediajel-gql-service/commit/1444979) style: Update attachments field to be non-nullable
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
+  * [#23754e9](https://github.com/MediaJel/mediajel-gql-service/commit/23754e9) style: Remove unnecessary non-null constraint on attachments
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
+  * [#43cba9a](https://github.com/MediaJel/mediajel-gql-service/commit/43cba9a) style: Remove unnecessary exclamation marks in GraphQL schema properties
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
   * [#3d970d9](https://github.com/MediaJel/mediajel-gql-service/commit/3d970d9) refactor: Update relation onDelete option to CASCADE for attachments
-* 🔃 Opened [#6612 feat: add attachments &amp; external crm integration for paid search &amp; seo](https://github.com/MediaJel/mediajel-gql-service/pull/6612) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-  * 3 files changed `++46 --1`
-* ⏺️ Created new branch schema/add-io-and-attachments-paidsearch-seo-update in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
-  * [#4b96087](https://github.com/MediaJel/mediajel-gql-service/commit/4b96087) feat(processor): Add fuzzy matching for Paid Search processor
-* ➡️ Pushed 2 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
-  * [#0e2098d](https://github.com/MediaJel/mediajel-gql-service/commit/0e2098d) refactor: Improve comments and query conditions
-  * [#f58c5fb](https://github.com/MediaJel/mediajel-gql-service/commit/f58c5fb) feat: Add SalesforceSyncPaidSearchProcessor class
 
 
 
