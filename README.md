@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `10576` commits and made `214` PRs.
+:people_hugging: I contributed to `53` repositories , made `10576` commits and made `215` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 20 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
+  * [#b998dac](https://github.com/MediaJel/mediajel-gql-service/commit/b998dac) Merge branch &#39;develop&#39; into feat/salesforce-paid-search-seo
+* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
+  * [#a47c20b](https://github.com/MediaJel/mediajel-gql-service/commit/a47c20b) fix: Update SalesforceSyncProcessor naming in queue file
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
   * [#9e708de](https://github.com/MediaJel/mediajel-gql-service/commit/9e708de) refactor: Update GraphQL schema by removing unnecessary non-null assertion on relations
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
   * [#1444979](https://github.com/MediaJel/mediajel-gql-service/commit/1444979) style: Update attachments field to be non-nullable
 * ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
   * [#23754e9](https://github.com/MediaJel/mediajel-gql-service/commit/23754e9) style: Remove unnecessary non-null constraint on attachments
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
-  * [#43cba9a](https://github.com/MediaJel/mediajel-gql-service/commit/43cba9a) style: Remove unnecessary exclamation marks in GraphQL schema properties
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `schema/add-io-and-attachments-paidsearch-seo-update`
-  * [#3d970d9](https://github.com/MediaJel/mediajel-gql-service/commit/3d970d9) refactor: Update relation onDelete option to CASCADE for attachments
 
 
 
