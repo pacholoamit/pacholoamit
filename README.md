@@ -30,16 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
-  * [#b1bb29d](https://github.com/MediaJel/mediajel-gql-service/commit/b1bb29d) refactor: Update variable names for readability
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
-  * [#2ff9b7c](https://github.com/MediaJel/mediajel-gql-service/commit/2ff9b7c) feat: Add PandadocAttachmentsManager class, update commands
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
-  * [#229c988](https://github.com/MediaJel/mediajel-gql-service/commit/229c988) feat: Enhance handling of paid search summaries
-* ➡️ Pushed 20 commits in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
-  * [#b998dac](https://github.com/MediaJel/mediajel-gql-service/commit/b998dac) Merge branch &#39;develop&#39; into feat/salesforce-paid-search-seo
-* ➡️ Pushed 1 commit in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service) on branch `feat/salesforce-paid-search-seo`
-  * [#a47c20b](https://github.com/MediaJel/mediajel-gql-service/commit/a47c20b) fix: Update SalesforceSyncProcessor naming in queue file
+* 💬 Commented on [#769 Research on options for interactive playground for learning integrations (Experimental)](https://github.com/MediaJel/mediajel-tracker/issues/769) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
+* #️⃣ Closed [#1561 Integrate Prisma &amp; Salesforce into Superset](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1561) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
+* #️⃣ Opened [#9977 ENHANCEMENT: User should not be able to select Cart for Publisher funnel tag](https://github.com/MediaJel/mediajel-dashboard/issues/9977) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#9953 Tag Impression on &#34;GoogleAdsManager&#34; should be green not red](https://github.com/MediaJel/mediajel-dashboard/issues/9953) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Closed [#9952 Test Tag Impressions Main table returning 0](https://github.com/MediaJel/mediajel-dashboard/issues/9952) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
 
 
 
