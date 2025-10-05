@@ -30,11 +30,16 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 💬 Commented on [#769 Research on options for interactive playground for learning integrations (Experimental)](https://github.com/MediaJel/mediajel-tracker/issues/769) from [MediaJel/mediajel-tracker](https://github.com/MediaJel/mediajel-tracker)
-* #️⃣ Closed [#1561 Integrate Prisma &amp; Salesforce into Superset](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1561) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-* #️⃣ Opened [#9977 ENHANCEMENT: User should not be able to select Cart for Publisher funnel tag](https://github.com/MediaJel/mediajel-dashboard/issues/9977) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#9953 Tag Impression on &#34;GoogleAdsManager&#34; should be green not red](https://github.com/MediaJel/mediajel-dashboard/issues/9953) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Closed [#9952 Test Tag Impressions Main table returning 0](https://github.com/MediaJel/mediajel-dashboard/issues/9952) in [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🌟 Starred [github/spec-kit](https://github.com/github/spec-kit)
+* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
+  * [#271bbc2](https://github.com/pacholoamit/bpls-system/commit/271bbc2) feat: implement convex database
+* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
+  * [#cb7e5bc](https://github.com/pacholoamit/bpls-system/commit/cb7e5bc) refactor: Update Convex schema and derive types from it
+* ➡️ Pushed 2 commits in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
+  * [#cd95e42](https://github.com/pacholoamit/bpls-system/commit/cd95e42) refactor: Remove redundant AppProvider and ThemeProvider files
+  * [#03ced8d](https://github.com/pacholoamit/bpls-system/commit/03ced8d) feat: Add ConvexClientProvider and AppProvider components
+* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
+  * [#ad905fa](https://github.com/pacholoamit/bpls-system/commit/ad905fa) feat: add migrations
 
 
 
