@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `10576` commits and made `215` PRs.
+:people_hugging: I contributed to `50` repositories , made `10576` commits and made `205` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,16 +30,15 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
+* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
+  * [#2bc2857](https://github.com/pacholoamit/bpls-system/commit/2bc2857) feat: restructure departments
+* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
+  * [#b88eb4a](https://github.com/pacholoamit/bpls-system/commit/b88eb4a) Add Sanitary Department
 * 🌟 Starred [github/spec-kit](https://github.com/github/spec-kit)
 * ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
   * [#271bbc2](https://github.com/pacholoamit/bpls-system/commit/271bbc2) feat: implement convex database
 * ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
   * [#cb7e5bc](https://github.com/pacholoamit/bpls-system/commit/cb7e5bc) refactor: Update Convex schema and derive types from it
-* ➡️ Pushed 2 commits in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
-  * [#cd95e42](https://github.com/pacholoamit/bpls-system/commit/cd95e42) refactor: Remove redundant AppProvider and ThemeProvider files
-  * [#03ced8d](https://github.com/pacholoamit/bpls-system/commit/03ced8d) feat: Add ConvexClientProvider and AppProvider components
-* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
-  * [#ad905fa](https://github.com/pacholoamit/bpls-system/commit/ad905fa) feat: add migrations
 
 
 
