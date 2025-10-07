@@ -30,15 +30,11 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
-  * [#cd3a28d](https://github.com/pacholoamit/bpls-system/commit/cd3a28d) feat: Add QR code generation for generated certificate
-* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
-  * [#8994b98](https://github.com/pacholoamit/bpls-system/commit/8994b98) Add CLearances
-* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
-  * [#2bc2857](https://github.com/pacholoamit/bpls-system/commit/2bc2857) feat: restructure departments
-* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
-  * [#b88eb4a](https://github.com/pacholoamit/bpls-system/commit/b88eb4a) Add Sanitary Department
-* 🌟 Starred [github/spec-kit](https://github.com/github/spec-kit)
+* 🔍 Reviewed [#6648 [HOTFIX] Only LIVE campaigns will be process by campaign-observer job](https://github.com/MediaJel/mediajel-gql-service/pull/6648) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
+* 💬 Commented on [#10000 Campaign Observer Job Testing](https://github.com/MediaJel/mediajel-dashboard/issues/10000) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* 🌟 Starred [vercel/ai-sdk-rag-starter](https://github.com/vercel/ai-sdk-rag-starter)
+* 💬 Commented on [#10000 Campaign Observer Job Testing](https://github.com/MediaJel/mediajel-dashboard/issues/10000) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
+* #️⃣ Opened [#1596 Create an example flow where context is being passed from the dashboard to the rest api input](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1596) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
 
 
 
