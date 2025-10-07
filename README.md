@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `10576` commits and made `205` PRs.
+:people_hugging: I contributed to `50` repositories , made `10584` commits and made `205` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -31,14 +31,14 @@
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
 * ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
+  * [#cd3a28d](https://github.com/pacholoamit/bpls-system/commit/cd3a28d) feat: Add QR code generation for generated certificate
+* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
+  * [#8994b98](https://github.com/pacholoamit/bpls-system/commit/8994b98) Add CLearances
+* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
   * [#2bc2857](https://github.com/pacholoamit/bpls-system/commit/2bc2857) feat: restructure departments
 * ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
   * [#b88eb4a](https://github.com/pacholoamit/bpls-system/commit/b88eb4a) Add Sanitary Department
 * 🌟 Starred [github/spec-kit](https://github.com/github/spec-kit)
-* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
-  * [#271bbc2](https://github.com/pacholoamit/bpls-system/commit/271bbc2) feat: implement convex database
-* ➡️ Pushed 1 commit in [pacholoamit/bpls-system](https://github.com/pacholoamit/bpls-system) on branch `staging`
-  * [#cb7e5bc](https://github.com/pacholoamit/bpls-system/commit/cb7e5bc) refactor: Update Convex schema and derive types from it
 
 
 
