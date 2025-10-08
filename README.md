@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `50` repositories , made `10584` commits and made `205` PRs.
+:people_hugging: I contributed to `50` repositories , made `10600` commits and made `205` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -30,12 +30,7 @@
 ### What I've been up to 🤔
 
 **[📰 Recent activity](https://github.com/pacholoamit)**
-* 🔍 Reviewed [#6648 [HOTFIX] Only LIVE campaigns will be process by campaign-observer job](https://github.com/MediaJel/mediajel-gql-service/pull/6648) in [MediaJel/mediajel-gql-service](https://github.com/MediaJel/mediajel-gql-service)
-* 💬 Commented on [#10000 Campaign Observer Job Testing](https://github.com/MediaJel/mediajel-dashboard/issues/10000) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* 🌟 Starred [vercel/ai-sdk-rag-starter](https://github.com/vercel/ai-sdk-rag-starter)
-* 💬 Commented on [#10000 Campaign Observer Job Testing](https://github.com/MediaJel/mediajel-dashboard/issues/10000) from [MediaJel/mediajel-dashboard](https://github.com/MediaJel/mediajel-dashboard)
-* #️⃣ Opened [#1596 Create an example flow where context is being passed from the dashboard to the rest api input](https://github.com/MediaJel/amplication-nestjs-microservices/issues/1596) in [MediaJel/amplication-nestjs-microservices](https://github.com/MediaJel/amplication-nestjs-microservices)
-
+Unexpected error
 
 
 ### Recent Articles & Youtube tutorials 📚
