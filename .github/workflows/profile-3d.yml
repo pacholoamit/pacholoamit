@@ -1,0 +1,50 @@
+name: 3D contribution graph
+
+# Renders the contribution calendar as an isometric SVG and commits it to the
+# repo, so the profile keeps rendering even if the upstream project disappears.
+# This is deliberately not a hosted image endpoint: ico.now.sh served this
+# profile's social icons until it went dark and took the LinkedIn icon with it.
+
+on:
+  schedule: [{ cron: "0 3 * * *" }] # 03:00 UTC — clear of the metrics (0/12) and snake (0/6) crons
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v5
+
+      # Pinned, not @latest: metrics' `latest` branch shipped an unguarded
+      # PushEvent crash into this profile for ten months. Bump deliberately.
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "3D graph unchanged; nothing to commit."
+            exit 0
+          fi
+          git commit -m "Update 3D contribution graph - [Skip GitHub Action]"
+          # The metrics and snake workflows also commit to main, so a
+          # concurrent bot commit can win the race. Rebase and retry.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "push rejected (attempt $attempt), rebasing onto origin/main"
+            git pull --rebase --autostash origin main || exit 1
+          done
+          echo "could not push after 3 attempts"
+          exit 1

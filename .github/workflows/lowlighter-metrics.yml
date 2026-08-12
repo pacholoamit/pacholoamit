@@ -108,6 +108,12 @@ jobs:
           plugin_posts_covers: yes
           plugin_posts_limit: 3
           plugin_posts_user: pacholoamit
+          # RSS plugin — the "Recent Articles & Youtube tutorials" heading
+          # promised YouTube and delivered none, because the posts plugin only
+          # reads dev.to. This pulls the channel feed so the heading is honest.
+          plugin_rss: yes
+          plugin_rss_source: https://www.youtube.com/feeds/videos.xml?channel_id=UCIrEp6SsrStyP5btF9ZX1Uw
+          plugin_rss_limit: 3
           # Activity plugin DISABLED — do not re-enable without an upstream fix.
           # GitHub stopped returning `commits` in PushEvent payloads (verified:
           # 0 of 209 of this account's push events carry it, and the same holds
