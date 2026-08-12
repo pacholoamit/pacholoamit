@@ -108,15 +108,15 @@ jobs:
           plugin_posts_covers: yes
           plugin_posts_limit: 3
           plugin_posts_user: pacholoamit
-          # Activity plugin
-          plugin_activity: yes
-          plugin_activity_load: 1000
-          plugin_activity_days: 300
-          plugin_activity_skipped: pacholoamit, Hashnode-Blogs, trendwager
-          # Upstream metrics crashes on PushEvents whose payload omits `commits`
-          # (activity/index.mjs:140 calls .filter on undefined), which rendered a
-          # literal "Unexpected error" into this section. Excluding `push` skips
-          # that code path. Revisit if lowlighter/metrics guards the field.
-          plugin_activity_filter: issue, pr, release, review, comment, ref/create, fork
+          # Activity plugin DISABLED — do not re-enable without an upstream fix.
+          # GitHub stopped returning `commits` in PushEvent payloads (verified:
+          # 0 of 209 of this account's push events carry it, and the same holds
+          # for unrelated accounts). metrics' activity plugin destructures it
+          # unguarded at plugins/activity/index.mjs:140, so it throws on any push
+          # event and renders a literal "Unexpected error" into the README.
+          # No config can avoid it: activity_filter is applied at line 169, i.e.
+          # AFTER the map that crashes, and days/skipped/visibility cannot
+          # exclude every push event. Replaced by the contribution graph in
+          # TEMPLATE.md. Track: lowlighter/metrics activity plugin.
 
 
