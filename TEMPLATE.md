@@ -37,9 +37,7 @@
 
 [<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40">](https://github.com/pacholoamit)
 [<img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40">](https://dev.to/pacholoamit)
-[<img src="https://skillicons.dev/icons?i=hashnode" alt="Hashnode" height="40">](https://blogs.pacholoamit.com/)
 [<img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" height="40">](https://stackoverflow.com/users/14199991/pacholoamit)
-[<img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40">](https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw)
 [<img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40">](mailto:pacholoamit.tech@gmail.com)
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40">](https://www.linkedin.com/in/pacholo-amit/)
 
@@ -67,7 +65,14 @@
 
 <div align="center">
 
-<img src="./assets/metrics-1.svg" width="390" alt="Activity, community, repositories, languages and coding habits" />
-<img src="./assets/metrics-2.svg" width="390" alt="Achievements, notable contributions, WakaTime stats and starred topics" />
+<!-- A table, not two inline images: the cards are different heights (1249
+     vs 1817), and inline images align on the text baseline, which dropped
+     the shorter card to the bottom and left a tall gap above it. -->
+<table>
+  <tr>
+    <td valign="top"><img src="./assets/metrics-1.svg" width="390" alt="Activity, community, repositories and languages" /></td>
+    <td valign="top"><img src="./assets/metrics-2.svg" width="390" alt="PageSpeed, notable contributions, WakaTime stats and starred topics" /></td>
+  </tr>
+</table>
 
 </div>

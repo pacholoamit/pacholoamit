@@ -17,21 +17,19 @@ jobs:
           output_condition: data-changed
           clean_workflows: all
           config_timezone: Asia/Manila
-          config_order: base.header, base.activity+community, base.repositories, languages, habits, followup, isocalendar, people
+          config_order: base.header, base.activity+community, base.repositories, languages, followup, isocalendar, people
           base: header, activity, community, repositories
           base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
           # Language plugin
           plugin_languages: yes
           plugin_languages_indepth: yes
-          # Habits plugin
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
-          plugin_habits_trim: yes
+          # Habits plugin DISABLED — same upstream break as the activity plugin.
+          # habits/index.mjs:50 does .flatMap(({payload}) => payload.commits)
+          # then destructures {author} from each entry. GitHub no longer returns
+          # `commits` on PushEvent, so it throws and painted "Unexpected error"
+          # into this card. No config avoids it; re-enable only if upstream
+          # guards the field.
           # IsoCalendar plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -53,7 +51,7 @@ jobs:
           config_timezone: Asia/Manila
           output_condition: data-changed
           base: ""
-          config_order: pagespeed, achievements, posts, wakatime, stackoverflow, notable, stars
+          config_order: pagespeed, posts, wakatime, stackoverflow, notable, stars
           clean_workflows: all
           # Posts plugin
           #plugin_posts: yes
@@ -69,9 +67,10 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_METRICS_TOKEN }}
           
           
-          # Achievements plugin
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          # Achievements plugin DISABLED — GitHub sunset Projects (classic), and
+          # the plugin's GraphQL query still asks for it, so the whole request
+          # fails and rendered "Unexpected error" here. The failure is at query
+          # time, so plugin_achievements_ignored/_only cannot filter around it.
           # Notable contributions plugin
           plugin_notable: yes
           plugin_notable_indepth: yes
