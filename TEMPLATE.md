@@ -50,9 +50,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pacholoamit&amp;bg_color=00000000&amp;color=8b949e&amp;line=58a6ff&amp;point=58a6ff&amp;area=true&amp;area_color=58a6ff&amp;hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pacholoamit&amp;bg_color=00000000&amp;color=57606a&amp;line=1f883d&amp;point=1a7f37&amp;area=true&amp;area_color=1f883d&amp;hide_border=true" />
-  <img alt="Pacholo's contribution activity over the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=pacholoamit&amp;bg_color=00000000&amp;color=57606a&amp;line=1f883d&amp;point=1a7f37&amp;area=true&amp;area_color=1f883d&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pacholoamit/pacholoamit/main/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pacholoamit/pacholoamit/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="Isometric 3D view of Pacholo's contribution calendar for the past year" src="https://raw.githubusercontent.com/pacholoamit/pacholoamit/main/profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
 </div>
