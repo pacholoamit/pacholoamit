@@ -19,7 +19,7 @@ jobs:
           config_timezone: Asia/Manila
           config_order: base.header, base.activity+community, base.repositories, languages, habits, followup, isocalendar, people
           base: header, activity, community, repositories
-          base_indepth: yes,
+          base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
           # Language plugin
           plugin_languages: yes
@@ -97,6 +97,7 @@ jobs:
           config_output: markdown
           template: markdown
           filename: README.md
+          output_condition: data-changed
           config_timezone: Asia/Manila
           token: ${{ secrets.GH_TOKEN }}
           base: ""
@@ -112,5 +113,10 @@ jobs:
           plugin_activity_load: 1000
           plugin_activity_days: 300
           plugin_activity_skipped: pacholoamit, Hashnode-Blogs, trendwager
+          # Upstream metrics crashes on PushEvents whose payload omits `commits`
+          # (activity/index.mjs:140 calls .filter on undefined), which rendered a
+          # literal "Unexpected error" into this section. Excluding `push` skips
+          # that code path. Revisit if lowlighter/metrics guards the field.
+          plugin_activity_filter: issue, pr, release, review, comment, ref/create, fork
 
 
