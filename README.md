@@ -14,7 +14,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `57` repositories , made `15267` commits and made `475` PRs.
+:people_hugging: I contributed to `57` repositories , made `15273` commits and made `476` PRs.
 
 <img src="/assets/code.gif" width="390" align="right" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -35,8 +35,11 @@
 
 ### What I've been up to 🤔
 
-**[📰 Recent activity](https://github.com/pacholoamit)**
-Unexpected error
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pacholoamit&amp;bg_color=00000000&amp;color=8b949e&amp;line=58a6ff&amp;point=58a6ff&amp;area=true&amp;area_color=58a6ff&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pacholoamit&amp;bg_color=00000000&amp;color=57606a&amp;line=1f883d&amp;point=1a7f37&amp;area=true&amp;area_color=1f883d&amp;hide_border=true" />
+  <img alt="Pacholo's contribution activity over the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=pacholoamit&amp;bg_color=00000000&amp;color=57606a&amp;line=1f883d&amp;point=1a7f37&amp;area=true&amp;area_color=1f883d&amp;hide_border=true" />
+</picture>
 
 
 ### Recent Articles & Youtube tutorials 📚
