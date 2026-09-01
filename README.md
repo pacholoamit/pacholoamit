@@ -22,7 +22,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `60` repositories , made `17244` commits and made `514` PRs.
+:people_hugging: I contributed to `60` repositories , made `17253` commits and made `517` PRs.
 
 <img src="./assets/code.gif" width="390" align="right" alt="Animated loop of code being written" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
@@ -111,14 +111,8 @@
 </table>
 
 
-**[🗼 Rss feed from Pacholo Amit](https://www.youtube.com/channel/UCIrEp6SsrStyP5btF9ZX1Uw)**
-* [Getting started with Typescript Generics - Code Like a Pro](https://www.youtube.com/watch?v=xGnXK8MXYxw)
-  * *Published on 2 May 2024*
-* [typescript generics  #shorts #software #nodejs #typescript #javascript  #developer  #generics](https://www.youtube.com/shorts/Rm_oEBVuRe8)
-  * *Published on 2 May 2024*
-* [Is this the end of localhost? VS Code Server Preview | Self Host VS Code Server on your home lab](https://www.youtube.com/watch?v=CpWv8ATpAfw)
-  * *Published on 6 Sept 2022*
-
+**[🗼 Rss feed from ]()**
+Unexpected error
 
 ### Stalk me here ❤️
 
