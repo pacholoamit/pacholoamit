@@ -22,7 +22,7 @@
 
 :octocat: I joined Github on `21 Aug 2020`.
 
-:people_hugging: I contributed to `53` repositories , made `25871` commits and made `1128` PRs.
+:people_hugging: I contributed to `53` repositories , made `25875` commits and made `1128` PRs.
 
 <img src="./assets/code.gif" width="390" align="right" alt="Animated loop of code being written" />
 <p>🔭 I'm currently working on <b> Distributed systems </b></p>
